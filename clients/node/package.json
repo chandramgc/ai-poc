@@ -1,0 +1,11 @@
+{
+  "name": "relationship-finder-client",
+  "version": "0.1.0",
+  "description": "Node.js client for Relationship Finder MCP",
+  "type": "module",
+  "dependencies": {
+    "undici": "^5.27.0",
+    "ws": "^8.14.2",
+    "yargs": "^17.7.2"
+  }
+}
