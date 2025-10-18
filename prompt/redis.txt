@@ -1,0 +1,191 @@
+Master Prompt — “Create Docker Compose for Redis on macOS M4 (Docker Desktop)”
+
+Create this under redis folder.
+
+Role:
+You are a DevOps engineer. Generate a production-ready Docker Compose setup to run Redis locally on macOS (Apple Silicon M4) using Docker Desktop (Compose v2). It must be multi-arch friendly and persist data between restarts.
+
+Requirements:
+	1.	Use official Redis image (multi-arch) — prefer redis:7-alpine.
+	2.	Provide:
+	•	docker-compose.yml
+	•	.env (with sane defaults and comments)
+	•	Optional redis.conf (wired into the container)
+	•	“How to run” steps (up, logs, test, stop, clean)
+	3.	Security:
+	•	Require a password via env var (REDIS_PASSWORD) using requirepass.
+	4.	Persistence:
+	•	Named volume for /data.
+	5.	Healthcheck:
+	•	Use redis-cli ping to report healthy.
+	6.	Ports:
+	•	Map 6379:6379 configurable via .env.
+	7.	Apple Silicon notes:
+	•	No Rosetta required; redis:7-alpine is multi-arch.
+	8.	Commands:
+	•	docker compose up -d
+	•	Test with redis-cli inside the container and (if installed) on host.
+	9.	Troubleshooting:
+	•	Port in use, volume reset, password issues.
+
+Deliverables (exact files):
+
+docker-compose.yml
+	•	One service redis.
+	•	Image redis:7-alpine.
+	•	Mount ./redis.conf:/usr/local/etc/redis/redis.conf:ro (if present).
+	•	Command should respect redis.conf when available; otherwise inline config that sets requirepass.
+	•	Healthcheck using redis-cli -a "$REDIS_PASSWORD" ping.
+	•	Named volume from .env var.
+
+.env
+	•	Vars: REDIS_PORT, REDIS_PASSWORD, REDIS_VOLUME, REDIS_LOGLEVEL (optional).
+	•	Sensible defaults and comments.
+
+redis.conf (optional)
+	•	Minimal sample that:
+	•	enables appendonly persistence,
+	•	sets requirepass via environment or instructs to comment it out here and rely on command args,
+	•	sets loglevel from .env (or default).
+
+README snippet (How to run)
+	•	Prereqs: Docker Desktop on macOS.
+	•	Commands:
+	•	docker compose up -d
+	•	docker compose logs -f redis
+	•	docker exec -it redis redis-cli -a "$REDIS_PASSWORD" ping
+	•	Host test (if redis-cli installed): redis-cli -a "$REDIS_PASSWORD" -p $REDIS_PORT ping
+	•	Stop/cleanup: docker compose down, docker volume ls, docker volume rm <vol>
+	•	Troubleshooting tips (port 6379 already in use, reset volume, forget password).
+
+Return the files with correct YAML, comments, and a short, clear runbook.
+
+⸻
+
+Ready-to-use example (you can use this now)
+
+.env
+
+# Port exposed on your Mac
+REDIS_PORT=6379
+
+# Change this immediately in real setups
+REDIS_PASSWORD=changeme123
+
+# Named volume for persistence
+REDIS_VOLUME=redis_data
+
+# Verbosity: debug | verbose | notice | warning
+REDIS_LOGLEVEL=notice
+
+redis.conf (optional but recommended)
+
+# Persist to disk (safer for local dev)
+appendonly yes
+appendfsync everysec
+
+# Logging
+loglevel ${REDIS_LOGLEVEL}
+
+# If you prefer to set the password here, uncomment and set it (then remove it from command):
+# requirepass changeme123
+
+# Save snapshots as well (optional)
+save 900 1
+save 300 10
+save 60 10000
+
+docker-compose.yml
+
+version: "3.9"
+
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: redis
+    ports:
+      - "${REDIS_PORT}:6379"
+    environment:
+      # Used only by our healthcheck; Redis itself gets the password via command below
+      REDIS_PASSWORD: "${REDIS_PASSWORD}"
+      REDIS_LOGLEVEL: "${REDIS_LOGLEVEL}"
+    command: >
+      sh -c '
+      if [ -f /usr/local/etc/redis/redis.conf ]; then
+        # Use redis.conf and append requirepass via command line
+        exec redis-server /usr/local/etc/redis/redis.conf --requirepass "${REDIS_PASSWORD}";
+      else
+        # No redis.conf provided; run with sensible defaults and requirepass inline
+        exec redis-server --appendonly yes --loglevel ${REDIS_LOGLEVEL} --requirepass "${REDIS_PASSWORD}";
+      fi'
+    volumes:
+      - ${REDIS_VOLUME}:/data
+      - ./redis.conf:/usr/local/etc/redis/redis.conf:ro
+    healthcheck:
+      test: ["CMD-SHELL", 'redis-cli -a "$${REDIS_PASSWORD}" ping | grep -q PONG']
+      interval: 5s
+      timeout: 3s
+      retries: 20
+      start_period: 5s
+    restart: unless-stopped
+
+volumes:
+  ${REDIS_VOLUME}:
+
+
+⸻
+
+How to run (macOS M4 + Docker Desktop)
+
+# 1) In your project folder:
+cat <<'EOF' > .env
+REDIS_PORT=6379
+REDIS_PASSWORD=changeme123
+REDIS_VOLUME=redis_data
+REDIS_LOGLEVEL=notice
+EOF
+
+cat <<'EOF' > redis.conf
+appendonly yes
+appendfsync everysec
+loglevel ${REDIS_LOGLEVEL}
+save 900 1
+save 300 10
+save 60 10000
+EOF
+
+cat <<'EOF' > docker-compose.yml
+# (paste the docker-compose.yml above here)
+EOF
+
+# 2) Start Redis
+docker compose up -d
+
+# 3) Tail logs
+docker compose logs -f redis
+
+# 4) Test from inside the container
+docker exec -it redis redis-cli -a "$REDIS_PASSWORD" ping
+# Expect: PONG
+
+# (Optional) Test from host if you have redis-cli installed
+# brew install redis
+redis-cli -a "$REDIS_PASSWORD" -p "$REDIS_PORT" ping
+
+Stop / Clean
+
+docker compose down              # stop and remove container
+docker volume ls                 # list volumes
+docker volume rm redis_data      # remove the named volume (data loss!)
+
+Troubleshooting
+	•	Port in use (6379):
+lsof -i :6379 then stop the conflicting process or change REDIS_PORT in .env.
+	•	Forgot password:
+docker compose down, docker volume rm redis_data, then docker compose up -d (resets DB).
+	•	No redis-cli on host:
+Use container: docker exec -it redis redis-cli -a "$REDIS_PASSWORD".
+
+⸻
+
+If you want, I can fold this into your Relationship Finder MCP repo’s docker-compose.yml so your FastAPI service can talk to Redis with REDIS_URL=redis://:changeme123@redis:6379/0.

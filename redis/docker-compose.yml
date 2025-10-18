@@ -1,0 +1,33 @@
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: redis
+    ports:
+      - "${REDIS_PORT:-6379}:6379"
+    environment:
+      - REDIS_PASSWORD=${REDIS_PASSWORD:-changeme123}
+      - REDIS_PORT=${REDIS_PORT:-6379}
+      - REDIS_VOLUME=${REDIS_VOLUME:-redis_data}
+      - REDIS_LOGLEVEL=${REDIS_LOGLEVEL:-notice}
+    command: >
+      sh -c '
+      if [ -f /usr/local/etc/redis/redis.conf ]; then
+        # Use redis.conf and append requirepass via command line
+        exec redis-server /usr/local/etc/redis/redis.conf --requirepass "$${REDIS_PASSWORD}";
+      else
+        # No redis.conf provided; run with sensible defaults and requirepass inline
+        exec redis-server --appendonly yes --requirepass "$${REDIS_PASSWORD}";
+      fi'
+    volumes:
+      - redis_data:/data
+      - ./redis.conf:/usr/local/etc/redis/redis.conf:ro
+    healthcheck:
+      test: ["CMD-SHELL", 'redis-cli -a "$${REDIS_PASSWORD}" ping | grep -q PONG']
+      interval: 5s
+      timeout: 3s
+      retries: 20
+      start_period: 5s
+    restart: unless-stopped
+
+volumes:
+  redis_data:
