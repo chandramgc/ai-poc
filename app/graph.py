@@ -68,7 +68,7 @@ class RelationshipGraph:
     def _get_source_info(self) -> dict:
         """Get source information from the CSV loader."""
         return {
-            "file": "data/relationships.xlsx",
+            "file": "data/relationships.csv",
             "last_loaded_at": self.excel_loader.get_last_loaded().isoformat(),
             "rows": self.excel_loader.get_row_count()
         }

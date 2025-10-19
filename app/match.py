@@ -85,33 +85,36 @@ def fuzzy_lookup(df: pd.DataFrame, normalized_name: str) -> Optional[Tuple[pd.Se
         return None
 
     # Find best match
-    match, score = process.extractOne(
+    result = process.extractOne(
         normalized_name,
         df_names,
         scorer=fuzz.ratio
     )
+    
+    if result is None:
+        logger.warning("No fuzzy match found")
+        return None, 0
+    
+    # extractOne returns (match, score, index)
+    match, score, _ = result
     logger.debug(f"Best fuzzy match: '{match}' with score {score}")
 
-    if score >= 90:
-        confidence = ConfidenceLevel.HIGH
-    elif score >= 70:
-        confidence = ConfidenceLevel.MEDIUM
-    elif score >= 50:
-        confidence = ConfidenceLevel.LOW
-    else:
+    # Check if score meets minimum threshold
+    if score < 50:
         logger.debug(f"Score {score} below threshold, no match returned")
-        return None
+        return None, 0
 
+    # Find the matching row in the DataFrame
     match_idx = df_names[df_names == match].index[0]
     result = df.iloc[match_idx]
-    logger.debug(f"Returning match {dict(result)} with {confidence.value} confidence")
-    return result, confidence
+    logger.debug(f"Returning match {dict(result)} with score {score}")
+    return result, score
 
 
 def confidence_from_score(score: float) -> ConfidenceLevel:
     """Map a matching score to a confidence level."""
     if score >= 0.9:
         return ConfidenceLevel.HIGH
-    elif score >= 0.7:
+    elif score >= 0.5:
         return ConfidenceLevel.MEDIUM
     return ConfidenceLevel.LOW

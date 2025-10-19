@@ -4,7 +4,7 @@ import uuid
 from contextlib import asynccontextmanager
 from typing import AsyncIterator
 
-from fastapi import Depends, FastAPI, HTTPException, Request, WebSocket, status
+from fastapi import Depends, FastAPI, HTTPException, Request, WebSocket, status, WebSocketDisconnect
 
 # Configure logging
 logging.basicConfig(
@@ -121,45 +121,43 @@ async def relationship_stream(websocket: WebSocket):
             await websocket.close(code=status.WS_1008_POLICY_VIOLATION)
             return
 
-        # Get request data with better error handling
-        try:
-            data = await websocket.receive_json()
-        except ValueError as json_error:
-            await websocket.send_json({
-                "event": "error",
-                "error": {
-                    "code": "INVALID_JSON",
-                    "message": f"Invalid JSON format: {str(json_error)}",
-                    "traceId": str(uuid.uuid4())
-                }
-            })
-            return
+        # Handle multiple requests in a loop
+        while True:
+            try:
+                # Get request data
+                data = await websocket.receive_json()
+                
+                try:
+                    request = WSRequest(**data)
+                except Exception as validation_error:
+                    await websocket.send_json({
+                        "event": "error",
+                        "error": {
+                            "code": "INVALID_REQUEST",
+                            "message": f"Invalid request format: {str(validation_error)}",
+                            "traceId": str(uuid.uuid4())
+                        }
+                    })
+                    continue  # Continue to next request instead of closing
 
-        try:
-            request = WSRequest(**data)
-        except Exception as validation_error:
-            await websocket.send_json({
-                "event": "error",
-                "error": {
-                    "code": "INVALID_REQUEST",
-                    "message": f"Invalid request format: {str(validation_error)}",
-                    "traceId": str(uuid.uuid4())
-                }
-            })
-            return
+                # Stream results
+                async for event in app.state.service.get_relationship_stream(request.name):
+                    await websocket.send_json(event)
 
-        # Stream results
-        async for event in app.state.service.get_relationship_stream(request.name):
-            await websocket.send_json(event)
+            except Exception as e:
+                # Check if it's a connection close
+                if isinstance(e, WebSocketDisconnect):
+                    break  # Exit the loop on connection close
+                
+                await websocket.send_json({
+                    "event": "error",
+                    "error": {
+                        "code": "INTERNAL_ERROR",
+                        "message": str(e),
+                        "traceId": str(uuid.uuid4())
+                    }
+                })
+                break  # Exit on other errors
 
-    except Exception as e:
-        await websocket.send_json({
-            "event": "error",
-            "error": {
-                "code": "INTERNAL_ERROR",
-                "message": str(e),
-                "traceId": str(uuid.uuid4())
-            }
-        })
     finally:
         await websocket.close()

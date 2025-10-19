@@ -43,30 +43,52 @@ cp .env.example .env
 
 ## Running the Service
 
+### Docker Deployment (Recommended)
+
+**Quick Start:**
+```bash
+# Using the deployment script
+./deploy.sh start
+
+# Or manually with docker-compose
+docker-compose up -d
+```
+
+**View logs:**
+```bash
+./deploy.sh logs
+# Or: docker-compose logs -f app
+```
+
+**Check status:**
+```bash
+./deploy.sh status
+```
+
+**Stop services:**
+```bash
+./deploy.sh stop
+```
+
+For detailed Docker deployment instructions, see [DOCKER.md](DOCKER.md)
+
 ### Local Development
 
 ```bash
 # Using Poetry
 poetry run uvicorn app.main:app --reload
 
-# Or
-
+# Or kill existing process and start
 lsof -ti:8000 | xargs kill -9 2>/dev/null; cd /Users/girish/MyDrive/Workspace/ai-poc && poetry run uvicorn app.main:app --reload
 
 # Or using Make
 make run
 ```
 
-### Docker
-
-```bash
-docker compose up --build
-```
-
 The service will be available at:
-- HTTP API: http://localhost:8000
-- Swagger UI: http://localhost:8000/docs
-- WebSocket endpoint: ws://localhost:8000/relationship/stream
+- HTTP API: http://localhost:1001
+- Swagger UI: http://localhost:1001/docs
+- WebSocket endpoint: ws://localhost:1001/relationship/stream
 
 ## Using the Clients
 
@@ -116,7 +138,7 @@ curl "http://localhost:8000/relationship?name=Saanvi" \
     "score": 1.0
   },
   "source": {
-    "file": "data/relationships.xlsx",
+    "file": "data/relationships.csv",
     "last_loaded_at": "2025-10-18T13:48:06.755000",
     "rows": 14
   }
@@ -141,7 +163,7 @@ curl "http://localhost:8000/relationship?name=Saani" \
     "score": 0.83
   },
   "source": {
-    "file": "data/relationships.xlsx",
+    "file": "data/relationships.csv",
     "last_loaded_at": "2025-10-18T13:48:06.755000",
     "rows": 14
   }
@@ -213,6 +235,8 @@ curl "http://localhost:8000/healthz"
 
 #### /relationship/stream - Streaming Workflow
 
+The WebSocket connection remains open after authentication, allowing multiple relationship lookup requests to be sent over the same connection.
+
 **JavaScript Example:**
 ```javascript
 const ws = new WebSocket('ws://localhost:8000/relationship/stream');
@@ -224,6 +248,14 @@ ws.onopen = () => {
     "name": "Saanvi",
     "trace": true
   }));
+  
+  // Connection stays open - you can send multiple requests
+  setTimeout(() => {
+    ws.send(JSON.stringify({
+      "name": "Girish",
+      "trace": true
+    }));
+  }, 1000);
 };
 
 ws.onmessage = (event) => {
@@ -275,7 +307,7 @@ const ws = new WebSocket('ws://localhost:8000/relationship/stream', [], {
   "confidence": "High",
   "matching": {"strategy": "exact", "score": 1.0},
   "source": {
-    "file": "data/relationships.xlsx",
+    "file": "data/relationships.csv",
     "last_loaded_at": "2025-10-18T13:48:06.755000",
     "rows": 14
   }
@@ -288,7 +320,7 @@ const ws = new WebSocket('ws://localhost:8000/relationship/stream', [], {
   "event": "error",
   "error": {
     "code": "INTERNAL_ERROR",
-    "message": "File not found: data/relationships.xlsx",
+    "message": "File not found: data/relationships.csv",
     "traceId": "550e8400-e29b-41d4-a716-446655440001"
   }
 }
@@ -304,20 +336,41 @@ async def lookup_relationship():
     uri = "ws://localhost:8000/relationship/stream"
 
     async with websockets.connect(uri, extra_headers={"X-API-Key": "dev"}) as websocket:
-        # Send request
+        # Send first request
         await websocket.send(json.dumps({
             "name": "Saanvi",
             "trace": True
         }))
 
-        # Receive events
+        # Receive events for first request
         async for message in websocket:
             data = json.loads(message)
             print(f"Event: {data['event']}")
 
             if data['event'] == 'result':
                 print(f"Result: {data['payload']}")
+                break  # Exit inner loop after result
             elif data['event'] == 'error':
+                print(f"Error: {data['error']}")
+                break
+
+        # Send second request (connection stays open)
+        await websocket.send(json.dumps({
+            "name": "Girish",
+            "trace": True
+        }))
+
+        # Receive events for second request
+        async for message in websocket:
+            data = json.loads(message)
+            print(f"Event: {data['event']}")
+
+            if data['event'] == 'result':
+                print(f"Result: {data['payload']}")
+                break
+            elif data['event'] == 'error':
+                print(f"Error: {data['error']}")
+                break
                 print(f"Error: {data['error']}")
 
 asyncio.run(lookup_relationship())
@@ -361,7 +414,7 @@ relationship-finder-mcp/
 │   ├── python/          # Python CLI client
 │   └── node/            # Node.js CLI client
 ├── data/
-│   ├── relationships.xlsx    # Sample data
+│   ├── relationships.csv    # Sample data
 │   └── sample_queries.jsonl  # Test queries
 ├── tests/               # Test suite
 ├── Dockerfile

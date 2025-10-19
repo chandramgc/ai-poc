@@ -20,7 +20,7 @@ class Settings(BaseSettings):
     ALLOW_FUZZY: bool = True
 
     # Data settings
-    EXCEL_PATH: str = "data/relationships.xlsx"
+    EXCEL_PATH: str = "data/relationships.csv"
     ALIASES_PATH: Optional[str] = None
 
     # Redis settings (optional)

@@ -1,15 +1,24 @@
-version: '3.8'
-
 services:
   app:
-    build: .
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: relationship-finder-api
     ports:
-      - "${PORT:-8000}:8000"
+      - "1001:1001"
     environment:
       - LOG_LEVEL=INFO
       - ALLOW_FUZZY=true
-      - REDIS_URL=redis://:changeme123@redis:6379/0
-      - CORS_ORIGINS=http://localhost:3000
+      - CORS_ORIGINS=http://localhost:3000,http://localhost:1001
       - API_KEY=dev
+      - EXCEL_PATH=data/relationships.csv
+      - ALIASES_PATH=data/aliases.csv
     volumes:
-      - ./data:/app/data
+      - ./data:/app/data:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:1001/healthz"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s

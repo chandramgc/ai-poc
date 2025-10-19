@@ -8,7 +8,7 @@ from app.graph import RelationshipGraph
 @pytest.fixture
 def graph():
     """Get test graph instance."""
-    loader = CsvLoader("data/relationships.xlsx")
+    loader = CsvLoader("data/relationships.csv")
     return RelationshipGraph(loader)
 
 
