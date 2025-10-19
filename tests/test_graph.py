@@ -1,14 +1,14 @@
 """Test LangGraph workflow."""
 import pytest
 
-from app.excel_loader import ExcelLoader
+from app.csv_loader import CsvLoader
 from app.graph import RelationshipGraph
 
 
 @pytest.fixture
 def graph():
     """Get test graph instance."""
-    loader = ExcelLoader("data/relationships.xlsx")
+    loader = CsvLoader("data/relationships.xlsx")
     return RelationshipGraph(loader)
 
 

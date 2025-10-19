@@ -12,7 +12,7 @@ class Settings(BaseSettings):
 
     # Server settings
     PORT: int = 8000
-    LOG_LEVEL: str = "INFO"
+    LOG_LEVEL: str = "DEBUG"
     API_KEY: str = "dev"
     CORS_ORIGINS: str = "http://localhost:3000"
 

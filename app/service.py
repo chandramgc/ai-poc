@@ -2,7 +2,7 @@
 from typing import AsyncIterator, Dict, Optional, Union
 
 from app.config import get_settings
-from app.excel_loader import ExcelLoader
+from app.csv_loader import CsvLoader
 from app.graph import RelationshipGraph
 
 
@@ -12,7 +12,7 @@ class RelationshipService:
     def __init__(self):
         """Initialize service with Excel loader and graph."""
         settings = get_settings()
-        self.excel_loader = ExcelLoader(
+        self.excel_loader = CsvLoader(
             settings.EXCEL_PATH,
             settings.ALIASES_PATH
         )
@@ -22,7 +22,15 @@ class RelationshipService:
         self, name: str, stream: bool = False
     ) -> Union[Dict[str, any], AsyncIterator[Dict[str, any]]]:
         """Look up a relationship using the graph workflow."""
-        return await self.graph.run(name, stream)
+        if stream:
+            # Return the async iterator directly
+            return self.graph.run_stream(name)
+        else:
+            return await self.graph.run(name, stream)
+
+    def get_relationship_stream(self, name: str):
+        """Get relationship lookup as a streaming async iterator."""
+        return self.graph.run_stream(name)
 
     def reload_data(self) -> None:
         """Force reload of Excel data."""

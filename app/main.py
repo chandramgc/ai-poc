@@ -1,9 +1,16 @@
 """Main FastAPI application module."""
+import logging
 import uuid
 from contextlib import asynccontextmanager
 from typing import AsyncIterator
 
 from fastapi import Depends, FastAPI, HTTPException, Request, WebSocket, status
+
+# Configure logging
+logging.basicConfig(
+    level=logging.DEBUG,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
@@ -106,25 +113,45 @@ async def reload_data():
 async def relationship_stream(websocket: WebSocket):
     """WebSocket endpoint for streaming relationship lookup steps."""
     await websocket.accept()
-    
+
     try:
         # Verify API key
         api_key = websocket.headers.get("X-API-Key")
         if not api_key or api_key != get_settings().API_KEY:
             await websocket.close(code=status.WS_1008_POLICY_VIOLATION)
             return
-            
-        # Get request data
-        data = await websocket.receive_json()
-        request = WSRequest(**data)
-        
+
+        # Get request data with better error handling
+        try:
+            data = await websocket.receive_json()
+        except ValueError as json_error:
+            await websocket.send_json({
+                "event": "error",
+                "error": {
+                    "code": "INVALID_JSON",
+                    "message": f"Invalid JSON format: {str(json_error)}",
+                    "traceId": str(uuid.uuid4())
+                }
+            })
+            return
+
+        try:
+            request = WSRequest(**data)
+        except Exception as validation_error:
+            await websocket.send_json({
+                "event": "error",
+                "error": {
+                    "code": "INVALID_REQUEST",
+                    "message": f"Invalid request format: {str(validation_error)}",
+                    "traceId": str(uuid.uuid4())
+                }
+            })
+            return
+
         # Stream results
-        async for event in app.state.service.get_relationship(
-            request.name,
-            stream=request.trace
-        ):
+        async for event in app.state.service.get_relationship_stream(request.name):
             await websocket.send_json(event)
-            
+
     except Exception as e:
         await websocket.send_json({
             "event": "error",
