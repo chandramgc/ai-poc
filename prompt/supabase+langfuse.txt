@@ -1,0 +1,218 @@
+MASTER PROMPT — Deploy Langfuse + Supabase on Docker Desktop (Compose) under supabase+langfuse folder
+
+Goal: Produce a production-quality docker-compose.yml, .env.example, and README.md to run Langfuse and a self-hosted Supabase stack locally on Docker Desktop, with only the following external port overrides:
+	•	Langfuse: 6000:3000
+	•	Supabase API Gateway (Kong): 6001:8000
+	•	Supabase Studio: 6002:3000
+All other services use official defaults.
+
+Deliverables
+	1.	docker-compose.yml (Compose spec v3.9+)
+	2.	.env.example (copy to .env for local runs; never hardcode secrets)
+	3.	README.md with quick start, URLs, and basic troubleshooting
+
+Requirements
+	•	Single user-defined network stack_net.
+	•	Persistent volume for Postgres.
+	•	Healthchecks for critical services (db, kong, studio, langfuse, plus simple checks for others if feasible).
+	•	Start order via depends_on with service_healthy where appropriate.
+	•	Keep official images and default internal ports for Supabase services except the two external mappings listed above.
+	•	Keep service names intuitive and consistent with upstream (db, kong, studio, gotrue, postgrest, realtime, storage, meta).
+	•	Keep Langfuse env minimal: LANGFUSE_PUBLIC_KEY, LANGFUSE_SECRET_KEY, LANGFUSE_HOST=http://langfuse:3000.
+
+docker-compose.yml (generate exactly this structure, filling in any needed official envs with placeholders that reference .env)
+
+version: "3.9"
+
+name: supabase-langfuse-stack
+
+services:
+  # --- PostgreSQL (Supabase DB)
+  supabase-db:
+    image: supabase/postgres:15
+    container_name: supabase-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB:-postgres}
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    volumes:
+      - supabase_db_data:/var/lib/postgresql/data
+    networks: [stack_net]
+
+  # --- Supabase API Gateway (Kong) — expose 6001 instead of 8000
+  supabase-kong:
+    image: kong:3.2
+    container_name: supabase-kong
+    restart: unless-stopped
+    depends_on:
+      supabase-db:
+        condition: service_healthy
+    environment:
+      KONG_DATABASE: "off"
+      KONG_DECLARATIVE_CONFIG: /kong.yml
+      KONG_PROXY_LISTEN: "0.0.0.0:8000"
+      KONG_ADMIN_LISTEN: "0.0.0.0:8001"
+    ports:
+      - "6001:8000"   # << override external API gateway port
+    volumes:
+      - ./compose/supabase/kong.yml:/kong.yml:ro
+    networks: [stack_net]
+    healthcheck:
+      test: ["CMD", "kong", "health"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  # --- Supabase Studio — expose 6002 instead of 3000
+  supabase-studio:
+    image: supabase/studio:latest
+    container_name: supabase-studio
+    restart: unless-stopped
+    environment:
+      STUDIO_PG_META_URL: http://supabase-meta:8080
+      SUPABASE_URL: http://supabase-kong:8000
+      SUPABASE_ANON_KEY: ${SUPABASE_ANON_KEY}
+      SUPABASE_SERVICE_KEY: ${SUPABASE_SERVICE_ROLE_KEY}
+    ports:
+      - "6002:3000"   # << override external Studio port
+    depends_on:
+      supabase-kong:
+        condition: service_started
+    networks: [stack_net]
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:3000/health || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  # --- Supabase Auth (GoTrue) — defaults
+  supabase-auth:
+    image: supabase/gotrue:latest
+    container_name: supabase-auth
+    restart: unless-stopped
+    env_file: .env
+    depends_on:
+      supabase-db:
+        condition: service_healthy
+    networks: [stack_net]
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:9999/health || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  # --- Supabase REST (PostgREST) — defaults
+  supabase-rest:
+    image: postgrest/postgrest:v12
+    container_name: supabase-rest
+    restart: unless-stopped
+    env_file: .env
+    depends_on:
+      supabase-db:
+        condition: service_healthy
+    networks: [stack_net]
+
+  # --- Supabase Realtime — defaults
+  supabase-realtime:
+    image: supabase/realtime:latest
+    container_name: supabase-realtime
+    restart: unless-stopped
+    env_file: .env
+    depends_on:
+      supabase-db:
+        condition: service_healthy
+    networks: [stack_net]
+
+  # --- Supabase Storage API — defaults
+  supabase-storage:
+    image: supabase/storage-api:latest
+    container_name: supabase-storage
+    restart: unless-stopped
+    env_file: .env
+    depends_on:
+      supabase-db:
+        condition: service_healthy
+    networks: [stack_net]
+
+  # --- Supabase Postgres Meta — defaults
+  supabase-meta:
+    image: supabase/postgres-meta:latest
+    container_name: supabase-meta
+    restart: unless-stopped
+    env_file: .env
+    depends_on:
+      supabase-db:
+        condition: service_healthy
+    networks: [stack_net]
+
+  # --- Langfuse — expose 6000 instead of 3000
+  langfuse:
+    image: langfuse/langfuse:latest
+    container_name: langfuse
+    restart: unless-stopped
+    env_file: .env
+    depends_on:
+      supabase-db:
+        condition: service_healthy
+    ports:
+      - "6000:3000"   # << override external Langfuse UI port
+    networks: [stack_net]
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:3000/ || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+networks:
+  stack_net:
+
+volumes:
+  supabase_db_data:
+
+.env.example
+
+# --- Postgres
+POSTGRES_PASSWORD=postgres
+POSTGRES_USER=postgres
+POSTGRES_DB=postgres
+
+# --- Supabase keys (set appropriately; placeholders for local)
+SUPABASE_ANON_KEY=changeit_anon
+SUPABASE_SERVICE_ROLE_KEY=changeit_service
+
+# --- Langfuse
+LANGFUSE_HOST=http://langfuse:3000
+LANGFUSE_PUBLIC_KEY=changeit
+LANGFUSE_SECRET_KEY=changeit
+
+README.md (include these points)
+	•	Quick start
+	•	cp .env.example .env
+	•	docker compose up -d --build
+	•	URLs
+	•	Langfuse: http://localhost:6000
+	•	Supabase API Gateway (Kong): http://localhost:6001
+	•	Supabase Studio: http://localhost:6002
+	•	Troubleshooting
+	•	docker compose ps
+	•	docker compose logs -f supabase-kong
+	•	docker compose logs -f supabase-studio
+	•	docker compose logs -f langfuse
+	•	Notes
+	•	Only external mappings changed: 6000 (Langfuse), 6001 (Kong), 6002 (Studio).
+	•	All other Supabase services use default ports internally and externally (as in the official stack).
+	•	Store secrets only in .env (never commit real secrets).
+
+Acceptance Criteria
+	•	docker compose up -d succeeds without errors.
+	•	Langfuse UI reachable at http://localhost:6000.
+	•	Supabase API Gateway reachable at http://localhost:6001.
+	•	Supabase Studio reachable at http://localhost:6002.
+	•	Other Supabase services run with default ports; healthchecks pass.
+
