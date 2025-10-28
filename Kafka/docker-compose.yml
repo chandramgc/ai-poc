@@ -1,0 +1,87 @@
+name: kafka-stack
+
+networks:
+  kafka_net:
+    driver: bridge
+
+volumes:
+  zk_data:
+  zk_logs:
+  kafka_data:
+  kafka_logs:
+
+services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.6.0
+    platform: linux/arm64/v8
+    container_name: zookeeper
+    restart: unless-stopped
+    networks: [kafka_net]
+    ports:
+      - "${ZK_HOST_PORT}:2181"
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+      ZOOKEEPER_INIT_LIMIT: 5
+      ZOOKEEPER_SYNC_LIMIT: 2
+      ZOOKEEPER_4LW_COMMANDS_WHITELIST: "*"
+    healthcheck:
+      test: ["CMD-SHELL", "echo srvr | nc localhost 2181 || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    volumes:
+      - zk_data:/var/lib/zookeeper/data
+      - zk_logs:/var/lib/zookeeper/log
+
+  kafka:
+    image: confluentinc/cp-kafka:7.6.0
+    platform: linux/arm64/v8
+    container_name: kafka
+    restart: unless-stopped
+    depends_on:
+      zookeeper:
+        condition: service_healthy
+    networks: [kafka_net]
+    ports:
+      - "${KAFKA_EXTERNAL_PORT}:9092"
+      - "${KAFKA_INTERNAL_PORT}:29092"
+    environment:
+      KAFKA_BROKER_ID: ${KAFKA_BROKER_ID}
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_LISTENERS: INTERNAL://:29092,EXTERNAL://:9092
+      KAFKA_ADVERTISED_LISTENERS: INTERNAL://kafka:29092,EXTERNAL://localhost:${KAFKA_EXTERNAL_PORT}
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: INTERNAL:PLAINTEXT,EXTERNAL:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: INTERNAL
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "false"
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_LOG_RETENTION_HOURS: ${KAFKA_LOG_RETENTION_HOURS}
+      KAFKA_HEAP_OPTS: ${KAFKA_HEAP_OPTS}
+    healthcheck:
+      test: ["CMD-SHELL", "kafka-topics --bootstrap-server localhost:29092 --list >/dev/null 2>&1"]
+      interval: 15s
+      timeout: 10s
+      retries: 12
+    volumes:
+      - kafka_data:/var/lib/kafka/data
+      - kafka_logs:/var/log/kafka
+
+  kafka-ui:
+    image: provectuslabs/kafka-ui:latest
+    platform: linux/arm64/v8
+    container_name: kafka-ui
+    restart: unless-stopped
+    depends_on:
+      kafka:
+        condition: service_healthy
+    networks: [kafka_net]
+    ports:
+      - "${KAFKA_UI_PORT}:8080"
+    environment:
+      - KAFKA_CLUSTERS_0_NAME=local
+      - KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS=kafka:29092
+      - KAFKA_CLUSTERS_0_ZOOKEEPER=zookeeper:2181
+    volumes:
+      - ./kafka-ui/kafka-ui.yaml:/etc/kafkaui/dynamic_config.yaml:ro

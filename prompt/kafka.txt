@@ -1,0 +1,286 @@
+🧠 Master Prompt — Create Docker Compose for Kafka (with ZooKeeper) on macOS M4 (Docker Desktop) under Kafka folder
+
+You are an expert DevOps engineer. Generate a production-quality, ARM64-compatible Docker setup for Apache Kafka + ZooKeeper optimized for macOS M4 (Apple Silicon) using Docker Desktop.
+Output a complete project inside a top-level folder named Kafka/.
+
+⸻
+
+🎯 Deliverables
+
+Create the following files with complete, working content:
+	•	Kafka/docker-compose.yml
+	•	Kafka/.env
+	•	Kafka/README.md
+	•	Kafka/scripts/
+	•	wait-for-zk.sh
+	•	wait-for-kafka.sh
+	•	create-topics.sh
+	•	list-topics.sh
+	•	sample-producer.sh
+	•	sample-consumer.sh
+	•	Kafka/kafka-ui/kafka-ui.yaml
+
+⸻
+
+⚙️ Key Requirements
+
+1. Architecture & Images
+	•	Must run on Apple Silicon (arm64/v8).
+	•	Use Bitnami images:
+	•	bitnami/zookeeper:3.9
+	•	bitnami/kafka:3.7
+	•	Use Provectus Kafka UI: provectuslabs/kafka-ui:latest
+	•	All services include platform: linux/arm64/v8.
+
+2. Services
+
+Service	Description	Host Port	Container Port
+ZooKeeper	Coordination node	6006	2181
+Kafka	Broker	6007 (external) / 6008 (internal)	9092 / 29092
+Kafka UI	Web dashboard	6009	8080
+
+All ports start at 6006 to avoid conflicts.
+
+⸻
+
+🧩 docker-compose.yml (Key Rules)
+	•	Kafka depends on ZooKeeper and waits until it’s healthy.
+	•	Advertised listeners:
+	•	INTERNAL → kafka:6008
+	•	EXTERNAL → localhost:6007
+	•	Bridge network kafka_net.
+	•	Named volumes: zk_data, zk_logs, kafka_data, kafka_logs.
+	•	Health checks for both Kafka and ZooKeeper.
+	•	Kafka UI connects to kafka:6008.
+
+⸻
+
+🧾 Environment Variables (.env)
+
+# ---------- ZooKeeper ----------
+ZK_ALLOW_ANONYMOUS=yes
+
+# ---------- Kafka ----------
+KAFKA_BROKER_ID=1
+KAFKA_HEAP_OPTS=-Xms512m -Xmx512m
+KAFKA_LOG_RETENTION_HOURS=168
+
+# ---------- Ports ----------
+ZK_HOST_PORT=6006
+KAFKA_EXTERNAL_PORT=6007
+KAFKA_INTERNAL_PORT=6008
+KAFKA_UI_PORT=6009
+
+# ---------- Topic Defaults ----------
+DEFAULT_TOPIC=test-topic
+TOPIC_PARTITIONS=1
+TOPIC_REPLICATION=1
+
+
+⸻
+
+🧱 docker-compose.yml
+
+version: "3.9"
+
+name: kafka-stack
+
+networks:
+  kafka_net:
+    driver: bridge
+
+volumes:
+  zk_data:
+  zk_logs:
+  kafka_data:
+  kafka_logs:
+
+services:
+  zookeeper:
+    image: bitnami/zookeeper:3.9
+    platform: linux/arm64/v8
+    container_name: zookeeper
+    restart: unless-stopped
+    networks: [kafka_net]
+    ports:
+      - "${ZK_HOST_PORT}:2181"
+    environment:
+      - ALLOW_ANONYMOUS_LOGIN=${ZK_ALLOW_ANONYMOUS:-yes}
+    healthcheck:
+      test: ["CMD-SHELL", "echo ruok | nc -w 2 127.0.0.1 2181 | grep imok"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    volumes:
+      - zk_data:/bitnami/zookeeper
+      - zk_logs:/opt/bitnami/zookeeper/logs
+
+  kafka:
+    image: bitnami/kafka:3.7
+    platform: linux/arm64/v8
+    container_name: kafka
+    restart: unless-stopped
+    depends_on:
+      zookeeper:
+        condition: service_healthy
+    networks: [kafka_net]
+    ports:
+      - "${KAFKA_EXTERNAL_PORT}:9092"
+      - "${KAFKA_INTERNAL_PORT}:29092"
+    environment:
+      - KAFKA_BROKER_ID=${KAFKA_BROKER_ID}
+      - KAFKA_HEAP_OPTS=${KAFKA_HEAP_OPTS}
+      - KAFKA_CFG_ZOOKEEPER_CONNECT=zookeeper:2181
+      - KAFKA_CFG_LISTENERS=INTERNAL://:29092,EXTERNAL://:9092
+      - KAFKA_CFG_ADVERTISED_LISTENERS=INTERNAL://kafka:29092,EXTERNAL://localhost:${KAFKA_EXTERNAL_PORT}
+      - KAFKA_CFG_LISTENER_SECURITY_PROTOCOL_MAP=INTERNAL:PLAINTEXT,EXTERNAL:PLAINTEXT
+      - KAFKA_CFG_INTER_BROKER_LISTENER_NAME=INTERNAL
+      - KAFKA_CFG_AUTO_CREATE_TOPICS_ENABLE=false
+      - KAFKA_CFG_OFFSETS_TOPIC_REPLICATION_FACTOR=1
+      - KAFKA_CFG_TRANSACTION_STATE_LOG_REPLICATION_FACTOR=1
+      - KAFKA_CFG_TRANSACTION_STATE_LOG_MIN_ISR=1
+      - KAFKA_CFG_LOG_RETENTION_HOURS=${KAFKA_LOG_RETENTION_HOURS}
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/bitnami/kafka/bin/kafka-topics.sh --bootstrap-server localhost:9092 --list >/dev/null 2>&1"]
+      interval: 15s
+      timeout: 10s
+      retries: 12
+    volumes:
+      - kafka_data:/bitnami/kafka
+      - kafka_logs:/opt/bitnami/kafka/logs
+
+  kafka-ui:
+    image: provectuslabs/kafka-ui:latest
+    platform: linux/arm64/v8
+    container_name: kafka-ui
+    restart: unless-stopped
+    depends_on:
+      kafka:
+        condition: service_healthy
+    networks: [kafka_net]
+    ports:
+      - "${KAFKA_UI_PORT}:8080"
+    environment:
+      - KAFKA_CLUSTERS_0_NAME=local
+      - KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS=kafka:29092
+      - KAFKA_CLUSTERS_0_ZOOKEEPER=zookeeper:2181
+    volumes:
+      - ./kafka-ui/kafka-ui.yaml:/etc/kafkaui/dynamic_config.yaml:ro
+
+
+⸻
+
+🧠 README.md (detailed connection guide)
+
+# Kafka + ZooKeeper (ARM64) — macOS M4 Docker Desktop
+
+Single-node **Kafka 3.7 + ZooKeeper 3.9** stack for local development, optimized for Apple Silicon (M1/M2/M4).  
+Includes Kafka UI for topic and consumer inspection.
+
+---
+
+## 🧰 Prerequisites
+- Docker Desktop for Mac (Apple Silicon)
+- Minimum **4 CPU / 4 GB RAM** allocated to Docker
+
+---
+
+## 🚀 Start
+```bash
+cd Kafka
+chmod +x scripts/*.sh
+docker compose up -d
+
+Services & Ports
+
+Service	Host Port	Internal Port	Description
+ZooKeeper	6006	2181	Coordination service
+Kafka Broker	6007 (EXTERNAL) / 6008 (INTERNAL)	9092 / 29092	Message broker
+Kafka UI	6009	8080	Web dashboard
+
+Access URLs
+	•	Kafka UI: http://localhost:6009
+	•	Kafka Bootstrap Server (for host apps): localhost:6007
+	•	Internal container bootstrap: kafka:6008
+
+⸻
+
+🧩 Verify Setup
+
+docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Ports}}"
+./scripts/wait-for-zk.sh
+./scripts/wait-for-kafka.sh
+
+
+⸻
+
+🪄 Create & List Topics
+
+./scripts/create-topics.sh                 # uses DEFAULT_TOPIC from .env
+./scripts/create-topics.sh mytopic 3 1     # custom topic
+./scripts/list-topics.sh
+
+
+⸻
+
+💬 Produce / Consume Messages
+
+./scripts/sample-producer.sh mytopic       # type messages, Ctrl+D to end
+./scripts/sample-consumer.sh mytopic       # reads from beginning
+
+
+⸻
+
+🧑‍💻 Connecting from External Clients
+
+Use the following connection strings in your client apps:
+
+Client Type	Property	Value
+Kafka CLI / Java / Python	bootstrap.servers	localhost:6007
+Kafka UI (internal)	bootstrap.servers	kafka:6008
+Zookeeper clients	zookeeper.connect	localhost:6006
+
+Example Python (Kafka-Python):
+
+from kafka import KafkaProducer
+p = KafkaProducer(bootstrap_servers="localhost:6007")
+p.send("test-topic", b"Hello Kafka!")
+
+
+⸻
+
+🧹 Stop & Clean
+
+docker compose down           # stop containers
+docker compose down -v        # stop & remove data volumes (reset)
+
+
+⸻
+
+⚠️ Troubleshooting
+	•	Architecture mismatch?
+→ Ensure platform: linux/arm64/v8 is present.
+	•	Port in use?
+→ Change ZK_HOST_PORT, KAFKA_EXTERNAL_PORT, etc., in .env.
+	•	UI not connecting?
+→ Confirm Kafka UI’s bootstrap server is kafka:29092.
+
+⸻
+
+📦 Data Persistence
+
+Kafka and ZooKeeper data is stored in named Docker volumes:
+	•	zk_data, zk_logs
+	•	kafka_data, kafka_logs
+
+Delete volumes for a clean slate:
+
+docker volume rm kafka_zk_data kafka_zk_logs kafka_kafka_data kafka_kafka_logs
+
+---
+
+✅ **Summary of exposed ports:**
+- ZooKeeper → **6006**
+- Kafka (External) → **6007**
+- Kafka (Internal) → **6008**
+- Kafka UI → **6009**

@@ -1,0 +1,17 @@
+kafka:
+  clusters:
+    - name: local
+      bootstrapServers: kafka:29092
+      zookeeper: zookeeper:2181
+      properties: {}
+      metrics:
+        port: 9997
+        type: JMX
+
+auth:
+  type: DISABLED
+
+management:
+  health:
+    ldap:
+      enabled: false
