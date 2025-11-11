@@ -1,0 +1,482 @@
+Awesome—here’s the extended Master Prompt adding Alertmanager (external port starting at 6014) with alert rules wired up so you can test end-to-end in minutes.
+
+⸻
+
+Master Prompt — Create Docker Compose for Prometheus, Grafana & Alertmanager (macOS M4, Docker Desktop) under Prometheus-Grafana folder
+
+You are an expert DevOps engineer. Generate an ARM64-compatible observability stack for Prometheus + Pushgateway + Node Exporter + Grafana + Alertmanager on macOS M4 (Docker Desktop). All external ports must start from 6010 and remain consecutive:
+	•	Prometheus 6010, Grafana 6011, Pushgateway 6012, Node Exporter 6013, Alertmanager 6014.
+
+Output a complete project in a top-level folder Prometheus-Grafana/ with the files below.
+
+⸻
+
+Deliverables (create all files)
+	•	Prometheus-Grafana/docker-compose.yml
+	•	Prometheus-Grafana/.env
+	•	Prometheus-Grafana/README.md
+	•	Prometheus-Grafana/prometheus/prometheus.yml
+	•	Prometheus-Grafana/prometheus/rules/alerts.yml
+	•	Prometheus-Grafana/alertmanager/config.yml
+	•	Prometheus-Grafana/grafana/provisioning/datasources/datasource.yml
+	•	Prometheus-Grafana/grafana/provisioning/dashboards/dashboards.yml
+	•	Prometheus-Grafana/grafana/provisioning/dashboards/sample-dashboard.json
+	•	Prometheus-Grafana/scripts/wait-for-prometheus.sh
+	•	Prometheus-Grafana/scripts/wait-for-grafana.sh
+	•	Prometheus-Grafana/scripts/push-sample-metrics.sh
+	•	Prometheus-Grafana/scripts/push-alert-metric.sh (pushes a value that triggers a demo alert)
+
+⸻
+
+Hard requirements
+	•	All services set platform: linux/arm64/v8.
+	•	Named volumes: prometheus_data, grafana_data.
+	•	Single bridge network: obsv_net.
+	•	Prometheus:
+	•	Scrapes pushgateway:9091 and node-exporter:9100.
+	•	Loads rules from /etc/prometheus/rules/*.yml.
+	•	Alerting target: alertmanager:9093.
+	•	scrape_interval and evaluation_interval from .env.
+	•	Alertmanager:
+	•	UI exposed on 6014.
+	•	Minimal route + single receiver (no external notifications by default).
+	•	Grafana:
+	•	Pre-provision Prometheus datasource (http://prometheus:9090) as default.
+	•	Also provision Alertmanager datasource (http://alertmanager:9093) so alerts are visible in Grafana.
+	•	Include a sample dashboard showing pushed metrics.
+	•	Healthchecks:
+	•	Prometheus /-/ready, Alertmanager /-/ready, Pushgateway /-/ready, Node Exporter /metrics, Grafana /api/health.
+	•	Scripts:
+	•	push-sample-metrics.sh (demo data).
+	•	push-alert-metric.sh (sets a metric to cross alert threshold).
+	•	Wait scripts poll readiness endpoints.
+	•	README:
+	•	Clear connection details and “send data → see in Grafana”.
+	•	How to trigger and view a firing alert in Alertmanager and Grafana.
+
+⸻
+
+Files to generate
+
+Prometheus-Grafana/.env
+
+# -------- Ports (external) --------
+PROMETHEUS_PORT=6010
+GRAFANA_PORT=6011
+PUSHGATEWAY_PORT=6012
+NODE_EXPORTER_PORT=6013
+ALERTMANAGER_PORT=6014
+
+# -------- Grafana Credentials --------
+GF_SECURITY_ADMIN_USER=admin
+GF_SECURITY_ADMIN_PASSWORD=admin
+
+# -------- Prometheus Timings --------
+PROMETHEUS_SCRAPE_INTERVAL=5s
+PROMETHEUS_EVALUATION_INTERVAL=5s
+
+Prometheus-Grafana/docker-compose.yml
+
+version: "3.9"
+
+name: prometheus-grafana-stack
+
+networks:
+  obsv_net:
+    driver: bridge
+
+volumes:
+  prometheus_data:
+  grafana_data:
+
+services:
+  prometheus:
+    image: prom/prometheus:latest
+    platform: linux/arm64/v8
+    container_name: prometheus
+    restart: unless-stopped
+    networks: [obsv_net]
+    ports:
+      - "${PROMETHEUS_PORT}:9090"
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+      - "--storage.tsdb.path=/prometheus"
+      - "--web.enable-lifecycle"
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ./prometheus/rules:/etc/prometheus/rules:ro
+      - prometheus_data:/prometheus
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:9090/-/ready"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+
+  alertmanager:
+    image: prom/alertmanager:latest
+    platform: linux/arm64/v8
+    container_name: alertmanager
+    restart: unless-stopped
+    networks: [obsv_net]
+    ports:
+      - "${ALERTMANAGER_PORT}:9093"
+    command:
+      - "--config.file=/etc/alertmanager/config.yml"
+      - "--storage.path=/alertmanager"
+    volumes:
+      - ./alertmanager/config.yml:/etc/alertmanager/config.yml:ro
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:9093/-/ready"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+
+  pushgateway:
+    image: prom/pushgateway:latest
+    platform: linux/arm64/v8
+    container_name: pushgateway
+    restart: unless-stopped
+    networks: [obsv_net]
+    ports:
+      - "${PUSHGATEWAY_PORT}:9091"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:9091/-/ready"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+
+  node-exporter:
+    image: prom/node-exporter:latest
+    platform: linux/arm64/v8
+    container_name: node-exporter
+    restart: unless-stopped
+    networks: [obsv_net]
+    ports:
+      - "${NODE_EXPORTER_PORT}:9100"
+    command:
+      - "--path.rootfs=/host"
+    pid: "host"
+    volumes:
+      - "/:/host:ro,rslave"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:9100/metrics"]
+      interval: 15s
+      timeout: 5s
+      retries: 10
+
+  grafana:
+    image: grafana/grafana:latest
+    platform: linux/arm64/v8
+    container_name: grafana
+    restart: unless-stopped
+    depends_on:
+      prometheus:
+        condition: service_healthy
+      alertmanager:
+        condition: service_healthy
+    networks: [obsv_net]
+    ports:
+      - "${GRAFANA_PORT}:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=${GF_SECURITY_ADMIN_USER}
+      - GF_SECURITY_ADMIN_PASSWORD=${GF_SECURITY_ADMIN_PASSWORD}
+      - GF_USERS_ALLOW_SIGN_UP=false
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./grafana/provisioning/datasources:/etc/grafana/provisioning/datasources:ro
+      - ./grafana/provisioning/dashboards:/etc/grafana/provisioning/dashboards:ro
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3000/api/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+
+Prometheus-Grafana/prometheus/prometheus.yml
+
+global:
+  scrape_interval: ${PROMETHEUS_SCRAPE_INTERVAL}
+  evaluation_interval: ${PROMETHEUS_EVALUATION_INTERVAL}
+
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets: ["alertmanager:9093"]
+
+rule_files:
+  - /etc/prometheus/rules/*.yml
+
+scrape_configs:
+  - job_name: "pushgateway"
+    static_configs:
+      - targets: ["pushgateway:9091"]
+
+  - job_name: "node-exporter"
+    static_configs:
+      - targets: ["node-exporter:9100"]
+
+Prometheus-Grafana/prometheus/rules/alerts.yml
+
+groups:
+  - name: demo-alerts
+    rules:
+      # Fires if Node Exporter is down for > 30s
+      - alert: NodeExporterDown
+        expr: up{job="node-exporter"} == 0
+        for: 30s
+        labels:
+          severity: warning
+        annotations:
+          summary: "Node Exporter down"
+          description: "node-exporter target is not responding for 30s."
+
+      # Fires when the demo counter is pushed above 5
+      - alert: DemoRequestsHigh
+        expr: demo_app_requests_total > 5
+        for: 0m
+        labels:
+          severity: info
+        annotations:
+          summary: "Demo requests high"
+          description: "demo_app_requests_total is {{ $value }} (> 5)."
+
+Prometheus-Grafana/alertmanager/config.yml
+
+route:
+  receiver: "default"
+  group_by: ["alertname"]
+  group_wait: 10s
+  group_interval: 1m
+  repeat_interval: 1h
+
+receivers:
+  - name: "default"
+    # No external notifications by default.
+    # To enable Slack/email/webhooks, add a config here.
+    # Example webhook:
+    # webhook_configs:
+    #   - url: "http://host.docker.internal:9000/alerts"
+
+Prometheus-Grafana/grafana/provisioning/datasources/datasource.yml
+
+apiVersion: 1
+datasources:
+  - name: Prometheus
+    type: prometheus
+    access: proxy
+    url: http://prometheus:9090
+    isDefault: true
+    editable: false
+
+  - name: Alertmanager
+    type: alertmanager
+    access: proxy
+    url: http://alertmanager:9093
+    editable: false
+
+Prometheus-Grafana/grafana/provisioning/dashboards/dashboards.yml
+
+apiVersion: 1
+providers:
+  - name: "Default"
+    orgId: 1
+    folder: ""
+    type: file
+    disableDeletion: false
+    updateIntervalSeconds: 10
+    options:
+      path: /etc/grafana/provisioning/dashboards
+    allowUiUpdates: true
+
+Prometheus-Grafana/grafana/provisioning/dashboards/sample-dashboard.json
+
+{
+  "id": null,
+  "uid": "sample-demo",
+  "title": "Sample — Prometheus Pushgateway Demo",
+  "timezone": "browser",
+  "schemaVersion": 38,
+  "version": 2,
+  "refresh": "5s",
+  "panels": [
+    {
+      "type": "timeseries",
+      "title": "Push Time (seconds)",
+      "targets": [{ "expr": "push_time_seconds", "legendFormat": "{{job}} {{instance}}", "refId": "A" }],
+      "gridPos": { "h": 8, "w": 24, "x": 0, "y": 0 }
+    },
+    {
+      "type": "timeseries",
+      "title": "Demo Counter",
+      "targets": [{ "expr": "demo_app_requests_total", "legendFormat": "requests_total", "refId": "B" }],
+      "gridPos": { "h": 8, "w": 24, "x": 0, "y": 8 }
+    },
+    {
+      "type": "timeseries",
+      "title": "Node Exporter — CPU Seconds Total (rate)",
+      "targets": [{ "expr": "rate(node_cpu_seconds_total[1m])", "legendFormat": "{{mode}}", "refId": "C" }],
+      "gridPos": { "h": 8, "w": 24, "x": 0, "y": 16 }
+    }
+  ]
+}
+
+Prometheus-Grafana/scripts/wait-for-prometheus.sh
+
+#!/usr/bin/env bash
+set -euo pipefail
+echo "[wait-for-prometheus] Waiting for Prometheus ..."
+until docker compose exec -T prometheus wget -qO- http://localhost:9090/-/ready >/dev/null 2>&1; do
+  sleep 2
+  echo -n "."
+done
+echo
+echo "[wait-for-prometheus] Prometheus is ready."
+
+Prometheus-Grafana/scripts/wait-for-grafana.sh
+
+#!/usr/bin/env bash
+set -euo pipefail
+echo "[wait-for-grafana] Waiting for Grafana ..."
+until docker compose exec -T grafana wget -qO- http://localhost:3000/api/health >/dev/null 2>&1; do
+  sleep 2
+  echo -n "."
+done
+echo
+echo "[wait-for-grafana] Grafana is ready."
+
+Prometheus-Grafana/scripts/push-sample-metrics.sh
+
+#!/usr/bin/env bash
+set -euo pipefail
+
+PG_PORT="${PUSHGATEWAY_PORT:-6012}"
+JOB="${1:-demo-job}"
+INSTANCE="${2:-local}"
+
+echo "[push-sample] Pushing demo metrics to Pushgateway on port ${PG_PORT} ..."
+cat <<EOF | curl -s --data-binary @- "http://localhost:${PG_PORT}/metrics/job/${JOB}/instance/${INSTANCE}"
+# TYPE demo_app_requests_total counter
+demo_app_requests_total 1
+# TYPE demo_app_latency_seconds gauge
+demo_app_latency_seconds 0.123
+EOF
+
+echo "[push-sample] Done. Check Grafana (http://localhost:${GRAFANA_PORT:-6011}) dashboard 'Sample — Prometheus Pushgateway Demo'."
+
+Prometheus-Grafana/scripts/push-alert-metric.sh
+
+#!/usr/bin/env bash
+set -euo pipefail
+
+PG_PORT="${PUSHGATEWAY_PORT:-6012}"
+JOB="${1:-demo-job}"
+INSTANCE="${2:-local}"
+
+# This sets the counter above the alert threshold (>5) to trigger DemoRequestsHigh
+VALUE="${3:-6}"
+
+echo "[push-alert] Setting demo_app_requests_total=${VALUE} to trigger alert ..."
+cat <<EOF | curl -s --data-binary @- "http://localhost:${PG_PORT}/metrics/job/${JOB}/instance/${INSTANCE}"
+# TYPE demo_app_requests_total counter
+demo_app_requests_total ${VALUE}
+EOF
+echo "[push-alert] Metric pushed. Alert should fire shortly (evaluation every ${PROMETHEUS_EVALUATION_INTERVAL:-5s})."
+
+
+⸻
+
+Prometheus-Grafana/README.md
+
+# Prometheus + Grafana + Alertmanager (ARM64) — macOS M4 Docker Desktop
+
+A ready-to-run **observability stack** for Apple Silicon:
+- **Prometheus** (6010) — metrics DB & UI
+- **Pushgateway** (6012) — push custom metrics
+- **Node Exporter** (6013) — host metrics (demo)
+- **Grafana** (6011) — dashboards (pre-provisioned Prometheus + Alertmanager datasources)
+- **Alertmanager** (6014) — view + group alerts
+
+## Ports & URLs
+- Prometheus → http://localhost:6010
+- Grafana → http://localhost:6011  (user: `${GF_SECURITY_ADMIN_USER}`, pass: `${GF_SECURITY_ADMIN_PASSWORD}`)
+- Pushgateway → http://localhost:6012
+- Node Exporter → http://localhost:6013/metrics
+- Alertmanager → http://localhost:6014
+
+## Start
+```bash
+cd Prometheus-Grafana
+chmod +x scripts/*.sh
+docker compose up -d
+./scripts/wait-for-prometheus.sh
+./scripts/wait-for-grafana.sh
+
+Send Data → See in Grafana
+
+Push demo metrics:
+
+./scripts/push-sample-metrics.sh
+
+Open Grafana dashboard “Sample — Prometheus Pushgateway Demo” and watch:
+	•	demo_app_requests_total
+	•	demo_app_latency_seconds
+	•	push_time_seconds
+
+Trigger a Demo Alert
+
+We ship an alert rule that fires when demo_app_requests_total > 5.
+
+./scripts/push-alert-metric.sh           # pushes value 6 by default
+
+Then check:
+	•	Alertmanager UI: http://localhost:6014  (alert DemoRequestsHigh should be firing)
+	•	Grafana → Alerting → Alert rules/Alertmanager (Alertmanager datasource is pre-provisioned)
+
+Another rule (NodeExporterDown) fires if node-exporter is unreachable for 30s. To test, temporarily stop it:
+
+docker compose stop node-exporter
+
+
+
+Query Examples
+	•	demo_app_requests_total
+	•	rate(node_cpu_seconds_total[1m])
+	•	up{job="pushgateway"}
+	•	ALERTS{alertname="DemoRequestsHigh"}
+
+Data Persistence
+	•	Prometheus data: Docker volume prometheus_data
+	•	Grafana data: Docker volume grafana_data
+
+Reset (data loss):
+
+docker compose down -v
+
+Troubleshooting
+	•	Ports busy: Change values in .env (6010–6014).
+	•	No metrics yet: Wait a few seconds (scrape/evaluation: ${PROMETHEUS_SCRAPE_INTERVAL} / ${PROMETHEUS_EVALUATION_INTERVAL}) or refresh.
+	•	Grafana login fails: Ensure creds match .env.
+	•	Want notifications (Slack/Email/Webhook): edit alertmanager/config.yml receiver default.
+
+Extending
+	•	Add more jobs in prometheus/prometheus.yml.
+	•	Add more alerts in prometheus/rules/alerts.yml.
+	•	Configure Alertmanager receivers (Slack/email/webhook) in alertmanager/config.yml.
+
+---
+
+## Quickstart (copy/paste)
+```bash
+cd Prometheus-Grafana
+chmod +x scripts/*.sh
+docker compose up -d
+./scripts/wait-for-prometheus.sh
+./scripts/wait-for-grafana.sh
+./scripts/push-sample-metrics.sh
+./scripts/push-alert-metric.sh
+open http://localhost:6011
+open http://localhost:6014
+
+Acceptance checks
+	•	5 containers come up healthy: prometheus, alertmanager, pushgateway, node-exporter, grafana.
+	•	Pushing metrics makes them visible in Prometheus and Grafana.
+	•	Running ./scripts/push-alert-metric.sh causes DemoRequestsHigh to appear in Alertmanager and in Grafana’s Alertmanager view.

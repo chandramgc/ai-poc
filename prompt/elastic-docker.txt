@@ -1,0 +1,38 @@
+You are an expert DevOps + Docker engineer.
+
+🎯 Goal:
+Create a complete Elasticsearch + Kibana deployment on Docker Desktop using Docker Compose.
+
+📌 Requirements:
+1. Use latest stable Elasticsearch (single-node) and Kibana images from Elastic registry:
+   - docker.elastic.co/elasticsearch/elasticsearch:<latest>
+   - docker.elastic.co/kibana/kibana:<latest>
+
+2. Configuration:
+   - Run Elasticsearch in single-node mode
+   - Disable xpack authentication & SSL for local development
+     discovery.type=single-node
+     xpack.security.enabled=false
+     xpack.security.transport.ssl.enabled=false
+
+3. Ports:
+   - Map Elasticsearch port to **6015**
+   - Map Kibana port to **6016**
+   - No other ports exposed externally
+
+4. Persistent storage:
+   - Named volume `esdata` for Elasticsearch data
+
+5. Output:
+   ✅ docker-compose.yml (in a code block)
+   ✅ README.md with clear step-by-step run instructions
+   ✅ Include test commands using curl to verify Elasticsearch
+
+📂 Folder structure:
+elastic-docker/
+ ├── docker-compose.yml
+ └── README.md
+
+🧠 Output format:
+First → docker-compose.yml  
+Second → README.md

@@ -1,0 +1,108 @@
+name: prometheus-grafana-stack
+
+networks:
+  obsv_net:
+    driver: bridge
+
+volumes:
+  prometheus_data:
+  grafana_data:
+
+services:
+  prometheus:
+    image: prom/prometheus:latest
+    platform: linux/arm64/v8
+    container_name: prometheus
+    restart: unless-stopped
+    networks: [obsv_net]
+    ports:
+      - "${PROMETHEUS_PORT}:9090"
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+      - "--storage.tsdb.path=/prometheus"
+      - "--web.enable-lifecycle"
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ./prometheus/rules:/etc/prometheus/rules:ro
+      - prometheus_data:/prometheus
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:9090/-/ready"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+
+  alertmanager:
+    image: prom/alertmanager:latest
+    platform: linux/arm64/v8
+    container_name: alertmanager
+    restart: unless-stopped
+    networks: [obsv_net]
+    ports:
+      - "${ALERTMANAGER_PORT}:9093"
+    command:
+      - "--config.file=/etc/alertmanager/config.yml"
+      - "--storage.path=/alertmanager"
+    volumes:
+      - ./alertmanager/config.yml:/etc/alertmanager/config.yml:ro
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:9093/-/ready"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+
+  pushgateway:
+    image: prom/pushgateway:latest
+    platform: linux/arm64/v8
+    container_name: pushgateway
+    restart: unless-stopped
+    networks: [obsv_net]
+    ports:
+      - "${PUSHGATEWAY_PORT}:9091"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:9091/-/ready"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+
+  node-exporter:
+    image: prom/node-exporter:latest
+    platform: linux/arm64/v8
+    container_name: node-exporter
+    restart: unless-stopped
+    networks: [obsv_net]
+    ports:
+      - "${NODE_EXPORTER_PORT}:9100"
+    # Note: On macOS, host filesystem access is limited
+    # Node exporter will report container metrics instead
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:9100/metrics"]
+      interval: 15s
+      timeout: 5s
+      retries: 10
+
+  grafana:
+    image: grafana/grafana:latest
+    platform: linux/arm64/v8
+    container_name: grafana
+    restart: unless-stopped
+    depends_on:
+      prometheus:
+        condition: service_healthy
+      alertmanager:
+        condition: service_healthy
+    networks: [obsv_net]
+    ports:
+      - "${GRAFANA_PORT}:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=${GF_SECURITY_ADMIN_USER}
+      - GF_SECURITY_ADMIN_PASSWORD=${GF_SECURITY_ADMIN_PASSWORD}
+      - GF_USERS_ALLOW_SIGN_UP=false
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./grafana/provisioning/datasources:/etc/grafana/provisioning/datasources:ro
+      - ./grafana/provisioning/dashboards:/etc/grafana/provisioning/dashboards:ro
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3000/api/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 12

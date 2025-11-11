@@ -1,0 +1,22 @@
+groups:
+  - name: demo-alerts
+    rules:
+      # Fires if Node Exporter is down for > 30s
+      - alert: NodeExporterDown
+        expr: up{job="node-exporter"} == 0
+        for: 30s
+        labels:
+          severity: warning
+        annotations:
+          summary: "Node Exporter down"
+          description: "node-exporter target is not responding for 30s."
+
+      # Fires when the demo counter is pushed above 5
+      - alert: DemoRequestsHigh
+        expr: demo_app_requests_total > 5
+        for: 0m
+        labels:
+          severity: info
+        annotations:
+          summary: "Demo requests high"
+          description: "demo_app_requests_total is {{ $value }} (> 5)."
