@@ -1,0 +1,129 @@
+You are an expert MCP (Model Context Protocol) engineer, backend architect, and AI agent designer.
+
+📌 GOAL:
+Build a full AI application where:
+
+1. User sends NATURAL LANGUAGE as an HTTP request to /query endpoint.
+2. Agent converts natural language → SQL (using LLM API).
+3. Agent sends SQL to the MCP Server using **WebSocket (MCP protocol)**.
+4. MCP Server runs SQL on PostgreSQL and returns data.
+5. Agent returns JSON result to HTTP caller.
+
+────────────────────────────────────────
+✅ Architectural Rules
+────────────────────────────────────────
+
+- MCP Server = WebSocket transport (MCP-compliant)
+- Agent = HTTP REST API (FastAPI)
+- Agent must communicate to MCP server using **WebSocket**
+- NLP → SQL conversion happens at the agent layer (not inside MCP server)
+
+────────────────────────────────────────
+✅ Project Structure (use Poetry)
+────────────────────────────────────────
+
+mcp-postgres-ai/
+  ├─ pyproject.toml
+  ├─ README.md
+  ├─ .env.example
+  ├─ docker-compose.yml
+  ├─ Dockerfile
+  └─ src/
+      ├─ mcp_server/
+      │   ├─ config.py
+      │   ├─ db.py
+      │   ├─ tools.py           # register run_sql tool
+      │   ├─ ws_server.py       # WebSocket MCP implementation
+      │   └─ main.py            # starts WebSocket MCP server
+      └─ agent/
+          ├─ http_api.py        # FastAPI HTTP endpoint /query
+          └─ ws_client.py       # connects to MCP over WebSocket
+
+────────────────────────────────────────
+✅ TECH REQUIREMENTS
+────────────────────────────────────────
+
+1) Dependency management MUST be Poetry (pyproject.toml only)
+   Required libraries:
+   - asyncpg
+   - fastapi
+   - uvicorn
+   - websockets
+   - python-dotenv
+   - pydantic
+   - httpx (used by agent if needed)
+   - openai (LLM API for NL→SQL)
+
+2) MCP TOOL (tools.py)
+   Tool name: `run_sql`
+   Input JSON:
+     { "query": "...", "params": [] }
+   Output JSON:
+     { "rows": [...], "rowCount": 10, "executionTimeMs": 2 }
+
+   Enforce:
+     - Parameterized queries only
+     - **SELECT only** (deny INSERT/UPDATE/DELETE/DROP/ALTER)
+
+3) WebSocket MCP Server (ws_server.py)
+   - Path: `/mcp`
+   - Port: **9001**
+   - Require header:  X-API-Key: <key>
+   - On connect → send MCP tool registry JSON
+   - On message → call run_sql() → return response
+
+4) Agent (HTTP)
+   - Endpoint: POST /query
+   - Request:   { "question": "show last 5 users" }
+   - Steps:
+       (1) Call LLM → Convert NL → SQL
+       (2) Connect to MCP WebSocket
+       (3) Send MCP request to run_sql
+       (4) Return JSON response to HTTP caller
+   - SQL validation: only allow SELECT
+
+5) Environment vars (.env.example)
+   POSTGRES_HOST=
+   POSTGRES_PORT=
+   POSTGRES_DB=
+   POSTGRES_USER=
+   POSTGRES_PASSWORD=
+   WS_API_KEY=
+   LLM_API_KEY=
+   WS_HOST=0.0.0.0
+   WS_PORT=9001
+   HTTP_PORT=8080   # agent http server
+
+6) Docker
+   docker-compose.yml must start:
+     - postgres
+     - mcp server
+     - agent (FastAPI HTTP API)
+
+   Expose:
+     - 5432 (Postgres)
+     - 9001 (MCP WebSocket server)
+     - 8080 (Agent HTTP API)
+
+────────────────────────────────────────
+✅ Output Format (IMPORTANT)
+────────────────────────────────────────
+
+Generate **only code blocks**, no explanation, in this order:
+
+1. pyproject.toml (Poetry config)
+2. .env.example
+3. Full source code files:
+   - src/mcp_server/config.py
+   - src/mcp_server/db.py
+   - src/mcp_server/tools.py
+   - src/mcp_server/ws_server.py
+   - src/mcp_server/main.py
+   - src/agent/ws_client.py
+   - src/agent/http_api.py
+4. Dockerfile
+5. docker-compose.yml
+6. README.md (include setup steps, run commands, and curl example)
+
+BEGIN by generating:
+➡️ `pyproject.toml`
