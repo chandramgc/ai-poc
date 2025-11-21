@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+app/.DS_Store
+.gitignore
+supabase-langfuse/kong.yml.backup
