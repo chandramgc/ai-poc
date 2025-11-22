@@ -31,6 +31,7 @@ applyTo: '**/*.py'
 - Use consistent naming conventions and follow language-specific best practices.
 - Write concise, efficient, and idiomatic code that is also easily understandable.
 - Avoid unused imports.
+- General all the .md files except README.md should be under /docs.
 
 ## Code Style and Formatting
 

@@ -1,0 +1,50 @@
+# Application Configuration
+app:
+  name: "LLM FastAPI Service"
+  version: "0.1.0"
+  host: "0.0.0.0"
+  port: 8000
+  log_level: "INFO"
+  
+# Model Configuration
+model:
+  name: "google/gemma-3-1b-it"
+  source: "hub"  # hub or local
+  device: "cpu"  # cpu or cuda
+  max_tokens: 512
+  temperature: 0.7
+  top_p: 0.9
+  top_k: 50
+
+# Security
+security:
+  api_key: "changeit"
+  max_prompt_chars: 4000
+  enable_pii_filter: false
+
+# Rate Limiting
+rate_limit:
+  enabled: true
+  requests_per_minute: 10
+  burst_size: 15
+
+# Cache
+cache:
+  enabled: true
+  size: 100
+  ttl_seconds: 3600
+
+# Chat History
+chat_history:
+  enabled: true
+  ttl_seconds: 7200  # 2 hours
+
+# Observability
+metrics:
+  enabled: true
+  endpoint: "/metrics"
+
+logging:
+  format: "json"
+  level: "INFO"
+  include_request_body: false

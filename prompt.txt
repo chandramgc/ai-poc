@@ -1,0 +1,123 @@
+Act as a senior Python engineer. Scaffold a production-ready project that deploys a Hugging Face LLM behind a FastAPI service inside a Docker image. Use the Hugging Face transformers pipeline (text-generation or chat) wrapped by LangChain where appropriate. Manage dependencies with Poetry (no requirements.txt). Use config.yml + .env (.env overrides). Apply best practices: modular code, observability, rate limiting, input validation, streaming responses, health checks, graceful shutdown.
+
+Key requirements:
+
+1. Tooling & Environment
+   - Dependency management: Poetry (pyproject.toml with groups: main, dev, test).
+   - Add scripts: start (uvicorn), lint (ruff), test (pytest).
+   - Use python-dotenv to load .env before YAML.
+   - Provide Makefile (optional) with targets: install, run, test, build-docker.
+
+2. Config
+   - Files: config.yml + .env (override precedence .env > YAML).
+   - Pydantic Settings wrapper.
+   - Required keys: MODEL_NAME, HOST, PORT, MAX_TOKENS, TEMPERATURE, API_KEY.
+   - Optional: MODEL_SOURCE (local|hub), ENABLE_CACHE, REQUESTS_PER_MINUTE, LOG_LEVEL.
+
+3. Directory structure:
+/app
+  main.py
+  api/
+    routers/
+      inference.py
+      chat.py
+      health.py
+    schemas.py
+    dependencies.py
+  core/
+    config.py
+    logging.py
+    rate_limit.py
+    security.py
+    cache.py
+  llm/
+    loader.py
+    chain.py
+    prompts/base_system.txt
+  utils/
+    errors.py
+    timing.py
+tests/
+  test_config.py
+  test_inference.py
+config.yml
+.env (excluded)
+pyproject.toml
+Dockerfile
+README.md
+
+4. Model Integration
+   - Use transformers.pipeline("text-generation") (or conversational pipeline) with MODEL_NAME.
+   - Wrap pipeline in a lightweight LangChain LLM interface (HuggingFacePipeline).
+   - Provide get_pipeline() and get_chain() (PromptTemplate + pipeline).
+   - Support max_new_tokens, temperature, top_p from config.
+   - Lazy load on startup event; keep singleton.
+
+5. FastAPI Endpoints
+   - GET /health
+   - GET /status
+   - POST /v1/generate {prompt, max_tokens?, temperature?}
+   - POST /v1/chat {messages: [{role, content}], stream?}
+   - API key via X-API-Key header.
+   - Optional SSE streaming if supported: chunk tokens.
+
+6. Rate Limiting & Security
+   - In-memory token bucket by IP or API key (REQUESTS_PER_MINUTE).
+   - Reject prompts > MAX_PROMPT_CHARS.
+   - Basic PII/profanity filter stub.
+   - Unified error responses JSON schema.
+
+7. Observability
+   - Structured JSON logging (timestamp, level, route, latency).
+   - Middleware for timing.
+   - Prometheus metrics (/metrics): requests_total, tokens_generated_total, latency histogram.
+
+8. Caching
+   - Optional LRU for identical prompts (ENABLE_CACHE, CACHE_SIZE).
+   - Key: hash(model_name + prompt + params).
+
+9. Testing (pytest)
+   - Mock pipeline to avoid real model download.
+   - Tests: config overrides, /health, /v1/generate (200), rate limit (429), auth missing (401).
+   - Use httpx AsyncClient.
+
+10. Docker
+   - Base: python:3.11-slim.
+   - Install Poetry (curl + install script).
+   - Copy pyproject.toml & poetry.lock; poetry install --no-root.
+   - Copy app code.
+   - Non-root user.
+   - CMD ["poetry", "run", "python", "app/main.py"].
+
+11. pyproject.toml (dependencies)
+   - fastapi, uvicorn, pydantic, python-dotenv, PyYAML, transformers, langchain, prometheus-client, cachetools, httpx, ruff, pytest.
+
+12. README
+   - Setup with Poetry (poetry install)
+   - Run: poetry run uvicorn app.main:app --host 0.0.0.0 --port 8000
+   - Example curl calls.
+   - Env var examples.
+   - Docker build/run.
+
+13. Provide:
+   - Sample config.yml + .env.
+   - pyproject.toml.
+   - Core code stubs (main.py, config loader, pipeline loader, inference router).
+   - Dockerfile.
+   - One test example.
+   - Example curl usage.
+
+Constraints:
+   - No large model downloads in tests.
+   - Clear TODO markers for real model choice.
+   - Stream responses only if pipeline supports incremental generation; otherwise fallback.
+
+Output now:
+A) Full prompt (this block)
+B) Scaffolding code snippets with file paths (placeholders where needed)
+C) Example .env and config.yml
+D) pyproject.toml
+E) Dockerfile
+F) Test sample
+
+Generate all code next.
