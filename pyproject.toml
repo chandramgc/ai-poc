@@ -1,0 +1,56 @@
+[tool.poetry]
+name = "medicine-news-scraper"
+version = "0.1.0"
+description = "FastAPI service for scraping medicine-related news from Google search results"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "app"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.109.0"
+uvicorn = {extras = ["standard"], version = "^0.27.0"}
+pydantic = "^2.5.0"
+pydantic-settings = "^2.1.0"
+requests = "^2.31.0"
+beautifulsoup4 = "^4.12.0"
+lxml = "^5.1.0"
+# Optional extras for alternate backends
+scrapy = {version = "^2.11.0", optional = true}
+playwright = {version = "^1.41.0", optional = true}
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.0"
+pytest-asyncio = "^0.23.0"
+pytest-cov = "^4.1.0"
+httpx = "^0.26.0"
+pytest-mock = "^3.12.0"
+
+[tool.poetry.extras]
+scrapy = ["scrapy"]
+playwright = ["playwright"]
+all = ["scrapy", "playwright"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+python_classes = "Test*"
+python_functions = "test_*"
+asyncio_mode = "auto"
+
+[tool.coverage.run]
+source = ["app"]
+omit = ["*/tests/*", "*/__pycache__/*"]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+]

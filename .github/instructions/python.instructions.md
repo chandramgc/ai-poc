@@ -31,6 +31,7 @@ applyTo: '**/*.py'
 - Use consistent naming conventions and follow language-specific best practices.
 - Write concise, efficient, and idiomatic code that is also easily understandable.
 - Avoid unused imports.
+- Except Readme.md other documentation files should be created under docs/ folder.
 
 ## Code Style and Formatting
 
