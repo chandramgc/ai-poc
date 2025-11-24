@@ -23,7 +23,7 @@ applyTo: '**/*.py'
 
 ## General Instructions
 
-- Always prioritize readability and clarity.
+- Always prioritize readability and clarity.¬¬l
 - For algorithm-related code, include explanations of the approach used.
 - Write code with good maintainability practices, including comments on why certain design decisions were made.
 - Handle edge cases and write clear exception handling.
