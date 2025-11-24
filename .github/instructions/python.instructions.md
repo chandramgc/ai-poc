@@ -19,7 +19,7 @@ applyTo: '**/*.py'
 - Provide docstrings following PEP 257 conventions.
 - Use the `typing` module for type annotations (e.g., `List[str]`, `Dict[str, int]`).
 - Break down complex functions into smaller, more manageable functions.
-- Use poetry for dependency management.
+- Use Poetry for Libraries mangement.
 
 ## General Instructions
 
@@ -31,6 +31,7 @@ applyTo: '**/*.py'
 - Use consistent naming conventions and follow language-specific best practices.
 - Write concise, efficient, and idiomatic code that is also easily understandable.
 - Avoid unused imports.
+- Except Readme.md other documentation files should be created under docs/ folder.
 
 ## Code Style and Formatting
 
@@ -108,11 +109,23 @@ tests/
 - Don’t expose internal stack traces in production environments.
 - Avoid business logic inside views/routes.
 
-### API
+### For API application
 
 - Implement API rate limiting base on host ip and any uniqe_id (example client_id or any id).
 - Authentication API (API Keys, OAuth 2.0 or Bearer Tokens).
 - Enable Documentation and Data validation for request and response.
+
+### For LLM application
+- Default to LangChain with LCEL-style pipelines for LLM calls (e.g., prompt | model | parser).
+	Example: response = (prompt
+							|
+						chatgpt
+							|
+						parser)
+- Track tokens and cost per call (input/output tokens, compute USD cost, emit metrics).
+- Enable configurable caching (memory/redis/disk) with TTL, cache keys including model+prompt+params, and a bypass flag; handle streaming results specially.
+- Support optional streaming (chunked/async) with real-time token accounting, client opt-in, and exponential backoff/retries for transient errors.
+- Ensure security/observability/testing: sanitize logs, defend against prompt injection, return structured errors, add unit tests with mocked LangChain components, and provide monitoring for usage/cost.
 
 ### Configuration
 
