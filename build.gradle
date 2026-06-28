@@ -1,0 +1,81 @@
+plugins {
+    id 'org.springframework.boot' version '3.5.0'
+    id 'io.spring.dependency-management' version '1.1.7'
+    id 'java'
+    id 'jacoco'
+    id 'checkstyle'
+    id 'org.sonarqube' version '6.2.0.5505'
+}
+
+group = 'com.aipoc'
+version = '0.0.1-SNAPSHOT'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(25)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Spring Boot
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-validation'
+    implementation 'org.springframework.boot:spring-boot-starter-actuator'
+
+    // OpenAPI / Swagger UI
+    implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.5.0'
+
+    // Test
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testImplementation 'org.assertj:assertj-core'
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+    finalizedBy jacocoTestReport
+}
+
+// ── JaCoCo ────────────────────────────────────────────────────────────────────
+jacoco {
+    toolVersion = '0.8.13'
+}
+
+jacocoTestReport {
+    dependsOn test
+    reports {
+        xml.required = true
+        html.required = true
+    }
+}
+
+jacocoTestCoverageVerification {
+    violationRules {
+        rule {
+            limit {
+                minimum = 0.80   // 80% coverage gate
+            }
+        }
+    }
+}
+
+// ── Checkstyle ────────────────────────────────────────────────────────────────
+checkstyle {
+    toolVersion = '10.17.0'
+    configFile = file("${rootDir}/checkstyle.xml")
+    ignoreFailures = false
+}
+
+// ── SonarQube ─────────────────────────────────────────────────────────────────
+sonar {
+    properties {
+        property 'sonar.projectKey', 'ai-poc'
+        property 'sonar.projectName', 'AI POC (Spring Boot)'
+        property 'sonar.host.url', 'http://localhost:9000'
+        property 'sonar.coverage.jacoco.xmlReportPaths',
+                 "${layout.buildDirectory.get()}/reports/jacoco/test/jacocoTestReport.xml"
+    }
+}
