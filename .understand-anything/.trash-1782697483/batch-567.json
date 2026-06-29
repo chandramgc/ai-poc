@@ -1,0 +1,62 @@
+{
+  "batchIndex": 567,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_ruby/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_ruby/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_ruby/_binding.abi3.so",
+      "type": "file",
+      "name": "_binding.abi3",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_ruby/_binding.abi3.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_ruby/binding.c",
+      "type": "file",
+      "name": "binding",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_ruby/binding.c",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_ruby/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_ruby/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_ruby/_binding.abi3.so",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_ruby/_binding.abi3.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_ruby/binding.c",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_ruby/binding.c",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 3,
+    "edgeCount": 3,
+    "nodeTypes": {
+      "file": 3
+    }
+  }
+}

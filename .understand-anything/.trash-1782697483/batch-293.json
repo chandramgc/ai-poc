@@ -1,0 +1,107 @@
+{
+  "batchIndex": 293,
+  "nodes": [
+    {
+      "id": "file:tmp/fix-verify-test2/.gitignore",
+      "type": "file",
+      "name": ".gitignore",
+      "filePath": "tmp/fix-verify-test2/.gitignore",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test2/.graphifyignore",
+      "type": "file",
+      "name": ".graphifyignore",
+      "filePath": "tmp/fix-verify-test2/.graphifyignore",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test2/AGENTS.md",
+      "type": "document",
+      "name": "AGENTS",
+      "filePath": "tmp/fix-verify-test2/AGENTS.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:AGENTS.md - AI Agent Configura",
+        "section:\ud83c\udf31 Spec Kit (SDD)",
+        "section:\ud83d\udc34 Ponytail",
+        "section:\ud83e\udde0 Graphify",
+        "section:Development Workflow",
+        "section:Key Files",
+        "code_blocks:1"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test2/Makefile",
+      "type": "file",
+      "name": "Makefile",
+      "filePath": "tmp/fix-verify-test2/Makefile",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test2/README.md",
+      "type": "document",
+      "name": "README",
+      "filePath": "tmp/fix-verify-test2/README.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Project with Automation",
+        "section:\ud83c\udf31 Spec Kit (Spec-Driven Develo",
+        "section:Spec Kit Resources",
+        "section:\ud83d\udc34 Ponytail",
+        "section:Ponytail Resources",
+        "section:\ud83e\udde0 Graphify",
+        "section:Graphify Resources",
+        "section:\ud83d\ude80 Quick Start",
+        "section:1. Initialize the project",
+        "section:2. Generate knowledge graph",
+        "code_blocks:11"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/fix-verify-test2/.gitignore",
+      "target": "file:tmp/fix-verify-test2/.gitignore",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test2/.graphifyignore",
+      "target": "file:tmp/fix-verify-test2/.graphifyignore",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test2/Makefile",
+      "target": "file:tmp/fix-verify-test2/Makefile",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 3,
+    "nodeTypes": {
+      "file": 3,
+      "document": 2
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "batchIndex": 377,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_agraph.cpython-314.pyc",
+      "type": "file",
+      "name": "test_agraph.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_agraph.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_image_comparison_pylab_mpl.cpython-314.pyc",
+      "type": "file",
+      "name": "test_image_comparison_pylab_mpl.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_image_comparison_pylab_mpl.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_latex.cpython-314.pyc",
+      "type": "file",
+      "name": "test_latex.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_latex.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_layout.cpython-314.pyc",
+      "type": "file",
+      "name": "test_layout.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_layout.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_pydot.cpython-314.pyc",
+      "type": "file",
+      "name": "test_pydot.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_pydot.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_pylab.cpython-314.pyc",
+      "type": "file",
+      "name": "test_pylab.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_pylab.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_agraph.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_agraph.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_image_comparison_pylab_mpl.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_image_comparison_pylab_mpl.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_latex.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_latex.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_layout.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_layout.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_pydot.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_pydot.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_pylab.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/__pycache__/test_pylab.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 7,
+    "edgeCount": 7,
+    "nodeTypes": {
+      "file": 7
+    }
+  }
+}

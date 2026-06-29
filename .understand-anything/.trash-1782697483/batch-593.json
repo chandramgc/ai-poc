@@ -1,0 +1,429 @@
+{
+  "batchIndex": 593,
+  "nodes": [
+    {
+      "id": "file:tmp/fix-verify-test2/automation/orchestrate.sh",
+      "type": "file",
+      "name": "orchestrate",
+      "filePath": "tmp/fix-verify-test2/automation/orchestrate.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test2/automation/ponytail/install-ponytail.sh",
+      "type": "file",
+      "name": "install-ponytail",
+      "filePath": "tmp/fix-verify-test2/automation/ponytail/install-ponytail.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test2/automation/sdd/run-sdd.sh",
+      "type": "file",
+      "name": "run-sdd",
+      "filePath": "tmp/fix-verify-test2/automation/sdd/run-sdd.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.coding-standards/JAVA_STANDARDS.md",
+      "type": "document",
+      "name": "JAVA_STANDARDS",
+      "filePath": "tmp/speckit-test/.coding-standards/JAVA_STANDARDS.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Java Coding Standards & Best P",
+        "section:Overview",
+        "section:Mandatory Rules (BLOCKER)",
+        "section:1. No Hard-coded Credentials (",
+        "section:2. Use SLF4J Logger, Not Syste",
+        "section:3. Always Use Try-With-Resourc",
+        "section:4. Return Optional, Not Null",
+        "section:Critical Rules",
+        "section:5. Null Safety",
+        "section:6. Never Use Raw Exceptions",
+        "code_blocks:12"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/info/exclude",
+      "type": "file",
+      "name": "exclude",
+      "filePath": "tmp/speckit-test/.git/info/exclude",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/logs/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": "tmp/speckit-test/.git/logs/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/logs/refs/heads/master",
+      "type": "file",
+      "name": "master",
+      "filePath": "tmp/speckit-test/.git/logs/refs/heads/master",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/23/c9495a39af0603d1af54738102d7ba37068c69",
+      "type": "file",
+      "name": "c9495a39af0603d1af54738102d7ba37068c69",
+      "filePath": "tmp/speckit-test/.git/objects/23/c9495a39af0603d1af54738102d7ba37068c69",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/27/678131f9ea8714193ce06c09e67d938dfc854f",
+      "type": "file",
+      "name": "678131f9ea8714193ce06c09e67d938dfc854f",
+      "filePath": "tmp/speckit-test/.git/objects/27/678131f9ea8714193ce06c09e67d938dfc854f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/35/ef70c6fab53ab0863c3d4ebf6221eb2039bf98",
+      "type": "file",
+      "name": "ef70c6fab53ab0863c3d4ebf6221eb2039bf98",
+      "filePath": "tmp/speckit-test/.git/objects/35/ef70c6fab53ab0863c3d4ebf6221eb2039bf98",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/42/ce3db3686e98b1db44bb0bb0fa316b9f0224cc",
+      "type": "file",
+      "name": "ce3db3686e98b1db44bb0bb0fa316b9f0224cc",
+      "filePath": "tmp/speckit-test/.git/objects/42/ce3db3686e98b1db44bb0bb0fa316b9f0224cc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/47/193cd230bd5ffb483ffa4a3636d04045b52448",
+      "type": "file",
+      "name": "193cd230bd5ffb483ffa4a3636d04045b52448",
+      "filePath": "tmp/speckit-test/.git/objects/47/193cd230bd5ffb483ffa4a3636d04045b52448",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/53/38d7cca3f0d7af03765ae31222da1184b7dfe6",
+      "type": "file",
+      "name": "38d7cca3f0d7af03765ae31222da1184b7dfe6",
+      "filePath": "tmp/speckit-test/.git/objects/53/38d7cca3f0d7af03765ae31222da1184b7dfe6",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/56/30ffd4560fd05d0e30e88d07faf593c39d47b2",
+      "type": "file",
+      "name": "30ffd4560fd05d0e30e88d07faf593c39d47b2",
+      "filePath": "tmp/speckit-test/.git/objects/56/30ffd4560fd05d0e30e88d07faf593c39d47b2",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/65/d8aaae195f985019ae7ac396cf5a1161c87448",
+      "type": "file",
+      "name": "d8aaae195f985019ae7ac396cf5a1161c87448",
+      "filePath": "tmp/speckit-test/.git/objects/65/d8aaae195f985019ae7ac396cf5a1161c87448",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/8d/6f765442cdbba415eb83d4bd533cf508367075",
+      "type": "file",
+      "name": "6f765442cdbba415eb83d4bd533cf508367075",
+      "filePath": "tmp/speckit-test/.git/objects/8d/6f765442cdbba415eb83d4bd533cf508367075",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/96/b49e4acbe2f60cd682807409ef2f9a3f630ca5",
+      "type": "file",
+      "name": "b49e4acbe2f60cd682807409ef2f9a3f630ca5",
+      "filePath": "tmp/speckit-test/.git/objects/96/b49e4acbe2f60cd682807409ef2f9a3f630ca5",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/9a/b0196a8dfd6f01ae2091376175da662de023a2",
+      "type": "file",
+      "name": "b0196a8dfd6f01ae2091376175da662de023a2",
+      "filePath": "tmp/speckit-test/.git/objects/9a/b0196a8dfd6f01ae2091376175da662de023a2",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/9c/ce6c48227a122b2b6b955d1de40de6ef6dfd94",
+      "type": "file",
+      "name": "ce6c48227a122b2b6b955d1de40de6ef6dfd94",
+      "filePath": "tmp/speckit-test/.git/objects/9c/ce6c48227a122b2b6b955d1de40de6ef6dfd94",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/b6/58db7c4cb9f6ce1210640bb7724cbb187c603e",
+      "type": "file",
+      "name": "58db7c4cb9f6ce1210640bb7724cbb187c603e",
+      "filePath": "tmp/speckit-test/.git/objects/b6/58db7c4cb9f6ce1210640bb7724cbb187c603e",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/bd/84810dcda7192878e283ad41f6bb875fedbf66",
+      "type": "file",
+      "name": "84810dcda7192878e283ad41f6bb875fedbf66",
+      "filePath": "tmp/speckit-test/.git/objects/bd/84810dcda7192878e283ad41f6bb875fedbf66",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/ca/7e9dd2fc0c961c9dbbbedcf57adc95c1a8077e",
+      "type": "file",
+      "name": "7e9dd2fc0c961c9dbbbedcf57adc95c1a8077e",
+      "filePath": "tmp/speckit-test/.git/objects/ca/7e9dd2fc0c961c9dbbbedcf57adc95c1a8077e",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/ce/a559a57508ac126851dff4e6e581ac17fdcd6f",
+      "type": "file",
+      "name": "a559a57508ac126851dff4e6e581ac17fdcd6f",
+      "filePath": "tmp/speckit-test/.git/objects/ce/a559a57508ac126851dff4e6e581ac17fdcd6f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/db/71602efc1c1018a6f2b151ddc01bf6966f9af1",
+      "type": "file",
+      "name": "71602efc1c1018a6f2b151ddc01bf6966f9af1",
+      "filePath": "tmp/speckit-test/.git/objects/db/71602efc1c1018a6f2b151ddc01bf6966f9af1",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/e1/3610d4a8645d094b0eb6153be5be388b5aba26",
+      "type": "file",
+      "name": "3610d4a8645d094b0eb6153be5be388b5aba26",
+      "filePath": "tmp/speckit-test/.git/objects/e1/3610d4a8645d094b0eb6153be5be388b5aba26",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/fix-verify-test2/automation/orchestrate.sh",
+      "target": "file:tmp/fix-verify-test2/automation/orchestrate.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test2/automation/ponytail/install-ponytail.sh",
+      "target": "file:tmp/fix-verify-test2/automation/ponytail/install-ponytail.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test2/automation/sdd/run-sdd.sh",
+      "target": "file:tmp/fix-verify-test2/automation/sdd/run-sdd.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/info/exclude",
+      "target": "file:tmp/speckit-test/.git/info/exclude",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/logs/HEAD",
+      "target": "file:tmp/speckit-test/.git/logs/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/logs/refs/heads/master",
+      "target": "file:tmp/speckit-test/.git/logs/refs/heads/master",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/23/c9495a39af0603d1af54738102d7ba37068c69",
+      "target": "file:tmp/speckit-test/.git/objects/23/c9495a39af0603d1af54738102d7ba37068c69",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/27/678131f9ea8714193ce06c09e67d938dfc854f",
+      "target": "file:tmp/speckit-test/.git/objects/27/678131f9ea8714193ce06c09e67d938dfc854f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/35/ef70c6fab53ab0863c3d4ebf6221eb2039bf98",
+      "target": "file:tmp/speckit-test/.git/objects/35/ef70c6fab53ab0863c3d4ebf6221eb2039bf98",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/42/ce3db3686e98b1db44bb0bb0fa316b9f0224cc",
+      "target": "file:tmp/speckit-test/.git/objects/42/ce3db3686e98b1db44bb0bb0fa316b9f0224cc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/47/193cd230bd5ffb483ffa4a3636d04045b52448",
+      "target": "file:tmp/speckit-test/.git/objects/47/193cd230bd5ffb483ffa4a3636d04045b52448",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/53/38d7cca3f0d7af03765ae31222da1184b7dfe6",
+      "target": "file:tmp/speckit-test/.git/objects/53/38d7cca3f0d7af03765ae31222da1184b7dfe6",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/56/30ffd4560fd05d0e30e88d07faf593c39d47b2",
+      "target": "file:tmp/speckit-test/.git/objects/56/30ffd4560fd05d0e30e88d07faf593c39d47b2",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/65/d8aaae195f985019ae7ac396cf5a1161c87448",
+      "target": "file:tmp/speckit-test/.git/objects/65/d8aaae195f985019ae7ac396cf5a1161c87448",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/8d/6f765442cdbba415eb83d4bd533cf508367075",
+      "target": "file:tmp/speckit-test/.git/objects/8d/6f765442cdbba415eb83d4bd533cf508367075",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/96/b49e4acbe2f60cd682807409ef2f9a3f630ca5",
+      "target": "file:tmp/speckit-test/.git/objects/96/b49e4acbe2f60cd682807409ef2f9a3f630ca5",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/9a/b0196a8dfd6f01ae2091376175da662de023a2",
+      "target": "file:tmp/speckit-test/.git/objects/9a/b0196a8dfd6f01ae2091376175da662de023a2",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/9c/ce6c48227a122b2b6b955d1de40de6ef6dfd94",
+      "target": "file:tmp/speckit-test/.git/objects/9c/ce6c48227a122b2b6b955d1de40de6ef6dfd94",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/b6/58db7c4cb9f6ce1210640bb7724cbb187c603e",
+      "target": "file:tmp/speckit-test/.git/objects/b6/58db7c4cb9f6ce1210640bb7724cbb187c603e",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/bd/84810dcda7192878e283ad41f6bb875fedbf66",
+      "target": "file:tmp/speckit-test/.git/objects/bd/84810dcda7192878e283ad41f6bb875fedbf66",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/ca/7e9dd2fc0c961c9dbbbedcf57adc95c1a8077e",
+      "target": "file:tmp/speckit-test/.git/objects/ca/7e9dd2fc0c961c9dbbbedcf57adc95c1a8077e",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/ce/a559a57508ac126851dff4e6e581ac17fdcd6f",
+      "target": "file:tmp/speckit-test/.git/objects/ce/a559a57508ac126851dff4e6e581ac17fdcd6f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/db/71602efc1c1018a6f2b151ddc01bf6966f9af1",
+      "target": "file:tmp/speckit-test/.git/objects/db/71602efc1c1018a6f2b151ddc01bf6966f9af1",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/e1/3610d4a8645d094b0eb6153be5be388b5aba26",
+      "target": "file:tmp/speckit-test/.git/objects/e1/3610d4a8645d094b0eb6153be5be388b5aba26",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 25,
+    "edgeCount": 24,
+    "nodeTypes": {
+      "file": 24,
+      "document": 1
+    }
+  }
+}

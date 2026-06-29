@@ -1,0 +1,96 @@
+{
+  "batchIndex": 317,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/always_on/agents-md.md",
+      "type": "document",
+      "name": "agents-md",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/always_on/agents-md.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:graphify"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/always_on/antigravity-rules.md",
+      "type": "document",
+      "name": "antigravity-rules",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/always_on/antigravity-rules.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:graphify"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/always_on/claude-md.md",
+      "type": "document",
+      "name": "claude-md",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/always_on/claude-md.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:graphify"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/always_on/gemini-md.md",
+      "type": "document",
+      "name": "gemini-md",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/always_on/gemini-md.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:graphify"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/always_on/kiro-steering.md",
+      "type": "document",
+      "name": "kiro-steering",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/always_on/kiro-steering.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/always_on/vscode-instructions.md",
+      "type": "document",
+      "name": "vscode-instructions",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/always_on/vscode-instructions.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:graphify"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 0,
+    "nodeTypes": {
+      "document": 6
+    }
+  }
+}

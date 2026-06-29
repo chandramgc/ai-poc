@@ -1,0 +1,3153 @@
+{
+  "batchIndex": 632,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_accuracy.py",
+      "type": "file",
+      "name": "test_umath_accuracy",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_accuracy.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_accuracy.py:TestAccuracy",
+      "type": "class",
+      "name": "TestAccuracy",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_accuracy.py",
+      "summary": "Python class TestAccuracy",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_accuracy.py:convert",
+      "type": "function",
+      "name": "convert",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_accuracy.py",
+      "summary": "Python function convert",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "type": "file",
+      "name": "test_umath_complex",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestCexp",
+      "type": "class",
+      "name": "TestCexp",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "summary": "Python class TestCexp",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestClog",
+      "type": "class",
+      "name": "TestClog",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "summary": "Python class TestClog",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestCsqrt",
+      "type": "class",
+      "name": "TestCsqrt",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "summary": "Python class TestCsqrt",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestCpow",
+      "type": "class",
+      "name": "TestCpow",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "summary": "Python class TestCpow",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestCabs",
+      "type": "class",
+      "name": "TestCabs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "summary": "Python class TestCabs",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestCarg",
+      "type": "class",
+      "name": "TestCarg",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "summary": "Python class TestCarg",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestSpecialComplexAVX",
+      "type": "class",
+      "name": "TestSpecialComplexAVX",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "summary": "Python class TestSpecialComplexAVX",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestComplexAbsoluteAVX",
+      "type": "class",
+      "name": "TestComplexAbsoluteAVX",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "summary": "Python class TestComplexAbsoluteAVX",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestComplexAbsoluteMixedDTypes",
+      "type": "class",
+      "name": "TestComplexAbsoluteMixedDTypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "summary": "Python class TestComplexAbsoluteMixedDTypes",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:check_real_value",
+      "type": "function",
+      "name": "check_real_value",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "summary": "Python function check_real_value",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:check_complex_value",
+      "type": "function",
+      "name": "check_complex_value",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "summary": "Python function check_complex_value",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "type": "file",
+      "name": "test_umath",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:12"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:_FilterInvalids",
+      "type": "class",
+      "name": "_FilterInvalids",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class _FilterInvalids",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestConstants",
+      "type": "class",
+      "name": "TestConstants",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestConstants",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestOut",
+      "type": "class",
+      "name": "TestOut",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestOut",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestComparisons",
+      "type": "class",
+      "name": "TestComparisons",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestComparisons",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestAdd",
+      "type": "class",
+      "name": "TestAdd",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestAdd",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestDivision",
+      "type": "class",
+      "name": "TestDivision",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestDivision",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestRemainder",
+      "type": "class",
+      "name": "TestRemainder",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestRemainder",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestDivisionIntegerOverflowsAndDivideByZero",
+      "type": "class",
+      "name": "TestDivisionIntegerOverflowsAndDivideByZero",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestDivisionIntegerOverflowsAndDivideByZero",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestCbrt",
+      "type": "class",
+      "name": "TestCbrt",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestCbrt",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestPower",
+      "type": "class",
+      "name": "TestPower",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestPower",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFloat_power",
+      "type": "class",
+      "name": "TestFloat_power",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestFloat_power",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLog2",
+      "type": "class",
+      "name": "TestLog2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestLog2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestExp2",
+      "type": "class",
+      "name": "TestExp2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestExp2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLogAddExp2",
+      "type": "class",
+      "name": "TestLogAddExp2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestLogAddExp2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLog",
+      "type": "class",
+      "name": "TestLog",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestLog",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestExp",
+      "type": "class",
+      "name": "TestExp",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestExp",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestSpecialFloats",
+      "type": "class",
+      "name": "TestSpecialFloats",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestSpecialFloats",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFPClass",
+      "type": "class",
+      "name": "TestFPClass",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestFPClass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLDExp",
+      "type": "class",
+      "name": "TestLDExp",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestLDExp",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFRExp",
+      "type": "class",
+      "name": "TestFRExp",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestFRExp",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestAVXUfuncs",
+      "type": "class",
+      "name": "TestAVXUfuncs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestAVXUfuncs",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestAVXFloat32Transcendental",
+      "type": "class",
+      "name": "TestAVXFloat32Transcendental",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestAVXFloat32Transcendental",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLogAddExp",
+      "type": "class",
+      "name": "TestLogAddExp",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestLogAddExp",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLog1p",
+      "type": "class",
+      "name": "TestLog1p",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestLog1p",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestExpm1",
+      "type": "class",
+      "name": "TestExpm1",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestExpm1",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestHypot",
+      "type": "class",
+      "name": "TestHypot",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestHypot",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestHypotSpecialValues",
+      "type": "class",
+      "name": "TestHypotSpecialValues",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestHypotSpecialValues",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestArctan2SpecialValues",
+      "type": "class",
+      "name": "TestArctan2SpecialValues",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestArctan2SpecialValues",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLdexp",
+      "type": "class",
+      "name": "TestLdexp",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestLdexp",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestMaximum",
+      "type": "class",
+      "name": "TestMaximum",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestMaximum",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestMinimum",
+      "type": "class",
+      "name": "TestMinimum",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestMinimum",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFmax",
+      "type": "class",
+      "name": "TestFmax",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestFmax",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFmin",
+      "type": "class",
+      "name": "TestFmin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestFmin",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestBool",
+      "type": "class",
+      "name": "TestBool",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestBool",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestBitwiseUFuncs",
+      "type": "class",
+      "name": "TestBitwiseUFuncs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestBitwiseUFuncs",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestInt",
+      "type": "class",
+      "name": "TestInt",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestInt",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFloatingPoint",
+      "type": "class",
+      "name": "TestFloatingPoint",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestFloatingPoint",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestDegrees",
+      "type": "class",
+      "name": "TestDegrees",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestDegrees",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestRadians",
+      "type": "class",
+      "name": "TestRadians",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestRadians",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestHeavside",
+      "type": "class",
+      "name": "TestHeavside",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestHeavside",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestSign",
+      "type": "class",
+      "name": "TestSign",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestSign",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestMinMax",
+      "type": "class",
+      "name": "TestMinMax",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestMinMax",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestAbsoluteNegative",
+      "type": "class",
+      "name": "TestAbsoluteNegative",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestAbsoluteNegative",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestPositive",
+      "type": "class",
+      "name": "TestPositive",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestPositive",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestSpecialMethods",
+      "type": "class",
+      "name": "TestSpecialMethods",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestSpecialMethods",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestChoose",
+      "type": "class",
+      "name": "TestChoose",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestChoose",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestRationalFunctions",
+      "type": "class",
+      "name": "TestRationalFunctions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestRationalFunctions",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestRoundingFunctions",
+      "type": "class",
+      "name": "TestRoundingFunctions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestRoundingFunctions",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestComplexFunctions",
+      "type": "class",
+      "name": "TestComplexFunctions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestComplexFunctions",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestAttributes",
+      "type": "class",
+      "name": "TestAttributes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestAttributes",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestSubclass",
+      "type": "class",
+      "name": "TestSubclass",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestSubclass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFrompyfunc",
+      "type": "class",
+      "name": "TestFrompyfunc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestFrompyfunc",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestReplaceLoopBySignature",
+      "type": "class",
+      "name": "TestReplaceLoopBySignature",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestReplaceLoopBySignature",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestAddDocstring",
+      "type": "class",
+      "name": "TestAddDocstring",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestAddDocstring",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestHypotErrorMessages",
+      "type": "class",
+      "name": "TestHypotErrorMessages",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python class TestHypotErrorMessages",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:interesting_binop_operands",
+      "type": "function",
+      "name": "interesting_binop_operands",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function interesting_binop_operands",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:on_powerpc",
+      "type": "function",
+      "name": "on_powerpc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function on_powerpc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:bad_arcsinh",
+      "type": "function",
+      "name": "bad_arcsinh",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function bad_arcsinh",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:floor_divide_and_remainder",
+      "type": "function",
+      "name": "floor_divide_and_remainder",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function floor_divide_and_remainder",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_hypot_isnan",
+      "type": "function",
+      "name": "assert_hypot_isnan",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function assert_hypot_isnan",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_hypot_isinf",
+      "type": "function",
+      "name": "assert_hypot_isinf",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function assert_hypot_isinf",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_arctan2_isnan",
+      "type": "function",
+      "name": "assert_arctan2_isnan",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function assert_arctan2_isnan",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_arctan2_ispinf",
+      "type": "function",
+      "name": "assert_arctan2_ispinf",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function assert_arctan2_ispinf",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_arctan2_isninf",
+      "type": "function",
+      "name": "assert_arctan2_isninf",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function assert_arctan2_isninf",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_arctan2_ispzero",
+      "type": "function",
+      "name": "assert_arctan2_ispzero",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function assert_arctan2_ispzero",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_arctan2_isnzero",
+      "type": "function",
+      "name": "assert_arctan2_isnzero",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function assert_arctan2_isnzero",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_copysign",
+      "type": "function",
+      "name": "test_copysign",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_copysign",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_nextafter",
+      "type": "function",
+      "name": "test_nextafter",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_nextafter",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_nextafterf",
+      "type": "function",
+      "name": "test_nextafterf",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_nextafterf",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_nextafterl",
+      "type": "function",
+      "name": "test_nextafterl",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_nextafterl",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_nextafter_0",
+      "type": "function",
+      "name": "test_nextafter_0",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_nextafter_0",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_nextafter_signed_zero",
+      "type": "function",
+      "name": "test_nextafter_signed_zero",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_nextafter_signed_zero",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_spacing",
+      "type": "function",
+      "name": "test_spacing",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_spacing",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_spacingf",
+      "type": "function",
+      "name": "test_spacingf",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_spacingf",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_spacingl",
+      "type": "function",
+      "name": "test_spacingl",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_spacingl",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_spacing_gfortran",
+      "type": "function",
+      "name": "test_spacing_gfortran",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_spacing_gfortran",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_nextafter_vs_spacing",
+      "type": "function",
+      "name": "test_nextafter_vs_spacing",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_nextafter_vs_spacing",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_pos_nan",
+      "type": "function",
+      "name": "test_pos_nan",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_pos_nan",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_abs_nan_signbit",
+      "type": "function",
+      "name": "test_abs_nan_signbit",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_abs_nan_signbit",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_abs_nan_signbit_array",
+      "type": "function",
+      "name": "test_abs_nan_signbit_array",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_abs_nan_signbit_array",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_reduceat",
+      "type": "function",
+      "name": "test_reduceat",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_reduceat",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_negative_value_raises",
+      "type": "function",
+      "name": "test_negative_value_raises",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_negative_value_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_reduceat_empty",
+      "type": "function",
+      "name": "test_reduceat_empty",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_reduceat_empty",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_complex_nan_comparisons",
+      "type": "function",
+      "name": "test_complex_nan_comparisons",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_complex_nan_comparisons",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_rint_big_int",
+      "type": "function",
+      "name": "test_rint_big_int",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_rint_big_int",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_memoverlap_accumulate",
+      "type": "function",
+      "name": "test_memoverlap_accumulate",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_memoverlap_accumulate",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_memoverlap_accumulate_cmp",
+      "type": "function",
+      "name": "test_memoverlap_accumulate_cmp",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_memoverlap_accumulate_cmp",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_memoverlap_accumulate_symmetric",
+      "type": "function",
+      "name": "test_memoverlap_accumulate_symmetric",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_memoverlap_accumulate_symmetric",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_signaling_nan_exceptions",
+      "type": "function",
+      "name": "test_signaling_nan_exceptions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_signaling_nan_exceptions",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_outer_subclass_preserve",
+      "type": "function",
+      "name": "test_outer_subclass_preserve",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_outer_subclass_preserve",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_outer_bad_subclass",
+      "type": "function",
+      "name": "test_outer_bad_subclass",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_outer_bad_subclass",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_outer_exceeds_maxdims",
+      "type": "function",
+      "name": "test_outer_exceeds_maxdims",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_outer_exceeds_maxdims",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_bad_legacy_ufunc_silent_errors",
+      "type": "function",
+      "name": "test_bad_legacy_ufunc_silent_errors",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_bad_legacy_ufunc_silent_errors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_bad_legacy_unary_ufunc_silent_errors",
+      "type": "function",
+      "name": "test_bad_legacy_unary_ufunc_silent_errors",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_bad_legacy_unary_ufunc_silent_errors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_bad_legacy_gufunc_silent_errors",
+      "type": "function",
+      "name": "test_bad_legacy_gufunc_silent_errors",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "summary": "Python function test_bad_legacy_gufunc_silent_errors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "type": "file",
+      "name": "test_unicode",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:CreateZeros",
+      "type": "class",
+      "name": "CreateZeros",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class CreateZeros",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateZeros_1",
+      "type": "class",
+      "name": "TestCreateZeros_1",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestCreateZeros_1",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateZeros_2",
+      "type": "class",
+      "name": "TestCreateZeros_2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestCreateZeros_2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateZeros_1009",
+      "type": "class",
+      "name": "TestCreateZeros_1009",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestCreateZeros_1009",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:CreateValues",
+      "type": "class",
+      "name": "CreateValues",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class CreateValues",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateValues_1_UCS2",
+      "type": "class",
+      "name": "TestCreateValues_1_UCS2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestCreateValues_1_UCS2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateValues_1_UCS4",
+      "type": "class",
+      "name": "TestCreateValues_1_UCS4",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestCreateValues_1_UCS4",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateValues_2_UCS2",
+      "type": "class",
+      "name": "TestCreateValues_2_UCS2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestCreateValues_2_UCS2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateValues_2_UCS4",
+      "type": "class",
+      "name": "TestCreateValues_2_UCS4",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestCreateValues_2_UCS4",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateValues_1009_UCS2",
+      "type": "class",
+      "name": "TestCreateValues_1009_UCS2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestCreateValues_1009_UCS2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateValues_1009_UCS4",
+      "type": "class",
+      "name": "TestCreateValues_1009_UCS4",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestCreateValues_1009_UCS4",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:AssignValues",
+      "type": "class",
+      "name": "AssignValues",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class AssignValues",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestAssignValues_1_UCS2",
+      "type": "class",
+      "name": "TestAssignValues_1_UCS2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestAssignValues_1_UCS2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestAssignValues_1_UCS4",
+      "type": "class",
+      "name": "TestAssignValues_1_UCS4",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestAssignValues_1_UCS4",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestAssignValues_2_UCS2",
+      "type": "class",
+      "name": "TestAssignValues_2_UCS2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestAssignValues_2_UCS2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestAssignValues_2_UCS4",
+      "type": "class",
+      "name": "TestAssignValues_2_UCS4",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestAssignValues_2_UCS4",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestAssignValues_1009_UCS2",
+      "type": "class",
+      "name": "TestAssignValues_1009_UCS2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestAssignValues_1009_UCS2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestAssignValues_1009_UCS4",
+      "type": "class",
+      "name": "TestAssignValues_1009_UCS4",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestAssignValues_1009_UCS4",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:ByteorderValues",
+      "type": "class",
+      "name": "ByteorderValues",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class ByteorderValues",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestByteorder_1_UCS2",
+      "type": "class",
+      "name": "TestByteorder_1_UCS2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestByteorder_1_UCS2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestByteorder_1_UCS4",
+      "type": "class",
+      "name": "TestByteorder_1_UCS4",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestByteorder_1_UCS4",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestByteorder_2_UCS2",
+      "type": "class",
+      "name": "TestByteorder_2_UCS2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestByteorder_2_UCS2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestByteorder_2_UCS4",
+      "type": "class",
+      "name": "TestByteorder_2_UCS4",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestByteorder_2_UCS4",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestByteorder_1009_UCS2",
+      "type": "class",
+      "name": "TestByteorder_1009_UCS2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestByteorder_1009_UCS2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestByteorder_1009_UCS4",
+      "type": "class",
+      "name": "TestByteorder_1009_UCS4",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python class TestByteorder_1009_UCS4",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:buffer_length",
+      "type": "function",
+      "name": "buffer_length",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python function buffer_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:test_string_cast",
+      "type": "function",
+      "name": "test_string_cast",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "summary": "Python function test_string_cast",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/umath.py",
+      "type": "file",
+      "name": "umath",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/umath.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_distributor_init.py",
+      "type": "file",
+      "name": "_distributor_init",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_distributor_init.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_expired_attrs_2_0.py",
+      "type": "file",
+      "name": "_expired_attrs_2_0",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_expired_attrs_2_0.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_globals.py",
+      "type": "file",
+      "name": "_globals",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_globals.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_globals.py:_NoValueType",
+      "type": "class",
+      "name": "_NoValueType",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_globals.py",
+      "summary": "Python class _NoValueType",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_globals.py:_CopyMode",
+      "type": "class",
+      "name": "_CopyMode",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_globals.py",
+      "summary": "Python class _CopyMode",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_globals.py:_SignatureDescriptor",
+      "type": "class",
+      "name": "_SignatureDescriptor",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_globals.py",
+      "summary": "Python class _SignatureDescriptor",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_pyinstaller/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/__pycache__/hook-numpy.cpython-314.pyc",
+      "type": "file",
+      "name": "hook-numpy.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_pyinstaller/__pycache__/hook-numpy.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/hook-numpy.py",
+      "type": "file",
+      "name": "hook-numpy",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_pyinstaller/hook-numpy.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/hook-numpy.pyi",
+      "type": "file",
+      "name": "hook-numpy",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_pyinstaller/hook-numpy.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/tests/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_pyinstaller/tests/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/tests/pyinstaller-smoke.py",
+      "type": "file",
+      "name": "pyinstaller-smoke",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_pyinstaller/tests/pyinstaller-smoke.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/tests/test_pyinstaller.py",
+      "type": "file",
+      "name": "test_pyinstaller",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_pyinstaller/tests/test_pyinstaller.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_pyinstaller/tests/test_pyinstaller.py:test_pyinstaller",
+      "type": "function",
+      "name": "test_pyinstaller",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_pyinstaller/tests/test_pyinstaller.py",
+      "summary": "Python function test_pyinstaller",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_pytesttester.py",
+      "type": "file",
+      "name": "_pytesttester",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_pytesttester.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_pytesttester.py:PytestTester",
+      "type": "class",
+      "name": "PytestTester",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_pytesttester.py",
+      "summary": "Python class PytestTester",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/_add_docstring.py",
+      "type": "file",
+      "name": "_add_docstring",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_add_docstring.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/_array_like.py",
+      "type": "file",
+      "name": "_array_like",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_array_like.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_typing/_array_like.py:_SupportsArrayFunc",
+      "type": "class",
+      "name": "_SupportsArrayFunc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_array_like.py",
+      "summary": "Python class _SupportsArrayFunc",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/_char_codes.py",
+      "type": "file",
+      "name": "_char_codes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_char_codes.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/_dtype_like.py",
+      "type": "file",
+      "name": "_dtype_like",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_dtype_like.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_typing/_dtype_like.py:_DTypeDict",
+      "type": "class",
+      "name": "_DTypeDict",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_dtype_like.py",
+      "summary": "Python class _DTypeDict",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/_extended_precision.py",
+      "type": "file",
+      "name": "_extended_precision",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_extended_precision.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "type": "file",
+      "name": "_nbit_base",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:NBitBase",
+      "type": "class",
+      "name": "NBitBase",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "summary": "Python class NBitBase",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:_128Bit",
+      "type": "class",
+      "name": "_128Bit",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "summary": "Python class _128Bit",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:_96Bit",
+      "type": "class",
+      "name": "_96Bit",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "summary": "Python class _96Bit",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:_64Bit",
+      "type": "class",
+      "name": "_64Bit",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "summary": "Python class _64Bit",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:_32Bit",
+      "type": "class",
+      "name": "_32Bit",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "summary": "Python class _32Bit",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:_16Bit",
+      "type": "class",
+      "name": "_16Bit",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "summary": "Python class _16Bit",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:_8Bit",
+      "type": "class",
+      "name": "_8Bit",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "summary": "Python class _8Bit",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_accuracy.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_accuracy.py:TestAccuracy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_accuracy.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_accuracy.py:convert",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestCexp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestClog",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestCsqrt",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestCpow",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestCabs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestCarg",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestSpecialComplexAVX",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestComplexAbsoluteAVX",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:TestComplexAbsoluteMixedDTypes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:check_real_value",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath_complex.py:check_complex_value",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:_FilterInvalids",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestConstants",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestOut",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestComparisons",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestAdd",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestDivision",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestRemainder",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestDivisionIntegerOverflowsAndDivideByZero",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestCbrt",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestPower",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFloat_power",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLog2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestExp2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLogAddExp2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLog",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestExp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestSpecialFloats",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFPClass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLDExp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFRExp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestAVXUfuncs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestAVXFloat32Transcendental",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLogAddExp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLog1p",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestExpm1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestHypot",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestHypotSpecialValues",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestArctan2SpecialValues",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestLdexp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestMaximum",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestMinimum",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFmax",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFmin",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestBool",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestBitwiseUFuncs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestInt",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFloatingPoint",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestDegrees",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestRadians",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestHeavside",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestSign",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestMinMax",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestAbsoluteNegative",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestPositive",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestSpecialMethods",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestChoose",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestRationalFunctions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestRoundingFunctions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestComplexFunctions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestAttributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestSubclass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestFrompyfunc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestReplaceLoopBySignature",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestAddDocstring",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:TestHypotErrorMessages",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:interesting_binop_operands",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:on_powerpc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:bad_arcsinh",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:floor_divide_and_remainder",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_hypot_isnan",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_hypot_isinf",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_arctan2_isnan",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_arctan2_ispinf",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_arctan2_isninf",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_arctan2_ispzero",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:assert_arctan2_isnzero",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_copysign",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_nextafter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_nextafterf",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_nextafterl",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_nextafter_0",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_nextafter_signed_zero",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_spacing",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_spacingf",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_spacingl",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_spacing_gfortran",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_nextafter_vs_spacing",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_pos_nan",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_abs_nan_signbit",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_abs_nan_signbit_array",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_reduceat",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_negative_value_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_reduceat_empty",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_complex_nan_comparisons",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_rint_big_int",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_memoverlap_accumulate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_memoverlap_accumulate_cmp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_memoverlap_accumulate_symmetric",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_signaling_nan_exceptions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_outer_subclass_preserve",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_outer_bad_subclass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_outer_exceeds_maxdims",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_bad_legacy_ufunc_silent_errors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_bad_legacy_unary_ufunc_silent_errors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_umath.py:test_bad_legacy_gufunc_silent_errors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:CreateZeros",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateZeros_1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateZeros_2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateZeros_1009",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:CreateValues",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateValues_1_UCS2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateValues_1_UCS4",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateValues_2_UCS2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateValues_2_UCS4",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateValues_1009_UCS2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestCreateValues_1009_UCS4",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:AssignValues",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestAssignValues_1_UCS2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestAssignValues_1_UCS4",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestAssignValues_2_UCS2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestAssignValues_2_UCS4",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestAssignValues_1009_UCS2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestAssignValues_1009_UCS4",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:ByteorderValues",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestByteorder_1_UCS2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestByteorder_1_UCS4",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestByteorder_2_UCS2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestByteorder_2_UCS4",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestByteorder_1009_UCS2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:TestByteorder_1009_UCS4",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:buffer_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_unicode.py:test_string_cast",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_globals.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_globals.py:_NoValueType",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_globals.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_globals.py:_CopyMode",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_globals.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_globals.py:_SignatureDescriptor",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/__pycache__/hook-numpy.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/__pycache__/hook-numpy.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/hook-numpy.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/hook-numpy.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_pyinstaller/tests/test_pyinstaller.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_pyinstaller/tests/test_pyinstaller.py:test_pyinstaller",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_pytesttester.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_pytesttester.py:PytestTester",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_typing/_array_like.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_typing/_array_like.py:_SupportsArrayFunc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_typing/_dtype_like.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_typing/_dtype_like.py:_DTypeDict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:NBitBase",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:_128Bit",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:_96Bit",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:_64Bit",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:_32Bit",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:_16Bit",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.py:_8Bit",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 172,
+    "edgeCount": 152,
+    "nodeTypes": {
+      "file": 23,
+      "class": 103,
+      "function": 46
+    }
+  }
+}

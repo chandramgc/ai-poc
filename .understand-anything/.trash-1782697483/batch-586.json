@@ -1,0 +1,408 @@
+{
+  "batchIndex": 586,
+  "nodes": [
+    {
+      "id": "file:.coding-standards/JAVA_STANDARDS.md",
+      "type": "document",
+      "name": "JAVA_STANDARDS",
+      "filePath": ".coding-standards/JAVA_STANDARDS.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Java Coding Standards & Best P",
+        "section:Overview",
+        "section:Mandatory Rules (BLOCKER)",
+        "section:1. No Hard-coded Credentials (",
+        "section:2. Use SLF4J Logger, Not Syste",
+        "section:3. Always Use Try-With-Resourc",
+        "section:4. Return Optional, Not Null",
+        "section:Critical Rules",
+        "section:5. Null Safety",
+        "section:6. Never Use Raw Exceptions",
+        "code_blocks:12"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/info/exclude",
+      "type": "file",
+      "name": "exclude",
+      "filePath": ".git/info/exclude",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/logs/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": ".git/logs/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/12/ff92133a997520119a8473ff3a69d7b413d6bd",
+      "type": "file",
+      "name": "ff92133a997520119a8473ff3a69d7b413d6bd",
+      "filePath": ".git/objects/12/ff92133a997520119a8473ff3a69d7b413d6bd",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/b7/fc92659d563d59b31d3f95a990d9d47789e5cf",
+      "type": "file",
+      "name": "fc92659d563d59b31d3f95a990d9d47789e5cf",
+      "filePath": ".git/objects/b7/fc92659d563d59b31d3f95a990d9d47789e5cf",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/b7/ffb2c1a053dc880f4aff326c41789662b8cd52",
+      "type": "file",
+      "name": "ffb2c1a053dc880f4aff326c41789662b8cd52",
+      "filePath": ".git/objects/b7/ffb2c1a053dc880f4aff326c41789662b8cd52",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/ce/f62819fa7e2a8d9201827c8e4da1690f248ba6",
+      "type": "file",
+      "name": "f62819fa7e2a8d9201827c8e4da1690f248ba6",
+      "filePath": ".git/objects/ce/f62819fa7e2a8d9201827c8e4da1690f248ba6",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/d9/ec66e6b796f19944282ee655a97fa55e97d662",
+      "type": "file",
+      "name": "ec66e6b796f19944282ee655a97fa55e97d662",
+      "filePath": ".git/objects/d9/ec66e6b796f19944282ee655a97fa55e97d662",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/d9/fad52cd778617a46e038bb0b823a0402f914ae",
+      "type": "file",
+      "name": "fad52cd778617a46e038bb0b823a0402f914ae",
+      "filePath": ".git/objects/d9/fad52cd778617a46e038bb0b823a0402f914ae",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/copilot-instructions.md",
+      "type": "document",
+      "name": "copilot-instructions",
+      "filePath": ".github/copilot-instructions.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/instructions/python.instructions.md",
+      "type": "document",
+      "name": "python.instructions",
+      "filePath": ".github/instructions/python.instructions.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Python Coding Conventions",
+        "section:\ud83e\udde0 Context",
+        "section:Python Instructions",
+        "section:General Instructions",
+        "section:Code Style and Formatting",
+        "section:Edge Cases and Testing",
+        "section:Example of Proper Documentatio",
+        "section:\ud83d\udcc1 File Structure",
+        "section:\ud83e\uddf6 Patterns",
+        "section:\u2705 Patterns to Follow",
+        "code_blocks:2"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/modernize/java-upgrade/.gitignore",
+      "type": "file",
+      "name": ".gitignore",
+      "filePath": ".github/modernize/java-upgrade/.gitignore",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/modernize/java-upgrade/hooks/scripts/recordToolUse.ps1",
+      "type": "file",
+      "name": "recordToolUse",
+      "filePath": ".github/modernize/java-upgrade/hooks/scripts/recordToolUse.ps1",
+      "summary": "Powershell file",
+      "tags": [
+        "powershell"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/modernize/java-upgrade/hooks/scripts/recordToolUse.sh",
+      "type": "file",
+      "name": "recordToolUse",
+      "filePath": ".github/modernize/java-upgrade/hooks/scripts/recordToolUse.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/skills/java-sonar-rules/references/effective-java-rules.md",
+      "type": "document",
+      "name": "effective-java-rules",
+      "filePath": ".github/skills/java-sonar-rules/references/effective-java-rules.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Effective Java \u2014 Key Rules Qui",
+        "section:Item 1 \u2014 Static Factory Method",
+        "section:Item 6 \u2014 Avoid Creating Unnece",
+        "section:Item 9 \u2014 Prefer try-with-resou",
+        "section:Item 17 \u2014 Minimize Mutability",
+        "section:Item 22 \u2014 Interfaces Only for ",
+        "section:Item 28 \u2014 Prefer Lists over Ar",
+        "section:Item 51 \u2014 Design Method Signat",
+        "section:Item 57 \u2014 Minimize Scope of Lo",
+        "section:Item 64 \u2014 Refer to Objects by ",
+        "code_blocks:7"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/skills/java-sonar-rules/references/java-best-practices.md",
+      "type": "document",
+      "name": "java-best-practices",
+      "filePath": ".github/skills/java-sonar-rules/references/java-best-practices.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Java Best Practices \u2014 Quick Re",
+        "section:1. Naming Conventions",
+        "section:2. Class Design",
+        "section:3. Logging Pattern",
+        "section:4. Exception Handling",
+        "section:5. Optional Usage",
+        "section:6. Collections",
+        "section:7. Null Safety",
+        "section:8. Concurrency",
+        "section:9. Builder Pattern (complex ob",
+        "code_blocks:9"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/skills/java-sonar-rules/SKILL.md",
+      "type": "document",
+      "name": "SKILL",
+      "filePath": ".github/skills/java-sonar-rules/SKILL.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Java SonarQube Rules & Best Pr",
+        "section:Overview",
+        "section:How to Use This Skill",
+        "section:Step 1 \u2014 Identify Scope",
+        "section:Step 2 \u2014 Run Static Analysis (",
+        "section:From project root \u2014 requires s",
+        "section:Step 3 \u2014 Generate the Report",
+        "section:Step 4 \u2014 Prioritize Fixes",
+        "section:SonarJava Rule Categories",
+        "section:\ud83d\udd34 BLOCKER Rules (Zero Toleranc",
+        "code_blocks:8"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/skills/speckit-agent-context-update/SKILL.md",
+      "type": "document",
+      "name": "SKILL",
+      "filePath": ".github/skills/speckit-agent-context-update/SKILL.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Update Coding Agent Context",
+        "section:Behavior",
+        "section:Execution"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.gradle/buildOutputCleanup/cache.properties",
+      "type": "file",
+      "name": "cache",
+      "filePath": ".gradle/buildOutputCleanup/cache.properties",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.gradle/file-system.probe",
+      "type": "file",
+      "name": "file-system",
+      "filePath": ".gradle/file-system.probe",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/extensions/.registry",
+      "type": "file",
+      "name": ".registry",
+      "filePath": ".specify/extensions/.registry",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/extensions/agent-context/commands/speckit.agent-context.update.md",
+      "type": "document",
+      "name": "speckit.agent-context.update",
+      "filePath": ".specify/extensions/agent-context/commands/speckit.agent-context.update.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Update Coding Agent Context",
+        "section:Behavior",
+        "section:Execution"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:.git/info/exclude",
+      "target": "file:.git/info/exclude",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/logs/HEAD",
+      "target": "file:.git/logs/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/12/ff92133a997520119a8473ff3a69d7b413d6bd",
+      "target": "file:.git/objects/12/ff92133a997520119a8473ff3a69d7b413d6bd",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/b7/fc92659d563d59b31d3f95a990d9d47789e5cf",
+      "target": "file:.git/objects/b7/fc92659d563d59b31d3f95a990d9d47789e5cf",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/b7/ffb2c1a053dc880f4aff326c41789662b8cd52",
+      "target": "file:.git/objects/b7/ffb2c1a053dc880f4aff326c41789662b8cd52",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/ce/f62819fa7e2a8d9201827c8e4da1690f248ba6",
+      "target": "file:.git/objects/ce/f62819fa7e2a8d9201827c8e4da1690f248ba6",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/d9/ec66e6b796f19944282ee655a97fa55e97d662",
+      "target": "file:.git/objects/d9/ec66e6b796f19944282ee655a97fa55e97d662",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/d9/fad52cd778617a46e038bb0b823a0402f914ae",
+      "target": "file:.git/objects/d9/fad52cd778617a46e038bb0b823a0402f914ae",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.github/modernize/java-upgrade/.gitignore",
+      "target": "file:.github/modernize/java-upgrade/.gitignore",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.github/modernize/java-upgrade/hooks/scripts/recordToolUse.ps1",
+      "target": "file:.github/modernize/java-upgrade/hooks/scripts/recordToolUse.ps1",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.github/modernize/java-upgrade/hooks/scripts/recordToolUse.sh",
+      "target": "file:.github/modernize/java-upgrade/hooks/scripts/recordToolUse.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.gradle/buildOutputCleanup/cache.properties",
+      "target": "file:.gradle/buildOutputCleanup/cache.properties",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.gradle/file-system.probe",
+      "target": "file:.gradle/file-system.probe",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.specify/extensions/.registry",
+      "target": "file:.specify/extensions/.registry",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 22,
+    "edgeCount": 14,
+    "nodeTypes": {
+      "document": 8,
+      "file": 14
+    }
+  }
+}

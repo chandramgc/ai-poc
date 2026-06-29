@@ -1,0 +1,110 @@
+{
+  "batchIndex": 365,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/astar.cpython-314.pyc",
+      "type": "file",
+      "name": "astar.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/astar.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/dense.cpython-314.pyc",
+      "type": "file",
+      "name": "dense.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/dense.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/generic.cpython-314.pyc",
+      "type": "file",
+      "name": "generic.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/generic.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/unweighted.cpython-314.pyc",
+      "type": "file",
+      "name": "unweighted.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/unweighted.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/weighted.cpython-314.pyc",
+      "type": "file",
+      "name": "weighted.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/weighted.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/astar.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/astar.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/dense.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/dense.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/generic.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/generic.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/unweighted.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/unweighted.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/weighted.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__pycache__/weighted.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 6,
+    "nodeTypes": {
+      "file": 6
+    }
+  }
+}

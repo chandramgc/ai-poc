@@ -1,0 +1,65 @@
+{
+  "batchIndex": 280,
+  "nodes": [
+    {
+      "id": "file:build/test-results/test/TEST-com.aipoc.controller.OrderControllerTest.xml",
+      "type": "config",
+      "name": "TEST-com.aipoc.controller.OrderControllerTest",
+      "filePath": "build/test-results/test/TEST-com.aipoc.controller.OrderControllerTest.xml",
+      "summary": "XML configuration file",
+      "tags": [
+        "xml",
+        "config"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/test-results/test/TEST-com.aipoc.controller.TimeControllerTest.xml",
+      "type": "config",
+      "name": "TEST-com.aipoc.controller.TimeControllerTest",
+      "filePath": "build/test-results/test/TEST-com.aipoc.controller.TimeControllerTest.xml",
+      "summary": "XML configuration file",
+      "tags": [
+        "xml",
+        "config"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/test-results/test/TEST-com.aipoc.service.OrderServiceImplTest.xml",
+      "type": "config",
+      "name": "TEST-com.aipoc.service.OrderServiceImplTest",
+      "filePath": "build/test-results/test/TEST-com.aipoc.service.OrderServiceImplTest.xml",
+      "summary": "XML configuration file",
+      "tags": [
+        "xml",
+        "config"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/test-results/test/TEST-com.aipoc.service.TimeServiceImplTest.xml",
+      "type": "config",
+      "name": "TEST-com.aipoc.service.TimeServiceImplTest",
+      "filePath": "build/test-results/test/TEST-com.aipoc.service.TimeServiceImplTest.xml",
+      "summary": "XML configuration file",
+      "tags": [
+        "xml",
+        "config"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 0,
+    "nodeTypes": {
+      "config": 4
+    }
+  }
+}

@@ -1,0 +1,2227 @@
+{
+  "batchIndex": 609,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/communicability_alg.py",
+      "type": "file",
+      "name": "communicability_alg",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/communicability_alg.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/communicability_alg.py:communicability",
+      "type": "function",
+      "name": "communicability",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/communicability_alg.py",
+      "summary": "Python function communicability",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/communicability_alg.py:communicability_exp",
+      "type": "function",
+      "name": "communicability_exp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/communicability_alg.py",
+      "summary": "Python function communicability_exp",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:13"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/asyn_fluid.py",
+      "type": "file",
+      "name": "asyn_fluid",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/asyn_fluid.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/asyn_fluid.py:asyn_fluidc",
+      "type": "function",
+      "name": "asyn_fluidc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/asyn_fluid.py",
+      "summary": "Python function asyn_fluidc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py",
+      "type": "file",
+      "name": "bipartitions",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py:kernighan_lin_bisection",
+      "type": "function",
+      "name": "kernighan_lin_bisection",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py",
+      "summary": "Python function kernighan_lin_bisection",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py:spectral_modularity_bipartition",
+      "type": "function",
+      "name": "spectral_modularity_bipartition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py",
+      "summary": "Python function spectral_modularity_bipartition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py:greedy_node_swap_bipartition",
+      "type": "function",
+      "name": "greedy_node_swap_bipartition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py",
+      "summary": "Python function greedy_node_swap_bipartition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/centrality.py",
+      "type": "file",
+      "name": "centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/centrality.py:girvan_newman",
+      "type": "function",
+      "name": "girvan_newman",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/centrality.py",
+      "summary": "Python function girvan_newman",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/community_utils.py",
+      "type": "file",
+      "name": "community_utils",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/community_utils.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/community_utils.py:is_partition",
+      "type": "function",
+      "name": "is_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/community_utils.py",
+      "summary": "Python function is_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/divisive.py",
+      "type": "file",
+      "name": "divisive",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/divisive.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/divisive.py:edge_betweenness_partition",
+      "type": "function",
+      "name": "edge_betweenness_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/divisive.py",
+      "summary": "Python function edge_betweenness_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/divisive.py:edge_current_flow_betweenness_partition",
+      "type": "function",
+      "name": "edge_current_flow_betweenness_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/divisive.py",
+      "summary": "Python function edge_current_flow_betweenness_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/kclique.py",
+      "type": "file",
+      "name": "kclique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/kclique.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/kclique.py:k_clique_communities",
+      "type": "function",
+      "name": "k_clique_communities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/kclique.py",
+      "summary": "Python function k_clique_communities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py",
+      "type": "file",
+      "name": "label_propagation",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py:fast_label_propagation_communities",
+      "type": "function",
+      "name": "fast_label_propagation_communities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py",
+      "summary": "Python function fast_label_propagation_communities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py:asyn_lpa_communities",
+      "type": "function",
+      "name": "asyn_lpa_communities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py",
+      "summary": "Python function asyn_lpa_communities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py:label_propagation_communities",
+      "type": "function",
+      "name": "label_propagation_communities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py",
+      "summary": "Python function label_propagation_communities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/leiden.py",
+      "type": "file",
+      "name": "leiden",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/leiden.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/leiden.py:leiden_communities",
+      "type": "function",
+      "name": "leiden_communities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/leiden.py",
+      "summary": "Python function leiden_communities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/leiden.py:leiden_partitions",
+      "type": "function",
+      "name": "leiden_partitions",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/leiden.py",
+      "summary": "Python function leiden_partitions",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/local.py",
+      "type": "file",
+      "name": "local",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/local.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/local.py:greedy_source_expansion",
+      "type": "function",
+      "name": "greedy_source_expansion",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/local.py",
+      "summary": "Python function greedy_source_expansion",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/louvain.py",
+      "type": "file",
+      "name": "louvain",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/louvain.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/louvain.py:louvain_communities",
+      "type": "function",
+      "name": "louvain_communities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/louvain.py",
+      "summary": "Python function louvain_communities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/louvain.py:louvain_partitions",
+      "type": "function",
+      "name": "louvain_partitions",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/louvain.py",
+      "summary": "Python function louvain_partitions",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/lukes.py",
+      "type": "file",
+      "name": "lukes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/lukes.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/lukes.py:lukes_partitioning",
+      "type": "function",
+      "name": "lukes_partitioning",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/lukes.py",
+      "summary": "Python function lukes_partitioning",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/modularity_max.py",
+      "type": "file",
+      "name": "modularity_max",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/modularity_max.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/modularity_max.py:greedy_modularity_communities",
+      "type": "function",
+      "name": "greedy_modularity_communities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/modularity_max.py",
+      "summary": "Python function greedy_modularity_communities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/modularity_max.py:naive_greedy_modularity_communities",
+      "type": "function",
+      "name": "naive_greedy_modularity_communities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/modularity_max.py",
+      "summary": "Python function naive_greedy_modularity_communities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "type": "file",
+      "name": "quality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py:NotAPartition",
+      "type": "class",
+      "name": "NotAPartition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "summary": "Python class NotAPartition",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py:intra_community_edges",
+      "type": "function",
+      "name": "intra_community_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "summary": "Python function intra_community_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py:inter_community_edges",
+      "type": "function",
+      "name": "inter_community_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "summary": "Python function inter_community_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py:inter_community_non_edges",
+      "type": "function",
+      "name": "inter_community_non_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "summary": "Python function inter_community_non_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py:modularity",
+      "type": "function",
+      "name": "modularity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "summary": "Python function modularity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py:partition_quality",
+      "type": "function",
+      "name": "partition_quality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "summary": "Python function partition_quality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "type": "file",
+      "name": "test_asyn_fluid",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_raises_on_directed_and_multigraphs",
+      "type": "function",
+      "name": "test_raises_on_directed_and_multigraphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "summary": "Python function test_raises_on_directed_and_multigraphs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_exceptions",
+      "type": "function",
+      "name": "test_exceptions",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "summary": "Python function test_exceptions",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_single_node",
+      "type": "function",
+      "name": "test_single_node",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "summary": "Python function test_single_node",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_two_nodes",
+      "type": "function",
+      "name": "test_two_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "summary": "Python function test_two_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_two_clique_communities",
+      "type": "function",
+      "name": "test_two_clique_communities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "summary": "Python function test_two_clique_communities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_five_clique_ring",
+      "type": "function",
+      "name": "test_five_clique_ring",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "summary": "Python function test_five_clique_ring",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_asyn_fluidc_max_iter",
+      "type": "function",
+      "name": "test_asyn_fluidc_max_iter",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "summary": "Python function test_asyn_fluidc_max_iter",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "type": "file",
+      "name": "test_bipartitions",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:assert_partition_equal",
+      "type": "function",
+      "name": "assert_partition_equal",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function assert_partition_equal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_partition",
+      "type": "function",
+      "name": "test_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_partition_argument",
+      "type": "function",
+      "name": "test_partition_argument",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_partition_argument",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_partition_argument_non_integer_nodes",
+      "type": "function",
+      "name": "test_partition_argument_non_integer_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_partition_argument_non_integer_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_seed_argument",
+      "type": "function",
+      "name": "test_seed_argument",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_seed_argument",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_non_disjoint_partition",
+      "type": "function",
+      "name": "test_non_disjoint_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_non_disjoint_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_kernighan_lin_too_many_blocks",
+      "type": "function",
+      "name": "test_kernighan_lin_too_many_blocks",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_kernighan_lin_too_many_blocks",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_multigraph",
+      "type": "function",
+      "name": "test_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_max_iter_argument",
+      "type": "function",
+      "name": "test_max_iter_argument",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_max_iter_argument",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_weight_function",
+      "type": "function",
+      "name": "test_weight_function",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_weight_function",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_spectral_bipartition",
+      "type": "function",
+      "name": "test_spectral_bipartition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_spectral_bipartition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_karate_club",
+      "type": "function",
+      "name": "test_karate_club",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_karate_club",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_greedy_bipartition",
+      "type": "function",
+      "name": "test_greedy_bipartition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_greedy_bipartition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_greedy_non_disjoint_partition",
+      "type": "function",
+      "name": "test_greedy_non_disjoint_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_greedy_non_disjoint_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_greedy_node_swap_too_many_blocks",
+      "type": "function",
+      "name": "test_greedy_node_swap_too_many_blocks",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_greedy_node_swap_too_many_blocks",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_greedy_multigraph_disallowed",
+      "type": "function",
+      "name": "test_greedy_multigraph_disallowed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "summary": "Python function test_greedy_multigraph_disallowed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py",
+      "type": "file",
+      "name": "test_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py:TestGirvanNewman",
+      "type": "class",
+      "name": "TestGirvanNewman",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py",
+      "summary": "Python class TestGirvanNewman",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py:set_of_sets",
+      "type": "function",
+      "name": "set_of_sets",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py",
+      "summary": "Python function set_of_sets",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py:validate_communities",
+      "type": "function",
+      "name": "validate_communities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py",
+      "summary": "Python function validate_communities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py:validate_possible_communities",
+      "type": "function",
+      "name": "validate_possible_communities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py",
+      "summary": "Python function validate_possible_communities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_divisive.py",
+      "type": "file",
+      "name": "test_divisive",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_divisive.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_divisive.py:test_edge_betweenness_partition",
+      "type": "function",
+      "name": "test_edge_betweenness_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_divisive.py",
+      "summary": "Python function test_edge_betweenness_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_divisive.py:test_edge_current_flow_betweenness_partition",
+      "type": "function",
+      "name": "test_edge_current_flow_betweenness_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_divisive.py",
+      "summary": "Python function test_edge_current_flow_betweenness_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py",
+      "type": "file",
+      "name": "test_kclique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py:TestZacharyKarateClub",
+      "type": "class",
+      "name": "TestZacharyKarateClub",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py",
+      "summary": "Python class TestZacharyKarateClub",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py:test_overlapping_K5",
+      "type": "function",
+      "name": "test_overlapping_K5",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py",
+      "summary": "Python function test_overlapping_K5",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py:test_isolated_K5",
+      "type": "function",
+      "name": "test_isolated_K5",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py",
+      "summary": "Python function test_isolated_K5",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py:test_bad_k",
+      "type": "function",
+      "name": "test_bad_k",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py",
+      "summary": "Python function test_bad_k",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "type": "file",
+      "name": "test_label_propagation",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:TestAsynLpaCommunities",
+      "type": "class",
+      "name": "TestAsynLpaCommunities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "summary": "Python class TestAsynLpaCommunities",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:TestFastLabelPropagationCommunities",
+      "type": "class",
+      "name": "TestFastLabelPropagationCommunities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "summary": "Python class TestFastLabelPropagationCommunities",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:test_directed_not_supported",
+      "type": "function",
+      "name": "test_directed_not_supported",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "summary": "Python function test_directed_not_supported",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:test_iterator_vs_iterable",
+      "type": "function",
+      "name": "test_iterator_vs_iterable",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "summary": "Python function test_iterator_vs_iterable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:test_one_node",
+      "type": "function",
+      "name": "test_one_node",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "summary": "Python function test_one_node",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:test_unconnected_communities",
+      "type": "function",
+      "name": "test_unconnected_communities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "summary": "Python function test_unconnected_communities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:test_connected_communities",
+      "type": "function",
+      "name": "test_connected_communities",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "summary": "Python function test_connected_communities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:test_termination",
+      "type": "function",
+      "name": "test_termination",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "summary": "Python function test_termination",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "type": "file",
+      "name": "test_leiden",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_leiden_with_nx_backend",
+      "type": "function",
+      "name": "test_leiden_with_nx_backend",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "summary": "Python function test_leiden_with_nx_backend",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_modularity_increase",
+      "type": "function",
+      "name": "test_modularity_increase",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "summary": "Python function test_modularity_increase",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_valid_partition",
+      "type": "function",
+      "name": "test_valid_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "summary": "Python function test_valid_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_partition_iterator",
+      "type": "function",
+      "name": "test_partition_iterator",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "summary": "Python function test_partition_iterator",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_none_weight_param",
+      "type": "function",
+      "name": "test_none_weight_param",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "summary": "Python function test_none_weight_param",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_quality",
+      "type": "function",
+      "name": "test_quality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "summary": "Python function test_quality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_resolution",
+      "type": "function",
+      "name": "test_resolution",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "summary": "Python function test_resolution",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_empty_graph",
+      "type": "function",
+      "name": "test_empty_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "summary": "Python function test_empty_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_directed_not_implemented",
+      "type": "function",
+      "name": "test_directed_not_implemented",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "summary": "Python function test_directed_not_implemented",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_max_level",
+      "type": "function",
+      "name": "test_max_level",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "summary": "Python function test_max_level",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "type": "file",
+      "name": "test_local",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_karate_club",
+      "type": "function",
+      "name": "test_greedy_source_expansion_karate_club",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "summary": "Python function test_greedy_source_expansion_karate_club",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_cutoff",
+      "type": "function",
+      "name": "test_greedy_source_expansion_cutoff",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "summary": "Python function test_greedy_source_expansion_cutoff",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_invalid_method",
+      "type": "function",
+      "name": "test_greedy_source_expansion_invalid_method",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "summary": "Python function test_greedy_source_expansion_invalid_method",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_connected_component",
+      "type": "function",
+      "name": "test_greedy_source_expansion_connected_component",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "summary": "Python function test_greedy_source_expansion_connected_component",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_directed_graph",
+      "type": "function",
+      "name": "test_greedy_source_expansion_directed_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "summary": "Python function test_greedy_source_expansion_directed_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_multigraph",
+      "type": "function",
+      "name": "test_greedy_source_expansion_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "summary": "Python function test_greedy_source_expansion_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_empty_graph",
+      "type": "function",
+      "name": "test_greedy_source_expansion_empty_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "summary": "Python function test_greedy_source_expansion_empty_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "type": "file",
+      "name": "test_louvain",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_modularity_increase",
+      "type": "function",
+      "name": "test_modularity_increase",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_modularity_increase",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_valid_partition",
+      "type": "function",
+      "name": "test_valid_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_valid_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_karate_club_partition",
+      "type": "function",
+      "name": "test_karate_club_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_karate_club_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_partition_iterator",
+      "type": "function",
+      "name": "test_partition_iterator",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_partition_iterator",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_undirected_selfloops",
+      "type": "function",
+      "name": "test_undirected_selfloops",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_undirected_selfloops",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_directed_selfloops",
+      "type": "function",
+      "name": "test_directed_selfloops",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_directed_selfloops",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_directed_partition",
+      "type": "function",
+      "name": "test_directed_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_directed_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_none_weight_param",
+      "type": "function",
+      "name": "test_none_weight_param",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_none_weight_param",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_quality",
+      "type": "function",
+      "name": "test_quality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_quality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_multigraph",
+      "type": "function",
+      "name": "test_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_resolution",
+      "type": "function",
+      "name": "test_resolution",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_resolution",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_threshold",
+      "type": "function",
+      "name": "test_threshold",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_threshold",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_empty_graph",
+      "type": "function",
+      "name": "test_empty_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_empty_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_max_level",
+      "type": "function",
+      "name": "test_max_level",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "summary": "Python function test_max_level",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/communicability_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/communicability_alg.py:communicability",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/communicability_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/communicability_alg.py:communicability_exp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/asyn_fluid.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/asyn_fluid.py:asyn_fluidc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py:kernighan_lin_bisection",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py:spectral_modularity_bipartition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/bipartitions.py:greedy_node_swap_bipartition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/centrality.py:girvan_newman",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/community_utils.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/community_utils.py:is_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/divisive.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/divisive.py:edge_betweenness_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/divisive.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/divisive.py:edge_current_flow_betweenness_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/kclique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/kclique.py:k_clique_communities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py:fast_label_propagation_communities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py:asyn_lpa_communities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/label_propagation.py:label_propagation_communities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/leiden.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/leiden.py:leiden_communities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/leiden.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/leiden.py:leiden_partitions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/local.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/local.py:greedy_source_expansion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/louvain.py:louvain_communities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/louvain.py:louvain_partitions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/lukes.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/lukes.py:lukes_partitioning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/modularity_max.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/modularity_max.py:greedy_modularity_communities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/modularity_max.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/modularity_max.py:naive_greedy_modularity_communities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py:NotAPartition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py:intra_community_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py:inter_community_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py:inter_community_non_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py:modularity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/quality.py:partition_quality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_raises_on_directed_and_multigraphs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_exceptions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_single_node",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_two_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_two_clique_communities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_five_clique_ring",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_asyn_fluid.py:test_asyn_fluidc_max_iter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:assert_partition_equal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_partition_argument",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_partition_argument_non_integer_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_seed_argument",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_non_disjoint_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_kernighan_lin_too_many_blocks",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_max_iter_argument",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_weight_function",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_spectral_bipartition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_karate_club",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_greedy_bipartition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_greedy_non_disjoint_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_greedy_node_swap_too_many_blocks",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_bipartitions.py:test_greedy_multigraph_disallowed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py:TestGirvanNewman",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py:set_of_sets",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py:validate_communities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_centrality.py:validate_possible_communities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_divisive.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_divisive.py:test_edge_betweenness_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_divisive.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_divisive.py:test_edge_current_flow_betweenness_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py:TestZacharyKarateClub",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py:test_overlapping_K5",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py:test_isolated_K5",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_kclique.py:test_bad_k",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:TestAsynLpaCommunities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:TestFastLabelPropagationCommunities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:test_directed_not_supported",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:test_iterator_vs_iterable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:test_one_node",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:test_unconnected_communities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:test_connected_communities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_label_propagation.py:test_termination",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_leiden_with_nx_backend",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_modularity_increase",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_valid_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_partition_iterator",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_none_weight_param",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_quality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_resolution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_empty_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_directed_not_implemented",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_leiden.py:test_max_level",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_karate_club",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_cutoff",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_invalid_method",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_connected_component",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_directed_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_local.py:test_greedy_source_expansion_empty_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_modularity_increase",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_valid_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_karate_club_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_partition_iterator",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_undirected_selfloops",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_directed_selfloops",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_directed_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_none_weight_param",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_quality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_resolution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_threshold",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_empty_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/community/tests/test_louvain.py:test_max_level",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 124,
+    "edgeCount": 100,
+    "nodeTypes": {
+      "file": 24,
+      "function": 95,
+      "class": 5
+    }
+  }
+}

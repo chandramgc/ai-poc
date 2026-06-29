@@ -1,0 +1,110 @@
+{
+  "batchIndex": 437,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_shape_base.cpython-314.pyc",
+      "type": "file",
+      "name": "test_shape_base.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_shape_base.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_stride_tricks.cpython-314.pyc",
+      "type": "file",
+      "name": "test_stride_tricks.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_stride_tricks.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_twodim_base.cpython-314.pyc",
+      "type": "file",
+      "name": "test_twodim_base.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_twodim_base.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_type_check.cpython-314.pyc",
+      "type": "file",
+      "name": "test_type_check.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_type_check.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_ufunclike.cpython-314.pyc",
+      "type": "file",
+      "name": "test_ufunclike.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_ufunclike.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_utils.cpython-314.pyc",
+      "type": "file",
+      "name": "test_utils.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_utils.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_shape_base.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_shape_base.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_stride_tricks.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_stride_tricks.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_twodim_base.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_twodim_base.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_type_check.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_type_check.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_ufunclike.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_ufunclike.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_utils.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/__pycache__/test_utils.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 6,
+    "nodeTypes": {
+      "file": 6
+    }
+  }
+}

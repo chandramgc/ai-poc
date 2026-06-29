@@ -1,0 +1,142 @@
+{
+  "batchIndex": 3,
+  "nodes": [
+    {
+      "id": "file:.git/COMMIT_EDITMSG",
+      "type": "file",
+      "name": "COMMIT_EDITMSG",
+      "filePath": ".git/COMMIT_EDITMSG",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/FETCH_HEAD",
+      "type": "file",
+      "name": "FETCH_HEAD",
+      "filePath": ".git/FETCH_HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": ".git/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/ORIG_HEAD",
+      "type": "file",
+      "name": "ORIG_HEAD",
+      "filePath": ".git/ORIG_HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/config",
+      "type": "file",
+      "name": "config",
+      "filePath": ".git/config",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/description",
+      "type": "file",
+      "name": "description",
+      "filePath": ".git/description",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/index",
+      "type": "file",
+      "name": "index",
+      "filePath": ".git/index",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/packed-refs",
+      "type": "file",
+      "name": "packed-refs",
+      "filePath": ".git/packed-refs",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:.git/COMMIT_EDITMSG",
+      "target": "file:.git/COMMIT_EDITMSG",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/FETCH_HEAD",
+      "target": "file:.git/FETCH_HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/HEAD",
+      "target": "file:.git/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/ORIG_HEAD",
+      "target": "file:.git/ORIG_HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/config",
+      "target": "file:.git/config",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/description",
+      "target": "file:.git/description",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/index",
+      "target": "file:.git/index",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/packed-refs",
+      "target": "file:.git/packed-refs",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 8,
+    "edgeCount": 8,
+    "nodeTypes": {
+      "file": 8
+    }
+  }
+}

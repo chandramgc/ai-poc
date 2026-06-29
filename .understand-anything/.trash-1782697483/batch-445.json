@@ -1,0 +1,174 @@
+{
+  "batchIndex": 445,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/_polybase.pyi",
+      "type": "file",
+      "name": "_polybase",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/_polybase.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/_polytypes.pyi",
+      "type": "file",
+      "name": "_polytypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/_polytypes.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/chebyshev.pyi",
+      "type": "file",
+      "name": "chebyshev",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/chebyshev.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/hermite.pyi",
+      "type": "file",
+      "name": "hermite",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/hermite.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/hermite_e.pyi",
+      "type": "file",
+      "name": "hermite_e",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/hermite_e.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/laguerre.pyi",
+      "type": "file",
+      "name": "laguerre",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/laguerre.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/legendre.pyi",
+      "type": "file",
+      "name": "legendre",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/legendre.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/polynomial.pyi",
+      "type": "file",
+      "name": "polynomial",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/polynomial.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/polyutils.pyi",
+      "type": "file",
+      "name": "polyutils",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/polyutils.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/polynomial/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/_polybase.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/polynomial/_polybase.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/_polytypes.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/polynomial/_polytypes.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/chebyshev.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/polynomial/chebyshev.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/hermite.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/polynomial/hermite.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/hermite_e.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/polynomial/hermite_e.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/laguerre.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/polynomial/laguerre.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/legendre.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/polynomial/legendre.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/polynomial.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/polynomial/polynomial.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/polyutils.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/polynomial/polyutils.pyi",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 10,
+    "edgeCount": 10,
+    "nodeTypes": {
+      "file": 10
+    }
+  }
+}

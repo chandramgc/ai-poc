@@ -1,0 +1,158 @@
+{
+  "batchIndex": 397,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/multiarray.cpython-314.pyc",
+      "type": "file",
+      "name": "multiarray.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/__pycache__/multiarray.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/numeric.cpython-314.pyc",
+      "type": "file",
+      "name": "numeric.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/__pycache__/numeric.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/numerictypes.cpython-314.pyc",
+      "type": "file",
+      "name": "numerictypes.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/__pycache__/numerictypes.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/overrides.cpython-314.pyc",
+      "type": "file",
+      "name": "overrides.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/__pycache__/overrides.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/printoptions.cpython-314.pyc",
+      "type": "file",
+      "name": "printoptions.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/__pycache__/printoptions.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/records.cpython-314.pyc",
+      "type": "file",
+      "name": "records.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/__pycache__/records.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/shape_base.cpython-314.pyc",
+      "type": "file",
+      "name": "shape_base.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/__pycache__/shape_base.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/strings.cpython-314.pyc",
+      "type": "file",
+      "name": "strings.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/__pycache__/strings.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/umath.cpython-314.pyc",
+      "type": "file",
+      "name": "umath.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/__pycache__/umath.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/multiarray.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/multiarray.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/numeric.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/numeric.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/numerictypes.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/numerictypes.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/overrides.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/overrides.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/printoptions.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/printoptions.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/records.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/records.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/shape_base.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/shape_base.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/strings.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/strings.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/umath.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/__pycache__/umath.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 9,
+    "edgeCount": 9,
+    "nodeTypes": {
+      "file": 9
+    }
+  }
+}

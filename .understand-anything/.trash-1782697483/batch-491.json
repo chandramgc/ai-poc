@@ -1,0 +1,126 @@
+{
+  "batchIndex": 491,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/LICENSE.txt",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/LICENSE.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/t32.exe",
+      "type": "file",
+      "name": "t32",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/t32.exe",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/t64-arm.exe",
+      "type": "file",
+      "name": "t64-arm",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/t64-arm.exe",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/t64.exe",
+      "type": "file",
+      "name": "t64",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/t64.exe",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/w32.exe",
+      "type": "file",
+      "name": "w32",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/w32.exe",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/w64-arm.exe",
+      "type": "file",
+      "name": "w64-arm",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/w64-arm.exe",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/w64.exe",
+      "type": "file",
+      "name": "w64",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/w64.exe",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/LICENSE.txt",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/LICENSE.txt",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/t32.exe",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/t32.exe",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/t64-arm.exe",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/t64-arm.exe",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/t64.exe",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/t64.exe",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/w32.exe",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/w32.exe",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/w64-arm.exe",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/w64-arm.exe",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/w64.exe",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/w64.exe",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 7,
+    "edgeCount": 7,
+    "nodeTypes": {
+      "file": 7
+    }
+  }
+}

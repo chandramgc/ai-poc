@@ -1,0 +1,238 @@
+{
+  "batchIndex": 4,
+  "nodes": [
+    {
+      "id": "file:.git/hooks/applypatch-msg.sample",
+      "type": "file",
+      "name": "applypatch-msg",
+      "filePath": ".git/hooks/applypatch-msg.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/hooks/commit-msg.sample",
+      "type": "file",
+      "name": "commit-msg",
+      "filePath": ".git/hooks/commit-msg.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/hooks/fsmonitor-watchman.sample",
+      "type": "file",
+      "name": "fsmonitor-watchman",
+      "filePath": ".git/hooks/fsmonitor-watchman.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/hooks/post-update.sample",
+      "type": "file",
+      "name": "post-update",
+      "filePath": ".git/hooks/post-update.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/hooks/pre-applypatch.sample",
+      "type": "file",
+      "name": "pre-applypatch",
+      "filePath": ".git/hooks/pre-applypatch.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/hooks/pre-commit.sample",
+      "type": "file",
+      "name": "pre-commit",
+      "filePath": ".git/hooks/pre-commit.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/hooks/pre-merge-commit.sample",
+      "type": "file",
+      "name": "pre-merge-commit",
+      "filePath": ".git/hooks/pre-merge-commit.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/hooks/pre-push.sample",
+      "type": "file",
+      "name": "pre-push",
+      "filePath": ".git/hooks/pre-push.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/hooks/pre-rebase.sample",
+      "type": "file",
+      "name": "pre-rebase",
+      "filePath": ".git/hooks/pre-rebase.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/hooks/pre-receive.sample",
+      "type": "file",
+      "name": "pre-receive",
+      "filePath": ".git/hooks/pre-receive.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/hooks/prepare-commit-msg.sample",
+      "type": "file",
+      "name": "prepare-commit-msg",
+      "filePath": ".git/hooks/prepare-commit-msg.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/hooks/push-to-checkout.sample",
+      "type": "file",
+      "name": "push-to-checkout",
+      "filePath": ".git/hooks/push-to-checkout.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/hooks/sendemail-validate.sample",
+      "type": "file",
+      "name": "sendemail-validate",
+      "filePath": ".git/hooks/sendemail-validate.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/hooks/update.sample",
+      "type": "file",
+      "name": "update",
+      "filePath": ".git/hooks/update.sample",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:.git/hooks/applypatch-msg.sample",
+      "target": "file:.git/hooks/applypatch-msg.sample",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/hooks/commit-msg.sample",
+      "target": "file:.git/hooks/commit-msg.sample",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/hooks/fsmonitor-watchman.sample",
+      "target": "file:.git/hooks/fsmonitor-watchman.sample",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/hooks/post-update.sample",
+      "target": "file:.git/hooks/post-update.sample",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/hooks/pre-applypatch.sample",
+      "target": "file:.git/hooks/pre-applypatch.sample",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/hooks/pre-commit.sample",
+      "target": "file:.git/hooks/pre-commit.sample",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/hooks/pre-merge-commit.sample",
+      "target": "file:.git/hooks/pre-merge-commit.sample",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/hooks/pre-push.sample",
+      "target": "file:.git/hooks/pre-push.sample",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/hooks/pre-rebase.sample",
+      "target": "file:.git/hooks/pre-rebase.sample",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/hooks/pre-receive.sample",
+      "target": "file:.git/hooks/pre-receive.sample",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/hooks/prepare-commit-msg.sample",
+      "target": "file:.git/hooks/prepare-commit-msg.sample",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/hooks/push-to-checkout.sample",
+      "target": "file:.git/hooks/push-to-checkout.sample",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/hooks/sendemail-validate.sample",
+      "target": "file:.git/hooks/sendemail-validate.sample",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/hooks/update.sample",
+      "target": "file:.git/hooks/update.sample",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 14,
+    "edgeCount": 14,
+    "nodeTypes": {
+      "file": 14
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "batchIndex": 498,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/__main__.cpython-314.pyc",
+      "type": "file",
+      "name": "__main__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/__main__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/android.cpython-314.pyc",
+      "type": "file",
+      "name": "android.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/android.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/api.cpython-314.pyc",
+      "type": "file",
+      "name": "api.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/api.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/macos.cpython-314.pyc",
+      "type": "file",
+      "name": "macos.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/macos.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/unix.cpython-314.pyc",
+      "type": "file",
+      "name": "unix.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/unix.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/version.cpython-314.pyc",
+      "type": "file",
+      "name": "version.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/version.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/windows.cpython-314.pyc",
+      "type": "file",
+      "name": "windows.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/windows.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/__main__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/__main__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/android.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/android.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/api.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/api.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/macos.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/macos.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/unix.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/unix.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/version.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/version.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/windows.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__pycache__/windows.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 8,
+    "edgeCount": 8,
+    "nodeTypes": {
+      "file": 8
+    }
+  }
+}

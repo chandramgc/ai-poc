@@ -1,0 +1,126 @@
+{
+  "batchIndex": 309,
+  "nodes": [
+    {
+      "id": "file:tmp/test-java-fixed/.gitignore",
+      "type": "file",
+      "name": ".gitignore",
+      "filePath": "tmp/test-java-fixed/.gitignore",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java-fixed/.graphifyignore",
+      "type": "file",
+      "name": ".graphifyignore",
+      "filePath": "tmp/test-java-fixed/.graphifyignore",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java-fixed/AGENTS.md",
+      "type": "document",
+      "name": "AGENTS",
+      "filePath": "tmp/test-java-fixed/AGENTS.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:AGENTS.md - AI Agent Configura",
+        "section:\ud83c\udf31 Spec Kit (SDD)",
+        "section:\ud83d\udc34 Ponytail",
+        "section:\ud83e\udde0 Graphify",
+        "section:Development Workflow",
+        "section:Key Files",
+        "code_blocks:1"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java-fixed/Makefile",
+      "type": "file",
+      "name": "Makefile",
+      "filePath": "tmp/test-java-fixed/Makefile",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java-fixed/README.md",
+      "type": "document",
+      "name": "README",
+      "filePath": "tmp/test-java-fixed/README.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Project with Automation",
+        "section:\ud83c\udf31 Spec Kit (Spec-Driven Develo",
+        "section:Spec Kit Resources",
+        "section:\ud83d\udc34 Ponytail",
+        "section:Ponytail Resources",
+        "section:\ud83e\udde0 Graphify",
+        "section:Graphify Resources",
+        "section:\ud83d\ude80 Quick Start",
+        "section:1. Initialize the project",
+        "section:2. Generate knowledge graph",
+        "code_blocks:11"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java-fixed/build.gradle",
+      "type": "config",
+      "name": "build",
+      "filePath": "tmp/test-java-fixed/build.gradle",
+      "summary": "Gradle build configuration",
+      "tags": [
+        "gradle",
+        "config",
+        "build",
+        "plugin:java",
+        "plugin:org.springframework.boot",
+        "plugin:io.spring.dependency-management",
+        "dependencies:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/test-java-fixed/.gitignore",
+      "target": "file:tmp/test-java-fixed/.gitignore",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java-fixed/.graphifyignore",
+      "target": "file:tmp/test-java-fixed/.graphifyignore",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java-fixed/Makefile",
+      "target": "file:tmp/test-java-fixed/Makefile",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 3,
+    "nodeTypes": {
+      "file": 3,
+      "document": 2,
+      "config": 1
+    }
+  }
+}

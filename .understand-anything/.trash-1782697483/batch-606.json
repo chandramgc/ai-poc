@@ -1,0 +1,1360 @@
+{
+  "batchIndex": 606,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/spectral.py",
+      "type": "file",
+      "name": "spectral",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/spectral.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/spectral.py:spectral_bipartivity",
+      "type": "function",
+      "name": "spectral_bipartivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/spectral.py",
+      "summary": "Python function spectral_bipartivity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_basic.py",
+      "type": "file",
+      "name": "test_basic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_basic.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_basic.py:TestBipartiteBasic",
+      "type": "class",
+      "name": "TestBipartiteBasic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_basic.py",
+      "summary": "Python class TestBipartiteBasic",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_centrality.py",
+      "type": "file",
+      "name": "test_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_centrality.py:TestBipartiteCentrality",
+      "type": "class",
+      "name": "TestBipartiteCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_centrality.py",
+      "summary": "Python class TestBipartiteCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "type": "file",
+      "name": "test_cluster",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_pairwise_bipartite_cc_functions",
+      "type": "function",
+      "name": "test_pairwise_bipartite_cc_functions",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "summary": "Python function test_pairwise_bipartite_cc_functions",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_star_graph",
+      "type": "function",
+      "name": "test_star_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "summary": "Python function test_star_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_not_bipartite",
+      "type": "function",
+      "name": "test_not_bipartite",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "summary": "Python function test_not_bipartite",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_bad_mode",
+      "type": "function",
+      "name": "test_bad_mode",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "summary": "Python function test_bad_mode",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_path_graph",
+      "type": "function",
+      "name": "test_path_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "summary": "Python function test_path_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_average_path_graph",
+      "type": "function",
+      "name": "test_average_path_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "summary": "Python function test_average_path_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_ra_clustering_davis",
+      "type": "function",
+      "name": "test_ra_clustering_davis",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "summary": "Python function test_ra_clustering_davis",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_ra_clustering_square",
+      "type": "function",
+      "name": "test_ra_clustering_square",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "summary": "Python function test_ra_clustering_square",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_ra_clustering_zero",
+      "type": "function",
+      "name": "test_ra_clustering_zero",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "summary": "Python function test_ra_clustering_zero",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_covering.py",
+      "type": "file",
+      "name": "test_covering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_covering.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_covering.py:TestMinEdgeCover",
+      "type": "class",
+      "name": "TestMinEdgeCover",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_covering.py",
+      "summary": "Python class TestMinEdgeCover",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_edgelist.py",
+      "type": "file",
+      "name": "test_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_edgelist.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_edgelist.py:TestEdgelist",
+      "type": "class",
+      "name": "TestEdgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_edgelist.py",
+      "summary": "Python class TestEdgelist",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_edgelist.py:test_bipartite_edgelist_consistent_strip_handling",
+      "type": "function",
+      "name": "test_bipartite_edgelist_consistent_strip_handling",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_edgelist.py",
+      "summary": "Python function test_bipartite_edgelist_consistent_strip_handling",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "type": "file",
+      "name": "test_extendability",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_selfloops_raises",
+      "type": "function",
+      "name": "test_selfloops_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "summary": "Python function test_selfloops_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_disconnected_raises",
+      "type": "function",
+      "name": "test_disconnected_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "summary": "Python function test_disconnected_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_not_bipartite_raises",
+      "type": "function",
+      "name": "test_not_bipartite_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "summary": "Python function test_not_bipartite_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_no_perfect_matching_raises",
+      "type": "function",
+      "name": "test_no_perfect_matching_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "summary": "Python function test_no_perfect_matching_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_residual_graph_not_strongly_connected_raises",
+      "type": "function",
+      "name": "test_residual_graph_not_strongly_connected_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "summary": "Python function test_residual_graph_not_strongly_connected_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_ladder_graph_is_1",
+      "type": "function",
+      "name": "test_ladder_graph_is_1",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "summary": "Python function test_ladder_graph_is_1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_cubical_graph_is_2",
+      "type": "function",
+      "name": "test_cubical_graph_is_2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "summary": "Python function test_cubical_graph_is_2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_k_is_3",
+      "type": "function",
+      "name": "test_k_is_3",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "summary": "Python function test_k_is_3",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_k_is_4",
+      "type": "function",
+      "name": "test_k_is_4",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "summary": "Python function test_k_is_4",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_k_is_5",
+      "type": "function",
+      "name": "test_k_is_5",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "summary": "Python function test_k_is_5",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_k_is_6",
+      "type": "function",
+      "name": "test_k_is_6",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "summary": "Python function test_k_is_6",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_k_is_7",
+      "type": "function",
+      "name": "test_k_is_7",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "summary": "Python function test_k_is_7",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_generators.py",
+      "type": "file",
+      "name": "test_generators",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_generators.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_generators.py:TestGeneratorsBipartite",
+      "type": "class",
+      "name": "TestGeneratorsBipartite",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_generators.py",
+      "summary": "Python class TestGeneratorsBipartite",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_link_analysis.py",
+      "type": "file",
+      "name": "test_link_analysis",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_link_analysis.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_link_analysis.py:TestBipartiteLinkAnalysis",
+      "type": "class",
+      "name": "TestBipartiteLinkAnalysis",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_link_analysis.py",
+      "summary": "Python class TestBipartiteLinkAnalysis",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py",
+      "type": "file",
+      "name": "test_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py:TestMatching",
+      "type": "class",
+      "name": "TestMatching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py",
+      "summary": "Python class TestMatching",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py:TestMinimumWeightFullMatching",
+      "type": "class",
+      "name": "TestMinimumWeightFullMatching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py",
+      "summary": "Python class TestMinimumWeightFullMatching",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py:test_eppstein_matching",
+      "type": "function",
+      "name": "test_eppstein_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py",
+      "summary": "Python function test_eppstein_matching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matrix.py",
+      "type": "file",
+      "name": "test_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matrix.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matrix.py:TestBiadjacencyMatrix",
+      "type": "class",
+      "name": "TestBiadjacencyMatrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matrix.py",
+      "summary": "Python class TestBiadjacencyMatrix",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_project.py",
+      "type": "file",
+      "name": "test_project",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_project.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_project.py:TestBipartiteProject",
+      "type": "class",
+      "name": "TestBipartiteProject",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_project.py",
+      "summary": "Python class TestBipartiteProject",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_project.py:TestBipartiteWeightedProjection",
+      "type": "class",
+      "name": "TestBipartiteWeightedProjection",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_project.py",
+      "summary": "Python class TestBipartiteWeightedProjection",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py",
+      "type": "file",
+      "name": "test_redundancy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py:test_no_redundant_nodes",
+      "type": "function",
+      "name": "test_no_redundant_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py",
+      "summary": "Python function test_no_redundant_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py:test_redundant_nodes",
+      "type": "function",
+      "name": "test_redundant_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py",
+      "summary": "Python function test_redundant_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py:test_not_enough_neighbors",
+      "type": "function",
+      "name": "test_not_enough_neighbors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py",
+      "summary": "Python function test_not_enough_neighbors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_spectral_bipartivity.py",
+      "type": "file",
+      "name": "test_spectral_bipartivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_spectral_bipartivity.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_spectral_bipartivity.py:TestSpectralBipartivity",
+      "type": "class",
+      "name": "TestSpectralBipartivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_spectral_bipartivity.py",
+      "summary": "Python class TestSpectralBipartivity",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/boundary.py",
+      "type": "file",
+      "name": "boundary",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/boundary.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/boundary.py:edge_boundary",
+      "type": "function",
+      "name": "edge_boundary",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/boundary.py",
+      "summary": "Python function edge_boundary",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/boundary.py:node_boundary",
+      "type": "function",
+      "name": "node_boundary",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/boundary.py",
+      "summary": "Python function node_boundary",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py",
+      "type": "file",
+      "name": "bridges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py:bridges",
+      "type": "function",
+      "name": "bridges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py",
+      "summary": "Python function bridges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py:has_bridges",
+      "type": "function",
+      "name": "has_bridges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py",
+      "summary": "Python function has_bridges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py:local_bridges",
+      "type": "function",
+      "name": "local_bridges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py",
+      "summary": "Python function local_bridges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/broadcasting.py",
+      "type": "file",
+      "name": "broadcasting",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/broadcasting.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/broadcasting.py:tree_broadcast_center",
+      "type": "function",
+      "name": "tree_broadcast_center",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/broadcasting.py",
+      "summary": "Python function tree_broadcast_center",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/broadcasting.py:tree_broadcast_time",
+      "type": "function",
+      "name": "tree_broadcast_time",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/broadcasting.py",
+      "summary": "Python function tree_broadcast_time",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:20"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/__pycache__/trophic.cpython-314.pyc",
+      "type": "file",
+      "name": "trophic.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/__pycache__/trophic.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/__pycache__/voterank_alg.cpython-314.pyc",
+      "type": "file",
+      "name": "voterank_alg.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/__pycache__/voterank_alg.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness_subset.py",
+      "type": "file",
+      "name": "betweenness_subset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness_subset.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness_subset.py:betweenness_centrality_subset",
+      "type": "function",
+      "name": "betweenness_centrality_subset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness_subset.py",
+      "summary": "Python function betweenness_centrality_subset",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness_subset.py:edge_betweenness_centrality_subset",
+      "type": "function",
+      "name": "edge_betweenness_centrality_subset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness_subset.py",
+      "summary": "Python function edge_betweenness_centrality_subset",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness.py",
+      "type": "file",
+      "name": "betweenness",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness.py:betweenness_centrality",
+      "type": "function",
+      "name": "betweenness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness.py",
+      "summary": "Python function betweenness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness.py:edge_betweenness_centrality",
+      "type": "function",
+      "name": "edge_betweenness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness.py",
+      "summary": "Python function edge_betweenness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/closeness.py",
+      "type": "file",
+      "name": "closeness",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/closeness.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/closeness.py:closeness_centrality",
+      "type": "function",
+      "name": "closeness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/closeness.py",
+      "summary": "Python function closeness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/closeness.py:incremental_closeness_centrality",
+      "type": "function",
+      "name": "incremental_closeness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/closeness.py",
+      "summary": "Python function incremental_closeness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness_subset.py",
+      "type": "file",
+      "name": "current_flow_betweenness_subset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness_subset.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness_subset.py:current_flow_betweenness_centrality_subset",
+      "type": "function",
+      "name": "current_flow_betweenness_centrality_subset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness_subset.py",
+      "summary": "Python function current_flow_betweenness_centrality_subset",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness_subset.py:edge_current_flow_betweenness_centrality_subset",
+      "type": "function",
+      "name": "edge_current_flow_betweenness_centrality_subset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness_subset.py",
+      "summary": "Python function edge_current_flow_betweenness_centrality_subset",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/spectral.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/spectral.py:spectral_bipartivity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_basic.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_basic.py:TestBipartiteBasic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_centrality.py:TestBipartiteCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_pairwise_bipartite_cc_functions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_star_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_not_bipartite",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_bad_mode",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_path_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_average_path_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_ra_clustering_davis",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_ra_clustering_square",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_cluster.py:test_ra_clustering_zero",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_covering.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_covering.py:TestMinEdgeCover",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_edgelist.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_edgelist.py:TestEdgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_edgelist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_edgelist.py:test_bipartite_edgelist_consistent_strip_handling",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_selfloops_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_disconnected_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_not_bipartite_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_no_perfect_matching_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_residual_graph_not_strongly_connected_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_ladder_graph_is_1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_cubical_graph_is_2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_k_is_3",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_k_is_4",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_k_is_5",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_k_is_6",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_extendability.py:test_k_is_7",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_generators.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_generators.py:TestGeneratorsBipartite",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_link_analysis.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_link_analysis.py:TestBipartiteLinkAnalysis",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py:TestMatching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py:TestMinimumWeightFullMatching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matching.py:test_eppstein_matching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matrix.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_matrix.py:TestBiadjacencyMatrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_project.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_project.py:TestBipartiteProject",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_project.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_project.py:TestBipartiteWeightedProjection",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py:test_no_redundant_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py:test_redundant_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_redundancy.py:test_not_enough_neighbors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_spectral_bipartivity.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/tests/test_spectral_bipartivity.py:TestSpectralBipartivity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/boundary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/boundary.py:edge_boundary",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/boundary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/boundary.py:node_boundary",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py:bridges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py:has_bridges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bridges.py:local_bridges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/broadcasting.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/broadcasting.py:tree_broadcast_center",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/broadcasting.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/broadcasting.py:tree_broadcast_time",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/__pycache__/trophic.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/__pycache__/trophic.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/__pycache__/voterank_alg.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/__pycache__/voterank_alg.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness_subset.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness_subset.py:betweenness_centrality_subset",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness_subset.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness_subset.py:edge_betweenness_centrality_subset",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness.py:betweenness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/betweenness.py:edge_betweenness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/closeness.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/closeness.py:closeness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/closeness.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/closeness.py:incremental_closeness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness_subset.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness_subset.py:current_flow_betweenness_centrality_subset",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness_subset.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness_subset.py:edge_current_flow_betweenness_centrality_subset",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 78,
+    "edgeCount": 56,
+    "nodeTypes": {
+      "file": 24,
+      "function": 42,
+      "class": 12
+    }
+  }
+}

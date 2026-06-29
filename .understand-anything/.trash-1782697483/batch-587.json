@@ -1,0 +1,440 @@
+{
+  "batchIndex": 587,
+  "nodes": [
+    {
+      "id": "file:.specify/extensions/agent-context/scripts/bash/update-agent-context.sh",
+      "type": "file",
+      "name": "update-agent-context",
+      "filePath": ".specify/extensions/agent-context/scripts/bash/update-agent-context.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/extensions/agent-context/scripts/powershell/update-agent-context.ps1",
+      "type": "file",
+      "name": "update-agent-context",
+      "filePath": ".specify/extensions/agent-context/scripts/powershell/update-agent-context.ps1",
+      "summary": "Powershell file",
+      "tags": [
+        "powershell"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/integrations/copilot.manifest.json",
+      "type": "config",
+      "name": "copilot.manifest",
+      "filePath": ".specify/integrations/copilot.manifest.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:4"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/integrations/speckit.manifest.json",
+      "type": "config",
+      "name": "speckit.manifest",
+      "filePath": ".specify/integrations/speckit.manifest.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:4"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/memory/constitution.md",
+      "type": "document",
+      "name": "constitution",
+      "filePath": ".specify/memory/constitution.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:[PROJECT_NAME] Constitution",
+        "section:Core Principles",
+        "section:[PRINCIPLE_1_NAME]",
+        "section:[PRINCIPLE_2_NAME]",
+        "section:[PRINCIPLE_3_NAME]",
+        "section:[PRINCIPLE_4_NAME]",
+        "section:[PRINCIPLE_5_NAME]",
+        "section:[SECTION_2_NAME]",
+        "section:[SECTION_3_NAME]",
+        "section:Governance"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/workflows/speckit/workflow.yml",
+      "type": "config",
+      "name": "workflow",
+      "filePath": ".specify/workflows/speckit/workflow.yml",
+      "summary": "YAML configuration file",
+      "tags": [
+        "yaml",
+        "config",
+        "keys:5"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/workflows/workflow-registry.json",
+      "type": "config",
+      "name": "workflow-registry",
+      "filePath": ".specify/workflows/workflow-registry.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:2"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.understand-anything/.understandignore",
+      "type": "file",
+      "name": ".understandignore",
+      "filePath": ".understand-anything/.understandignore",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.vscode/settings.json",
+      "type": "config",
+      "name": "settings",
+      "filePath": ".vscode/settings.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:2"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/jacoco/test.exec",
+      "type": "file",
+      "name": "test",
+      "filePath": "build/jacoco/test.exec",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/index.html",
+      "type": "file",
+      "name": "index",
+      "filePath": "build/reports/jacoco/test/html/index.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/jacoco-resources/prettify.css",
+      "type": "file",
+      "name": "prettify",
+      "filePath": "build/reports/jacoco/test/html/jacoco-resources/prettify.css",
+      "summary": "Css file",
+      "tags": [
+        "css"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/jacoco-resources/prettify.js",
+      "type": "file",
+      "name": "prettify",
+      "filePath": "build/reports/jacoco/test/html/jacoco-resources/prettify.js",
+      "summary": "Javascript file",
+      "tags": [
+        "javascript"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/jacoco-resources/report.css",
+      "type": "file",
+      "name": "report",
+      "filePath": "build/reports/jacoco/test/html/jacoco-resources/report.css",
+      "summary": "Css file",
+      "tags": [
+        "css"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/jacoco-resources/sort.js",
+      "type": "file",
+      "name": "sort",
+      "filePath": "build/reports/jacoco/test/html/jacoco-resources/sort.js",
+      "summary": "Javascript file",
+      "tags": [
+        "javascript"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/jacoco-sessions.html",
+      "type": "file",
+      "name": "jacoco-sessions",
+      "filePath": "build/reports/jacoco/test/html/jacoco-sessions.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/jacocoTestReport.xml",
+      "type": "config",
+      "name": "jacocoTestReport",
+      "filePath": "build/reports/jacoco/test/jacocoTestReport.xml",
+      "summary": "XML configuration file",
+      "tags": [
+        "xml",
+        "config"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/problems/problems-report.html",
+      "type": "file",
+      "name": "problems-report",
+      "filePath": "build/reports/problems/problems-report.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/tests/test/css/base-style.css",
+      "type": "file",
+      "name": "base-style",
+      "filePath": "build/reports/tests/test/css/base-style.css",
+      "summary": "Css file",
+      "tags": [
+        "css"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/tests/test/css/style.css",
+      "type": "file",
+      "name": "style",
+      "filePath": "build/reports/tests/test/css/style.css",
+      "summary": "Css file",
+      "tags": [
+        "css"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/tests/test/index.html",
+      "type": "file",
+      "name": "index",
+      "filePath": "build/reports/tests/test/index.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/tests/test/js/report.js",
+      "type": "file",
+      "name": "report",
+      "filePath": "build/reports/tests/test/js/report.js",
+      "summary": "Javascript file",
+      "tags": [
+        "javascript"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/tests/test/packages/com.aipoc.controller.html",
+      "type": "file",
+      "name": "com.aipoc.controller",
+      "filePath": "build/reports/tests/test/packages/com.aipoc.controller.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/tests/test/packages/com.aipoc.service.html",
+      "type": "file",
+      "name": "com.aipoc.service",
+      "filePath": "build/reports/tests/test/packages/com.aipoc.service.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/resolvedMainClassName",
+      "type": "file",
+      "name": "resolvedMainClassName",
+      "filePath": "build/resolvedMainClassName",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:.specify/extensions/agent-context/scripts/bash/update-agent-context.sh",
+      "target": "file:.specify/extensions/agent-context/scripts/bash/update-agent-context.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.specify/extensions/agent-context/scripts/powershell/update-agent-context.ps1",
+      "target": "file:.specify/extensions/agent-context/scripts/powershell/update-agent-context.ps1",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.understand-anything/.understandignore",
+      "target": "file:.understand-anything/.understandignore",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/jacoco/test.exec",
+      "target": "file:build/jacoco/test.exec",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/index.html",
+      "target": "file:build/reports/jacoco/test/html/index.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/jacoco-resources/prettify.css",
+      "target": "file:build/reports/jacoco/test/html/jacoco-resources/prettify.css",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/jacoco-resources/prettify.js",
+      "target": "file:build/reports/jacoco/test/html/jacoco-resources/prettify.js",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/jacoco-resources/report.css",
+      "target": "file:build/reports/jacoco/test/html/jacoco-resources/report.css",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/jacoco-resources/sort.js",
+      "target": "file:build/reports/jacoco/test/html/jacoco-resources/sort.js",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/jacoco-sessions.html",
+      "target": "file:build/reports/jacoco/test/html/jacoco-sessions.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/problems/problems-report.html",
+      "target": "file:build/reports/problems/problems-report.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/tests/test/css/base-style.css",
+      "target": "file:build/reports/tests/test/css/base-style.css",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/tests/test/css/style.css",
+      "target": "file:build/reports/tests/test/css/style.css",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/tests/test/index.html",
+      "target": "file:build/reports/tests/test/index.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/tests/test/js/report.js",
+      "target": "file:build/reports/tests/test/js/report.js",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/tests/test/packages/com.aipoc.controller.html",
+      "target": "file:build/reports/tests/test/packages/com.aipoc.controller.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/tests/test/packages/com.aipoc.service.html",
+      "target": "file:build/reports/tests/test/packages/com.aipoc.service.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/resolvedMainClassName",
+      "target": "file:build/resolvedMainClassName",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 25,
+    "edgeCount": 18,
+    "nodeTypes": {
+      "file": 18,
+      "config": 6,
+      "document": 1
+    }
+  }
+}

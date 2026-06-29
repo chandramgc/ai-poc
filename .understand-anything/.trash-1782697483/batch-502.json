@@ -1,0 +1,78 @@
+{
+  "batchIndex": 502,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/providers.cpython-314.pyc",
+      "type": "file",
+      "name": "providers.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/providers.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/reporters.cpython-314.pyc",
+      "type": "file",
+      "name": "reporters.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/reporters.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/structs.cpython-314.pyc",
+      "type": "file",
+      "name": "structs.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/structs.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/providers.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/providers.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/reporters.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/reporters.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/structs.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__pycache__/structs.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 4,
+    "nodeTypes": {
+      "file": 4
+    }
+  }
+}

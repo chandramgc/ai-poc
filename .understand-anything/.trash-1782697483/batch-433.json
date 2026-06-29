@@ -1,0 +1,206 @@
+{
+  "batchIndex": 433,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/_user_array_impl.pyi",
+      "type": "file",
+      "name": "_user_array_impl",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_user_array_impl.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/_utils_impl.pyi",
+      "type": "file",
+      "name": "_utils_impl",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_utils_impl.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/_version.pyi",
+      "type": "file",
+      "name": "_version",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_version.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/array_utils.pyi",
+      "type": "file",
+      "name": "array_utils",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/array_utils.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/format.pyi",
+      "type": "file",
+      "name": "format",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/format.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/introspect.pyi",
+      "type": "file",
+      "name": "introspect",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/introspect.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/mixins.pyi",
+      "type": "file",
+      "name": "mixins",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/mixins.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/npyio.pyi",
+      "type": "file",
+      "name": "npyio",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/npyio.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/recfunctions.pyi",
+      "type": "file",
+      "name": "recfunctions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/recfunctions.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/scimath.pyi",
+      "type": "file",
+      "name": "scimath",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/scimath.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/stride_tricks.pyi",
+      "type": "file",
+      "name": "stride_tricks",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/stride_tricks.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/user_array.pyi",
+      "type": "file",
+      "name": "user_array",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/user_array.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_user_array_impl.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/_user_array_impl.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_utils_impl.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/_utils_impl.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_version.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/_version.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/array_utils.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/array_utils.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/format.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/format.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/introspect.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/introspect.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/mixins.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/mixins.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/npyio.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/npyio.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/recfunctions.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/recfunctions.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/scimath.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/scimath.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/stride_tricks.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/stride_tricks.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/user_array.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/user_array.pyi",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 12,
+    "edgeCount": 12,
+    "nodeTypes": {
+      "file": 12
+    }
+  }
+}

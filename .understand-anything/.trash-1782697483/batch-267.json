@@ -1,0 +1,246 @@
+{
+  "batchIndex": 267,
+  "nodes": [
+    {
+      "id": "file:.github/agents/speckit.agent-context.update.agent.md",
+      "type": "document",
+      "name": "speckit.agent-context.update.agent",
+      "filePath": ".github/agents/speckit.agent-context.update.agent.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Update Coding Agent Context",
+        "section:Behavior",
+        "section:Execution"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/agents/speckit.analyze.agent.md",
+      "type": "document",
+      "name": "speckit.analyze.agent",
+      "filePath": ".github/agents/speckit.analyze.agent.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:User Input",
+        "section:Pre-Execution Checks",
+        "section:Goal",
+        "section:Operating Constraints",
+        "section:Execution Steps",
+        "section:1. Initialize Analysis Context",
+        "section:2. Load Artifacts (Progressive",
+        "section:3. Build Semantic Models",
+        "section:4. Detection Passes (Token-Eff",
+        "section:A. Duplication Detection",
+        "code_blocks:5"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/agents/speckit.checklist.agent.md",
+      "type": "document",
+      "name": "speckit.checklist.agent",
+      "filePath": ".github/agents/speckit.checklist.agent.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Checklist Purpose: \"Unit Tests",
+        "section:User Input",
+        "section:Pre-Execution Checks",
+        "section:Execution Steps",
+        "section:Example Checklist Types & Samp",
+        "section:Anti-Examples: What NOT To Do",
+        "section:Post-Execution Checks",
+        "code_blocks:7"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/agents/speckit.clarify.agent.md",
+      "type": "document",
+      "name": "speckit.clarify.agent",
+      "filePath": ".github/agents/speckit.clarify.agent.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:User Input",
+        "section:Pre-Execution Checks",
+        "section:Outline",
+        "section:Mandatory Post-Execution Hooks",
+        "section:Completion Report",
+        "section:Done When",
+        "code_blocks:5"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/agents/speckit.constitution.agent.md",
+      "type": "document",
+      "name": "speckit.constitution.agent",
+      "filePath": ".github/agents/speckit.constitution.agent.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:User Input",
+        "section:Pre-Execution Checks",
+        "section:Outline",
+        "section:Post-Execution Checks",
+        "code_blocks:5"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/agents/speckit.converge.agent.md",
+      "type": "document",
+      "name": "speckit.converge.agent",
+      "filePath": ".github/agents/speckit.converge.agent.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:User Input",
+        "section:Pre-Execution Checks",
+        "section:Goal",
+        "section:Operating Constraints",
+        "section:Execution Steps",
+        "section:1. Initialize Convergence Cont",
+        "section:2. Load Artifacts (Progressive",
+        "section:3. Build the Intent Inventory",
+        "section:4. Assess the Codebase and Cla",
+        "section:5. Assign Severity",
+        "code_blocks:6"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/agents/speckit.implement.agent.md",
+      "type": "document",
+      "name": "speckit.implement.agent",
+      "filePath": ".github/agents/speckit.implement.agent.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:User Input",
+        "section:Pre-Execution Checks",
+        "section:Outline",
+        "section:Mandatory Post-Execution Hooks",
+        "section:Completion Report",
+        "section:Done When",
+        "code_blocks:7"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/agents/speckit.plan.agent.md",
+      "type": "document",
+      "name": "speckit.plan.agent",
+      "filePath": ".github/agents/speckit.plan.agent.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:User Input",
+        "section:Pre-Execution Checks",
+        "section:Outline",
+        "section:Mandatory Post-Execution Hooks",
+        "section:Completion Report",
+        "section:Phases",
+        "section:Phase 0: Outline & Research",
+        "section:Phase 1: Design & Contracts",
+        "section:Key rules",
+        "section:Done When",
+        "code_blocks:6"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/agents/speckit.specify.agent.md",
+      "type": "document",
+      "name": "speckit.specify.agent",
+      "filePath": ".github/agents/speckit.specify.agent.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:User Input",
+        "section:Pre-Execution Checks",
+        "section:Outline",
+        "section:Mandatory Post-Execution Hooks",
+        "section:Completion Report",
+        "section:Quick Guidelines",
+        "section:Section Requirements",
+        "section:For AI Generation",
+        "section:Success Criteria Guidelines",
+        "section:Done When",
+        "code_blocks:8"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/agents/speckit.tasks.agent.md",
+      "type": "document",
+      "name": "speckit.tasks.agent",
+      "filePath": ".github/agents/speckit.tasks.agent.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:User Input",
+        "section:Pre-Execution Checks",
+        "section:Outline",
+        "section:Mandatory Post-Execution Hooks",
+        "section:Completion Report",
+        "section:Task Generation Rules",
+        "section:Checklist Format (REQUIRED)",
+        "section:Task Organization",
+        "section:Phase Structure",
+        "section:Done When",
+        "code_blocks:6"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.github/agents/speckit.taskstoissues.agent.md",
+      "type": "document",
+      "name": "speckit.taskstoissues.agent",
+      "filePath": ".github/agents/speckit.taskstoissues.agent.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:User Input",
+        "section:Pre-Execution Checks",
+        "section:Outline",
+        "section:Post-Execution Checks",
+        "code_blocks:6"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [],
+  "statistics": {
+    "nodeCount": 11,
+    "edgeCount": 0,
+    "nodeTypes": {
+      "document": 11
+    }
+  }
+}

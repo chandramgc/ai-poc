@@ -1,0 +1,62 @@
+{
+  "batchIndex": 422,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/gh_22819.pyf",
+      "type": "file",
+      "name": "gh_22819",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/gh_22819.pyf",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/hi77.f",
+      "type": "file",
+      "name": "hi77",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/hi77.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/hiworld.f90",
+      "type": "file",
+      "name": "hiworld",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/hiworld.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/gh_22819.pyf",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/gh_22819.pyf",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/hi77.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/hi77.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/hiworld.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/hiworld.f90",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 3,
+    "edgeCount": 3,
+    "nodeTypes": {
+      "file": 3
+    }
+  }
+}

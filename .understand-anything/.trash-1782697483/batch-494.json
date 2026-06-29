@@ -1,0 +1,142 @@
+{
+  "batchIndex": 494,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/codec.cpython-314.pyc",
+      "type": "file",
+      "name": "codec.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/codec.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/compat.cpython-314.pyc",
+      "type": "file",
+      "name": "compat.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/compat.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/core.cpython-314.pyc",
+      "type": "file",
+      "name": "core.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/core.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/idnadata.cpython-314.pyc",
+      "type": "file",
+      "name": "idnadata.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/idnadata.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/intranges.cpython-314.pyc",
+      "type": "file",
+      "name": "intranges.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/intranges.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/package_data.cpython-314.pyc",
+      "type": "file",
+      "name": "package_data.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/package_data.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/uts46data.cpython-314.pyc",
+      "type": "file",
+      "name": "uts46data.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/uts46data.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/codec.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/codec.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/compat.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/compat.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/core.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/core.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/idnadata.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/idnadata.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/intranges.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/intranges.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/package_data.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/package_data.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/uts46data.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/idna/__pycache__/uts46data.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 8,
+    "edgeCount": 8,
+    "nodeTypes": {
+      "file": 8
+    }
+  }
+}

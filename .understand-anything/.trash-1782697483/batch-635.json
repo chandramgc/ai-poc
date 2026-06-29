@@ -1,0 +1,5424 @@
+{
+  "batchIndex": 635,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/_isocbind.py",
+      "type": "file",
+      "name": "_isocbind",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_isocbind.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "type": "file",
+      "name": "_src_pyf",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:parse_structure",
+      "type": "function",
+      "name": "parse_structure",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "summary": "Python function parse_structure",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:find_repl_patterns",
+      "type": "function",
+      "name": "find_repl_patterns",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "summary": "Python function find_repl_patterns",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:find_and_remove_repl_patterns",
+      "type": "function",
+      "name": "find_and_remove_repl_patterns",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "summary": "Python function find_and_remove_repl_patterns",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:conv",
+      "type": "function",
+      "name": "conv",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "summary": "Python function conv",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:unique_key",
+      "type": "function",
+      "name": "unique_key",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "summary": "Python function unique_key",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:expand_sub",
+      "type": "function",
+      "name": "expand_sub",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "summary": "Python function expand_sub",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:process_str",
+      "type": "function",
+      "name": "process_str",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "summary": "Python function process_str",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:resolve_includes",
+      "type": "function",
+      "name": "resolve_includes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "summary": "Python function resolve_includes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:process_file",
+      "type": "function",
+      "name": "process_file",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "summary": "Python function process_file",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "type": "file",
+      "name": "auxfuncs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:F2PYError",
+      "type": "class",
+      "name": "F2PYError",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python class F2PYError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:throw_error",
+      "type": "class",
+      "name": "throw_error",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python class throw_error",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:outmess",
+      "type": "function",
+      "name": "outmess",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function outmess",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:debugcapi",
+      "type": "function",
+      "name": "debugcapi",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function debugcapi",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:ischaracter_or_characterarray",
+      "type": "function",
+      "name": "ischaracter_or_characterarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function ischaracter_or_characterarray",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:ischaracter",
+      "type": "function",
+      "name": "ischaracter",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function ischaracter",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:ischaracterarray",
+      "type": "function",
+      "name": "ischaracterarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function ischaracterarray",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isstring_or_stringarray",
+      "type": "function",
+      "name": "isstring_or_stringarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isstring_or_stringarray",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isstring",
+      "type": "function",
+      "name": "isstring",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isstring",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isstringarray",
+      "type": "function",
+      "name": "isstringarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isstringarray",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isarrayofstrings",
+      "type": "function",
+      "name": "isarrayofstrings",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isarrayofstrings",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isarray",
+      "type": "function",
+      "name": "isarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isarray",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isscalar",
+      "type": "function",
+      "name": "isscalar",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isscalar",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:iscomplex",
+      "type": "function",
+      "name": "iscomplex",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function iscomplex",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islogical",
+      "type": "function",
+      "name": "islogical",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function islogical",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isinteger",
+      "type": "function",
+      "name": "isinteger",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isinteger",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isreal",
+      "type": "function",
+      "name": "isreal",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isreal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:get_kind",
+      "type": "function",
+      "name": "get_kind",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function get_kind",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isint1",
+      "type": "function",
+      "name": "isint1",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isint1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islong_long",
+      "type": "function",
+      "name": "islong_long",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function islong_long",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned_char",
+      "type": "function",
+      "name": "isunsigned_char",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isunsigned_char",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned_short",
+      "type": "function",
+      "name": "isunsigned_short",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isunsigned_short",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned",
+      "type": "function",
+      "name": "isunsigned",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isunsigned",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned_long_long",
+      "type": "function",
+      "name": "isunsigned_long_long",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isunsigned_long_long",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isdouble",
+      "type": "function",
+      "name": "isdouble",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isdouble",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islong_double",
+      "type": "function",
+      "name": "islong_double",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function islong_double",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islong_complex",
+      "type": "function",
+      "name": "islong_complex",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function islong_complex",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:iscomplexarray",
+      "type": "function",
+      "name": "iscomplexarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function iscomplexarray",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isint1array",
+      "type": "function",
+      "name": "isint1array",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isint1array",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned_chararray",
+      "type": "function",
+      "name": "isunsigned_chararray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isunsigned_chararray",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned_shortarray",
+      "type": "function",
+      "name": "isunsigned_shortarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isunsigned_shortarray",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsignedarray",
+      "type": "function",
+      "name": "isunsignedarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isunsignedarray",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned_long_longarray",
+      "type": "function",
+      "name": "isunsigned_long_longarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isunsigned_long_longarray",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:issigned_chararray",
+      "type": "function",
+      "name": "issigned_chararray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function issigned_chararray",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:issigned_shortarray",
+      "type": "function",
+      "name": "issigned_shortarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function issigned_shortarray",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:issigned_array",
+      "type": "function",
+      "name": "issigned_array",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function issigned_array",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:issigned_long_longarray",
+      "type": "function",
+      "name": "issigned_long_longarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function issigned_long_longarray",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isallocatable",
+      "type": "function",
+      "name": "isallocatable",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isallocatable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:ismutable",
+      "type": "function",
+      "name": "ismutable",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function ismutable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:ismoduleroutine",
+      "type": "function",
+      "name": "ismoduleroutine",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function ismoduleroutine",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:ismodule",
+      "type": "function",
+      "name": "ismodule",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function ismodule",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isfunction",
+      "type": "function",
+      "name": "isfunction",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isfunction",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isfunction_wrap",
+      "type": "function",
+      "name": "isfunction_wrap",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isfunction_wrap",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:issubroutine",
+      "type": "function",
+      "name": "issubroutine",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function issubroutine",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:issubroutine_wrap",
+      "type": "function",
+      "name": "issubroutine_wrap",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function issubroutine_wrap",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isattr_value",
+      "type": "function",
+      "name": "isattr_value",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isattr_value",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasassumedshape",
+      "type": "function",
+      "name": "hasassumedshape",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function hasassumedshape",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:requiresf90wrapper",
+      "type": "function",
+      "name": "requiresf90wrapper",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function requiresf90wrapper",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isroutine",
+      "type": "function",
+      "name": "isroutine",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isroutine",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islogicalfunction",
+      "type": "function",
+      "name": "islogicalfunction",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function islogicalfunction",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islong_longfunction",
+      "type": "function",
+      "name": "islong_longfunction",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function islong_longfunction",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islong_doublefunction",
+      "type": "function",
+      "name": "islong_doublefunction",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function islong_doublefunction",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:iscomplexfunction",
+      "type": "function",
+      "name": "iscomplexfunction",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function iscomplexfunction",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:iscomplexfunction_warn",
+      "type": "function",
+      "name": "iscomplexfunction_warn",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function iscomplexfunction_warn",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isstringfunction",
+      "type": "function",
+      "name": "isstringfunction",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isstringfunction",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasexternals",
+      "type": "function",
+      "name": "hasexternals",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function hasexternals",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isthreadsafe",
+      "type": "function",
+      "name": "isthreadsafe",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isthreadsafe",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasvariables",
+      "type": "function",
+      "name": "hasvariables",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function hasvariables",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isoptional",
+      "type": "function",
+      "name": "isoptional",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isoptional",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isexternal",
+      "type": "function",
+      "name": "isexternal",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isexternal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getdimension",
+      "type": "function",
+      "name": "getdimension",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function getdimension",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isrequired",
+      "type": "function",
+      "name": "isrequired",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isrequired",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:iscstyledirective",
+      "type": "function",
+      "name": "iscstyledirective",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function iscstyledirective",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_in",
+      "type": "function",
+      "name": "isintent_in",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_in",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_inout",
+      "type": "function",
+      "name": "isintent_inout",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_inout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_out",
+      "type": "function",
+      "name": "isintent_out",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_out",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_hide",
+      "type": "function",
+      "name": "isintent_hide",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_hide",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_nothide",
+      "type": "function",
+      "name": "isintent_nothide",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_nothide",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_c",
+      "type": "function",
+      "name": "isintent_c",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_c",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_cache",
+      "type": "function",
+      "name": "isintent_cache",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_cache",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_copy",
+      "type": "function",
+      "name": "isintent_copy",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_copy",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_overwrite",
+      "type": "function",
+      "name": "isintent_overwrite",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_overwrite",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_callback",
+      "type": "function",
+      "name": "isintent_callback",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_callback",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_inplace",
+      "type": "function",
+      "name": "isintent_inplace",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_inplace",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_aux",
+      "type": "function",
+      "name": "isintent_aux",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_aux",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_aligned4",
+      "type": "function",
+      "name": "isintent_aligned4",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_aligned4",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_aligned8",
+      "type": "function",
+      "name": "isintent_aligned8",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_aligned8",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_aligned16",
+      "type": "function",
+      "name": "isintent_aligned16",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isintent_aligned16",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isprivate",
+      "type": "function",
+      "name": "isprivate",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isprivate",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isvariable",
+      "type": "function",
+      "name": "isvariable",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isvariable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasinitvalue",
+      "type": "function",
+      "name": "hasinitvalue",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function hasinitvalue",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasinitvalueasstring",
+      "type": "function",
+      "name": "hasinitvalueasstring",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function hasinitvalueasstring",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasnote",
+      "type": "function",
+      "name": "hasnote",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function hasnote",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasresultnote",
+      "type": "function",
+      "name": "hasresultnote",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function hasresultnote",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hascommon",
+      "type": "function",
+      "name": "hascommon",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function hascommon",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:containscommon",
+      "type": "function",
+      "name": "containscommon",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function containscommon",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasderivedtypes",
+      "type": "function",
+      "name": "hasderivedtypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function hasderivedtypes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:containsderivedtypes",
+      "type": "function",
+      "name": "containsderivedtypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function containsderivedtypes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:containsmodule",
+      "type": "function",
+      "name": "containsmodule",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function containsmodule",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasbody",
+      "type": "function",
+      "name": "hasbody",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function hasbody",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hascallstatement",
+      "type": "function",
+      "name": "hascallstatement",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function hascallstatement",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:istrue",
+      "type": "function",
+      "name": "istrue",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function istrue",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isfalse",
+      "type": "function",
+      "name": "isfalse",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isfalse",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:l_and",
+      "type": "function",
+      "name": "l_and",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function l_and",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:l_or",
+      "type": "function",
+      "name": "l_or",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function l_or",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:l_not",
+      "type": "function",
+      "name": "l_not",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function l_not",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isdummyroutine",
+      "type": "function",
+      "name": "isdummyroutine",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function isdummyroutine",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getfortranname",
+      "type": "function",
+      "name": "getfortranname",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function getfortranname",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getmultilineblock",
+      "type": "function",
+      "name": "getmultilineblock",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function getmultilineblock",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getcallstatement",
+      "type": "function",
+      "name": "getcallstatement",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function getcallstatement",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getcallprotoargument",
+      "type": "function",
+      "name": "getcallprotoargument",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function getcallprotoargument",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getusercode",
+      "type": "function",
+      "name": "getusercode",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function getusercode",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getusercode1",
+      "type": "function",
+      "name": "getusercode1",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function getusercode1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getpymethoddef",
+      "type": "function",
+      "name": "getpymethoddef",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function getpymethoddef",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getargs",
+      "type": "function",
+      "name": "getargs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function getargs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getargs2",
+      "type": "function",
+      "name": "getargs2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function getargs2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getrestdoc",
+      "type": "function",
+      "name": "getrestdoc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function getrestdoc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:gentitle",
+      "type": "function",
+      "name": "gentitle",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function gentitle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:flatlist",
+      "type": "function",
+      "name": "flatlist",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function flatlist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:stripcomma",
+      "type": "function",
+      "name": "stripcomma",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function stripcomma",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:replace",
+      "type": "function",
+      "name": "replace",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function replace",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:dictappend",
+      "type": "function",
+      "name": "dictappend",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function dictappend",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:applyrules",
+      "type": "function",
+      "name": "applyrules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function applyrules",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:get_f2py_modulename",
+      "type": "function",
+      "name": "get_f2py_modulename",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function get_f2py_modulename",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getuseblocks",
+      "type": "function",
+      "name": "getuseblocks",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function getuseblocks",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:process_f2cmap_dict",
+      "type": "function",
+      "name": "process_f2cmap_dict",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "summary": "Python function process_f2cmap_dict",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "type": "file",
+      "name": "capi_maps",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:load_f2cmap_file",
+      "type": "function",
+      "name": "load_f2cmap_file",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function load_f2cmap_file",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:getctype",
+      "type": "function",
+      "name": "getctype",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function getctype",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:f2cexpr",
+      "type": "function",
+      "name": "f2cexpr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function f2cexpr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:getstrlength",
+      "type": "function",
+      "name": "getstrlength",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function getstrlength",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:getarrdims",
+      "type": "function",
+      "name": "getarrdims",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function getarrdims",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:getpydocsign",
+      "type": "function",
+      "name": "getpydocsign",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function getpydocsign",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:getarrdocsign",
+      "type": "function",
+      "name": "getarrdocsign",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function getarrdocsign",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:getinit",
+      "type": "function",
+      "name": "getinit",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function getinit",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:get_elsize",
+      "type": "function",
+      "name": "get_elsize",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function get_elsize",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:sign2map",
+      "type": "function",
+      "name": "sign2map",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function sign2map",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:routsign2map",
+      "type": "function",
+      "name": "routsign2map",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function routsign2map",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:modsign2map",
+      "type": "function",
+      "name": "modsign2map",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function modsign2map",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:cb_sign2map",
+      "type": "function",
+      "name": "cb_sign2map",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function cb_sign2map",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:cb_routsign2map",
+      "type": "function",
+      "name": "cb_routsign2map",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function cb_routsign2map",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:common_sign2map",
+      "type": "function",
+      "name": "common_sign2map",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "summary": "Python function common_sign2map",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.py",
+      "type": "file",
+      "name": "cb_rules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.py:buildcallbacks",
+      "type": "function",
+      "name": "buildcallbacks",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.py",
+      "summary": "Python function buildcallbacks",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.py:buildcallback",
+      "type": "function",
+      "name": "buildcallback",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.py",
+      "summary": "Python function buildcallback",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py",
+      "type": "file",
+      "name": "cfuncs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py:buildcfuncs",
+      "type": "function",
+      "name": "buildcfuncs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py",
+      "summary": "Python function buildcfuncs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py:append_needs",
+      "type": "function",
+      "name": "append_needs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py",
+      "summary": "Python function append_needs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py:get_needs",
+      "type": "function",
+      "name": "get_needs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py",
+      "summary": "Python function get_needs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/common_rules.py",
+      "type": "file",
+      "name": "common_rules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/common_rules.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/common_rules.py:findcommonblocks",
+      "type": "function",
+      "name": "findcommonblocks",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/common_rules.py",
+      "summary": "Python function findcommonblocks",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/common_rules.py:buildhooks",
+      "type": "function",
+      "name": "buildhooks",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/common_rules.py",
+      "summary": "Python function buildhooks",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "type": "file",
+      "name": "crackfortran",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:reset_global_f2py_vars",
+      "type": "function",
+      "name": "reset_global_f2py_vars",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function reset_global_f2py_vars",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:outmess",
+      "type": "function",
+      "name": "outmess",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function outmess",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:rmbadname1",
+      "type": "function",
+      "name": "rmbadname1",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function rmbadname1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:rmbadname",
+      "type": "function",
+      "name": "rmbadname",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function rmbadname",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:undo_rmbadname1",
+      "type": "function",
+      "name": "undo_rmbadname1",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function undo_rmbadname1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:undo_rmbadname",
+      "type": "function",
+      "name": "undo_rmbadname",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function undo_rmbadname",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:openhook",
+      "type": "function",
+      "name": "openhook",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function openhook",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:is_free_format",
+      "type": "function",
+      "name": "is_free_format",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function is_free_format",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:readfortrancode",
+      "type": "function",
+      "name": "readfortrancode",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function readfortrancode",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:split_by_unquoted",
+      "type": "function",
+      "name": "split_by_unquoted",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function split_by_unquoted",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:crackline",
+      "type": "function",
+      "name": "crackline",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function crackline",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:markouterparen",
+      "type": "function",
+      "name": "markouterparen",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function markouterparen",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:markoutercomma",
+      "type": "function",
+      "name": "markoutercomma",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function markoutercomma",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:unmarkouterparen",
+      "type": "function",
+      "name": "unmarkouterparen",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function unmarkouterparen",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:appenddecl",
+      "type": "function",
+      "name": "appenddecl",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function appenddecl",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:parse_name_for_bind",
+      "type": "function",
+      "name": "parse_name_for_bind",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function parse_name_for_bind",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:analyzeline",
+      "type": "function",
+      "name": "analyzeline",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function analyzeline",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:appendmultiline",
+      "type": "function",
+      "name": "appendmultiline",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function appendmultiline",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:cracktypespec0",
+      "type": "function",
+      "name": "cracktypespec0",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function cracktypespec0",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:removespaces",
+      "type": "function",
+      "name": "removespaces",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function removespaces",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:markinnerspaces",
+      "type": "function",
+      "name": "markinnerspaces",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function markinnerspaces",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:updatevars",
+      "type": "function",
+      "name": "updatevars",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function updatevars",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:cracktypespec",
+      "type": "function",
+      "name": "cracktypespec",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function cracktypespec",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:setattrspec",
+      "type": "function",
+      "name": "setattrspec",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function setattrspec",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:setkindselector",
+      "type": "function",
+      "name": "setkindselector",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function setkindselector",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:setcharselector",
+      "type": "function",
+      "name": "setcharselector",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function setcharselector",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:getblockname",
+      "type": "function",
+      "name": "getblockname",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function getblockname",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:setmesstext",
+      "type": "function",
+      "name": "setmesstext",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function setmesstext",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:get_usedict",
+      "type": "function",
+      "name": "get_usedict",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function get_usedict",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:get_useparameters",
+      "type": "function",
+      "name": "get_useparameters",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function get_useparameters",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:postcrack2",
+      "type": "function",
+      "name": "postcrack2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function postcrack2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:postcrack",
+      "type": "function",
+      "name": "postcrack",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function postcrack",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:sortvarnames",
+      "type": "function",
+      "name": "sortvarnames",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function sortvarnames",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:analyzecommon",
+      "type": "function",
+      "name": "analyzecommon",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function analyzecommon",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:analyzebody",
+      "type": "function",
+      "name": "analyzebody",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function analyzebody",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:buildimplicitrules",
+      "type": "function",
+      "name": "buildimplicitrules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function buildimplicitrules",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:myeval",
+      "type": "function",
+      "name": "myeval",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function myeval",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:getlincoef",
+      "type": "function",
+      "name": "getlincoef",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function getlincoef",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:get_sorted_names",
+      "type": "function",
+      "name": "get_sorted_names",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function get_sorted_names",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:get_parameters",
+      "type": "function",
+      "name": "get_parameters",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function get_parameters",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:analyzevars",
+      "type": "function",
+      "name": "analyzevars",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function analyzevars",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:param_eval",
+      "type": "function",
+      "name": "param_eval",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function param_eval",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:param_parse",
+      "type": "function",
+      "name": "param_parse",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function param_parse",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:expr2name",
+      "type": "function",
+      "name": "expr2name",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function expr2name",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:analyzeargs",
+      "type": "function",
+      "name": "analyzeargs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function analyzeargs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:determineexprtype",
+      "type": "function",
+      "name": "determineexprtype",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function determineexprtype",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:crack2fortrangen",
+      "type": "function",
+      "name": "crack2fortrangen",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function crack2fortrangen",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:common2fortran",
+      "type": "function",
+      "name": "common2fortran",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function common2fortran",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:use2fortran",
+      "type": "function",
+      "name": "use2fortran",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function use2fortran",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:true_intent_list",
+      "type": "function",
+      "name": "true_intent_list",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function true_intent_list",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:vars2fortran",
+      "type": "function",
+      "name": "vars2fortran",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function vars2fortran",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:crackfortran",
+      "type": "function",
+      "name": "crackfortran",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function crackfortran",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:crack2fortran",
+      "type": "function",
+      "name": "crack2fortran",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function crack2fortran",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:traverse",
+      "type": "function",
+      "name": "traverse",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function traverse",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:character_backward_compatibility_hook",
+      "type": "function",
+      "name": "character_backward_compatibility_hook",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "summary": "Python function character_backward_compatibility_hook",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/diagnose.py",
+      "type": "file",
+      "name": "diagnose",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/diagnose.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/diagnose.py:run",
+      "type": "function",
+      "name": "run",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/diagnose.py",
+      "summary": "Python function run",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "type": "file",
+      "name": "f2py2e",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:CombineIncludePaths",
+      "type": "class",
+      "name": "CombineIncludePaths",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python class CombineIncludePaths",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:scaninputline",
+      "type": "function",
+      "name": "scaninputline",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function scaninputline",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:callcrackfortran",
+      "type": "function",
+      "name": "callcrackfortran",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function callcrackfortran",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:buildmodules",
+      "type": "function",
+      "name": "buildmodules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function buildmodules",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:dict_append",
+      "type": "function",
+      "name": "dict_append",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function dict_append",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:run_main",
+      "type": "function",
+      "name": "run_main",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function run_main",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:filter_files",
+      "type": "function",
+      "name": "filter_files",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function filter_files",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:get_prefix",
+      "type": "function",
+      "name": "get_prefix",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function get_prefix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:f2py_parser",
+      "type": "function",
+      "name": "f2py_parser",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function f2py_parser",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:get_newer_options",
+      "type": "function",
+      "name": "get_newer_options",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function get_newer_options",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:make_f2py_compile_parser",
+      "type": "function",
+      "name": "make_f2py_compile_parser",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function make_f2py_compile_parser",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:preparse_sysargv",
+      "type": "function",
+      "name": "preparse_sysargv",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function preparse_sysargv",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:run_compile",
+      "type": "function",
+      "name": "run_compile",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function run_compile",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:validate_modulename",
+      "type": "function",
+      "name": "validate_modulename",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function validate_modulename",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "summary": "Python function main",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.py",
+      "type": "file",
+      "name": "f90mod_rules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.py:findf90modules",
+      "type": "function",
+      "name": "findf90modules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.py",
+      "summary": "Python function findf90modules",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.py:buildhooks",
+      "type": "function",
+      "name": "buildhooks",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.py",
+      "summary": "Python function buildhooks",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py",
+      "type": "file",
+      "name": "func2subr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py:var2fixfortran",
+      "type": "function",
+      "name": "var2fixfortran",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py",
+      "summary": "Python function var2fixfortran",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py:useiso_c_binding",
+      "type": "function",
+      "name": "useiso_c_binding",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py",
+      "summary": "Python function useiso_c_binding",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py:createfuncwrapper",
+      "type": "function",
+      "name": "createfuncwrapper",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py",
+      "summary": "Python function createfuncwrapper",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py:createsubrwrapper",
+      "type": "function",
+      "name": "createsubrwrapper",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py",
+      "summary": "Python function createsubrwrapper",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py:assubr",
+      "type": "function",
+      "name": "assubr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py",
+      "summary": "Python function assubr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/rules.py",
+      "type": "file",
+      "name": "rules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/rules.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/rules.py:buildmodule",
+      "type": "function",
+      "name": "buildmodule",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/rules.py",
+      "summary": "Python function buildmodule",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/rules.py:buildapi",
+      "type": "function",
+      "name": "buildapi",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/rules.py",
+      "summary": "Python function buildapi",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/src/fortranobject.c",
+      "type": "file",
+      "name": "fortranobject",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/src/fortranobject.c",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/src/fortranobject.h",
+      "type": "file",
+      "name": "fortranobject",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/src/fortranobject.h",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "type": "file",
+      "name": "symbolic",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:Language",
+      "type": "class",
+      "name": "Language",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python class Language",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:Op",
+      "type": "class",
+      "name": "Op",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python class Op",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:RelOp",
+      "type": "class",
+      "name": "RelOp",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python class RelOp",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:ArithOp",
+      "type": "class",
+      "name": "ArithOp",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python class ArithOp",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:OpError",
+      "type": "class",
+      "name": "OpError",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python class OpError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:Precedence",
+      "type": "class",
+      "name": "Precedence",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python class Precedence",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:ExprWarning",
+      "type": "class",
+      "name": "ExprWarning",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python class ExprWarning",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:Expr",
+      "type": "class",
+      "name": "Expr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python class Expr",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:_Pair",
+      "type": "class",
+      "name": "_Pair",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python class _Pair",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:_FromStringWorker",
+      "type": "class",
+      "name": "_FromStringWorker",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python class _FromStringWorker",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:ewarn",
+      "type": "function",
+      "name": "ewarn",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function ewarn",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:normalize",
+      "type": "function",
+      "name": "normalize",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function normalize",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_expr",
+      "type": "function",
+      "name": "as_expr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_expr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_symbol",
+      "type": "function",
+      "name": "as_symbol",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_symbol",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_number",
+      "type": "function",
+      "name": "as_number",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_number",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_integer",
+      "type": "function",
+      "name": "as_integer",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_integer",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_real",
+      "type": "function",
+      "name": "as_real",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_real",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_string",
+      "type": "function",
+      "name": "as_string",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_string",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_array",
+      "type": "function",
+      "name": "as_array",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_array",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_complex",
+      "type": "function",
+      "name": "as_complex",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_complex",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_apply",
+      "type": "function",
+      "name": "as_apply",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_apply",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_ternary",
+      "type": "function",
+      "name": "as_ternary",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_ternary",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_ref",
+      "type": "function",
+      "name": "as_ref",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_ref",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_deref",
+      "type": "function",
+      "name": "as_deref",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_deref",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_eq",
+      "type": "function",
+      "name": "as_eq",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_eq",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_ne",
+      "type": "function",
+      "name": "as_ne",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_ne",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_lt",
+      "type": "function",
+      "name": "as_lt",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_lt",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_le",
+      "type": "function",
+      "name": "as_le",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_le",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_gt",
+      "type": "function",
+      "name": "as_gt",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_gt",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_ge",
+      "type": "function",
+      "name": "as_ge",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_ge",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_terms",
+      "type": "function",
+      "name": "as_terms",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_terms",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_factors",
+      "type": "function",
+      "name": "as_factors",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_factors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_term_coeff",
+      "type": "function",
+      "name": "as_term_coeff",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_term_coeff",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_numer_denom",
+      "type": "function",
+      "name": "as_numer_denom",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function as_numer_denom",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:eliminate_quotes",
+      "type": "function",
+      "name": "eliminate_quotes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function eliminate_quotes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:insert_quotes",
+      "type": "function",
+      "name": "insert_quotes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function insert_quotes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:replace_parenthesis",
+      "type": "function",
+      "name": "replace_parenthesis",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function replace_parenthesis",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:unreplace_parenthesis",
+      "type": "function",
+      "name": "unreplace_parenthesis",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function unreplace_parenthesis",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:fromstring",
+      "type": "function",
+      "name": "fromstring",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "summary": "Python function fromstring",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/abstract_interface/foo.f90",
+      "type": "file",
+      "name": "foo",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/abstract_interface/foo.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/abstract_interface/gh18403_mod.f90",
+      "type": "file",
+      "name": "gh18403_mod",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/abstract_interface/gh18403_mod.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c",
+      "type": "file",
+      "name": "wrapmodule",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/block_docstring/foo.f",
+      "type": "file",
+      "name": "foo",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/block_docstring/foo.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/common/block.f",
+      "type": "file",
+      "name": "block",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/common/block.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/common/gh19161.f90",
+      "type": "file",
+      "name": "gh19161",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/common/gh19161.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/unicode_comment.f90",
+      "type": "file",
+      "name": "unicode_comment",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/unicode_comment.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/f2cmap/.f2py_f2cmap",
+      "type": "file",
+      "name": ".f2py_f2cmap",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/f2cmap/.f2py_f2cmap",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:parse_structure",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:find_repl_patterns",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:find_and_remove_repl_patterns",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:conv",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:unique_key",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:expand_sub",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:process_str",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:resolve_includes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.py:process_file",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:F2PYError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:throw_error",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:outmess",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:debugcapi",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:ischaracter_or_characterarray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:ischaracter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:ischaracterarray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isstring_or_stringarray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isstring",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isstringarray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isarrayofstrings",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isarray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isscalar",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:iscomplex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islogical",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isinteger",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isreal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:get_kind",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isint1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islong_long",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned_char",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned_short",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned_long_long",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isdouble",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islong_double",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islong_complex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:iscomplexarray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isint1array",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned_chararray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned_shortarray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsignedarray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isunsigned_long_longarray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:issigned_chararray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:issigned_shortarray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:issigned_array",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:issigned_long_longarray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isallocatable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:ismutable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:ismoduleroutine",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:ismodule",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isfunction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isfunction_wrap",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:issubroutine",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:issubroutine_wrap",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isattr_value",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasassumedshape",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:requiresf90wrapper",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isroutine",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islogicalfunction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islong_longfunction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:islong_doublefunction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:iscomplexfunction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:iscomplexfunction_warn",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isstringfunction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasexternals",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isthreadsafe",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasvariables",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isoptional",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isexternal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getdimension",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isrequired",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:iscstyledirective",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_in",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_inout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_out",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_hide",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_nothide",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_c",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_cache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_copy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_overwrite",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_callback",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_inplace",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_aux",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_aligned4",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_aligned8",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isintent_aligned16",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isprivate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isvariable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasinitvalue",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasinitvalueasstring",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasnote",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasresultnote",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hascommon",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:containscommon",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasderivedtypes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:containsderivedtypes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:containsmodule",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hasbody",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:hascallstatement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:istrue",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isfalse",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:l_and",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:l_or",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:l_not",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:isdummyroutine",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getfortranname",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getmultilineblock",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getcallstatement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getcallprotoargument",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getusercode",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getusercode1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getpymethoddef",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getargs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getargs2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getrestdoc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:gentitle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:flatlist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:stripcomma",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:replace",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:dictappend",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:applyrules",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:get_f2py_modulename",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:getuseblocks",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py:process_f2cmap_dict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:load_f2cmap_file",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:getctype",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:f2cexpr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:getstrlength",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:getarrdims",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:getpydocsign",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:getarrdocsign",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:getinit",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:get_elsize",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:sign2map",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:routsign2map",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:modsign2map",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:cb_sign2map",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:cb_routsign2map",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.py:common_sign2map",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.py:buildcallbacks",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.py:buildcallback",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py:buildcfuncs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py:append_needs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.py:get_needs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/common_rules.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/common_rules.py:findcommonblocks",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/common_rules.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/common_rules.py:buildhooks",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:reset_global_f2py_vars",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:outmess",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:rmbadname1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:rmbadname",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:undo_rmbadname1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:undo_rmbadname",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:openhook",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:is_free_format",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:readfortrancode",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:split_by_unquoted",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:crackline",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:markouterparen",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:markoutercomma",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:unmarkouterparen",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:appenddecl",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:parse_name_for_bind",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:analyzeline",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:appendmultiline",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:cracktypespec0",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:removespaces",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:markinnerspaces",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:updatevars",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:cracktypespec",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:setattrspec",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:setkindselector",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:setcharselector",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:getblockname",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:setmesstext",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:get_usedict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:get_useparameters",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:postcrack2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:postcrack",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:sortvarnames",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:analyzecommon",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:analyzebody",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:buildimplicitrules",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:myeval",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:getlincoef",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:get_sorted_names",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:get_parameters",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:analyzevars",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:param_eval",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:param_parse",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:expr2name",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:analyzeargs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:determineexprtype",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:crack2fortrangen",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:common2fortran",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:use2fortran",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:true_intent_list",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:vars2fortran",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:crackfortran",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:crack2fortran",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:traverse",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.py:character_backward_compatibility_hook",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/diagnose.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/diagnose.py:run",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:CombineIncludePaths",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:scaninputline",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:callcrackfortran",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:buildmodules",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:dict_append",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:run_main",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:filter_files",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:get_prefix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:f2py_parser",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:get_newer_options",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:make_f2py_compile_parser",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:preparse_sysargv",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:run_compile",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:validate_modulename",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.py:main",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.py:findf90modules",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.py:buildhooks",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py:var2fixfortran",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py:useiso_c_binding",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py:createfuncwrapper",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py:createsubrwrapper",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.py:assubr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/rules.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/rules.py:buildmodule",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/rules.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/rules.py:buildapi",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/src/fortranobject.c",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/src/fortranobject.c",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/src/fortranobject.h",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/src/fortranobject.h",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:Language",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:Op",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:RelOp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:ArithOp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:OpError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:Precedence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:ExprWarning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:Expr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:_Pair",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:_FromStringWorker",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:ewarn",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:normalize",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_expr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_symbol",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_number",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_integer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_real",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_string",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_array",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_complex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_apply",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_ternary",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_ref",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_deref",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_eq",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_ne",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_lt",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_le",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_gt",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_ge",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_terms",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_factors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_term_coeff",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:as_numer_denom",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:eliminate_quotes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:insert_quotes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:replace_parenthesis",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:unreplace_parenthesis",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.py:fromstring",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/abstract_interface/foo.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/abstract_interface/foo.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/abstract_interface/gh18403_mod.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/abstract_interface/gh18403_mod.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/block_docstring/foo.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/block_docstring/foo.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/common/block.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/common/block.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/common/gh19161.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/common/gh19161.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/unicode_comment.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/unicode_comment.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/f2cmap/.f2py_f2cmap",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/f2cmap/.f2py_f2cmap",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 291,
+    "edgeCount": 276,
+    "nodeTypes": {
+      "file": 25,
+      "function": 253,
+      "class": 13
+    }
+  }
+}

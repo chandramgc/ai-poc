@@ -1,0 +1,568 @@
+{
+  "batchIndex": 646,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/einsumfunc.py",
+      "type": "file",
+      "name": "einsumfunc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/einsumfunc.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/flatiter.py",
+      "type": "file",
+      "name": "flatiter",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/flatiter.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/fromnumeric.py",
+      "type": "file",
+      "name": "fromnumeric",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/fromnumeric.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/index_tricks.py",
+      "type": "file",
+      "name": "index_tricks",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/index_tricks.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/lib_user_array.py",
+      "type": "file",
+      "name": "lib_user_array",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/lib_user_array.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/lib_utils.py",
+      "type": "file",
+      "name": "lib_utils",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/lib_utils.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/lib_version.py",
+      "type": "file",
+      "name": "lib_version",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/lib_version.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/literal.py",
+      "type": "file",
+      "name": "literal",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/literal.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ma.py",
+      "type": "file",
+      "name": "ma",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ma.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/mod.py",
+      "type": "file",
+      "name": "mod",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/mod.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/modules.py",
+      "type": "file",
+      "name": "modules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/modules.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/multiarray.py",
+      "type": "file",
+      "name": "multiarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/multiarray.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_conversion.py",
+      "type": "file",
+      "name": "ndarray_conversion",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_conversion.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_misc.py",
+      "type": "file",
+      "name": "ndarray_misc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_misc.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_misc.py:SubClass",
+      "type": "class",
+      "name": "SubClass",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_misc.py",
+      "summary": "Python class SubClass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_misc.py:IntSubClass",
+      "type": "class",
+      "name": "IntSubClass",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_misc.py",
+      "summary": "Python class IntSubClass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_shape_manipulation.py",
+      "type": "file",
+      "name": "ndarray_shape_manipulation",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_shape_manipulation.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/nditer.py",
+      "type": "file",
+      "name": "nditer",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/nditer.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/numeric.py",
+      "type": "file",
+      "name": "numeric",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/numeric.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/numeric.py:SubClass",
+      "type": "class",
+      "name": "SubClass",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/numeric.py",
+      "summary": "Python class SubClass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/numerictypes.py",
+      "type": "file",
+      "name": "numerictypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/numerictypes.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/random.py",
+      "type": "file",
+      "name": "random",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/random.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/recfunctions.py",
+      "type": "file",
+      "name": "recfunctions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/recfunctions.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py",
+      "type": "file",
+      "name": "scalars",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py:D",
+      "type": "class",
+      "name": "D",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py",
+      "summary": "Python class D",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py:C",
+      "type": "class",
+      "name": "C",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py",
+      "summary": "Python class C",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py:B",
+      "type": "class",
+      "name": "B",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py",
+      "summary": "Python class B",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py:A",
+      "type": "class",
+      "name": "A",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py",
+      "summary": "Python class A",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/shape.py",
+      "type": "file",
+      "name": "shape",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/shape.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/shape.py:XYGrid",
+      "type": "class",
+      "name": "XYGrid",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/shape.py",
+      "summary": "Python class XYGrid",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/simple.py",
+      "type": "file",
+      "name": "simple",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/simple.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py",
+      "type": "file",
+      "name": "ufunc_config",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py:Write1",
+      "type": "class",
+      "name": "Write1",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py",
+      "summary": "Python class Write1",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py:Write2",
+      "type": "class",
+      "name": "Write2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py",
+      "summary": "Python class Write2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py:Write3",
+      "type": "class",
+      "name": "Write3",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py",
+      "summary": "Python class Write3",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunclike.py",
+      "type": "file",
+      "name": "ufunclike",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunclike.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunclike.py:Object",
+      "type": "class",
+      "name": "Object",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunclike.py",
+      "summary": "Python class Object",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_misc.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_misc.py:SubClass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_misc.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ndarray_misc.py:IntSubClass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/numeric.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/numeric.py:SubClass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py:D",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py:C",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py:B",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/scalars.py:A",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/shape.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/shape.py:XYGrid",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py:Write1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py:Write2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunc_config.py:Write3",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunclike.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/typing/tests/data/pass/ufunclike.py:Object",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 37,
+    "edgeCount": 12,
+    "nodeTypes": {
+      "file": 25,
+      "class": 12
+    }
+  }
+}

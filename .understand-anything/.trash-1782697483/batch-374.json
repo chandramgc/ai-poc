@@ -1,0 +1,174 @@
+{
+  "batchIndex": 374,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/coreviews.cpython-314.pyc",
+      "type": "file",
+      "name": "coreviews.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/__pycache__/coreviews.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/digraph.cpython-314.pyc",
+      "type": "file",
+      "name": "digraph.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/__pycache__/digraph.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/filters.cpython-314.pyc",
+      "type": "file",
+      "name": "filters.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/__pycache__/filters.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/function.cpython-314.pyc",
+      "type": "file",
+      "name": "function.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/__pycache__/function.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/graph.cpython-314.pyc",
+      "type": "file",
+      "name": "graph.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/__pycache__/graph.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/graphviews.cpython-314.pyc",
+      "type": "file",
+      "name": "graphviews.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/__pycache__/graphviews.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/multidigraph.cpython-314.pyc",
+      "type": "file",
+      "name": "multidigraph.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/__pycache__/multidigraph.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/multigraph.cpython-314.pyc",
+      "type": "file",
+      "name": "multigraph.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/__pycache__/multigraph.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/reportviews.cpython-314.pyc",
+      "type": "file",
+      "name": "reportviews.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/__pycache__/reportviews.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/coreviews.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/coreviews.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/digraph.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/digraph.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/filters.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/filters.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/function.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/function.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/graph.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/graph.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/graphviews.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/graphviews.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/multidigraph.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/multidigraph.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/multigraph.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/multigraph.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/reportviews.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/classes/__pycache__/reportviews.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 10,
+    "edgeCount": 10,
+    "nodeTypes": {
+      "file": 10
+    }
+  }
+}

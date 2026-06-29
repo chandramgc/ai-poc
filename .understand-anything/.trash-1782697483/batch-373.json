@@ -1,0 +1,142 @@
+{
+  "batchIndex": 373,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_branchings.cpython-314.pyc",
+      "type": "file",
+      "name": "test_branchings.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_branchings.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_coding.cpython-314.pyc",
+      "type": "file",
+      "name": "test_coding.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_coding.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_decomposition.cpython-314.pyc",
+      "type": "file",
+      "name": "test_decomposition.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_decomposition.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_distance_measures.cpython-314.pyc",
+      "type": "file",
+      "name": "test_distance_measures.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_distance_measures.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_mst.cpython-314.pyc",
+      "type": "file",
+      "name": "test_mst.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_mst.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_operations.cpython-314.pyc",
+      "type": "file",
+      "name": "test_operations.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_operations.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_recognition.cpython-314.pyc",
+      "type": "file",
+      "name": "test_recognition.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_recognition.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_branchings.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_branchings.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_coding.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_coding.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_decomposition.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_decomposition.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_distance_measures.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_distance_measures.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_mst.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_mst.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_operations.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_operations.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_recognition.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/tests/__pycache__/test_recognition.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 8,
+    "edgeCount": 8,
+    "nodeTypes": {
+      "file": 8
+    }
+  }
+}

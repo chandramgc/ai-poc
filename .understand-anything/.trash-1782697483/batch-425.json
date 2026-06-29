@@ -1,0 +1,110 @@
+{
+  "batchIndex": 425,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_array.f90",
+      "type": "file",
+      "name": "constant_array",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_array.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_both.f90",
+      "type": "file",
+      "name": "constant_both",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_both.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_compound.f90",
+      "type": "file",
+      "name": "constant_compound",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_compound.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_integer.f90",
+      "type": "file",
+      "name": "constant_integer",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_integer.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_non_compound.f90",
+      "type": "file",
+      "name": "constant_non_compound",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_non_compound.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_real.f90",
+      "type": "file",
+      "name": "constant_real",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_real.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_array.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_array.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_both.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_both.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_compound.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_compound.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_integer.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_integer.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_non_compound.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_non_compound.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_real.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_real.f90",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 6,
+    "nodeTypes": {
+      "file": 6
+    }
+  }
+}

@@ -1,0 +1,2044 @@
+{
+  "batchIndex": 624,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py",
+      "type": "file",
+      "name": "laplacianmatrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py:laplacian_matrix",
+      "type": "function",
+      "name": "laplacian_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py",
+      "summary": "Python function laplacian_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py:normalized_laplacian_matrix",
+      "type": "function",
+      "name": "normalized_laplacian_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py",
+      "summary": "Python function normalized_laplacian_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py:directed_laplacian_matrix",
+      "type": "function",
+      "name": "directed_laplacian_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py",
+      "summary": "Python function directed_laplacian_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py:directed_combinatorial_laplacian_matrix",
+      "type": "function",
+      "name": "directed_combinatorial_laplacian_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py",
+      "summary": "Python function directed_combinatorial_laplacian_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/linalg/modularitymatrix.py",
+      "type": "file",
+      "name": "modularitymatrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/modularitymatrix.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/modularitymatrix.py:modularity_matrix",
+      "type": "function",
+      "name": "modularity_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/modularitymatrix.py",
+      "summary": "Python function modularity_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/modularitymatrix.py:directed_modularity_matrix",
+      "type": "function",
+      "name": "directed_modularity_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/modularitymatrix.py",
+      "summary": "Python function directed_modularity_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py",
+      "type": "file",
+      "name": "spectrum",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py:laplacian_spectrum",
+      "type": "function",
+      "name": "laplacian_spectrum",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py",
+      "summary": "Python function laplacian_spectrum",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py:normalized_laplacian_spectrum",
+      "type": "function",
+      "name": "normalized_laplacian_spectrum",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py",
+      "summary": "Python function normalized_laplacian_spectrum",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py:adjacency_spectrum",
+      "type": "function",
+      "name": "adjacency_spectrum",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py",
+      "summary": "Python function adjacency_spectrum",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py:modularity_spectrum",
+      "type": "function",
+      "name": "modularity_spectrum",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py",
+      "summary": "Python function modularity_spectrum",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py:bethe_hessian_spectrum",
+      "type": "function",
+      "name": "bethe_hessian_spectrum",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py",
+      "summary": "Python function bethe_hessian_spectrum",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "type": "file",
+      "name": "test_algebraic_connectivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:TestAlgebraicConnectivity",
+      "type": "class",
+      "name": "TestAlgebraicConnectivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "summary": "Python class TestAlgebraicConnectivity",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:TestSpectralOrdering",
+      "type": "class",
+      "name": "TestSpectralOrdering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "summary": "Python class TestSpectralOrdering",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:test_algebraic_connectivity_tracemin_chol",
+      "type": "function",
+      "name": "test_algebraic_connectivity_tracemin_chol",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "summary": "Python function test_algebraic_connectivity_tracemin_chol",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:test_fiedler_vector_tracemin_chol",
+      "type": "function",
+      "name": "test_fiedler_vector_tracemin_chol",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "summary": "Python function test_fiedler_vector_tracemin_chol",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:test_spectral_ordering_tracemin_chol",
+      "type": "function",
+      "name": "test_spectral_ordering_tracemin_chol",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "summary": "Python function test_spectral_ordering_tracemin_chol",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:test_fiedler_vector_tracemin_unknown",
+      "type": "function",
+      "name": "test_fiedler_vector_tracemin_unknown",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "summary": "Python function test_fiedler_vector_tracemin_unknown",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:test_spectral_bisection",
+      "type": "function",
+      "name": "test_spectral_bisection",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "summary": "Python function test_spectral_bisection",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:check_eigenvector",
+      "type": "function",
+      "name": "check_eigenvector",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "summary": "Python function check_eigenvector",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py",
+      "type": "file",
+      "name": "test_attrmatrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py:test_attr_matrix",
+      "type": "function",
+      "name": "test_attr_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py",
+      "summary": "Python function test_attr_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py:test_attr_matrix_directed",
+      "type": "function",
+      "name": "test_attr_matrix_directed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py",
+      "summary": "Python function test_attr_matrix_directed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py:test_attr_matrix_multigraph",
+      "type": "function",
+      "name": "test_attr_matrix_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py",
+      "summary": "Python function test_attr_matrix_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py:test_attr_sparse_matrix",
+      "type": "function",
+      "name": "test_attr_sparse_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py",
+      "summary": "Python function test_attr_sparse_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py:test_attr_sparse_matrix_directed",
+      "type": "function",
+      "name": "test_attr_sparse_matrix_directed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py",
+      "summary": "Python function test_attr_sparse_matrix_directed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_bethehessian.py",
+      "type": "file",
+      "name": "test_bethehessian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_bethehessian.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_bethehessian.py:TestBetheHessian",
+      "type": "class",
+      "name": "TestBetheHessian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_bethehessian.py",
+      "summary": "Python class TestBetheHessian",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_graphmatrix.py",
+      "type": "file",
+      "name": "test_graphmatrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_graphmatrix.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_graphmatrix.py:TestGraphMatrix",
+      "type": "class",
+      "name": "TestGraphMatrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_graphmatrix.py",
+      "summary": "Python class TestGraphMatrix",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_graphmatrix.py:test_incidence_matrix_simple",
+      "type": "function",
+      "name": "test_incidence_matrix_simple",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_graphmatrix.py",
+      "summary": "Python function test_incidence_matrix_simple",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py",
+      "type": "file",
+      "name": "test_laplacian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py:TestLaplacian",
+      "type": "class",
+      "name": "TestLaplacian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py",
+      "summary": "Python class TestLaplacian",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py:test_directed_laplacian",
+      "type": "function",
+      "name": "test_directed_laplacian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py",
+      "summary": "Python function test_directed_laplacian",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py:test_directed_combinatorial_laplacian",
+      "type": "function",
+      "name": "test_directed_combinatorial_laplacian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py",
+      "summary": "Python function test_directed_combinatorial_laplacian",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_modularity.py",
+      "type": "file",
+      "name": "test_modularity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_modularity.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_modularity.py:TestModularity",
+      "type": "class",
+      "name": "TestModularity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_modularity.py",
+      "summary": "Python class TestModularity",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_spectrum.py",
+      "type": "file",
+      "name": "test_spectrum",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_spectrum.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_spectrum.py:TestSpectrum",
+      "type": "class",
+      "name": "TestSpectrum",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/linalg/tests/test_spectrum.py",
+      "summary": "Python class TestSpectrum",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/readwrite/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:12"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py",
+      "type": "file",
+      "name": "adjlist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py:generate_adjlist",
+      "type": "function",
+      "name": "generate_adjlist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py",
+      "summary": "Python function generate_adjlist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py:write_adjlist",
+      "type": "function",
+      "name": "write_adjlist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py",
+      "summary": "Python function write_adjlist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py:parse_adjlist",
+      "type": "function",
+      "name": "parse_adjlist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py",
+      "summary": "Python function parse_adjlist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py:read_adjlist",
+      "type": "function",
+      "name": "read_adjlist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py",
+      "summary": "Python function read_adjlist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "type": "file",
+      "name": "edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py:generate_edgelist",
+      "type": "function",
+      "name": "generate_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "summary": "Python function generate_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py:write_edgelist",
+      "type": "function",
+      "name": "write_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "summary": "Python function write_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py:parse_edgelist",
+      "type": "function",
+      "name": "parse_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "summary": "Python function parse_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py:read_edgelist",
+      "type": "function",
+      "name": "read_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "summary": "Python function read_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py:write_weighted_edgelist",
+      "type": "function",
+      "name": "write_weighted_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "summary": "Python function write_weighted_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py:read_weighted_edgelist",
+      "type": "function",
+      "name": "read_weighted_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "summary": "Python function read_weighted_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "type": "file",
+      "name": "gexf",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:GEXF",
+      "type": "class",
+      "name": "GEXF",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "summary": "Python class GEXF",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:GEXFWriter",
+      "type": "class",
+      "name": "GEXFWriter",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "summary": "Python class GEXFWriter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:GEXFReader",
+      "type": "class",
+      "name": "GEXFReader",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "summary": "Python class GEXFReader",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:write_gexf",
+      "type": "function",
+      "name": "write_gexf",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "summary": "Python function write_gexf",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:generate_gexf",
+      "type": "function",
+      "name": "generate_gexf",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "summary": "Python function generate_gexf",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:read_gexf",
+      "type": "function",
+      "name": "read_gexf",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "summary": "Python function read_gexf",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:relabel_gexf_graph",
+      "type": "function",
+      "name": "relabel_gexf_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "summary": "Python function relabel_gexf_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "type": "file",
+      "name": "gml",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:Pattern",
+      "type": "class",
+      "name": "Pattern",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "summary": "Python class Pattern",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:Token",
+      "type": "class",
+      "name": "Token",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "summary": "Python class Token",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:escape",
+      "type": "function",
+      "name": "escape",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "summary": "Python function escape",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:unescape",
+      "type": "function",
+      "name": "unescape",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "summary": "Python function unescape",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:literal_destringizer",
+      "type": "function",
+      "name": "literal_destringizer",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "summary": "Python function literal_destringizer",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:read_gml",
+      "type": "function",
+      "name": "read_gml",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "summary": "Python function read_gml",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:parse_gml",
+      "type": "function",
+      "name": "parse_gml",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "summary": "Python function parse_gml",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:parse_gml_lines",
+      "type": "function",
+      "name": "parse_gml_lines",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "summary": "Python function parse_gml_lines",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:literal_stringizer",
+      "type": "function",
+      "name": "literal_stringizer",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "summary": "Python function literal_stringizer",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:generate_gml",
+      "type": "function",
+      "name": "generate_gml",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "summary": "Python function generate_gml",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:write_gml",
+      "type": "function",
+      "name": "write_gml",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "summary": "Python function write_gml",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "type": "file",
+      "name": "graph6",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:from_graph6_bytes",
+      "type": "function",
+      "name": "from_graph6_bytes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "summary": "Python function from_graph6_bytes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:to_graph6_bytes",
+      "type": "function",
+      "name": "to_graph6_bytes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "summary": "Python function to_graph6_bytes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:read_graph6",
+      "type": "function",
+      "name": "read_graph6",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "summary": "Python function read_graph6",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:write_graph6",
+      "type": "function",
+      "name": "write_graph6",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "summary": "Python function write_graph6",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:write_graph6_file",
+      "type": "function",
+      "name": "write_graph6_file",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "summary": "Python function write_graph6_file",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:data_to_n",
+      "type": "function",
+      "name": "data_to_n",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "summary": "Python function data_to_n",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:n_to_data",
+      "type": "function",
+      "name": "n_to_data",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "summary": "Python function n_to_data",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "type": "file",
+      "name": "graphml",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:GraphML",
+      "type": "class",
+      "name": "GraphML",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "summary": "Python class GraphML",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:GraphMLWriter",
+      "type": "class",
+      "name": "GraphMLWriter",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "summary": "Python class GraphMLWriter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:IncrementalElement",
+      "type": "class",
+      "name": "IncrementalElement",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "summary": "Python class IncrementalElement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:GraphMLWriterLxml",
+      "type": "class",
+      "name": "GraphMLWriterLxml",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "summary": "Python class GraphMLWriterLxml",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:GraphMLReader",
+      "type": "class",
+      "name": "GraphMLReader",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "summary": "Python class GraphMLReader",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:write_graphml_xml",
+      "type": "function",
+      "name": "write_graphml_xml",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "summary": "Python function write_graphml_xml",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:write_graphml_lxml",
+      "type": "function",
+      "name": "write_graphml_lxml",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "summary": "Python function write_graphml_lxml",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:generate_graphml",
+      "type": "function",
+      "name": "generate_graphml",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "summary": "Python function generate_graphml",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:read_graphml",
+      "type": "function",
+      "name": "read_graphml",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "summary": "Python function read_graphml",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:parse_graphml",
+      "type": "function",
+      "name": "parse_graphml",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "summary": "Python function parse_graphml",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/adjacency.py",
+      "type": "file",
+      "name": "adjacency",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/adjacency.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/adjacency.py:adjacency_data",
+      "type": "function",
+      "name": "adjacency_data",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/adjacency.py",
+      "summary": "Python function adjacency_data",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/adjacency.py:adjacency_graph",
+      "type": "function",
+      "name": "adjacency_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/adjacency.py",
+      "summary": "Python function adjacency_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/cytoscape.py",
+      "type": "file",
+      "name": "cytoscape",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/cytoscape.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/cytoscape.py:cytoscape_data",
+      "type": "function",
+      "name": "cytoscape_data",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/cytoscape.py",
+      "summary": "Python function cytoscape_data",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/cytoscape.py:cytoscape_graph",
+      "type": "function",
+      "name": "cytoscape_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/cytoscape.py",
+      "summary": "Python function cytoscape_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/node_link.py",
+      "type": "file",
+      "name": "node_link",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/node_link.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/node_link.py:node_link_data",
+      "type": "function",
+      "name": "node_link_data",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/node_link.py",
+      "summary": "Python function node_link_data",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/node_link.py:node_link_graph",
+      "type": "function",
+      "name": "node_link_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/node_link.py",
+      "summary": "Python function node_link_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_adjacency.py",
+      "type": "file",
+      "name": "test_adjacency",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_adjacency.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_adjacency.py:TestAdjacency",
+      "type": "class",
+      "name": "TestAdjacency",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_adjacency.py",
+      "summary": "Python class TestAdjacency",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "type": "file",
+      "name": "test_cytoscape",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_graph",
+      "type": "function",
+      "name": "test_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "summary": "Python function test_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_input_data_is_not_modified_when_building_graph",
+      "type": "function",
+      "name": "test_input_data_is_not_modified_when_building_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "summary": "Python function test_input_data_is_not_modified_when_building_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_graph_attributes",
+      "type": "function",
+      "name": "test_graph_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "summary": "Python function test_graph_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_digraph",
+      "type": "function",
+      "name": "test_digraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "summary": "Python function test_digraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_multidigraph",
+      "type": "function",
+      "name": "test_multidigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "summary": "Python function test_multidigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_multigraph",
+      "type": "function",
+      "name": "test_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "summary": "Python function test_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_exception",
+      "type": "function",
+      "name": "test_exception",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "summary": "Python function test_exception",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py:laplacian_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py:normalized_laplacian_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py:directed_laplacian_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/laplacianmatrix.py:directed_combinatorial_laplacian_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/modularitymatrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/modularitymatrix.py:modularity_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/modularitymatrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/modularitymatrix.py:directed_modularity_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py:laplacian_spectrum",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py:normalized_laplacian_spectrum",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py:adjacency_spectrum",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py:modularity_spectrum",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/spectrum.py:bethe_hessian_spectrum",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:TestAlgebraicConnectivity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:TestSpectralOrdering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:test_algebraic_connectivity_tracemin_chol",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:test_fiedler_vector_tracemin_chol",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:test_spectral_ordering_tracemin_chol",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:test_fiedler_vector_tracemin_unknown",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:test_spectral_bisection",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_algebraic_connectivity.py:check_eigenvector",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py:test_attr_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py:test_attr_matrix_directed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py:test_attr_matrix_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py:test_attr_sparse_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_attrmatrix.py:test_attr_sparse_matrix_directed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_bethehessian.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_bethehessian.py:TestBetheHessian",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_graphmatrix.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_graphmatrix.py:TestGraphMatrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_graphmatrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_graphmatrix.py:test_incidence_matrix_simple",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py:TestLaplacian",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py:test_directed_laplacian",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_laplacian.py:test_directed_combinatorial_laplacian",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_modularity.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_modularity.py:TestModularity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_spectrum.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/linalg/tests/test_spectrum.py:TestSpectrum",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py:generate_adjlist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py:write_adjlist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py:parse_adjlist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/adjlist.py:read_adjlist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py:generate_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py:write_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py:parse_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py:read_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py:write_weighted_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/edgelist.py:read_weighted_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:GEXF",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:GEXFWriter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:GEXFReader",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:write_gexf",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:generate_gexf",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:read_gexf",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gexf.py:relabel_gexf_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:Pattern",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:Token",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:escape",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:unescape",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:literal_destringizer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:read_gml",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:parse_gml",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:parse_gml_lines",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:literal_stringizer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:generate_gml",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/gml.py:write_gml",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:from_graph6_bytes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:to_graph6_bytes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:read_graph6",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:write_graph6",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:write_graph6_file",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:data_to_n",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graph6.py:n_to_data",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:GraphML",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:GraphMLWriter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:IncrementalElement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:GraphMLWriterLxml",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:GraphMLReader",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:write_graphml_xml",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:write_graphml_lxml",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:generate_graphml",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:read_graphml",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/graphml.py:parse_graphml",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/adjacency.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/adjacency.py:adjacency_data",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/adjacency.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/adjacency.py:adjacency_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/cytoscape.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/cytoscape.py:cytoscape_data",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/cytoscape.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/cytoscape.py:cytoscape_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/node_link.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/node_link.py:node_link_data",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/node_link.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/node_link.py:node_link_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_adjacency.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_adjacency.py:TestAdjacency",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_input_data_is_not_modified_when_building_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_graph_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_digraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_multidigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/readwrite/json_graph/tests/test_cytoscape.py:test_exception",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 114,
+    "edgeCount": 91,
+    "nodeTypes": {
+      "file": 23,
+      "function": 73,
+      "class": 18
+    }
+  }
+}

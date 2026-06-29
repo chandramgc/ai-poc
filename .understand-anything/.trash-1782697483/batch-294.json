@@ -1,0 +1,94 @@
+{
+  "batchIndex": 294,
+  "nodes": [
+    {
+      "id": "file:tmp/speckit-test/.git/COMMIT_EDITMSG",
+      "type": "file",
+      "name": "COMMIT_EDITMSG",
+      "filePath": "tmp/speckit-test/.git/COMMIT_EDITMSG",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": "tmp/speckit-test/.git/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/config",
+      "type": "file",
+      "name": "config",
+      "filePath": "tmp/speckit-test/.git/config",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/description",
+      "type": "file",
+      "name": "description",
+      "filePath": "tmp/speckit-test/.git/description",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/index",
+      "type": "file",
+      "name": "index",
+      "filePath": "tmp/speckit-test/.git/index",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/speckit-test/.git/COMMIT_EDITMSG",
+      "target": "file:tmp/speckit-test/.git/COMMIT_EDITMSG",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/HEAD",
+      "target": "file:tmp/speckit-test/.git/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/config",
+      "target": "file:tmp/speckit-test/.git/config",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/description",
+      "target": "file:tmp/speckit-test/.git/description",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/index",
+      "target": "file:tmp/speckit-test/.git/index",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

@@ -1,0 +1,746 @@
+{
+  "batchIndex": 603,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/prs.py",
+      "type": "file",
+      "name": "prs",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/prs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:11"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/prs.py:PRInfo",
+      "type": "class",
+      "name": "PRInfo",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/prs.py",
+      "summary": "Python class PRInfo",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/querylog.py",
+      "type": "file",
+      "name": "querylog",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/querylog.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/reflect.py",
+      "type": "file",
+      "name": "reflect",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/reflect.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/report.py",
+      "type": "file",
+      "name": "report",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/report.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/scip_ingest.py",
+      "type": "file",
+      "name": "scip_ingest",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/scip_ingest.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/security.py",
+      "type": "file",
+      "name": "security",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/security.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/security.py:_SSRFGuardedHTTPConnection",
+      "type": "class",
+      "name": "_SSRFGuardedHTTPConnection",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/security.py",
+      "summary": "Python class _SSRFGuardedHTTPConnection",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/security.py:_SSRFGuardedHTTPSConnection",
+      "type": "class",
+      "name": "_SSRFGuardedHTTPSConnection",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/security.py",
+      "summary": "Python class _SSRFGuardedHTTPSConnection",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/security.py:_SSRFGuardedHTTPHandler",
+      "type": "class",
+      "name": "_SSRFGuardedHTTPHandler",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/security.py",
+      "summary": "Python class _SSRFGuardedHTTPHandler",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/security.py:_SSRFGuardedHTTPSHandler",
+      "type": "class",
+      "name": "_SSRFGuardedHTTPSHandler",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/security.py",
+      "summary": "Python class _SSRFGuardedHTTPSHandler",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/security.py:_NoFileRedirectHandler",
+      "type": "class",
+      "name": "_NoFileRedirectHandler",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/security.py",
+      "summary": "Python class _NoFileRedirectHandler",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/semantic_cleanup.py",
+      "type": "file",
+      "name": "semantic_cleanup",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/semantic_cleanup.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/serve.py",
+      "type": "file",
+      "name": "serve",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/serve.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/serve.py:_MCPASGIApp",
+      "type": "class",
+      "name": "_MCPASGIApp",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/serve.py",
+      "summary": "Python class _MCPASGIApp",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/serve.py:_ApiKeyMiddleware",
+      "type": "class",
+      "name": "_ApiKeyMiddleware",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/serve.py",
+      "summary": "Python class _ApiKeyMiddleware",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/symbol_resolution.py",
+      "type": "file",
+      "name": "symbol_resolution",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/symbol_resolution.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/symbol_resolution.py:ImportedSymbol",
+      "type": "class",
+      "name": "ImportedSymbol",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/symbol_resolution.py",
+      "summary": "Python class ImportedSymbol",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/transcribe.py",
+      "type": "file",
+      "name": "transcribe",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/transcribe.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/tree_html.py",
+      "type": "file",
+      "name": "tree_html",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/tree_html.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/validate.py",
+      "type": "file",
+      "name": "validate",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/validate.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/watch.py",
+      "type": "file",
+      "name": "watch",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/watch.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/wiki.py",
+      "type": "file",
+      "name": "wiki",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/wiki.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphifyy-0.9.1.dist-info/licenses/LICENSE",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/graphifyy-0.9.1.dist-info/licenses/LICENSE",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx-3.6.1.dist-info/licenses/LICENSE.txt",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/networkx-3.6.1.dist-info/licenses/LICENSE.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:23"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:128"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:14"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py",
+      "type": "file",
+      "name": "clique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py:maximum_independent_set",
+      "type": "function",
+      "name": "maximum_independent_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py",
+      "summary": "Python function maximum_independent_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py:max_clique",
+      "type": "function",
+      "name": "max_clique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py",
+      "summary": "Python function max_clique",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py:clique_removal",
+      "type": "function",
+      "name": "clique_removal",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py",
+      "summary": "Python function clique_removal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py:large_clique_size",
+      "type": "function",
+      "name": "large_clique_size",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py",
+      "summary": "Python function large_clique_size",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clustering_coefficient.py",
+      "type": "file",
+      "name": "clustering_coefficient",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clustering_coefficient.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clustering_coefficient.py:average_clustering",
+      "type": "function",
+      "name": "average_clustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clustering_coefficient.py",
+      "summary": "Python function average_clustering",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py",
+      "type": "file",
+      "name": "connectivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py:local_node_connectivity",
+      "type": "function",
+      "name": "local_node_connectivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py",
+      "summary": "Python function local_node_connectivity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py:node_connectivity",
+      "type": "function",
+      "name": "node_connectivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py",
+      "summary": "Python function node_connectivity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py:all_pairs_node_connectivity",
+      "type": "function",
+      "name": "all_pairs_node_connectivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py",
+      "summary": "Python function all_pairs_node_connectivity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/density.py",
+      "type": "file",
+      "name": "density",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/density.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/density.py:densest_subgraph",
+      "type": "function",
+      "name": "densest_subgraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/density.py",
+      "summary": "Python function densest_subgraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/distance_measures.py",
+      "type": "file",
+      "name": "distance_measures",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/distance_measures.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/distance_measures.py:diameter",
+      "type": "function",
+      "name": "diameter",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/distance_measures.py",
+      "summary": "Python function diameter",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/dominating_set.py",
+      "type": "file",
+      "name": "dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/dominating_set.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/dominating_set.py:min_weighted_dominating_set",
+      "type": "function",
+      "name": "min_weighted_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/dominating_set.py",
+      "summary": "Python function min_weighted_dominating_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/dominating_set.py:min_edge_dominating_set",
+      "type": "function",
+      "name": "min_edge_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/dominating_set.py",
+      "summary": "Python function min_edge_dominating_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/prs.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/prs.py:PRInfo",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/security.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/security.py:_SSRFGuardedHTTPConnection",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/security.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/security.py:_SSRFGuardedHTTPSConnection",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/security.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/security.py:_SSRFGuardedHTTPHandler",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/security.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/security.py:_SSRFGuardedHTTPSHandler",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/security.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/security.py:_NoFileRedirectHandler",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/serve.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/serve.py:_MCPASGIApp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/serve.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/serve.py:_ApiKeyMiddleware",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/symbol_resolution.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/symbol_resolution.py:ImportedSymbol",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphifyy-0.9.1.dist-info/licenses/LICENSE",
+      "target": "file:venv/lib/python3.14/site-packages/graphifyy-0.9.1.dist-info/licenses/LICENSE",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx-3.6.1.dist-info/licenses/LICENSE.txt",
+      "target": "file:venv/lib/python3.14/site-packages/networkx-3.6.1.dist-info/licenses/LICENSE.txt",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py:maximum_independent_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py:max_clique",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py:clique_removal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clique.py:large_clique_size",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clustering_coefficient.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/clustering_coefficient.py:average_clustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py:local_node_connectivity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py:node_connectivity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/connectivity.py:all_pairs_node_connectivity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/density.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/density.py:densest_subgraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/distance_measures.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/distance_measures.py:diameter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/dominating_set.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/dominating_set.py:min_weighted_dominating_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/dominating_set.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/dominating_set.py:min_edge_dominating_set",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 46,
+    "edgeCount": 23,
+    "nodeTypes": {
+      "file": 25,
+      "class": 9,
+      "function": 12
+    }
+  }
+}

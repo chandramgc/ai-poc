@@ -1,0 +1,735 @@
+{
+  "batchIndex": 660,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/reporters.py",
+      "type": "file",
+      "name": "reporters",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/reporters.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/reporters.py:BaseReporter",
+      "type": "class",
+      "name": "BaseReporter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/reporters.py",
+      "summary": "Python class BaseReporter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/abstract.py",
+      "type": "file",
+      "name": "abstract",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/abstract.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/abstract.py:AbstractResolver",
+      "type": "class",
+      "name": "AbstractResolver",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/abstract.py",
+      "summary": "Python class AbstractResolver",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/criterion.py",
+      "type": "file",
+      "name": "criterion",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/criterion.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/criterion.py:Criterion",
+      "type": "class",
+      "name": "Criterion",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/criterion.py",
+      "summary": "Python class Criterion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "type": "file",
+      "name": "exceptions",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py:ResolverException",
+      "type": "class",
+      "name": "ResolverException",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "summary": "Python class ResolverException",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py:RequirementsConflicted",
+      "type": "class",
+      "name": "RequirementsConflicted",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "summary": "Python class RequirementsConflicted",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py:InconsistentCandidate",
+      "type": "class",
+      "name": "InconsistentCandidate",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "summary": "Python class InconsistentCandidate",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py:ResolutionError",
+      "type": "class",
+      "name": "ResolutionError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "summary": "Python class ResolutionError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py:ResolutionImpossible",
+      "type": "class",
+      "name": "ResolutionImpossible",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "summary": "Python class ResolutionImpossible",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py:ResolutionTooDeep",
+      "type": "class",
+      "name": "ResolutionTooDeep",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "summary": "Python class ResolutionTooDeep",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py",
+      "type": "file",
+      "name": "resolution",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py:Resolution",
+      "type": "class",
+      "name": "Resolution",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py",
+      "summary": "Python class Resolution",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py:Resolver",
+      "type": "class",
+      "name": "Resolver",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py",
+      "summary": "Python class Resolver",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py",
+      "type": "file",
+      "name": "structs",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py:DirectedGraph",
+      "type": "class",
+      "name": "DirectedGraph",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py",
+      "summary": "Python class DirectedGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py:IteratorMapping",
+      "type": "class",
+      "name": "IteratorMapping",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py",
+      "summary": "Python class IteratorMapping",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py:_FactoryIterableView",
+      "type": "class",
+      "name": "_FactoryIterableView",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py",
+      "summary": "Python class _FactoryIterableView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py:_SequenceIterableView",
+      "type": "class",
+      "name": "_SequenceIterableView",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py",
+      "summary": "Python class _SequenceIterableView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/__main__.py",
+      "type": "file",
+      "name": "__main__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/__main__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:13"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/__main__.py:ColorBox",
+      "type": "class",
+      "name": "ColorBox",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/__main__.py",
+      "summary": "Python class ColorBox",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_cell_widths.py",
+      "type": "file",
+      "name": "_cell_widths",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_cell_widths.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_emoji_codes.py",
+      "type": "file",
+      "name": "_emoji_codes",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_emoji_codes.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_emoji_replace.py",
+      "type": "file",
+      "name": "_emoji_replace",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_emoji_replace.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_export_format.py",
+      "type": "file",
+      "name": "_export_format",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_export_format.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_extension.py",
+      "type": "file",
+      "name": "_extension",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_extension.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_fileno.py",
+      "type": "file",
+      "name": "_fileno",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_fileno.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_inspect.py",
+      "type": "file",
+      "name": "_inspect",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_inspect.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:11"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_inspect.py:Inspect",
+      "type": "class",
+      "name": "Inspect",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_inspect.py",
+      "summary": "Python class Inspect",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_log_render.py",
+      "type": "file",
+      "name": "_log_render",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_log_render.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_log_render.py:LogRender",
+      "type": "class",
+      "name": "LogRender",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_log_render.py",
+      "summary": "Python class LogRender",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_loop.py",
+      "type": "file",
+      "name": "_loop",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_loop.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_null_file.py",
+      "type": "file",
+      "name": "_null_file",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_null_file.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_null_file.py:NullFile",
+      "type": "class",
+      "name": "NullFile",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_null_file.py",
+      "summary": "Python class NullFile",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_palettes.py",
+      "type": "file",
+      "name": "_palettes",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_palettes.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_pick.py",
+      "type": "file",
+      "name": "_pick",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_pick.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_ratio.py",
+      "type": "file",
+      "name": "_ratio",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_ratio.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_ratio.py:Edge",
+      "type": "class",
+      "name": "Edge",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_ratio.py",
+      "summary": "Python class Edge",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_spinners.py",
+      "type": "file",
+      "name": "_spinners",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_spinners.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_stack.py",
+      "type": "file",
+      "name": "_stack",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_stack.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_stack.py:Stack",
+      "type": "class",
+      "name": "Stack",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_stack.py",
+      "summary": "Python class Stack",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_timer.py",
+      "type": "file",
+      "name": "_timer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_timer.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/reporters.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/reporters.py:BaseReporter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/abstract.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/abstract.py:AbstractResolver",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/criterion.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/criterion.py:Criterion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py:ResolverException",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py:RequirementsConflicted",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py:InconsistentCandidate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py:ResolutionError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py:ResolutionImpossible",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py:ResolutionTooDeep",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py:Resolution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py:Resolver",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py:DirectedGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py:IteratorMapping",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py:_FactoryIterableView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py:_SequenceIterableView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/__main__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/__main__.py:ColorBox",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_inspect.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_inspect.py:Inspect",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_log_render.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_log_render.py:LogRender",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_null_file.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_null_file.py:NullFile",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_ratio.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_ratio.py:Edge",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_stack.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_stack.py:Stack",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 46,
+    "edgeCount": 21,
+    "nodeTypes": {
+      "file": 25,
+      "class": 21
+    }
+  }
+}

@@ -1,0 +1,809 @@
+{
+  "batchIndex": 654,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/wheel.py",
+      "type": "file",
+      "name": "wheel",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/wheel.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/bazaar.py",
+      "type": "file",
+      "name": "bazaar",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/bazaar.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/bazaar.py:Bazaar",
+      "type": "class",
+      "name": "Bazaar",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/bazaar.py",
+      "summary": "Python class Bazaar",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/git.py",
+      "type": "file",
+      "name": "git",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/git.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/git.py:Git",
+      "type": "class",
+      "name": "Git",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/git.py",
+      "summary": "Python class Git",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/mercurial.py",
+      "type": "file",
+      "name": "mercurial",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/mercurial.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/mercurial.py:Mercurial",
+      "type": "class",
+      "name": "Mercurial",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/mercurial.py",
+      "summary": "Python class Mercurial",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/subversion.py",
+      "type": "file",
+      "name": "subversion",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/subversion.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/subversion.py:Subversion",
+      "type": "class",
+      "name": "Subversion",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/subversion.py",
+      "summary": "Python class Subversion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py",
+      "type": "file",
+      "name": "versioncontrol",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:11"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py:RemoteNotFoundError",
+      "type": "class",
+      "name": "RemoteNotFoundError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py",
+      "summary": "Python class RemoteNotFoundError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py:RemoteNotValidError",
+      "type": "class",
+      "name": "RemoteNotValidError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py",
+      "summary": "Python class RemoteNotValidError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py:RevOptions",
+      "type": "class",
+      "name": "RevOptions",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py",
+      "summary": "Python class RevOptions",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py:VcsSupport",
+      "type": "class",
+      "name": "VcsSupport",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py",
+      "summary": "Python class VcsSupport",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py:VersionControl",
+      "type": "class",
+      "name": "VersionControl",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py",
+      "summary": "Python class VersionControl",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/wheel_builder.py",
+      "type": "file",
+      "name": "wheel_builder",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/wheel_builder.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:19"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/__init__.py:vendored",
+      "type": "function",
+      "name": "vendored",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/__init__.py",
+      "summary": "Python function vendored",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/_cmd.py",
+      "type": "file",
+      "name": "_cmd",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/_cmd.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/adapter.py",
+      "type": "file",
+      "name": "adapter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/adapter.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/adapter.py:CacheControlAdapter",
+      "type": "class",
+      "name": "CacheControlAdapter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/adapter.py",
+      "summary": "Python class CacheControlAdapter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py",
+      "type": "file",
+      "name": "cache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py:BaseCache",
+      "type": "class",
+      "name": "BaseCache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py",
+      "summary": "Python class BaseCache",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py:DictCache",
+      "type": "class",
+      "name": "DictCache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py",
+      "summary": "Python class DictCache",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py:SeparateBodyBaseCache",
+      "type": "class",
+      "name": "SeparateBodyBaseCache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py",
+      "summary": "Python class SeparateBodyBaseCache",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py",
+      "type": "file",
+      "name": "file_cache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py:_FileCacheMixin",
+      "type": "class",
+      "name": "_FileCacheMixin",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py",
+      "summary": "Python class _FileCacheMixin",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py:FileCache",
+      "type": "class",
+      "name": "FileCache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py",
+      "summary": "Python class FileCache",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py:SeparateBodyFileCache",
+      "type": "class",
+      "name": "SeparateBodyFileCache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py",
+      "summary": "Python class SeparateBodyFileCache",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py",
+      "type": "file",
+      "name": "redis_cache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py:RedisCache",
+      "type": "class",
+      "name": "RedisCache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py",
+      "summary": "Python class RedisCache",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/controller.py",
+      "type": "file",
+      "name": "controller",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/controller.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/controller.py:CacheController",
+      "type": "class",
+      "name": "CacheController",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/controller.py",
+      "summary": "Python class CacheController",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/filewrapper.py",
+      "type": "file",
+      "name": "filewrapper",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/filewrapper.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/filewrapper.py:CallbackFileWrapper",
+      "type": "class",
+      "name": "CallbackFileWrapper",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/filewrapper.py",
+      "summary": "Python class CallbackFileWrapper",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py",
+      "type": "file",
+      "name": "heuristics",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py:BaseHeuristic",
+      "type": "class",
+      "name": "BaseHeuristic",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py",
+      "summary": "Python class BaseHeuristic",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py:OneDayCache",
+      "type": "class",
+      "name": "OneDayCache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py",
+      "summary": "Python class OneDayCache",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py:ExpiresAfter",
+      "type": "class",
+      "name": "ExpiresAfter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py",
+      "summary": "Python class ExpiresAfter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py:LastModified",
+      "type": "class",
+      "name": "LastModified",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py",
+      "summary": "Python class LastModified",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/LICENSE.txt",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/LICENSE.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/serialize.py",
+      "type": "file",
+      "name": "serialize",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/serialize.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/serialize.py:Serializer",
+      "type": "class",
+      "name": "Serializer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/serialize.py",
+      "summary": "Python class Serializer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/wrapper.py",
+      "type": "file",
+      "name": "wrapper",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/wrapper.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/certifi/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/certifi/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/bazaar.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/bazaar.py:Bazaar",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/git.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/git.py:Git",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/mercurial.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/mercurial.py:Mercurial",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/subversion.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/subversion.py:Subversion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py:RemoteNotFoundError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py:RemoteNotValidError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py:RevOptions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py:VcsSupport",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py:VersionControl",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/__init__.py:vendored",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/adapter.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/adapter.py:CacheControlAdapter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py:BaseCache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py:DictCache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py:SeparateBodyBaseCache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py:_FileCacheMixin",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py:FileCache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py:SeparateBodyFileCache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py:RedisCache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/controller.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/controller.py:CacheController",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/filewrapper.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/filewrapper.py:CallbackFileWrapper",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py:BaseHeuristic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py:OneDayCache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py:ExpiresAfter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py:LastModified",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/LICENSE.txt",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/LICENSE.txt",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/serialize.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/serialize.py:Serializer",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 49,
+    "edgeCount": 27,
+    "nodeTypes": {
+      "file": 24,
+      "class": 24,
+      "function": 1
+    }
+  }
+}

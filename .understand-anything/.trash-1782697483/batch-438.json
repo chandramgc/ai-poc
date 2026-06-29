@@ -1,0 +1,126 @@
+{
+  "batchIndex": 438,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py2-np0-objarr.npy",
+      "type": "file",
+      "name": "py2-np0-objarr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/tests/data/py2-np0-objarr.npy",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py2-objarr.npy",
+      "type": "file",
+      "name": "py2-objarr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/tests/data/py2-objarr.npy",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py2-objarr.npz",
+      "type": "file",
+      "name": "py2-objarr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/tests/data/py2-objarr.npz",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py3-objarr.npy",
+      "type": "file",
+      "name": "py3-objarr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/tests/data/py3-objarr.npy",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py3-objarr.npz",
+      "type": "file",
+      "name": "py3-objarr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/tests/data/py3-objarr.npz",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/python3.npy",
+      "type": "file",
+      "name": "python3",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/tests/data/python3.npy",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/win64python2.npy",
+      "type": "file",
+      "name": "win64python2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/tests/data/win64python2.npy",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py2-np0-objarr.npy",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py2-np0-objarr.npy",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py2-objarr.npy",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py2-objarr.npy",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py2-objarr.npz",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py2-objarr.npz",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py3-objarr.npy",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py3-objarr.npy",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py3-objarr.npz",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/py3-objarr.npz",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/python3.npy",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/python3.npy",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/win64python2.npy",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/tests/data/win64python2.npy",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 7,
+    "edgeCount": 7,
+    "nodeTypes": {
+      "file": 7
+    }
+  }
+}

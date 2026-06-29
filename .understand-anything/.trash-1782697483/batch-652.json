@@ -1,0 +1,997 @@
+{
+  "batchIndex": 652,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/constructors.py",
+      "type": "file",
+      "name": "constructors",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/constructors.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:22"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/req/constructors.py:RequirementParts",
+      "type": "class",
+      "name": "RequirementParts",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/constructors.py",
+      "summary": "Python class RequirementParts",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/pep723.py",
+      "type": "file",
+      "name": "pep723",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/pep723.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/req/pep723.py:PEP723Exception",
+      "type": "class",
+      "name": "PEP723Exception",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/pep723.py",
+      "summary": "Python class PEP723Exception",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_dependency_group.py",
+      "type": "file",
+      "name": "req_dependency_group",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_dependency_group.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py",
+      "type": "file",
+      "name": "req_file",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:14"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py:ParsedRequirement",
+      "type": "class",
+      "name": "ParsedRequirement",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py",
+      "summary": "Python class ParsedRequirement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py:ParsedLine",
+      "type": "class",
+      "name": "ParsedLine",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py",
+      "summary": "Python class ParsedLine",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py:RequirementsFileParser",
+      "type": "class",
+      "name": "RequirementsFileParser",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py",
+      "summary": "Python class RequirementsFileParser",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py:OptionParsingError",
+      "type": "class",
+      "name": "OptionParsingError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py",
+      "summary": "Python class OptionParsingError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_install.py",
+      "type": "file",
+      "name": "req_install",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_install.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:37"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_install.py:InstallRequirement",
+      "type": "class",
+      "name": "InstallRequirement",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_install.py",
+      "summary": "Python class InstallRequirement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_set.py",
+      "type": "file",
+      "name": "req_set",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_set.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_set.py:RequirementSet",
+      "type": "class",
+      "name": "RequirementSet",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_set.py",
+      "summary": "Python class RequirementSet",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py",
+      "type": "file",
+      "name": "req_uninstall",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:15"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py:StashedUninstallPathSet",
+      "type": "class",
+      "name": "StashedUninstallPathSet",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py",
+      "summary": "Python class StashedUninstallPathSet",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py:UninstallPathSet",
+      "type": "class",
+      "name": "UninstallPathSet",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py",
+      "summary": "Python class UninstallPathSet",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py:UninstallPthEntries",
+      "type": "class",
+      "name": "UninstallPthEntries",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py",
+      "summary": "Python class UninstallPthEntries",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/__pycache__/base.cpython-314.pyc",
+      "type": "file",
+      "name": "base.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/__pycache__/base.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/base.py",
+      "type": "file",
+      "name": "base",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/base.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/base.py:BaseResolver",
+      "type": "class",
+      "name": "BaseResolver",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/base.py",
+      "summary": "Python class BaseResolver",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/__pycache__/resolver.cpython-314.pyc",
+      "type": "file",
+      "name": "resolver.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/__pycache__/resolver.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/resolver.py",
+      "type": "file",
+      "name": "resolver",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/resolver.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:24"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/resolver.py:Resolver",
+      "type": "class",
+      "name": "Resolver",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/resolver.py",
+      "summary": "Python class Resolver",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py",
+      "type": "file",
+      "name": "base",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py:Constraint",
+      "type": "class",
+      "name": "Constraint",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py",
+      "summary": "Python class Constraint",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py:Requirement",
+      "type": "class",
+      "name": "Requirement",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py",
+      "summary": "Python class Requirement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py:Candidate",
+      "type": "class",
+      "name": "Candidate",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py",
+      "summary": "Python class Candidate",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "type": "file",
+      "name": "candidates",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:16"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py:_InstallRequirementBackedCandidate",
+      "type": "class",
+      "name": "_InstallRequirementBackedCandidate",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "summary": "Python class _InstallRequirementBackedCandidate",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py:LinkCandidate",
+      "type": "class",
+      "name": "LinkCandidate",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "summary": "Python class LinkCandidate",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py:EditableCandidate",
+      "type": "class",
+      "name": "EditableCandidate",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "summary": "Python class EditableCandidate",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py:AlreadyInstalledCandidate",
+      "type": "class",
+      "name": "AlreadyInstalledCandidate",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "summary": "Python class AlreadyInstalledCandidate",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py:ExtrasCandidate",
+      "type": "class",
+      "name": "ExtrasCandidate",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "summary": "Python class ExtrasCandidate",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py:RequiresPythonCandidate",
+      "type": "class",
+      "name": "RequiresPythonCandidate",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "summary": "Python class RequiresPythonCandidate",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/factory.py",
+      "type": "file",
+      "name": "factory",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/factory.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:29"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/factory.py:CollectedRootRequirements",
+      "type": "class",
+      "name": "CollectedRootRequirements",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/factory.py",
+      "summary": "Python class CollectedRootRequirements",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/factory.py:Factory",
+      "type": "class",
+      "name": "Factory",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/factory.py",
+      "summary": "Python class Factory",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py",
+      "type": "file",
+      "name": "found_candidates",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py:FoundCandidates",
+      "type": "class",
+      "name": "FoundCandidates",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py",
+      "summary": "Python class FoundCandidates",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/provider.py",
+      "type": "file",
+      "name": "provider",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/provider.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:12"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/provider.py:PipProvider",
+      "type": "class",
+      "name": "PipProvider",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/provider.py",
+      "summary": "Python class PipProvider",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/reporter.py",
+      "type": "file",
+      "name": "reporter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/reporter.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/reporter.py:PipReporter",
+      "type": "class",
+      "name": "PipReporter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/reporter.py",
+      "summary": "Python class PipReporter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/reporter.py:PipDebuggingReporter",
+      "type": "class",
+      "name": "PipDebuggingReporter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/reporter.py",
+      "summary": "Python class PipDebuggingReporter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+      "type": "file",
+      "name": "requirements",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py:ExplicitRequirement",
+      "type": "class",
+      "name": "ExplicitRequirement",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+      "summary": "Python class ExplicitRequirement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py:SpecifierRequirement",
+      "type": "class",
+      "name": "SpecifierRequirement",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+      "summary": "Python class SpecifierRequirement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py:SpecifierWithoutExtrasRequirement",
+      "type": "class",
+      "name": "SpecifierWithoutExtrasRequirement",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+      "summary": "Python class SpecifierWithoutExtrasRequirement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py:RequiresPythonRequirement",
+      "type": "class",
+      "name": "RequiresPythonRequirement",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+      "summary": "Python class RequiresPythonRequirement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py:UnsatisfiableRequirement",
+      "type": "class",
+      "name": "UnsatisfiableRequirement",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+      "summary": "Python class UnsatisfiableRequirement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/resolver.py",
+      "type": "file",
+      "name": "resolver",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/resolver.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:21"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/resolver.py:Resolver",
+      "type": "class",
+      "name": "Resolver",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/resolver.py",
+      "summary": "Python class Resolver",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/self_outdated_check.py",
+      "type": "file",
+      "name": "self_outdated_check",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/self_outdated_check.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:22"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/self_outdated_check.py:SelfCheckState",
+      "type": "class",
+      "name": "SelfCheckState",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/self_outdated_check.py",
+      "summary": "Python class SelfCheckState",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/self_outdated_check.py:UpgradePrompt",
+      "type": "class",
+      "name": "UpgradePrompt",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/self_outdated_check.py",
+      "summary": "Python class UpgradePrompt",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/constructors.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/req/constructors.py:RequirementParts",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/pep723.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/req/pep723.py:PEP723Exception",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py:ParsedRequirement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py:ParsedLine",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py:RequirementsFileParser",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py:OptionParsingError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_install.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_install.py:InstallRequirement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_set.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_set.py:RequirementSet",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py:StashedUninstallPathSet",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py:UninstallPathSet",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py:UninstallPthEntries",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/__pycache__/base.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/__pycache__/base.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/base.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/base.py:BaseResolver",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/__pycache__/resolver.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/__pycache__/resolver.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/resolver.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/resolver.py:Resolver",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py:Constraint",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py:Requirement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py:Candidate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py:_InstallRequirementBackedCandidate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py:LinkCandidate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py:EditableCandidate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py:AlreadyInstalledCandidate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py:ExtrasCandidate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py:RequiresPythonCandidate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/factory.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/factory.py:CollectedRootRequirements",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/factory.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/factory.py:Factory",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py:FoundCandidates",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/provider.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/provider.py:PipProvider",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/reporter.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/reporter.py:PipReporter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/reporter.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/reporter.py:PipDebuggingReporter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py:ExplicitRequirement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py:SpecifierRequirement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py:SpecifierWithoutExtrasRequirement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py:RequiresPythonRequirement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py:UnsatisfiableRequirement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/resolver.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/resolver.py:Resolver",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/self_outdated_check.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/self_outdated_check.py:SelfCheckState",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/self_outdated_check.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/self_outdated_check.py:UpgradePrompt",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 58,
+    "edgeCount": 40,
+    "nodeTypes": {
+      "file": 22,
+      "class": 36
+    }
+  }
+}

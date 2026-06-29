@@ -1,0 +1,2836 @@
+{
+  "batchIndex": 618,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "type": "file",
+      "name": "test_tournament",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_condition_not_satisfied",
+      "type": "function",
+      "name": "test_condition_not_satisfied",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_condition_not_satisfied",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_empty_iterable",
+      "type": "function",
+      "name": "test_empty_iterable",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_empty_iterable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_is_tournament",
+      "type": "function",
+      "name": "test_is_tournament",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_is_tournament",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_self_loops",
+      "type": "function",
+      "name": "test_self_loops",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_self_loops",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_missing_edges",
+      "type": "function",
+      "name": "test_missing_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_missing_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_bidirectional_edges",
+      "type": "function",
+      "name": "test_bidirectional_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_bidirectional_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_graph_is_tournament",
+      "type": "function",
+      "name": "test_graph_is_tournament",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_graph_is_tournament",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_graph_is_tournament_seed",
+      "type": "function",
+      "name": "test_graph_is_tournament_seed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_graph_is_tournament_seed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_graph_is_tournament_one_node",
+      "type": "function",
+      "name": "test_graph_is_tournament_one_node",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_graph_is_tournament_one_node",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_graph_is_tournament_zero_node",
+      "type": "function",
+      "name": "test_graph_is_tournament_zero_node",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_graph_is_tournament_zero_node",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_hamiltonian_empty_graph",
+      "type": "function",
+      "name": "test_hamiltonian_empty_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_hamiltonian_empty_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_path_is_hamiltonian",
+      "type": "function",
+      "name": "test_path_is_hamiltonian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_path_is_hamiltonian",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_hamiltonian_cycle",
+      "type": "function",
+      "name": "test_hamiltonian_cycle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_hamiltonian_cycle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_score_sequence_edge",
+      "type": "function",
+      "name": "test_score_sequence_edge",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_score_sequence_edge",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_score_sequence_triangle",
+      "type": "function",
+      "name": "test_score_sequence_triangle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_score_sequence_triangle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_tournament_matrix",
+      "type": "function",
+      "name": "test_tournament_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_tournament_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_reachable_pair",
+      "type": "function",
+      "name": "test_reachable_pair",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_reachable_pair",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_same_node_is_reachable",
+      "type": "function",
+      "name": "test_same_node_is_reachable",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_same_node_is_reachable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_unreachable_pair",
+      "type": "function",
+      "name": "test_unreachable_pair",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_unreachable_pair",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_is_strongly_connected",
+      "type": "function",
+      "name": "test_is_strongly_connected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_is_strongly_connected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_not_strongly_connected",
+      "type": "function",
+      "name": "test_not_strongly_connected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "summary": "Python function test_not_strongly_connected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "type": "file",
+      "name": "test_triads",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census",
+      "type": "function",
+      "name": "test_triadic_census",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python function test_triadic_census",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_is_triad",
+      "type": "function",
+      "name": "test_is_triad",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python function test_is_triad",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_all_triads",
+      "type": "function",
+      "name": "test_all_triads",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python function test_all_triads",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triad_type",
+      "type": "function",
+      "name": "test_triad_type",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python function test_triad_type",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triads_by_type",
+      "type": "function",
+      "name": "test_triads_by_type",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python function test_triads_by_type",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_short_path_nodelist",
+      "type": "function",
+      "name": "test_triadic_census_short_path_nodelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python function test_triadic_census_short_path_nodelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_correct_nodelist_values",
+      "type": "function",
+      "name": "test_triadic_census_correct_nodelist_values",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python function test_triadic_census_correct_nodelist_values",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_tiny_graphs",
+      "type": "function",
+      "name": "test_triadic_census_tiny_graphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python function test_triadic_census_tiny_graphs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_selfloops",
+      "type": "function",
+      "name": "test_triadic_census_selfloops",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python function test_triadic_census_selfloops",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_four_path",
+      "type": "function",
+      "name": "test_triadic_census_four_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python function test_triadic_census_four_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_four_path_nodelist",
+      "type": "function",
+      "name": "test_triadic_census_four_path_nodelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python function test_triadic_census_four_path_nodelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_nodelist",
+      "type": "function",
+      "name": "test_triadic_census_nodelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python function test_triadic_census_nodelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_on_random_graph",
+      "type": "function",
+      "name": "test_triadic_census_on_random_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "summary": "Python function test_triadic_census_on_random_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_vitality.py",
+      "type": "file",
+      "name": "test_vitality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_vitality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_vitality.py:TestClosenessVitality",
+      "type": "class",
+      "name": "TestClosenessVitality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_vitality.py",
+      "summary": "Python class TestClosenessVitality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_voronoi.py",
+      "type": "file",
+      "name": "test_voronoi",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_voronoi.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_voronoi.py:TestVoronoiCells",
+      "type": "class",
+      "name": "TestVoronoiCells",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_voronoi.py",
+      "summary": "Python class TestVoronoiCells",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "type": "file",
+      "name": "test_walks",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py:test_directed",
+      "type": "function",
+      "name": "test_directed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "summary": "Python function test_directed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py:test_undirected",
+      "type": "function",
+      "name": "test_undirected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "summary": "Python function test_undirected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py:test_non_integer_nodes",
+      "type": "function",
+      "name": "test_non_integer_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "summary": "Python function test_non_integer_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py:test_zero_length",
+      "type": "function",
+      "name": "test_zero_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "summary": "Python function test_zero_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py:test_negative_length_exception",
+      "type": "function",
+      "name": "test_negative_length_exception",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "summary": "Python function test_negative_length_exception",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py:test_hidden_weight_attr",
+      "type": "function",
+      "name": "test_hidden_weight_attr",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "summary": "Python function test_hidden_weight_attr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "type": "file",
+      "name": "test_wiener",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_wiener_index_of_disconnected_graph",
+      "type": "function",
+      "name": "test_wiener_index_of_disconnected_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_wiener_index_of_disconnected_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_wiener_index_of_directed_graph",
+      "type": "function",
+      "name": "test_wiener_index_of_directed_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_wiener_index_of_directed_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_wiener_index_of_complete_graph",
+      "type": "function",
+      "name": "test_wiener_index_of_complete_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_wiener_index_of_complete_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_wiener_index_of_path_graph",
+      "type": "function",
+      "name": "test_wiener_index_of_path_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_wiener_index_of_path_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_schultz_and_gutman_index_of_disconnected_graph",
+      "type": "function",
+      "name": "test_schultz_and_gutman_index_of_disconnected_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_schultz_and_gutman_index_of_disconnected_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_schultz_and_gutman_index_of_complete_bipartite_graph_1",
+      "type": "function",
+      "name": "test_schultz_and_gutman_index_of_complete_bipartite_graph_1",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_schultz_and_gutman_index_of_complete_bipartite_graph_1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_schultz_and_gutman_index_of_complete_bipartite_graph_2",
+      "type": "function",
+      "name": "test_schultz_and_gutman_index_of_complete_bipartite_graph_2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_schultz_and_gutman_index_of_complete_bipartite_graph_2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_schultz_and_gutman_index_of_complete_graph",
+      "type": "function",
+      "name": "test_schultz_and_gutman_index_of_complete_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_schultz_and_gutman_index_of_complete_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_schultz_and_gutman_index_of_odd_cycle_graph",
+      "type": "function",
+      "name": "test_schultz_and_gutman_index_of_odd_cycle_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_schultz_and_gutman_index_of_odd_cycle_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_hyper_wiener_of_complete_graph",
+      "type": "function",
+      "name": "test_hyper_wiener_of_complete_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_hyper_wiener_of_complete_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_hyper_wiener_of_path_graph",
+      "type": "function",
+      "name": "test_hyper_wiener_of_path_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_hyper_wiener_of_path_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_hyper_wiener_of_cycle_graph",
+      "type": "function",
+      "name": "test_hyper_wiener_of_cycle_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_hyper_wiener_of_cycle_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_hyper_wiener_of_disconnected_graph",
+      "type": "function",
+      "name": "test_hyper_wiener_of_disconnected_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_hyper_wiener_of_disconnected_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_hyper_wiener_of_weighted_graph",
+      "type": "function",
+      "name": "test_hyper_wiener_of_weighted_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "summary": "Python function test_hyper_wiener_of_weighted_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "type": "file",
+      "name": "threshold",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:is_threshold_graph",
+      "type": "function",
+      "name": "is_threshold_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function is_threshold_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:is_threshold_sequence",
+      "type": "function",
+      "name": "is_threshold_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function is_threshold_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:creation_sequence",
+      "type": "function",
+      "name": "creation_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function creation_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:make_compact",
+      "type": "function",
+      "name": "make_compact",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function make_compact",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:uncompact",
+      "type": "function",
+      "name": "uncompact",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function uncompact",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:creation_sequence_to_weights",
+      "type": "function",
+      "name": "creation_sequence_to_weights",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function creation_sequence_to_weights",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:weights_to_creation_sequence",
+      "type": "function",
+      "name": "weights_to_creation_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function weights_to_creation_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:threshold_graph",
+      "type": "function",
+      "name": "threshold_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function threshold_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:find_alternating_4_cycle",
+      "type": "function",
+      "name": "find_alternating_4_cycle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function find_alternating_4_cycle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:find_threshold_graph",
+      "type": "function",
+      "name": "find_threshold_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function find_threshold_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:find_creation_sequence",
+      "type": "function",
+      "name": "find_creation_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function find_creation_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:triangles",
+      "type": "function",
+      "name": "triangles",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function triangles",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:triangle_sequence",
+      "type": "function",
+      "name": "triangle_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function triangle_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:cluster_sequence",
+      "type": "function",
+      "name": "cluster_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function cluster_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:degree_sequence",
+      "type": "function",
+      "name": "degree_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function degree_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:density",
+      "type": "function",
+      "name": "density",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function density",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:degree_correlation",
+      "type": "function",
+      "name": "degree_correlation",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function degree_correlation",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:shortest_path",
+      "type": "function",
+      "name": "shortest_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function shortest_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:shortest_path_length",
+      "type": "function",
+      "name": "shortest_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function shortest_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:betweenness_sequence",
+      "type": "function",
+      "name": "betweenness_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function betweenness_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:eigenvectors",
+      "type": "function",
+      "name": "eigenvectors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function eigenvectors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:spectral_projection",
+      "type": "function",
+      "name": "spectral_projection",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function spectral_projection",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:eigenvalues",
+      "type": "function",
+      "name": "eigenvalues",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function eigenvalues",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:random_threshold_sequence",
+      "type": "function",
+      "name": "random_threshold_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function random_threshold_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:right_d_threshold_sequence",
+      "type": "function",
+      "name": "right_d_threshold_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function right_d_threshold_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:left_d_threshold_sequence",
+      "type": "function",
+      "name": "left_d_threshold_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "summary": "Python function left_d_threshold_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/time_dependent.py",
+      "type": "file",
+      "name": "time_dependent",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/time_dependent.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/time_dependent.py:cd_index",
+      "type": "function",
+      "name": "cd_index",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/time_dependent.py",
+      "summary": "Python function cd_index",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "type": "file",
+      "name": "tournament",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:index_satisfying",
+      "type": "function",
+      "name": "index_satisfying",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "summary": "Python function index_satisfying",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:is_tournament",
+      "type": "function",
+      "name": "is_tournament",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "summary": "Python function is_tournament",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:hamiltonian_path",
+      "type": "function",
+      "name": "hamiltonian_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "summary": "Python function hamiltonian_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:random_tournament",
+      "type": "function",
+      "name": "random_tournament",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "summary": "Python function random_tournament",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:score_sequence",
+      "type": "function",
+      "name": "score_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "summary": "Python function score_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:tournament_matrix",
+      "type": "function",
+      "name": "tournament_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "summary": "Python function tournament_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:is_reachable",
+      "type": "function",
+      "name": "is_reachable",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "summary": "Python function is_reachable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:is_strongly_connected",
+      "type": "function",
+      "name": "is_strongly_connected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "summary": "Python function is_strongly_connected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/beamsearch.py",
+      "type": "file",
+      "name": "beamsearch",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/beamsearch.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/beamsearch.py:bfs_beam_edges",
+      "type": "function",
+      "name": "bfs_beam_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/beamsearch.py",
+      "summary": "Python function bfs_beam_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "type": "file",
+      "name": "breadth_first_search",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:generic_bfs_edges",
+      "type": "function",
+      "name": "generic_bfs_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "summary": "Python function generic_bfs_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:bfs_edges",
+      "type": "function",
+      "name": "bfs_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "summary": "Python function bfs_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:bfs_tree",
+      "type": "function",
+      "name": "bfs_tree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "summary": "Python function bfs_tree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:bfs_predecessors",
+      "type": "function",
+      "name": "bfs_predecessors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "summary": "Python function bfs_predecessors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:bfs_successors",
+      "type": "function",
+      "name": "bfs_successors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "summary": "Python function bfs_successors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:bfs_layers",
+      "type": "function",
+      "name": "bfs_layers",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "summary": "Python function bfs_layers",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:bfs_labeled_edges",
+      "type": "function",
+      "name": "bfs_labeled_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "summary": "Python function bfs_labeled_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:descendants_at_distance",
+      "type": "function",
+      "name": "descendants_at_distance",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "summary": "Python function descendants_at_distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "type": "file",
+      "name": "depth_first_search",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_edges",
+      "type": "function",
+      "name": "dfs_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "summary": "Python function dfs_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_tree",
+      "type": "function",
+      "name": "dfs_tree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "summary": "Python function dfs_tree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_predecessors",
+      "type": "function",
+      "name": "dfs_predecessors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "summary": "Python function dfs_predecessors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_successors",
+      "type": "function",
+      "name": "dfs_successors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "summary": "Python function dfs_successors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_postorder_nodes",
+      "type": "function",
+      "name": "dfs_postorder_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "summary": "Python function dfs_postorder_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_preorder_nodes",
+      "type": "function",
+      "name": "dfs_preorder_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "summary": "Python function dfs_preorder_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_labeled_edges",
+      "type": "function",
+      "name": "dfs_labeled_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "summary": "Python function dfs_labeled_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/edgebfs.py",
+      "type": "file",
+      "name": "edgebfs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/edgebfs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/edgebfs.py:edge_bfs",
+      "type": "function",
+      "name": "edge_bfs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/edgebfs.py",
+      "summary": "Python function edge_bfs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/edgedfs.py",
+      "type": "file",
+      "name": "edgedfs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/edgedfs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/edgedfs.py:edge_dfs",
+      "type": "function",
+      "name": "edge_dfs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/edgedfs.py",
+      "summary": "Python function edge_dfs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_beamsearch.py",
+      "type": "file",
+      "name": "test_beamsearch",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_beamsearch.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_beamsearch.py:test_narrow",
+      "type": "function",
+      "name": "test_narrow",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_beamsearch.py",
+      "summary": "Python function test_narrow",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_beamsearch.py:test_wide",
+      "type": "function",
+      "name": "test_wide",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_beamsearch.py",
+      "summary": "Python function test_wide",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_bfs.py",
+      "type": "file",
+      "name": "test_bfs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_bfs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_bfs.py:TestBFS",
+      "type": "class",
+      "name": "TestBFS",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_bfs.py",
+      "summary": "Python class TestBFS",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_bfs.py:TestBreadthLimitedSearch",
+      "type": "class",
+      "name": "TestBreadthLimitedSearch",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_bfs.py",
+      "summary": "Python class TestBreadthLimitedSearch",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_dfs.py",
+      "type": "file",
+      "name": "test_dfs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_dfs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_dfs.py:TestDFS",
+      "type": "class",
+      "name": "TestDFS",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_dfs.py",
+      "summary": "Python class TestDFS",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_dfs.py:TestDepthLimitedSearch",
+      "type": "class",
+      "name": "TestDepthLimitedSearch",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_dfs.py",
+      "summary": "Python class TestDepthLimitedSearch",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_edgebfs.py",
+      "type": "file",
+      "name": "test_edgebfs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_edgebfs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_edgebfs.py:TestEdgeBFS",
+      "type": "class",
+      "name": "TestEdgeBFS",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_edgebfs.py",
+      "summary": "Python class TestEdgeBFS",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_edgedfs.py",
+      "type": "file",
+      "name": "test_edgedfs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_edgedfs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_edgedfs.py:TestEdgeDFS",
+      "type": "class",
+      "name": "TestEdgeDFS",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_edgedfs.py",
+      "summary": "Python class TestEdgeDFS",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "type": "file",
+      "name": "branchings",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:ArborescenceIterator",
+      "type": "class",
+      "name": "ArborescenceIterator",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "summary": "Python class ArborescenceIterator",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:random_string",
+      "type": "function",
+      "name": "random_string",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "summary": "Python function random_string",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:branching_weight",
+      "type": "function",
+      "name": "branching_weight",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "summary": "Python function branching_weight",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:greedy_branching",
+      "type": "function",
+      "name": "greedy_branching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "summary": "Python function greedy_branching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:maximum_branching",
+      "type": "function",
+      "name": "maximum_branching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "summary": "Python function maximum_branching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:minimum_branching",
+      "type": "function",
+      "name": "minimum_branching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "summary": "Python function minimum_branching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:minimal_branching",
+      "type": "function",
+      "name": "minimal_branching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "summary": "Python function minimal_branching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:maximum_spanning_arborescence",
+      "type": "function",
+      "name": "maximum_spanning_arborescence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "summary": "Python function maximum_spanning_arborescence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:minimum_spanning_arborescence",
+      "type": "function",
+      "name": "minimum_spanning_arborescence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "summary": "Python function minimum_spanning_arborescence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py",
+      "type": "file",
+      "name": "coding",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py:NotATree",
+      "type": "class",
+      "name": "NotATree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py",
+      "summary": "Python class NotATree",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py:to_nested_tuple",
+      "type": "function",
+      "name": "to_nested_tuple",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py",
+      "summary": "Python function to_nested_tuple",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py:from_nested_tuple",
+      "type": "function",
+      "name": "from_nested_tuple",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py",
+      "summary": "Python function from_nested_tuple",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py:to_prufer_sequence",
+      "type": "function",
+      "name": "to_prufer_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py",
+      "summary": "Python function to_prufer_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py:from_prufer_sequence",
+      "type": "function",
+      "name": "from_prufer_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py",
+      "summary": "Python function from_prufer_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/decomposition.py",
+      "type": "file",
+      "name": "decomposition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/decomposition.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/decomposition.py:junction_tree",
+      "type": "function",
+      "name": "junction_tree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tree/decomposition.py",
+      "summary": "Python function junction_tree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_condition_not_satisfied",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_empty_iterable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_is_tournament",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_self_loops",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_missing_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_bidirectional_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_graph_is_tournament",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_graph_is_tournament_seed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_graph_is_tournament_one_node",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_graph_is_tournament_zero_node",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_hamiltonian_empty_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_path_is_hamiltonian",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_hamiltonian_cycle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_score_sequence_edge",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_score_sequence_triangle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_tournament_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_reachable_pair",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_same_node_is_reachable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_unreachable_pair",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_is_strongly_connected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_tournament.py:test_not_strongly_connected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_is_triad",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_all_triads",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triad_type",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triads_by_type",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_short_path_nodelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_correct_nodelist_values",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_tiny_graphs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_selfloops",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_four_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_four_path_nodelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_nodelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_triads.py:test_triadic_census_on_random_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_vitality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_vitality.py:TestClosenessVitality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_voronoi.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_voronoi.py:TestVoronoiCells",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py:test_directed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py:test_undirected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py:test_non_integer_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py:test_zero_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py:test_negative_length_exception",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_walks.py:test_hidden_weight_attr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_wiener_index_of_disconnected_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_wiener_index_of_directed_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_wiener_index_of_complete_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_wiener_index_of_path_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_schultz_and_gutman_index_of_disconnected_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_schultz_and_gutman_index_of_complete_bipartite_graph_1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_schultz_and_gutman_index_of_complete_bipartite_graph_2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_schultz_and_gutman_index_of_complete_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_schultz_and_gutman_index_of_odd_cycle_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_hyper_wiener_of_complete_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_hyper_wiener_of_path_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_hyper_wiener_of_cycle_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_hyper_wiener_of_disconnected_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_wiener.py:test_hyper_wiener_of_weighted_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:is_threshold_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:is_threshold_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:creation_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:make_compact",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:uncompact",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:creation_sequence_to_weights",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:weights_to_creation_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:threshold_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:find_alternating_4_cycle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:find_threshold_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:find_creation_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:triangles",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:triangle_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:cluster_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:degree_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:density",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:degree_correlation",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:shortest_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:shortest_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:betweenness_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:eigenvectors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:spectral_projection",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:eigenvalues",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:random_threshold_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:right_d_threshold_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/threshold.py:left_d_threshold_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/time_dependent.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/time_dependent.py:cd_index",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:index_satisfying",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:is_tournament",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:hamiltonian_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:random_tournament",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:score_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:tournament_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:is_reachable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tournament.py:is_strongly_connected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/beamsearch.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/beamsearch.py:bfs_beam_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:generic_bfs_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:bfs_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:bfs_tree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:bfs_predecessors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:bfs_successors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:bfs_layers",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:bfs_labeled_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/breadth_first_search.py:descendants_at_distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_tree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_predecessors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_successors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_postorder_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_preorder_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/depth_first_search.py:dfs_labeled_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/edgebfs.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/edgebfs.py:edge_bfs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/edgedfs.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/edgedfs.py:edge_dfs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_beamsearch.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_beamsearch.py:test_narrow",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_beamsearch.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_beamsearch.py:test_wide",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_bfs.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_bfs.py:TestBFS",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_bfs.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_bfs.py:TestBreadthLimitedSearch",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_dfs.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_dfs.py:TestDFS",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_dfs.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_dfs.py:TestDepthLimitedSearch",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_edgebfs.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_edgebfs.py:TestEdgeBFS",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_edgedfs.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/test_edgedfs.py:TestEdgeDFS",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:ArborescenceIterator",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:random_string",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:branching_weight",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:greedy_branching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:maximum_branching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:minimum_branching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:minimal_branching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:maximum_spanning_arborescence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/branchings.py:minimum_spanning_arborescence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py:NotATree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py:to_nested_tuple",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py:from_nested_tuple",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py:to_prufer_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/coding.py:from_prufer_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tree/decomposition.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tree/decomposition.py:junction_tree",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 156,
+    "edgeCount": 132,
+    "nodeTypes": {
+      "file": 24,
+      "function": 122,
+      "class": 10
+    }
+  }
+}

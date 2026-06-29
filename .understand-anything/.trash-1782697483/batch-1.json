@@ -1,0 +1,374 @@
+{
+  "batchIndex": 1,
+  "nodes": [
+    {
+      "id": "file:src/main/java/com/aipoc/controller/TimeController.java",
+      "type": "file",
+      "name": "TimeController",
+      "filePath": "src/main/java/com/aipoc/controller/TimeController.java",
+      "summary": "Java source file",
+      "tags": [
+        "java",
+        "package:com.aipoc.controller",
+        "annotation:ApiResponse",
+        "annotation:param",
+        "annotation:return",
+        "annotation:code",
+        "annotation:Operation",
+        "annotation:RestController",
+        "annotation:Content",
+        "annotation:RequestMapping",
+        "annotation:Schema",
+        "annotation:link",
+        "annotation:Tag",
+        "annotation:GetMapping",
+        "controller",
+        "imports:13"
+      ],
+      "complexity": "moderate",
+      "languageNotes": "Java source file"
+    },
+    {
+      "id": "class:src/main/java/com/aipoc/controller/TimeController.java:TimeController",
+      "type": "class",
+      "name": "TimeController",
+      "filePath": "src/main/java/com/aipoc/controller/TimeController.java",
+      "summary": "Class TimeController",
+      "tags": [
+        "java",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:src/main/java/com/aipoc/controller/TimeController.java:TimeController",
+      "type": "function",
+      "name": "TimeController",
+      "filePath": "src/main/java/com/aipoc/controller/TimeController.java",
+      "summary": "Method TimeController returning public",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:src/main/java/com/aipoc/controller/TimeController.java:getCurrentTime",
+      "type": "function",
+      "name": "getCurrentTime",
+      "filePath": "src/main/java/com/aipoc/controller/TimeController.java",
+      "summary": "Method getCurrentTime returning ResponseEntity<TimeResponse>",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:src/main/java/com/aipoc/dto/TimeResponse.java",
+      "type": "file",
+      "name": "TimeResponse",
+      "filePath": "src/main/java/com/aipoc/dto/TimeResponse.java",
+      "summary": "Java source file",
+      "tags": [
+        "java",
+        "package:com.aipoc.dto",
+        "annotation:param",
+        "annotation:code",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": "Java source file"
+    },
+    {
+      "id": "method:src/main/java/com/aipoc/dto/TimeResponse.java:offset",
+      "type": "function",
+      "name": "offset",
+      "filePath": "src/main/java/com/aipoc/dto/TimeResponse.java",
+      "summary": "Method offset returning timezone",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:src/main/java/com/aipoc/dto/TimeResponse.java:server",
+      "type": "function",
+      "name": "server",
+      "filePath": "src/main/java/com/aipoc/dto/TimeResponse.java",
+      "summary": "Method server returning the",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:src/main/java/com/aipoc/dto/TimeResponse.java:TimeResponse",
+      "type": "function",
+      "name": "TimeResponse",
+      "filePath": "src/main/java/com/aipoc/dto/TimeResponse.java",
+      "summary": "Method TimeResponse returning record",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:src/main/java/com/aipoc/service/TimeService.java",
+      "type": "file",
+      "name": "TimeService",
+      "filePath": "src/main/java/com/aipoc/service/TimeService.java",
+      "summary": "Java source file",
+      "tags": [
+        "java",
+        "package:com.aipoc.service",
+        "annotation:link",
+        "annotation:return",
+        "annotation:code",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": "Java source file"
+    },
+    {
+      "id": "interface:src/main/java/com/aipoc/service/TimeService.java:TimeService",
+      "type": "interface",
+      "name": "TimeService",
+      "filePath": "src/main/java/com/aipoc/service/TimeService.java",
+      "summary": "Interface TimeService",
+      "tags": [
+        "java",
+        "interface"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:src/main/java/com/aipoc/service/TimeService.java:getCurrentTime",
+      "type": "function",
+      "name": "getCurrentTime",
+      "filePath": "src/main/java/com/aipoc/service/TimeService.java",
+      "summary": "Method getCurrentTime returning TimeResponse",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:src/test/java/com/aipoc/controller/TimeControllerTest.java",
+      "type": "file",
+      "name": "TimeControllerTest",
+      "filePath": "src/test/java/com/aipoc/controller/TimeControllerTest.java",
+      "summary": "Java source file",
+      "tags": [
+        "java",
+        "package:com.aipoc.controller",
+        "annotation:code",
+        "annotation:DisplayName",
+        "annotation:Test",
+        "annotation:MockitoBean",
+        "annotation:WebMvcTest",
+        "annotation:link",
+        "annotation:Autowired",
+        "imports:17"
+      ],
+      "complexity": "moderate",
+      "languageNotes": "Java source file"
+    },
+    {
+      "id": "class:src/test/java/com/aipoc/controller/TimeControllerTest.java:TimeControllerTest",
+      "type": "class",
+      "name": "TimeControllerTest",
+      "filePath": "src/test/java/com/aipoc/controller/TimeControllerTest.java",
+      "summary": "Class TimeControllerTest",
+      "tags": [
+        "java",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:src/test/java/com/aipoc/controller/TimeControllerTest.java:getCurrentTime_returns200WithJsonBody",
+      "type": "function",
+      "name": "getCurrentTime_returns200WithJsonBody",
+      "filePath": "src/test/java/com/aipoc/controller/TimeControllerTest.java",
+      "summary": "Method getCurrentTime_returns200WithJsonBody returning void",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:src/test/java/com/aipoc/controller/TimeControllerTest.java:getCurrentTime_returnsOkForUtcTimezone",
+      "type": "function",
+      "name": "getCurrentTime_returnsOkForUtcTimezone",
+      "filePath": "src/test/java/com/aipoc/controller/TimeControllerTest.java",
+      "summary": "Method getCurrentTime_returnsOkForUtcTimezone returning void",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:src/test/java/com/aipoc/controller/TimeControllerTest.java:getCurrentTime_returns500WhenServiceFails",
+      "type": "function",
+      "name": "getCurrentTime_returns500WhenServiceFails",
+      "filePath": "src/test/java/com/aipoc/controller/TimeControllerTest.java",
+      "summary": "Method getCurrentTime_returns500WhenServiceFails returning void",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:src/main/java/com/aipoc/controller/TimeController.java",
+      "target": "class:src/main/java/com/aipoc/controller/TimeController.java:TimeController",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/main/java/com/aipoc/controller/TimeController.java",
+      "target": "method:src/main/java/com/aipoc/controller/TimeController.java:TimeController",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/main/java/com/aipoc/controller/TimeController.java",
+      "target": "method:src/main/java/com/aipoc/controller/TimeController.java:getCurrentTime",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/main/java/com/aipoc/controller/TimeController.java",
+      "target": "file:src/main/java/com/aipoc/dto/TimeResponse.java",
+      "type": "imports",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/main/java/com/aipoc/controller/TimeController.java",
+      "target": "file:src/main/java/com/aipoc/service/TimeService.java",
+      "type": "imports",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/main/java/com/aipoc/dto/TimeResponse.java",
+      "target": "method:src/main/java/com/aipoc/dto/TimeResponse.java:offset",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/main/java/com/aipoc/dto/TimeResponse.java",
+      "target": "method:src/main/java/com/aipoc/dto/TimeResponse.java:server",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/main/java/com/aipoc/dto/TimeResponse.java",
+      "target": "method:src/main/java/com/aipoc/dto/TimeResponse.java:TimeResponse",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/main/java/com/aipoc/service/TimeService.java",
+      "target": "interface:src/main/java/com/aipoc/service/TimeService.java:TimeService",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/main/java/com/aipoc/service/TimeService.java",
+      "target": "method:src/main/java/com/aipoc/service/TimeService.java:getCurrentTime",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/main/java/com/aipoc/service/TimeService.java",
+      "target": "file:src/main/java/com/aipoc/dto/TimeResponse.java",
+      "type": "imports",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/test/java/com/aipoc/controller/TimeControllerTest.java",
+      "target": "class:src/test/java/com/aipoc/controller/TimeControllerTest.java:TimeControllerTest",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/test/java/com/aipoc/controller/TimeControllerTest.java",
+      "target": "method:src/test/java/com/aipoc/controller/TimeControllerTest.java:getCurrentTime_returns200WithJsonBody",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/test/java/com/aipoc/controller/TimeControllerTest.java",
+      "target": "method:src/test/java/com/aipoc/controller/TimeControllerTest.java:getCurrentTime_returnsOkForUtcTimezone",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/test/java/com/aipoc/controller/TimeControllerTest.java",
+      "target": "method:src/test/java/com/aipoc/controller/TimeControllerTest.java:getCurrentTime_returns500WhenServiceFails",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/test/java/com/aipoc/controller/TimeControllerTest.java",
+      "target": "file:src/main/java/com/aipoc/dto/TimeResponse.java",
+      "type": "imports",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/test/java/com/aipoc/controller/TimeControllerTest.java",
+      "target": "file:src/main/java/com/aipoc/service/TimeService.java",
+      "type": "imports",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/main/java/com/aipoc/dto/TimeResponse.java",
+      "target": "file:src/test/java/com/aipoc/service/TimeServiceImplTest.java",
+      "type": "imports",
+      "weight": 0.6
+    },
+    {
+      "source": "file:src/main/java/com/aipoc/dto/TimeResponse.java",
+      "target": "file:src/main/java/com/aipoc/service/impl/TimeServiceImpl.java",
+      "type": "calls",
+      "weight": 0.6
+    },
+    {
+      "source": "file:src/main/java/com/aipoc/service/TimeService.java",
+      "target": "file:src/main/java/com/aipoc/service/impl/TimeServiceImpl.java",
+      "type": "calls",
+      "weight": 0.6
+    }
+  ],
+  "statistics": {
+    "nodeCount": 16,
+    "edgeCount": 20,
+    "nodeTypes": {
+      "file": 4,
+      "class": 2,
+      "function": 9,
+      "interface": 1
+    }
+  }
+}

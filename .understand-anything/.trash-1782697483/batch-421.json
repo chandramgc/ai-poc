@@ -1,0 +1,110 @@
+{
+  "batchIndex": 421,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/foo.f",
+      "type": "file",
+      "name": "foo",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/foo.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh17797.f90",
+      "type": "file",
+      "name": "gh17797",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh17797.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh18335.f90",
+      "type": "file",
+      "name": "gh18335",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh18335.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh25211.f",
+      "type": "file",
+      "name": "gh25211",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh25211.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh25211.pyf",
+      "type": "file",
+      "name": "gh25211",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh25211.pyf",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh26681.f90",
+      "type": "file",
+      "name": "gh26681",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh26681.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/foo.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/foo.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh17797.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh17797.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh18335.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh18335.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh25211.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh25211.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh25211.pyf",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh25211.pyf",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh26681.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh26681.f90",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 6,
+    "nodeTypes": {
+      "file": 6
+    }
+  }
+}

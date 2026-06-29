@@ -1,0 +1,746 @@
+{
+  "batchIndex": 653,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py",
+      "type": "file",
+      "name": "_jaraco_text",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py:yield_lines",
+      "type": "function",
+      "name": "yield_lines",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py",
+      "summary": "Python function yield_lines",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py:drop_comment",
+      "type": "function",
+      "name": "drop_comment",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py",
+      "summary": "Python function drop_comment",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py:join_continuation",
+      "type": "function",
+      "name": "join_continuation",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py",
+      "summary": "Python function join_continuation",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/_log.py",
+      "type": "file",
+      "name": "_log",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/_log.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/_log.py:VerboseLogger",
+      "type": "class",
+      "name": "VerboseLogger",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/_log.py",
+      "summary": "Python class VerboseLogger",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/appdirs.py",
+      "type": "file",
+      "name": "appdirs",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/appdirs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/compat.py",
+      "type": "file",
+      "name": "compat",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/compat.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/compatibility_tags.py",
+      "type": "file",
+      "name": "compatibility_tags",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/compatibility_tags.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/datetime.py",
+      "type": "file",
+      "name": "datetime",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/datetime.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/deprecation.py",
+      "type": "file",
+      "name": "deprecation",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/deprecation.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/deprecation.py:PipDeprecationWarning",
+      "type": "class",
+      "name": "PipDeprecationWarning",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/deprecation.py",
+      "summary": "Python class PipDeprecationWarning",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/direct_url_helpers.py",
+      "type": "file",
+      "name": "direct_url_helpers",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/direct_url_helpers.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/egg_link.py",
+      "type": "file",
+      "name": "egg_link",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/egg_link.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/entrypoints.py",
+      "type": "file",
+      "name": "entrypoints",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/entrypoints.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/filesystem.py",
+      "type": "file",
+      "name": "filesystem",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/filesystem.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:12"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/filetypes.py",
+      "type": "file",
+      "name": "filetypes",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/filetypes.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/glibc.py",
+      "type": "file",
+      "name": "glibc",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/glibc.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/hashes.py",
+      "type": "file",
+      "name": "hashes",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/hashes.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/hashes.py:Hashes",
+      "type": "class",
+      "name": "Hashes",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/hashes.py",
+      "summary": "Python class Hashes",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/hashes.py:MissingHashes",
+      "type": "class",
+      "name": "MissingHashes",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/hashes.py",
+      "summary": "Python class MissingHashes",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "type": "file",
+      "name": "logging",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:19"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:BrokenStdoutLoggingError",
+      "type": "class",
+      "name": "BrokenStdoutLoggingError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "summary": "Python class BrokenStdoutLoggingError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:IndentingFormatter",
+      "type": "class",
+      "name": "IndentingFormatter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "summary": "Python class IndentingFormatter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:IndentedRenderable",
+      "type": "class",
+      "name": "IndentedRenderable",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "summary": "Python class IndentedRenderable",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:PipConsole",
+      "type": "class",
+      "name": "PipConsole",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "summary": "Python class PipConsole",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:RichPipStreamHandler",
+      "type": "class",
+      "name": "RichPipStreamHandler",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "summary": "Python class RichPipStreamHandler",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:BetterRotatingFileHandler",
+      "type": "class",
+      "name": "BetterRotatingFileHandler",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "summary": "Python class BetterRotatingFileHandler",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:MaxLevelFilter",
+      "type": "class",
+      "name": "MaxLevelFilter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "summary": "Python class MaxLevelFilter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:ExcludeLoggerFilter",
+      "type": "class",
+      "name": "ExcludeLoggerFilter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "summary": "Python class ExcludeLoggerFilter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py",
+      "type": "file",
+      "name": "misc",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:23"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py:StreamWrapper",
+      "type": "class",
+      "name": "StreamWrapper",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py",
+      "summary": "Python class StreamWrapper",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py:HiddenText",
+      "type": "class",
+      "name": "HiddenText",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py",
+      "summary": "Python class HiddenText",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py:ConfiguredBuildBackendHookCaller",
+      "type": "class",
+      "name": "ConfiguredBuildBackendHookCaller",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py",
+      "summary": "Python class ConfiguredBuildBackendHookCaller",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/packaging.py",
+      "type": "file",
+      "name": "packaging",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/packaging.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/pylock.py",
+      "type": "file",
+      "name": "pylock",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/pylock.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:12"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/retry.py",
+      "type": "file",
+      "name": "retry",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/retry.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/subprocess.py",
+      "type": "file",
+      "name": "subprocess",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/subprocess.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py",
+      "type": "file",
+      "name": "temp_dir",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py:TempDirectoryTypeRegistry",
+      "type": "class",
+      "name": "TempDirectoryTypeRegistry",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py",
+      "summary": "Python class TempDirectoryTypeRegistry",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py:_Default",
+      "type": "class",
+      "name": "_Default",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py",
+      "summary": "Python class _Default",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py:TempDirectory",
+      "type": "class",
+      "name": "TempDirectory",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py",
+      "summary": "Python class TempDirectory",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py:AdjacentTempDirectory",
+      "type": "class",
+      "name": "AdjacentTempDirectory",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py",
+      "summary": "Python class AdjacentTempDirectory",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/unpacking.py",
+      "type": "file",
+      "name": "unpacking",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/unpacking.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/urls.py",
+      "type": "file",
+      "name": "urls",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/urls.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/virtualenv.py",
+      "type": "file",
+      "name": "virtualenv",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/utils/virtualenv.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py:yield_lines",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py:drop_comment",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py:join_continuation",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/_log.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/_log.py:VerboseLogger",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/deprecation.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/deprecation.py:PipDeprecationWarning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/hashes.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/hashes.py:Hashes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/hashes.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/hashes.py:MissingHashes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:BrokenStdoutLoggingError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:IndentingFormatter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:IndentedRenderable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:PipConsole",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:RichPipStreamHandler",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:BetterRotatingFileHandler",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:MaxLevelFilter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py:ExcludeLoggerFilter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py:StreamWrapper",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py:HiddenText",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py:ConfiguredBuildBackendHookCaller",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py:TempDirectoryTypeRegistry",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py:_Default",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py:TempDirectory",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py:AdjacentTempDirectory",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 46,
+    "edgeCount": 22,
+    "nodeTypes": {
+      "file": 24,
+      "function": 3,
+      "class": 19
+    }
+  }
+}

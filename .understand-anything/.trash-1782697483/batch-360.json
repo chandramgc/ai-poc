@@ -1,0 +1,78 @@
+{
+  "batchIndex": 360,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/iso_r01_s80.A99",
+      "type": "file",
+      "name": "iso_r01_s80",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/iso_r01_s80.A99",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/iso_r01_s80.B99",
+      "type": "file",
+      "name": "iso_r01_s80",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/iso_r01_s80.B99",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/si2_b06_m200.A99",
+      "type": "file",
+      "name": "si2_b06_m200",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/si2_b06_m200.A99",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/si2_b06_m200.B99",
+      "type": "file",
+      "name": "si2_b06_m200",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/si2_b06_m200.B99",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/iso_r01_s80.A99",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/iso_r01_s80.A99",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/iso_r01_s80.B99",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/iso_r01_s80.B99",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/si2_b06_m200.A99",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/si2_b06_m200.A99",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/si2_b06_m200.B99",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/si2_b06_m200.B99",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 4,
+    "nodeTypes": {
+      "file": 4
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "batchIndex": 381,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_random_clustered.cpython-314.pyc",
+      "type": "file",
+      "name": "test_random_clustered.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_random_clustered.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_random_graphs.cpython-314.pyc",
+      "type": "file",
+      "name": "test_random_graphs.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_random_graphs.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_small.cpython-314.pyc",
+      "type": "file",
+      "name": "test_small.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_small.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_spectral_graph_forge.cpython-314.pyc",
+      "type": "file",
+      "name": "test_spectral_graph_forge.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_spectral_graph_forge.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_stochastic.cpython-314.pyc",
+      "type": "file",
+      "name": "test_stochastic.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_stochastic.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_sudoku.cpython-314.pyc",
+      "type": "file",
+      "name": "test_sudoku.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_sudoku.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_time_series.cpython-314.pyc",
+      "type": "file",
+      "name": "test_time_series.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_time_series.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_trees.cpython-314.pyc",
+      "type": "file",
+      "name": "test_trees.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_trees.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_triads.cpython-314.pyc",
+      "type": "file",
+      "name": "test_triads.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_triads.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_random_clustered.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_random_clustered.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_random_graphs.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_random_graphs.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_small.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_small.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_spectral_graph_forge.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_spectral_graph_forge.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_stochastic.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_stochastic.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_sudoku.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_sudoku.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_time_series.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_time_series.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_trees.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_trees.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_triads.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/tests/__pycache__/test_triads.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 9,
+    "edgeCount": 9,
+    "nodeTypes": {
+      "file": 9
+    }
+  }
+}

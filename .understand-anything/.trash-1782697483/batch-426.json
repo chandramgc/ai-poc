@@ -1,0 +1,206 @@
+{
+  "batchIndex": 426,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/AB.inc",
+      "type": "file",
+      "name": "AB",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/AB.inc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/assignOnlyModule.f90",
+      "type": "file",
+      "name": "assignOnlyModule",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/assignOnlyModule.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/complex_struct_compat.f90",
+      "type": "file",
+      "name": "complex_struct_compat",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/complex_struct_compat.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/complex_struct_compat.pyf",
+      "type": "file",
+      "name": "complex_struct_compat",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/complex_struct_compat.pyf",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/datonly.f90",
+      "type": "file",
+      "name": "datonly",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/datonly.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f77comments.f",
+      "type": "file",
+      "name": "f77comments",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f77comments.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f77fixedform.f95",
+      "type": "file",
+      "name": "f77fixedform",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f77fixedform.f95",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f90continuation.f90",
+      "type": "file",
+      "name": "f90continuation",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f90continuation.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/incfile.f90",
+      "type": "file",
+      "name": "incfile",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/incfile.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/inout.f90",
+      "type": "file",
+      "name": "inout",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/inout.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/lower_f2py_fortran.f90",
+      "type": "file",
+      "name": "lower_f2py_fortran",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/lower_f2py_fortran.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/mod_derived_types.f90",
+      "type": "file",
+      "name": "mod_derived_types",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/mod_derived_types.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/AB.inc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/AB.inc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/assignOnlyModule.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/assignOnlyModule.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/complex_struct_compat.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/complex_struct_compat.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/complex_struct_compat.pyf",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/complex_struct_compat.pyf",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/datonly.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/datonly.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f77comments.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f77comments.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f77fixedform.f95",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f77fixedform.f95",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f90continuation.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f90continuation.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/incfile.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/incfile.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/inout.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/inout.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/lower_f2py_fortran.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/lower_f2py_fortran.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/mod_derived_types.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/mod_derived_types.f90",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 12,
+    "edgeCount": 12,
+    "nodeTypes": {
+      "file": 12
+    }
+  }
+}

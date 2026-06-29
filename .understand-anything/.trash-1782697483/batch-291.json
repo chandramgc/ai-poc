@@ -1,0 +1,94 @@
+{
+  "batchIndex": 291,
+  "nodes": [
+    {
+      "id": "file:tmp/fix-verify-test2/.git/COMMIT_EDITMSG",
+      "type": "file",
+      "name": "COMMIT_EDITMSG",
+      "filePath": "tmp/fix-verify-test2/.git/COMMIT_EDITMSG",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test2/.git/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": "tmp/fix-verify-test2/.git/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test2/.git/config",
+      "type": "file",
+      "name": "config",
+      "filePath": "tmp/fix-verify-test2/.git/config",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test2/.git/description",
+      "type": "file",
+      "name": "description",
+      "filePath": "tmp/fix-verify-test2/.git/description",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test2/.git/index",
+      "type": "file",
+      "name": "index",
+      "filePath": "tmp/fix-verify-test2/.git/index",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/fix-verify-test2/.git/COMMIT_EDITMSG",
+      "target": "file:tmp/fix-verify-test2/.git/COMMIT_EDITMSG",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test2/.git/HEAD",
+      "target": "file:tmp/fix-verify-test2/.git/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test2/.git/config",
+      "target": "file:tmp/fix-verify-test2/.git/config",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test2/.git/description",
+      "target": "file:tmp/fix-verify-test2/.git/description",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test2/.git/index",
+      "target": "file:tmp/fix-verify-test2/.git/index",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

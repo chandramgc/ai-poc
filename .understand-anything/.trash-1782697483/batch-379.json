@@ -1,0 +1,174 @@
+{
+  "batchIndex": 379,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/random_clustered.cpython-314.pyc",
+      "type": "file",
+      "name": "random_clustered.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/__pycache__/random_clustered.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/random_graphs.cpython-314.pyc",
+      "type": "file",
+      "name": "random_graphs.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/__pycache__/random_graphs.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/small.cpython-314.pyc",
+      "type": "file",
+      "name": "small.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/__pycache__/small.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/social.cpython-314.pyc",
+      "type": "file",
+      "name": "social.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/__pycache__/social.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/spectral_graph_forge.cpython-314.pyc",
+      "type": "file",
+      "name": "spectral_graph_forge.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/__pycache__/spectral_graph_forge.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/stochastic.cpython-314.pyc",
+      "type": "file",
+      "name": "stochastic.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/__pycache__/stochastic.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/sudoku.cpython-314.pyc",
+      "type": "file",
+      "name": "sudoku.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/__pycache__/sudoku.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/time_series.cpython-314.pyc",
+      "type": "file",
+      "name": "time_series.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/__pycache__/time_series.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/trees.cpython-314.pyc",
+      "type": "file",
+      "name": "trees.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/__pycache__/trees.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/triads.cpython-314.pyc",
+      "type": "file",
+      "name": "triads.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/__pycache__/triads.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/random_clustered.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/random_clustered.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/random_graphs.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/random_graphs.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/small.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/small.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/social.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/social.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/spectral_graph_forge.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/spectral_graph_forge.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/stochastic.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/stochastic.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/sudoku.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/sudoku.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/time_series.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/time_series.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/trees.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/trees.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/triads.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/generators/__pycache__/triads.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 10,
+    "edgeCount": 10,
+    "nodeTypes": {
+      "file": 10
+    }
+  }
+}

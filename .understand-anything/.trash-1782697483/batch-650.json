@@ -1,0 +1,947 @@
+{
+  "batchIndex": 650,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/locations/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/locations/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/locations/_distutils.py",
+      "type": "file",
+      "name": "_distutils",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/locations/_distutils.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:11"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/locations/_sysconfig.py",
+      "type": "file",
+      "name": "_sysconfig",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/locations/_sysconfig.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/locations/base.py",
+      "type": "file",
+      "name": "base",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/locations/base.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/main.py",
+      "type": "file",
+      "name": "main",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/main.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/__init__.py:Backend",
+      "type": "class",
+      "name": "Backend",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/__init__.py",
+      "summary": "Python class Backend",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/_json.py",
+      "type": "file",
+      "name": "_json",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/_json.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "type": "file",
+      "name": "base",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:19"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:BaseEntryPoint",
+      "type": "class",
+      "name": "BaseEntryPoint",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "summary": "Python class BaseEntryPoint",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:RequiresEntry",
+      "type": "class",
+      "name": "RequiresEntry",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "summary": "Python class RequiresEntry",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:BaseDistribution",
+      "type": "class",
+      "name": "BaseDistribution",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "summary": "Python class BaseDistribution",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:BaseEnvironment",
+      "type": "class",
+      "name": "BaseEnvironment",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "summary": "Python class BaseEnvironment",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:Wheel",
+      "type": "class",
+      "name": "Wheel",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "summary": "Python class Wheel",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:FilesystemWheel",
+      "type": "class",
+      "name": "FilesystemWheel",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "summary": "Python class FilesystemWheel",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:MemoryWheel",
+      "type": "class",
+      "name": "MemoryWheel",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "summary": "Python class MemoryWheel",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_compat.py",
+      "type": "file",
+      "name": "_compat",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_compat.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_compat.py:BadMetadata",
+      "type": "class",
+      "name": "BadMetadata",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_compat.py",
+      "summary": "Python class BadMetadata",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_compat.py:BasePath",
+      "type": "class",
+      "name": "BasePath",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_compat.py",
+      "summary": "Python class BasePath",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_dists.py",
+      "type": "file",
+      "name": "_dists",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_dists.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:17"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_dists.py:WheelDistribution",
+      "type": "class",
+      "name": "WheelDistribution",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_dists.py",
+      "summary": "Python class WheelDistribution",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_dists.py:Distribution",
+      "type": "class",
+      "name": "Distribution",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_dists.py",
+      "summary": "Python class Distribution",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_envs.py",
+      "type": "file",
+      "name": "_envs",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_envs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:11"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_envs.py:_DistributionFinder",
+      "type": "class",
+      "name": "_DistributionFinder",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_envs.py",
+      "summary": "Python class _DistributionFinder",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_envs.py:Environment",
+      "type": "class",
+      "name": "Environment",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_envs.py",
+      "summary": "Python class Environment",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py",
+      "type": "file",
+      "name": "pkg_resources",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:16"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py:EntryPoint",
+      "type": "class",
+      "name": "EntryPoint",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py",
+      "summary": "Python class EntryPoint",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py:InMemoryMetadata",
+      "type": "class",
+      "name": "InMemoryMetadata",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py",
+      "summary": "Python class InMemoryMetadata",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py:Distribution",
+      "type": "class",
+      "name": "Distribution",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py",
+      "summary": "Python class Distribution",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py:Environment",
+      "type": "class",
+      "name": "Environment",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py",
+      "summary": "Python class Environment",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/models/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/models/candidate.py",
+      "type": "file",
+      "name": "candidate",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/candidate.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/candidate.py:InstallationCandidate",
+      "type": "class",
+      "name": "InstallationCandidate",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/candidate.py",
+      "summary": "Python class InstallationCandidate",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/models/direct_url.py",
+      "type": "file",
+      "name": "direct_url",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/direct_url.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/direct_url.py:DirectUrl",
+      "type": "class",
+      "name": "DirectUrl",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/direct_url.py",
+      "summary": "Python class DirectUrl",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/models/format_control.py",
+      "type": "file",
+      "name": "format_control",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/format_control.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/format_control.py:FormatControl",
+      "type": "class",
+      "name": "FormatControl",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/format_control.py",
+      "summary": "Python class FormatControl",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/models/index.py",
+      "type": "file",
+      "name": "index",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/index.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/index.py:PackageIndex",
+      "type": "class",
+      "name": "PackageIndex",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/index.py",
+      "summary": "Python class PackageIndex",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/models/installation_report.py",
+      "type": "file",
+      "name": "installation_report",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/installation_report.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/installation_report.py:InstallationReport",
+      "type": "class",
+      "name": "InstallationReport",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/installation_report.py",
+      "summary": "Python class InstallationReport",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/models/link.py",
+      "type": "file",
+      "name": "link",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/link.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:15"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/link.py:LinkHash",
+      "type": "class",
+      "name": "LinkHash",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/link.py",
+      "summary": "Python class LinkHash",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/link.py:MetadataFile",
+      "type": "class",
+      "name": "MetadataFile",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/link.py",
+      "summary": "Python class MetadataFile",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/link.py:Link",
+      "type": "class",
+      "name": "Link",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/link.py",
+      "summary": "Python class Link",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/link.py:_CleanResult",
+      "type": "class",
+      "name": "_CleanResult",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/link.py",
+      "summary": "Python class _CleanResult",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/models/release_control.py",
+      "type": "file",
+      "name": "release_control",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/release_control.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/release_control.py:ReleaseControl",
+      "type": "class",
+      "name": "ReleaseControl",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/release_control.py",
+      "summary": "Python class ReleaseControl",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/models/scheme.py",
+      "type": "file",
+      "name": "scheme",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/scheme.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/scheme.py:Scheme",
+      "type": "class",
+      "name": "Scheme",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/scheme.py",
+      "summary": "Python class Scheme",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/models/search_scope.py",
+      "type": "file",
+      "name": "search_scope",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/search_scope.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/search_scope.py:SearchScope",
+      "type": "class",
+      "name": "SearchScope",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/search_scope.py",
+      "summary": "Python class SearchScope",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/models/selection_prefs.py",
+      "type": "file",
+      "name": "selection_prefs",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/selection_prefs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/selection_prefs.py:SelectionPreferences",
+      "type": "class",
+      "name": "SelectionPreferences",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/selection_prefs.py",
+      "summary": "Python class SelectionPreferences",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/models/target_python.py",
+      "type": "file",
+      "name": "target_python",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/target_python.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/target_python.py:TargetPython",
+      "type": "class",
+      "name": "TargetPython",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/target_python.py",
+      "summary": "Python class TargetPython",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/__init__.py:Backend",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:BaseEntryPoint",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:RequiresEntry",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:BaseDistribution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:BaseEnvironment",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:Wheel",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:FilesystemWheel",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py:MemoryWheel",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_compat.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_compat.py:BadMetadata",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_compat.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_compat.py:BasePath",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_dists.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_dists.py:WheelDistribution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_dists.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_dists.py:Distribution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_envs.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_envs.py:_DistributionFinder",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_envs.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_envs.py:Environment",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py:EntryPoint",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py:InMemoryMetadata",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py:Distribution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py:Environment",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/candidate.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/candidate.py:InstallationCandidate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/direct_url.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/direct_url.py:DirectUrl",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/format_control.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/format_control.py:FormatControl",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/index.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/index.py:PackageIndex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/installation_report.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/installation_report.py:InstallationReport",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/link.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/link.py:LinkHash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/link.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/link.py:MetadataFile",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/link.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/link.py:Link",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/link.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/link.py:_CleanResult",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/release_control.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/release_control.py:ReleaseControl",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/scheme.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/scheme.py:Scheme",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/search_scope.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/search_scope.py:SearchScope",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/selection_prefs.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/selection_prefs.py:SelectionPreferences",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/target_python.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/target_python.py:TargetPython",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 57,
+    "edgeCount": 32,
+    "nodeTypes": {
+      "file": 25,
+      "class": 32
+    }
+  }
+}

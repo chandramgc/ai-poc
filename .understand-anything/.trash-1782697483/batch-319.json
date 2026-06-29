@@ -1,0 +1,126 @@
+{
+  "batchIndex": 319,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/base.cpython-314.pyc",
+      "type": "file",
+      "name": "base.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/base.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/blade.cpython-314.pyc",
+      "type": "file",
+      "name": "blade.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/blade.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/csharp.cpython-314.pyc",
+      "type": "file",
+      "name": "csharp.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/csharp.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/elixir.cpython-314.pyc",
+      "type": "file",
+      "name": "elixir.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/elixir.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/razor.cpython-314.pyc",
+      "type": "file",
+      "name": "razor.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/razor.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/zig.cpython-314.pyc",
+      "type": "file",
+      "name": "zig.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/zig.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/base.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/base.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/blade.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/blade.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/csharp.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/csharp.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/elixir.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/elixir.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/razor.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/razor.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/zig.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/graphify/extractors/__pycache__/zig.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 7,
+    "edgeCount": 7,
+    "nodeTypes": {
+      "file": 7
+    }
+  }
+}

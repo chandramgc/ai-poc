@@ -1,0 +1,62 @@
+{
+  "batchIndex": 424,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo.f",
+      "type": "file",
+      "name": "foo",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo_fixed.f90",
+      "type": "file",
+      "name": "foo_fixed",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo_fixed.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo_free.f90",
+      "type": "file",
+      "name": "foo_free",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo_free.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo_fixed.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo_fixed.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo_free.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo_free.f90",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 3,
+    "edgeCount": 3,
+    "nodeTypes": {
+      "file": 3
+    }
+  }
+}

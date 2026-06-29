@@ -1,0 +1,172 @@
+{
+  "batchIndex": 325,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/skills/copilot/references/add-watch.md",
+      "type": "document",
+      "name": "add-watch",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/skills/copilot/references/add-watch.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:graphify reference: add a URL ",
+        "section:For /graphify add",
+        "section:For --watch",
+        "code_blocks:2"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/skills/copilot/references/exports.md",
+      "type": "document",
+      "name": "exports",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/skills/copilot/references/exports.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:graphify reference: extra expo",
+        "section:Step 6b - Wiki (only if --wiki",
+        "section:Step 7 - Neo4j export (only if",
+        "section:Step 7a - FalkorDB export (onl",
+        "section:Step 7b - SVG export (only if ",
+        "section:Step 7c - GraphML export (only",
+        "section:Step 7d - MCP server (only if ",
+        "section:Step 8 - Token reduction bench",
+        "code_blocks:10"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/skills/copilot/references/extraction-spec.md",
+      "type": "document",
+      "name": "extraction-spec",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/skills/copilot/references/extraction-spec.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:graphify reference: extraction",
+        "code_blocks:1"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/skills/copilot/references/github-and-merge.md",
+      "type": "document",
+      "name": "github-and-merge",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/skills/copilot/references/github-and-merge.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:graphify reference: GitHub clo",
+        "section:Step 0 - Clone GitHub repo(s) ",
+        "section:Use LOCAL_PATH as the target f",
+        "section:Clone each repo, run the full ",
+        "section:Run /graphify on each local pa",
+        "section:Then merge:",
+        "section:Add --backend gemini|kimi|open",
+        "section:Then merge at the project root",
+        "code_blocks:3"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/skills/copilot/references/hooks.md",
+      "type": "document",
+      "name": "hooks",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/skills/copilot/references/hooks.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:graphify reference: commit hoo",
+        "section:For git commit hook",
+        "section:For native CLAUDE.md integrati",
+        "code_blocks:3"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/skills/copilot/references/query.md",
+      "type": "document",
+      "name": "query",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/skills/copilot/references/query.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:graphify reference: query, pat",
+        "section:Step 0 \u2014 Constrained query exp",
+        "section:Step 1 \u2014 Traversal",
+        "section:or: graphify query \"QUESTION\" ",
+        "section:Find best-matching start nodes",
+        "section:Token-budget aware output: ran",
+        "section:Score each node by term overla",
+        "section:For /graphify path",
+        "section:For /graphify explain",
+        "section:Find best matching node",
+        "code_blocks:12"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/skills/copilot/references/transcribe.md",
+      "type": "document",
+      "name": "transcribe",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/skills/copilot/references/transcribe.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:graphify reference: transcribe",
+        "section:Step 2.5 - Transcribe video / ",
+        "section:Write the JSON from Python (NO",
+        "section:print progress to stdout, whic",
+        "code_blocks:1"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/skills/copilot/references/update.md",
+      "type": "document",
+      "name": "update",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/skills/copilot/references/update.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:graphify reference: incrementa",
+        "section:For --update (incremental re-e",
+        "section:Load new extraction and increm",
+        "section:prune_sources is ONLY for genu",
+        "section:handled by build_merge's repla",
+        "section:new_chunks is dropped from the",
+        "section:Do NOT add `changed` here: wit",
+        "section:as the freshly merged nodes an",
+        "section:now that replace \u2014 not the ded",
+        "section:Use build_merge() \u2014 reads grap",
+        "code_blocks:7"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [],
+  "statistics": {
+    "nodeCount": 8,
+    "edgeCount": 0,
+    "nodeTypes": {
+      "document": 8
+    }
+  }
+}

@@ -1,0 +1,2228 @@
+{
+  "batchIndex": 612,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/boykovkolmogorov.py",
+      "type": "file",
+      "name": "boykovkolmogorov",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/boykovkolmogorov.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/boykovkolmogorov.py:boykov_kolmogorov",
+      "type": "function",
+      "name": "boykov_kolmogorov",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/boykovkolmogorov.py",
+      "summary": "Python function boykov_kolmogorov",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/boykovkolmogorov.py:boykov_kolmogorov_impl",
+      "type": "function",
+      "name": "boykov_kolmogorov_impl",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/boykovkolmogorov.py",
+      "summary": "Python function boykov_kolmogorov_impl",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/capacityscaling.py",
+      "type": "file",
+      "name": "capacityscaling",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/capacityscaling.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/capacityscaling.py:capacity_scaling",
+      "type": "function",
+      "name": "capacity_scaling",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/capacityscaling.py",
+      "summary": "Python function capacity_scaling",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/dinitz_alg.py",
+      "type": "file",
+      "name": "dinitz_alg",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/dinitz_alg.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/dinitz_alg.py:dinitz",
+      "type": "function",
+      "name": "dinitz",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/dinitz_alg.py",
+      "summary": "Python function dinitz",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/dinitz_alg.py:dinitz_impl",
+      "type": "function",
+      "name": "dinitz_impl",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/dinitz_alg.py",
+      "summary": "Python function dinitz_impl",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py",
+      "type": "file",
+      "name": "edmondskarp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py:edmonds_karp_core",
+      "type": "function",
+      "name": "edmonds_karp_core",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py",
+      "summary": "Python function edmonds_karp_core",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py:edmonds_karp_impl",
+      "type": "function",
+      "name": "edmonds_karp_impl",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py",
+      "summary": "Python function edmonds_karp_impl",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py:edmonds_karp",
+      "type": "function",
+      "name": "edmonds_karp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py",
+      "summary": "Python function edmonds_karp",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/gomory_hu.py",
+      "type": "file",
+      "name": "gomory_hu",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/gomory_hu.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/gomory_hu.py:gomory_hu_tree",
+      "type": "function",
+      "name": "gomory_hu_tree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/gomory_hu.py",
+      "summary": "Python function gomory_hu_tree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py",
+      "type": "file",
+      "name": "maxflow",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py:maximum_flow",
+      "type": "function",
+      "name": "maximum_flow",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py",
+      "summary": "Python function maximum_flow",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py:maximum_flow_value",
+      "type": "function",
+      "name": "maximum_flow_value",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py",
+      "summary": "Python function maximum_flow_value",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py:minimum_cut",
+      "type": "function",
+      "name": "minimum_cut",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py",
+      "summary": "Python function minimum_cut",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py:minimum_cut_value",
+      "type": "function",
+      "name": "minimum_cut_value",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py",
+      "summary": "Python function minimum_cut_value",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py",
+      "type": "file",
+      "name": "mincost",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py:min_cost_flow_cost",
+      "type": "function",
+      "name": "min_cost_flow_cost",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py",
+      "summary": "Python function min_cost_flow_cost",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py:min_cost_flow",
+      "type": "function",
+      "name": "min_cost_flow",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py",
+      "summary": "Python function min_cost_flow",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py:cost_of_flow",
+      "type": "function",
+      "name": "cost_of_flow",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py",
+      "summary": "Python function cost_of_flow",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py:max_flow_min_cost",
+      "type": "function",
+      "name": "max_flow_min_cost",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py",
+      "summary": "Python function max_flow_min_cost",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/networksimplex.py",
+      "type": "file",
+      "name": "networksimplex",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/networksimplex.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/networksimplex.py:_DataEssentialsAndFunctions",
+      "type": "class",
+      "name": "_DataEssentialsAndFunctions",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/networksimplex.py",
+      "summary": "Python class _DataEssentialsAndFunctions",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/networksimplex.py:network_simplex",
+      "type": "function",
+      "name": "network_simplex",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/networksimplex.py",
+      "summary": "Python function network_simplex",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/preflowpush.py",
+      "type": "file",
+      "name": "preflowpush",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/preflowpush.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/preflowpush.py:preflow_push_impl",
+      "type": "function",
+      "name": "preflow_push_impl",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/preflowpush.py",
+      "summary": "Python function preflow_push_impl",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/preflowpush.py:preflow_push",
+      "type": "function",
+      "name": "preflow_push",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/preflowpush.py",
+      "summary": "Python function preflow_push",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/shortestaugmentingpath.py",
+      "type": "file",
+      "name": "shortestaugmentingpath",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/shortestaugmentingpath.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/shortestaugmentingpath.py:shortest_augmenting_path_impl",
+      "type": "function",
+      "name": "shortest_augmenting_path_impl",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/shortestaugmentingpath.py",
+      "summary": "Python function shortest_augmenting_path_impl",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/shortestaugmentingpath.py:shortest_augmenting_path",
+      "type": "function",
+      "name": "shortest_augmenting_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/shortestaugmentingpath.py",
+      "summary": "Python function shortest_augmenting_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_gomory_hu.py",
+      "type": "file",
+      "name": "test_gomory_hu",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_gomory_hu.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_gomory_hu.py:TestGomoryHuTree",
+      "type": "class",
+      "name": "TestGomoryHuTree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_gomory_hu.py",
+      "summary": "Python class TestGomoryHuTree",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py",
+      "type": "file",
+      "name": "test_maxflow_large_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py:TestMaxflowLargeGraph",
+      "type": "class",
+      "name": "TestMaxflowLargeGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py",
+      "summary": "Python class TestMaxflowLargeGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py:gen_pyramid",
+      "type": "function",
+      "name": "gen_pyramid",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py",
+      "summary": "Python function gen_pyramid",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py:read_graph",
+      "type": "function",
+      "name": "read_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py",
+      "summary": "Python function read_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py:validate_flows",
+      "type": "function",
+      "name": "validate_flows",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py",
+      "summary": "Python function validate_flows",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "type": "file",
+      "name": "test_maxflow",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:TestMaxflowMinCutCommon",
+      "type": "class",
+      "name": "TestMaxflowMinCutCommon",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "summary": "Python class TestMaxflowMinCutCommon",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:TestMaxFlowMinCutInterface",
+      "type": "class",
+      "name": "TestMaxFlowMinCutInterface",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "summary": "Python class TestMaxFlowMinCutInterface",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:TestCutoff",
+      "type": "class",
+      "name": "TestCutoff",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "summary": "Python class TestCutoff",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:compute_cutset",
+      "type": "function",
+      "name": "compute_cutset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "summary": "Python function compute_cutset",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:validate_flows",
+      "type": "function",
+      "name": "validate_flows",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "summary": "Python function validate_flows",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:validate_cuts",
+      "type": "function",
+      "name": "validate_cuts",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "summary": "Python function validate_cuts",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:compare_flows_and_cuts",
+      "type": "function",
+      "name": "compare_flows_and_cuts",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "summary": "Python function compare_flows_and_cuts",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:test_preflow_push_global_relabel_freq",
+      "type": "function",
+      "name": "test_preflow_push_global_relabel_freq",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "summary": "Python function test_preflow_push_global_relabel_freq",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:test_preflow_push_makes_enough_space",
+      "type": "function",
+      "name": "test_preflow_push_makes_enough_space",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "summary": "Python function test_preflow_push_makes_enough_space",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:test_shortest_augmenting_path_two_phase",
+      "type": "function",
+      "name": "test_shortest_augmenting_path_two_phase",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "summary": "Python function test_shortest_augmenting_path_two_phase",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_mincost.py",
+      "type": "file",
+      "name": "test_mincost",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_mincost.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_mincost.py:TestMinCostFlow",
+      "type": "class",
+      "name": "TestMinCostFlow",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_mincost.py",
+      "summary": "Python class TestMinCostFlow",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "type": "file",
+      "name": "test_networksimplex",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:simple_flow_graph",
+      "type": "function",
+      "name": "simple_flow_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function simple_flow_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:simple_no_flow_graph",
+      "type": "function",
+      "name": "simple_no_flow_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function simple_no_flow_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:get_flowcost_from_flowdict",
+      "type": "function",
+      "name": "get_flowcost_from_flowdict",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function get_flowcost_from_flowdict",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_infinite_demand_raise",
+      "type": "function",
+      "name": "test_infinite_demand_raise",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_infinite_demand_raise",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_neg_infinite_demand_raise",
+      "type": "function",
+      "name": "test_neg_infinite_demand_raise",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_neg_infinite_demand_raise",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_infinite_weight_raise",
+      "type": "function",
+      "name": "test_infinite_weight_raise",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_infinite_weight_raise",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_nonzero_net_demand_raise",
+      "type": "function",
+      "name": "test_nonzero_net_demand_raise",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_nonzero_net_demand_raise",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_negative_capacity_raise",
+      "type": "function",
+      "name": "test_negative_capacity_raise",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_negative_capacity_raise",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_no_flow_satisfying_demands",
+      "type": "function",
+      "name": "test_no_flow_satisfying_demands",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_no_flow_satisfying_demands",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_sum_demands_not_zero",
+      "type": "function",
+      "name": "test_sum_demands_not_zero",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_sum_demands_not_zero",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_google_or_tools_example",
+      "type": "function",
+      "name": "test_google_or_tools_example",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_google_or_tools_example",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_google_or_tools_example2",
+      "type": "function",
+      "name": "test_google_or_tools_example2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_google_or_tools_example2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_large",
+      "type": "function",
+      "name": "test_large",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_large",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_simple_digraph",
+      "type": "function",
+      "name": "test_simple_digraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_simple_digraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_negcycle_infcap",
+      "type": "function",
+      "name": "test_negcycle_infcap",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_negcycle_infcap",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_transshipment",
+      "type": "function",
+      "name": "test_transshipment",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_transshipment",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_digraph1",
+      "type": "function",
+      "name": "test_digraph1",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_digraph1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_zero_capacity_edges",
+      "type": "function",
+      "name": "test_zero_capacity_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_zero_capacity_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_digon",
+      "type": "function",
+      "name": "test_digon",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_digon",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_deadend",
+      "type": "function",
+      "name": "test_deadend",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_deadend",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_infinite_capacity_neg_digon",
+      "type": "function",
+      "name": "test_infinite_capacity_neg_digon",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_infinite_capacity_neg_digon",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_multidigraph",
+      "type": "function",
+      "name": "test_multidigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_multidigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_negative_selfloops",
+      "type": "function",
+      "name": "test_negative_selfloops",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_negative_selfloops",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_bone_shaped",
+      "type": "function",
+      "name": "test_bone_shaped",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_bone_shaped",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_graphs_type_exceptions",
+      "type": "function",
+      "name": "test_graphs_type_exceptions",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_graphs_type_exceptions",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:faux_inf_example",
+      "type": "function",
+      "name": "faux_inf_example",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function faux_inf_example",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_network_simplex_faux_infinity",
+      "type": "function",
+      "name": "test_network_simplex_faux_infinity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_network_simplex_faux_infinity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_network_simplex_unbounded_flow",
+      "type": "function",
+      "name": "test_network_simplex_unbounded_flow",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "summary": "Python function test_network_simplex_unbounded_flow",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "type": "file",
+      "name": "utils",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py:CurrentEdge",
+      "type": "class",
+      "name": "CurrentEdge",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "summary": "Python class CurrentEdge",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py:Level",
+      "type": "class",
+      "name": "Level",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "summary": "Python class Level",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py:GlobalRelabelThreshold",
+      "type": "class",
+      "name": "GlobalRelabelThreshold",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "summary": "Python class GlobalRelabelThreshold",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py:build_residual_network",
+      "type": "function",
+      "name": "build_residual_network",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "summary": "Python function build_residual_network",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py:detect_unboundedness",
+      "type": "function",
+      "name": "detect_unboundedness",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "summary": "Python function detect_unboundedness",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py:build_flow_dict",
+      "type": "function",
+      "name": "build_flow_dict",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "summary": "Python function build_flow_dict",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/graph_hashing.py",
+      "type": "file",
+      "name": "graph_hashing",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/graph_hashing.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graph_hashing.py:weisfeiler_lehman_graph_hash",
+      "type": "function",
+      "name": "weisfeiler_lehman_graph_hash",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/graph_hashing.py",
+      "summary": "Python function weisfeiler_lehman_graph_hash",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graph_hashing.py:weisfeiler_lehman_subgraph_hashes",
+      "type": "function",
+      "name": "weisfeiler_lehman_subgraph_hashes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/graph_hashing.py",
+      "summary": "Python function weisfeiler_lehman_subgraph_hashes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "type": "file",
+      "name": "graphical",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py:is_graphical",
+      "type": "function",
+      "name": "is_graphical",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "summary": "Python function is_graphical",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py:is_valid_degree_sequence_havel_hakimi",
+      "type": "function",
+      "name": "is_valid_degree_sequence_havel_hakimi",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "summary": "Python function is_valid_degree_sequence_havel_hakimi",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py:is_valid_degree_sequence_erdos_gallai",
+      "type": "function",
+      "name": "is_valid_degree_sequence_erdos_gallai",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "summary": "Python function is_valid_degree_sequence_erdos_gallai",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py:is_multigraphical",
+      "type": "function",
+      "name": "is_multigraphical",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "summary": "Python function is_multigraphical",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py:is_pseudographical",
+      "type": "function",
+      "name": "is_pseudographical",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "summary": "Python function is_pseudographical",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py:is_digraphical",
+      "type": "function",
+      "name": "is_digraphical",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "summary": "Python function is_digraphical",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/hierarchy.py",
+      "type": "file",
+      "name": "hierarchy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/hierarchy.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/hierarchy.py:flow_hierarchy",
+      "type": "function",
+      "name": "flow_hierarchy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/hierarchy.py",
+      "summary": "Python function flow_hierarchy",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/hybrid.py",
+      "type": "file",
+      "name": "hybrid",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/hybrid.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/hybrid.py:kl_connected_subgraph",
+      "type": "function",
+      "name": "kl_connected_subgraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/hybrid.py",
+      "summary": "Python function kl_connected_subgraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/hybrid.py:is_kl_connected",
+      "type": "function",
+      "name": "is_kl_connected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/hybrid.py",
+      "summary": "Python function is_kl_connected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py",
+      "type": "file",
+      "name": "isolate",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py:is_isolate",
+      "type": "function",
+      "name": "is_isolate",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py",
+      "summary": "Python function is_isolate",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py:isolates",
+      "type": "function",
+      "name": "isolates",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py",
+      "summary": "Python function isolates",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py:number_of_isolates",
+      "type": "function",
+      "name": "number_of_isolates",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py",
+      "summary": "Python function number_of_isolates",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "type": "file",
+      "name": "ismags",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py:EdgeLookup",
+      "type": "class",
+      "name": "EdgeLookup",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "summary": "Python class EdgeLookup",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py:ISMAGS",
+      "type": "class",
+      "name": "ISMAGS",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "summary": "Python class ISMAGS",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py:are_all_equal",
+      "type": "function",
+      "name": "are_all_equal",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "summary": "Python function are_all_equal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py:make_partition",
+      "type": "function",
+      "name": "make_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "summary": "Python function make_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py:node_to_part_ID_dict",
+      "type": "function",
+      "name": "node_to_part_ID_dict",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "summary": "Python function node_to_part_ID_dict",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py:color_degree_by_node",
+      "type": "function",
+      "name": "color_degree_by_node",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "summary": "Python function color_degree_by_node",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "type": "file",
+      "name": "isomorph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:could_be_isomorphic",
+      "type": "function",
+      "name": "could_be_isomorphic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "summary": "Python function could_be_isomorphic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:graph_could_be_isomorphic",
+      "type": "function",
+      "name": "graph_could_be_isomorphic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "summary": "Python function graph_could_be_isomorphic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:fast_could_be_isomorphic",
+      "type": "function",
+      "name": "fast_could_be_isomorphic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "summary": "Python function fast_could_be_isomorphic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:fast_graph_could_be_isomorphic",
+      "type": "function",
+      "name": "fast_graph_could_be_isomorphic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "summary": "Python function fast_graph_could_be_isomorphic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:faster_could_be_isomorphic",
+      "type": "function",
+      "name": "faster_could_be_isomorphic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "summary": "Python function faster_could_be_isomorphic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:faster_graph_could_be_isomorphic",
+      "type": "function",
+      "name": "faster_graph_could_be_isomorphic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "summary": "Python function faster_graph_could_be_isomorphic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:is_isomorphic",
+      "type": "function",
+      "name": "is_isomorphic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "summary": "Python function is_isomorphic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/boykovkolmogorov.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/boykovkolmogorov.py:boykov_kolmogorov",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/boykovkolmogorov.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/boykovkolmogorov.py:boykov_kolmogorov_impl",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/capacityscaling.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/capacityscaling.py:capacity_scaling",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/dinitz_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/dinitz_alg.py:dinitz",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/dinitz_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/dinitz_alg.py:dinitz_impl",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py:edmonds_karp_core",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py:edmonds_karp_impl",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/edmondskarp.py:edmonds_karp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/gomory_hu.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/gomory_hu.py:gomory_hu_tree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py:maximum_flow",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py:maximum_flow_value",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py:minimum_cut",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/maxflow.py:minimum_cut_value",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py:min_cost_flow_cost",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py:min_cost_flow",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py:cost_of_flow",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/mincost.py:max_flow_min_cost",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/networksimplex.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/networksimplex.py:_DataEssentialsAndFunctions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/networksimplex.py:network_simplex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/preflowpush.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/preflowpush.py:preflow_push_impl",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/preflowpush.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/preflowpush.py:preflow_push",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/shortestaugmentingpath.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/shortestaugmentingpath.py:shortest_augmenting_path_impl",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/shortestaugmentingpath.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/shortestaugmentingpath.py:shortest_augmenting_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_gomory_hu.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_gomory_hu.py:TestGomoryHuTree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py:TestMaxflowLargeGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py:gen_pyramid",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py:read_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow_large_graph.py:validate_flows",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:TestMaxflowMinCutCommon",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:TestMaxFlowMinCutInterface",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:TestCutoff",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:compute_cutset",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:validate_flows",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:validate_cuts",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:compare_flows_and_cuts",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:test_preflow_push_global_relabel_freq",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:test_preflow_push_makes_enough_space",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_maxflow.py:test_shortest_augmenting_path_two_phase",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_mincost.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_mincost.py:TestMinCostFlow",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:simple_flow_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:simple_no_flow_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:get_flowcost_from_flowdict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_infinite_demand_raise",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_neg_infinite_demand_raise",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_infinite_weight_raise",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_nonzero_net_demand_raise",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_negative_capacity_raise",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_no_flow_satisfying_demands",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_sum_demands_not_zero",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_google_or_tools_example",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_google_or_tools_example2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_large",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_simple_digraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_negcycle_infcap",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_transshipment",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_digraph1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_zero_capacity_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_digon",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_deadend",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_infinite_capacity_neg_digon",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_multidigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_negative_selfloops",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_bone_shaped",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_graphs_type_exceptions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:faux_inf_example",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_network_simplex_faux_infinity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/test_networksimplex.py:test_network_simplex_unbounded_flow",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py:CurrentEdge",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py:Level",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py:GlobalRelabelThreshold",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py:build_residual_network",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py:detect_unboundedness",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/flow/utils.py:build_flow_dict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graph_hashing.py:weisfeiler_lehman_graph_hash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graph_hashing.py:weisfeiler_lehman_subgraph_hashes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py:is_graphical",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py:is_valid_degree_sequence_havel_hakimi",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py:is_valid_degree_sequence_erdos_gallai",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py:is_multigraphical",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py:is_pseudographical",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/graphical.py:is_digraphical",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/hierarchy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/hierarchy.py:flow_hierarchy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/hybrid.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/hybrid.py:kl_connected_subgraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/hybrid.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/hybrid.py:is_kl_connected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py:is_isolate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py:isolates",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isolate.py:number_of_isolates",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py:EdgeLookup",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py:ISMAGS",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py:are_all_equal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py:make_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py:node_to_part_ID_dict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/ismags.py:color_degree_by_node",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:could_be_isomorphic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:graph_could_be_isomorphic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:fast_could_be_isomorphic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:fast_graph_could_be_isomorphic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:faster_could_be_isomorphic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:faster_graph_could_be_isomorphic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorph.py:is_isomorphic",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 124,
+    "edgeCount": 100,
+    "nodeTypes": {
+      "file": 24,
+      "function": 88,
+      "class": 12
+    }
+  }
+}

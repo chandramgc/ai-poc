@@ -1,0 +1,46 @@
+{
+  "batchIndex": 455,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/testing/_private/extbuild.pyi",
+      "type": "file",
+      "name": "extbuild",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/testing/_private/extbuild.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/testing/_private/utils.pyi",
+      "type": "file",
+      "name": "utils",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/testing/_private/utils.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/testing/_private/extbuild.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/testing/_private/extbuild.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/testing/_private/utils.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/testing/_private/utils.pyi",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 2,
+    "edgeCount": 2,
+    "nodeTypes": {
+      "file": 2
+    }
+  }
+}

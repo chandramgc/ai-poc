@@ -1,0 +1,272 @@
+{
+  "version": "1.0.0",
+  "gitCommitHash": "cc825f118e14b154567dd9f2b3d78c147cf5eb8d",
+  "generatedAt": "2026-06-29T01:44:33.453Z",
+  "files": {
+    "src/main/java/com/aipoc/controller/TimeController.java": {
+      "filePath": "src/main/java/com/aipoc/controller/TimeController.java",
+      "contentHash": "0d0f6defa4c630dd854d222b8e4b59331cb8a00d97c0964152efbed211e98d97",
+      "functions": [
+        {
+          "name": "TimeController",
+          "params": [
+            "timeService"
+          ],
+          "exported": true,
+          "lineCount": 3
+        },
+        {
+          "name": "getCurrentTime",
+          "params": [],
+          "returnType": "ResponseEntity<TimeResponse>",
+          "exported": true,
+          "lineCount": 13
+        }
+      ],
+      "classes": [
+        {
+          "name": "TimeController",
+          "methods": [
+            "TimeController",
+            "getCurrentTime"
+          ],
+          "properties": [
+            "log",
+            "timeService"
+          ],
+          "exported": true,
+          "lineCount": 40
+        }
+      ],
+      "imports": [
+        {
+          "source": "com.aipoc.dto.TimeResponse",
+          "specifiers": [
+            "TimeResponse"
+          ]
+        },
+        {
+          "source": "com.aipoc.service.TimeService",
+          "specifiers": [
+            "TimeService"
+          ]
+        },
+        {
+          "source": "io.swagger.v3.oas.annotations.Operation",
+          "specifiers": [
+            "Operation"
+          ]
+        },
+        {
+          "source": "io.swagger.v3.oas.annotations.media.Content",
+          "specifiers": [
+            "Content"
+          ]
+        },
+        {
+          "source": "io.swagger.v3.oas.annotations.media.Schema",
+          "specifiers": [
+            "Schema"
+          ]
+        },
+        {
+          "source": "io.swagger.v3.oas.annotations.responses.ApiResponse",
+          "specifiers": [
+            "ApiResponse"
+          ]
+        },
+        {
+          "source": "io.swagger.v3.oas.annotations.tags.Tag",
+          "specifiers": [
+            "Tag"
+          ]
+        },
+        {
+          "source": "org.slf4j.Logger",
+          "specifiers": [
+            "Logger"
+          ]
+        },
+        {
+          "source": "org.slf4j.LoggerFactory",
+          "specifiers": [
+            "LoggerFactory"
+          ]
+        },
+        {
+          "source": "org.springframework.http.ResponseEntity",
+          "specifiers": [
+            "ResponseEntity"
+          ]
+        },
+        {
+          "source": "org.springframework.web.bind.annotation.GetMapping",
+          "specifiers": [
+            "GetMapping"
+          ]
+        },
+        {
+          "source": "org.springframework.web.bind.annotation.RequestMapping",
+          "specifiers": [
+            "RequestMapping"
+          ]
+        },
+        {
+          "source": "org.springframework.web.bind.annotation.RestController",
+          "specifiers": [
+            "RestController"
+          ]
+        }
+      ],
+      "exports": [
+        "TimeController",
+        "getCurrentTime",
+        "TimeController"
+      ],
+      "totalLines": 65,
+      "hasStructuralAnalysis": true
+    },
+    "src/main/java/com/aipoc/service/TimeService.java": {
+      "filePath": "src/main/java/com/aipoc/service/TimeService.java",
+      "contentHash": "4246668097312dfce33d7151c9242861d8c76dd867a89acc8499175108ef56c6",
+      "functions": [],
+      "classes": [
+        {
+          "name": "TimeService",
+          "methods": [
+            "getCurrentTime"
+          ],
+          "properties": [],
+          "exported": true,
+          "lineCount": 10
+        }
+      ],
+      "imports": [
+        {
+          "source": "com.aipoc.dto.TimeResponse",
+          "specifiers": [
+            "TimeResponse"
+          ]
+        }
+      ],
+      "exports": [
+        "TimeService"
+      ],
+      "totalLines": 21,
+      "hasStructuralAnalysis": true
+    },
+    "src/main/java/com/aipoc/service/impl/TimeServiceImpl.java": {
+      "filePath": "src/main/java/com/aipoc/service/impl/TimeServiceImpl.java",
+      "contentHash": "01301fd67988fc311357bc2cd142a5cd8d55541a5943b2e61ca38be13750c8e5",
+      "functions": [
+        {
+          "name": "getCurrentTime",
+          "params": [],
+          "returnType": "TimeResponse",
+          "exported": true,
+          "lineCount": 10
+        }
+      ],
+      "classes": [
+        {
+          "name": "TimeServiceImpl",
+          "methods": [
+            "getCurrentTime"
+          ],
+          "properties": [
+            "log",
+            "DISPLAY_FORMATTER"
+          ],
+          "exported": true,
+          "lineCount": 26
+        }
+      ],
+      "imports": [
+        {
+          "source": "com.aipoc.dto.TimeResponse",
+          "specifiers": [
+            "TimeResponse"
+          ]
+        },
+        {
+          "source": "com.aipoc.service.TimeService",
+          "specifiers": [
+            "TimeService"
+          ]
+        },
+        {
+          "source": "org.slf4j.Logger",
+          "specifiers": [
+            "Logger"
+          ]
+        },
+        {
+          "source": "org.slf4j.LoggerFactory",
+          "specifiers": [
+            "LoggerFactory"
+          ]
+        },
+        {
+          "source": "org.springframework.stereotype.Service",
+          "specifiers": [
+            "Service"
+          ]
+        },
+        {
+          "source": "java.time.ZoneId",
+          "specifiers": [
+            "ZoneId"
+          ]
+        },
+        {
+          "source": "java.time.ZonedDateTime",
+          "specifiers": [
+            "ZonedDateTime"
+          ]
+        },
+        {
+          "source": "java.time.format.DateTimeFormatter",
+          "specifiers": [
+            "DateTimeFormatter"
+          ]
+        }
+      ],
+      "exports": [
+        "getCurrentTime",
+        "TimeServiceImpl"
+      ],
+      "totalLines": 46,
+      "hasStructuralAnalysis": true
+    },
+    "src/main/resources/application.yml": {
+      "filePath": "src/main/resources/application.yml",
+      "contentHash": "1b96e5e073340d9490f334ff66b1a3cb2fda4ecdfefc4aafd0e178a7003e95f2",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 10,
+      "hasStructuralAnalysis": true
+    },
+    "build.gradle": {
+      "filePath": "build.gradle",
+      "contentHash": "deabcfc2351e9d41c553f7f8f2cab0143c023921da69a2cbab7c680c0c3b5d10",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 19,
+      "hasStructuralAnalysis": false
+    },
+    "README.md": {
+      "filePath": "README.md",
+      "contentHash": "8b63f1857ec3c0b5de175a8cdf958513994b3c19342ace15e41762fe5b7a4811",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 211,
+      "hasStructuralAnalysis": true
+    }
+  }
+}

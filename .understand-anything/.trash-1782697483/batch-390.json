@@ -1,0 +1,190 @@
+{
+  "batchIndex": 390,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test__init.cpython-314.pyc",
+      "type": "file",
+      "name": "test__init.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test__init.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_backends.cpython-314.pyc",
+      "type": "file",
+      "name": "test_backends.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_backends.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_config.cpython-314.pyc",
+      "type": "file",
+      "name": "test_config.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_config.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_decorators.cpython-314.pyc",
+      "type": "file",
+      "name": "test_decorators.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_decorators.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_heaps.cpython-314.pyc",
+      "type": "file",
+      "name": "test_heaps.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_heaps.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_mapped_queue.cpython-314.pyc",
+      "type": "file",
+      "name": "test_mapped_queue.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_mapped_queue.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_misc.cpython-314.pyc",
+      "type": "file",
+      "name": "test_misc.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_misc.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_random_sequence.cpython-314.pyc",
+      "type": "file",
+      "name": "test_random_sequence.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_random_sequence.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_rcm.cpython-314.pyc",
+      "type": "file",
+      "name": "test_rcm.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_rcm.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_unionfind.cpython-314.pyc",
+      "type": "file",
+      "name": "test_unionfind.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_unionfind.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test__init.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test__init.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_backends.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_backends.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_config.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_config.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_decorators.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_decorators.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_heaps.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_heaps.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_mapped_queue.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_mapped_queue.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_misc.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_misc.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_random_sequence.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_random_sequence.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_rcm.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_rcm.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_unionfind.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/__pycache__/test_unionfind.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 11,
+    "edgeCount": 11,
+    "nodeTypes": {
+      "file": 11
+    }
+  }
+}

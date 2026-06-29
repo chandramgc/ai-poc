@@ -1,0 +1,62 @@
+{
+  "batchIndex": 534,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_elixir/queries/highlights.scm",
+      "type": "file",
+      "name": "highlights",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_elixir/queries/highlights.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_elixir/queries/injections.scm",
+      "type": "file",
+      "name": "injections",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_elixir/queries/injections.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_elixir/queries/tags.scm",
+      "type": "file",
+      "name": "tags",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_elixir/queries/tags.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_elixir/queries/highlights.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_elixir/queries/highlights.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_elixir/queries/injections.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_elixir/queries/injections.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_elixir/queries/tags.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_elixir/queries/tags.scm",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 3,
+    "edgeCount": 3,
+    "nodeTypes": {
+      "file": 3
+    }
+  }
+}

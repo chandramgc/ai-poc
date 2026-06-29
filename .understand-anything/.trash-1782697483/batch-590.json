@@ -1,0 +1,413 @@
+{
+  "batchIndex": 590,
+  "nodes": [
+    {
+      "id": "file:tmp/clean-test/.git/logs/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": "tmp/clean-test/.git/logs/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/clean-test/.git/logs/refs/heads/master",
+      "type": "file",
+      "name": "master",
+      "filePath": "tmp/clean-test/.git/logs/refs/heads/master",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/clean-test/.git/objects/23/c9495a39af0603d1af54738102d7ba37068c69",
+      "type": "file",
+      "name": "c9495a39af0603d1af54738102d7ba37068c69",
+      "filePath": "tmp/clean-test/.git/objects/23/c9495a39af0603d1af54738102d7ba37068c69",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/clean-test/.git/objects/a3/c6e7cf6dedaa7f92cf65a988449ab83f321ade",
+      "type": "file",
+      "name": "c6e7cf6dedaa7f92cf65a988449ab83f321ade",
+      "filePath": "tmp/clean-test/.git/objects/a3/c6e7cf6dedaa7f92cf65a988449ab83f321ade",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/clean-test/.git/objects/ce/a559a57508ac126851dff4e6e581ac17fdcd6f",
+      "type": "file",
+      "name": "a559a57508ac126851dff4e6e581ac17fdcd6f",
+      "filePath": "tmp/clean-test/.git/objects/ce/a559a57508ac126851dff4e6e581ac17fdcd6f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/clean-test/.git/objects/d0/fa6779e8dfca4637425e7e95fc855602d81a2e",
+      "type": "file",
+      "name": "fa6779e8dfca4637425e7e95fc855602d81a2e",
+      "filePath": "tmp/clean-test/.git/objects/d0/fa6779e8dfca4637425e7e95fc855602d81a2e",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/clean-test/.git/objects/fa/4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "type": "file",
+      "name": "4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "filePath": "tmp/clean-test/.git/objects/fa/4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/clean-test/.git/refs/heads/master",
+      "type": "file",
+      "name": "master",
+      "filePath": "tmp/clean-test/.git/refs/heads/master",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.config/ponytail/config.json",
+      "type": "config",
+      "name": "config",
+      "filePath": "tmp/fix-verify-test/.config/ponytail/config.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:3"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/info/exclude",
+      "type": "file",
+      "name": "exclude",
+      "filePath": "tmp/fix-verify-test/.git/info/exclude",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/logs/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": "tmp/fix-verify-test/.git/logs/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/logs/refs/heads/master",
+      "type": "file",
+      "name": "master",
+      "filePath": "tmp/fix-verify-test/.git/logs/refs/heads/master",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/objects/01/454fe1a400a64d94b70f268860abbb9781e134",
+      "type": "file",
+      "name": "454fe1a400a64d94b70f268860abbb9781e134",
+      "filePath": "tmp/fix-verify-test/.git/objects/01/454fe1a400a64d94b70f268860abbb9781e134",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/objects/04/4ab505a5fc122e998c87454ecba2f8de28f30d",
+      "type": "file",
+      "name": "4ab505a5fc122e998c87454ecba2f8de28f30d",
+      "filePath": "tmp/fix-verify-test/.git/objects/04/4ab505a5fc122e998c87454ecba2f8de28f30d",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/objects/10/b500bd49882cc4d4697b5dcdb5fc2e4ba43a41",
+      "type": "file",
+      "name": "b500bd49882cc4d4697b5dcdb5fc2e4ba43a41",
+      "filePath": "tmp/fix-verify-test/.git/objects/10/b500bd49882cc4d4697b5dcdb5fc2e4ba43a41",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/objects/13/3cb0a0242bbd6b22d44c50c5d28743a694e407",
+      "type": "file",
+      "name": "3cb0a0242bbd6b22d44c50c5d28743a694e407",
+      "filePath": "tmp/fix-verify-test/.git/objects/13/3cb0a0242bbd6b22d44c50c5d28743a694e407",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/objects/2b/55edef4bd4894a6ca4504ee89fbe19d0b90cbf",
+      "type": "file",
+      "name": "55edef4bd4894a6ca4504ee89fbe19d0b90cbf",
+      "filePath": "tmp/fix-verify-test/.git/objects/2b/55edef4bd4894a6ca4504ee89fbe19d0b90cbf",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/objects/2c/6fd5f94ab3b52248a1d5d35fd45a8d6b1d13aa",
+      "type": "file",
+      "name": "6fd5f94ab3b52248a1d5d35fd45a8d6b1d13aa",
+      "filePath": "tmp/fix-verify-test/.git/objects/2c/6fd5f94ab3b52248a1d5d35fd45a8d6b1d13aa",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/objects/3a/bb0cb23b5027204231db17e0f9e061a430acaa",
+      "type": "file",
+      "name": "bb0cb23b5027204231db17e0f9e061a430acaa",
+      "filePath": "tmp/fix-verify-test/.git/objects/3a/bb0cb23b5027204231db17e0f9e061a430acaa",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/objects/4c/3bed749be81bec19e5ee4bba8b7cafe7a7fd67",
+      "type": "file",
+      "name": "3bed749be81bec19e5ee4bba8b7cafe7a7fd67",
+      "filePath": "tmp/fix-verify-test/.git/objects/4c/3bed749be81bec19e5ee4bba8b7cafe7a7fd67",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/objects/51/552fb0dde44bd96baaf9803eed94ff05659a88",
+      "type": "file",
+      "name": "552fb0dde44bd96baaf9803eed94ff05659a88",
+      "filePath": "tmp/fix-verify-test/.git/objects/51/552fb0dde44bd96baaf9803eed94ff05659a88",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/objects/a4/742759318ba8edb12d3f96fea4496f20c6632a",
+      "type": "file",
+      "name": "742759318ba8edb12d3f96fea4496f20c6632a",
+      "filePath": "tmp/fix-verify-test/.git/objects/a4/742759318ba8edb12d3f96fea4496f20c6632a",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/objects/b2/db66a696f838f91094a87158849022bbff1768",
+      "type": "file",
+      "name": "db66a696f838f91094a87158849022bbff1768",
+      "filePath": "tmp/fix-verify-test/.git/objects/b2/db66a696f838f91094a87158849022bbff1768",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/objects/b4/03b4c5d78a279561797926507d4f7ada93a411",
+      "type": "file",
+      "name": "03b4c5d78a279561797926507d4f7ada93a411",
+      "filePath": "tmp/fix-verify-test/.git/objects/b4/03b4c5d78a279561797926507d4f7ada93a411",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/fix-verify-test/.git/objects/b6/79141a1d47f7cd4fcbd063c00fc4866d778c6c",
+      "type": "file",
+      "name": "79141a1d47f7cd4fcbd063c00fc4866d778c6c",
+      "filePath": "tmp/fix-verify-test/.git/objects/b6/79141a1d47f7cd4fcbd063c00fc4866d778c6c",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/clean-test/.git/logs/HEAD",
+      "target": "file:tmp/clean-test/.git/logs/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/clean-test/.git/logs/refs/heads/master",
+      "target": "file:tmp/clean-test/.git/logs/refs/heads/master",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/clean-test/.git/objects/23/c9495a39af0603d1af54738102d7ba37068c69",
+      "target": "file:tmp/clean-test/.git/objects/23/c9495a39af0603d1af54738102d7ba37068c69",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/clean-test/.git/objects/a3/c6e7cf6dedaa7f92cf65a988449ab83f321ade",
+      "target": "file:tmp/clean-test/.git/objects/a3/c6e7cf6dedaa7f92cf65a988449ab83f321ade",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/clean-test/.git/objects/ce/a559a57508ac126851dff4e6e581ac17fdcd6f",
+      "target": "file:tmp/clean-test/.git/objects/ce/a559a57508ac126851dff4e6e581ac17fdcd6f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/clean-test/.git/objects/d0/fa6779e8dfca4637425e7e95fc855602d81a2e",
+      "target": "file:tmp/clean-test/.git/objects/d0/fa6779e8dfca4637425e7e95fc855602d81a2e",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/clean-test/.git/objects/fa/4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "target": "file:tmp/clean-test/.git/objects/fa/4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/clean-test/.git/refs/heads/master",
+      "target": "file:tmp/clean-test/.git/refs/heads/master",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/info/exclude",
+      "target": "file:tmp/fix-verify-test/.git/info/exclude",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/logs/HEAD",
+      "target": "file:tmp/fix-verify-test/.git/logs/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/logs/refs/heads/master",
+      "target": "file:tmp/fix-verify-test/.git/logs/refs/heads/master",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/objects/01/454fe1a400a64d94b70f268860abbb9781e134",
+      "target": "file:tmp/fix-verify-test/.git/objects/01/454fe1a400a64d94b70f268860abbb9781e134",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/objects/04/4ab505a5fc122e998c87454ecba2f8de28f30d",
+      "target": "file:tmp/fix-verify-test/.git/objects/04/4ab505a5fc122e998c87454ecba2f8de28f30d",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/objects/10/b500bd49882cc4d4697b5dcdb5fc2e4ba43a41",
+      "target": "file:tmp/fix-verify-test/.git/objects/10/b500bd49882cc4d4697b5dcdb5fc2e4ba43a41",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/objects/13/3cb0a0242bbd6b22d44c50c5d28743a694e407",
+      "target": "file:tmp/fix-verify-test/.git/objects/13/3cb0a0242bbd6b22d44c50c5d28743a694e407",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/objects/2b/55edef4bd4894a6ca4504ee89fbe19d0b90cbf",
+      "target": "file:tmp/fix-verify-test/.git/objects/2b/55edef4bd4894a6ca4504ee89fbe19d0b90cbf",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/objects/2c/6fd5f94ab3b52248a1d5d35fd45a8d6b1d13aa",
+      "target": "file:tmp/fix-verify-test/.git/objects/2c/6fd5f94ab3b52248a1d5d35fd45a8d6b1d13aa",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/objects/3a/bb0cb23b5027204231db17e0f9e061a430acaa",
+      "target": "file:tmp/fix-verify-test/.git/objects/3a/bb0cb23b5027204231db17e0f9e061a430acaa",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/objects/4c/3bed749be81bec19e5ee4bba8b7cafe7a7fd67",
+      "target": "file:tmp/fix-verify-test/.git/objects/4c/3bed749be81bec19e5ee4bba8b7cafe7a7fd67",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/objects/51/552fb0dde44bd96baaf9803eed94ff05659a88",
+      "target": "file:tmp/fix-verify-test/.git/objects/51/552fb0dde44bd96baaf9803eed94ff05659a88",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/objects/a4/742759318ba8edb12d3f96fea4496f20c6632a",
+      "target": "file:tmp/fix-verify-test/.git/objects/a4/742759318ba8edb12d3f96fea4496f20c6632a",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/objects/b2/db66a696f838f91094a87158849022bbff1768",
+      "target": "file:tmp/fix-verify-test/.git/objects/b2/db66a696f838f91094a87158849022bbff1768",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/objects/b4/03b4c5d78a279561797926507d4f7ada93a411",
+      "target": "file:tmp/fix-verify-test/.git/objects/b4/03b4c5d78a279561797926507d4f7ada93a411",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/fix-verify-test/.git/objects/b6/79141a1d47f7cd4fcbd063c00fc4866d778c6c",
+      "target": "file:tmp/fix-verify-test/.git/objects/b6/79141a1d47f7cd4fcbd063c00fc4866d778c6c",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 25,
+    "edgeCount": 24,
+    "nodeTypes": {
+      "file": 24,
+      "config": 1
+    }
+  }
+}

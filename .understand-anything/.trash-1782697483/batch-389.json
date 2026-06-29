@@ -1,0 +1,174 @@
+{
+  "batchIndex": 389,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/backends.cpython-314.pyc",
+      "type": "file",
+      "name": "backends.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/__pycache__/backends.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/configs.cpython-314.pyc",
+      "type": "file",
+      "name": "configs.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/__pycache__/configs.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/decorators.cpython-314.pyc",
+      "type": "file",
+      "name": "decorators.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/__pycache__/decorators.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/heaps.cpython-314.pyc",
+      "type": "file",
+      "name": "heaps.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/__pycache__/heaps.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/mapped_queue.cpython-314.pyc",
+      "type": "file",
+      "name": "mapped_queue.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/__pycache__/mapped_queue.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/misc.cpython-314.pyc",
+      "type": "file",
+      "name": "misc.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/__pycache__/misc.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/random_sequence.cpython-314.pyc",
+      "type": "file",
+      "name": "random_sequence.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/__pycache__/random_sequence.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/rcm.cpython-314.pyc",
+      "type": "file",
+      "name": "rcm.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/__pycache__/rcm.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/union_find.cpython-314.pyc",
+      "type": "file",
+      "name": "union_find.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/__pycache__/union_find.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/backends.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/backends.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/configs.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/configs.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/decorators.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/decorators.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/heaps.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/heaps.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/mapped_queue.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/mapped_queue.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/misc.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/misc.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/random_sequence.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/random_sequence.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/rcm.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/rcm.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/union_find.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/utils/__pycache__/union_find.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 10,
+    "edgeCount": 10,
+    "nodeTypes": {
+      "file": 10
+    }
+  }
+}

@@ -1,0 +1,2538 @@
+{
+  "batchIndex": 613,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py",
+      "type": "file",
+      "name": "isomorphvf2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py:GraphMatcher",
+      "type": "class",
+      "name": "GraphMatcher",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py",
+      "summary": "Python class GraphMatcher",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py:DiGraphMatcher",
+      "type": "class",
+      "name": "DiGraphMatcher",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py",
+      "summary": "Python class DiGraphMatcher",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py:GMState",
+      "type": "class",
+      "name": "GMState",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py",
+      "summary": "Python class GMState",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py:DiGMState",
+      "type": "class",
+      "name": "DiGMState",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py",
+      "summary": "Python class DiGMState",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "type": "file",
+      "name": "matchhelpers",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:copyfunc",
+      "type": "function",
+      "name": "copyfunc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "summary": "Python function copyfunc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:allclose",
+      "type": "function",
+      "name": "allclose",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "summary": "Python function allclose",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:categorical_node_match",
+      "type": "function",
+      "name": "categorical_node_match",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "summary": "Python function categorical_node_match",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:categorical_multiedge_match",
+      "type": "function",
+      "name": "categorical_multiedge_match",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "summary": "Python function categorical_multiedge_match",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:numerical_node_match",
+      "type": "function",
+      "name": "numerical_node_match",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "summary": "Python function numerical_node_match",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:numerical_multiedge_match",
+      "type": "function",
+      "name": "numerical_multiedge_match",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "summary": "Python function numerical_multiedge_match",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:generic_node_match",
+      "type": "function",
+      "name": "generic_node_match",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "summary": "Python function generic_node_match",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:generic_multiedge_match",
+      "type": "function",
+      "name": "generic_multiedge_match",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "summary": "Python function generic_multiedge_match",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/temporalisomorphvf2.py",
+      "type": "file",
+      "name": "temporalisomorphvf2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/temporalisomorphvf2.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/temporalisomorphvf2.py:TimeRespectingGraphMatcher",
+      "type": "class",
+      "name": "TimeRespectingGraphMatcher",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/temporalisomorphvf2.py",
+      "summary": "Python class TimeRespectingGraphMatcher",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/temporalisomorphvf2.py:TimeRespectingDiGraphMatcher",
+      "type": "class",
+      "name": "TimeRespectingDiGraphMatcher",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/temporalisomorphvf2.py",
+      "summary": "Python class TimeRespectingDiGraphMatcher",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "type": "file",
+      "name": "test_ismags",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:TestSelfIsomorphism",
+      "type": "class",
+      "name": "TestSelfIsomorphism",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "summary": "Python class TestSelfIsomorphism",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:TestSubgraphIsomorphism",
+      "type": "class",
+      "name": "TestSubgraphIsomorphism",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "summary": "Python class TestSubgraphIsomorphism",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:TestWikipediaExample",
+      "type": "class",
+      "name": "TestWikipediaExample",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "summary": "Python class TestWikipediaExample",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:TestLargestCommonSubgraph",
+      "type": "class",
+      "name": "TestLargestCommonSubgraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "summary": "Python class TestLargestCommonSubgraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:TestDiGraphISO",
+      "type": "class",
+      "name": "TestDiGraphISO",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "summary": "Python class TestDiGraphISO",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:test_noncomparable_nodes",
+      "type": "function",
+      "name": "test_noncomparable_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "summary": "Python function test_noncomparable_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:test_selfloop",
+      "type": "function",
+      "name": "test_selfloop",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "summary": "Python function test_selfloop",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:is_isomorphic",
+      "type": "function",
+      "name": "is_isomorphic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "summary": "Python function is_isomorphic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:test_simple_node_match",
+      "type": "function",
+      "name": "test_simple_node_match",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "summary": "Python function test_simple_node_match",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:test_simple_node_and_edge_match",
+      "type": "function",
+      "name": "test_simple_node_and_edge_match",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "summary": "Python function test_simple_node_and_edge_match",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:test_simple_edge_match",
+      "type": "function",
+      "name": "test_simple_edge_match",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "summary": "Python function test_simple_edge_match",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:test_weightkey",
+      "type": "function",
+      "name": "test_weightkey",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "summary": "Python function test_weightkey",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py",
+      "type": "file",
+      "name": "test_isomorphism",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py:TestIsomorph",
+      "type": "class",
+      "name": "TestIsomorph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py",
+      "summary": "Python class TestIsomorph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py:test_graph_could_be_isomorphic_variants_deprecated",
+      "type": "function",
+      "name": "test_graph_could_be_isomorphic_variants_deprecated",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py",
+      "summary": "Python function test_graph_could_be_isomorphic_variants_deprecated",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py:test_could_be_isomorphic_combined_properties",
+      "type": "function",
+      "name": "test_could_be_isomorphic_combined_properties",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py",
+      "summary": "Python function test_could_be_isomorphic_combined_properties",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py:test_could_be_isomorphic_individual_vs_combined_dt",
+      "type": "function",
+      "name": "test_could_be_isomorphic_individual_vs_combined_dt",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py",
+      "summary": "Python function test_could_be_isomorphic_individual_vs_combined_dt",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "type": "file",
+      "name": "test_isomorphvf2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:TestWikipediaExample",
+      "type": "class",
+      "name": "TestWikipediaExample",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python class TestWikipediaExample",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:TestVF2GraphDB",
+      "type": "class",
+      "name": "TestVF2GraphDB",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python class TestVF2GraphDB",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:TestAtlas",
+      "type": "class",
+      "name": "TestAtlas",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python class TestAtlas",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_multiedge",
+      "type": "function",
+      "name": "test_multiedge",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python function test_multiedge",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_matcher_raises",
+      "type": "function",
+      "name": "test_matcher_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python function test_matcher_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_selfloop",
+      "type": "function",
+      "name": "test_selfloop",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python function test_selfloop",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_selfloop_mono",
+      "type": "function",
+      "name": "test_selfloop_mono",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python function test_selfloop_mono",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_isomorphism_iter1",
+      "type": "function",
+      "name": "test_isomorphism_iter1",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python function test_isomorphism_iter1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_monomorphism_iter1",
+      "type": "function",
+      "name": "test_monomorphism_iter1",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python function test_monomorphism_iter1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_isomorphism_iter2",
+      "type": "function",
+      "name": "test_isomorphism_iter2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python function test_isomorphism_iter2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_multiple",
+      "type": "function",
+      "name": "test_multiple",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python function test_multiple",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_noncomparable_nodes",
+      "type": "function",
+      "name": "test_noncomparable_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python function test_noncomparable_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_monomorphism_edge_match",
+      "type": "function",
+      "name": "test_monomorphism_edge_match",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python function test_monomorphism_edge_match",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_three_node",
+      "type": "function",
+      "name": "test_three_node",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "summary": "Python function test_three_node",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_match_helpers.py",
+      "type": "file",
+      "name": "test_match_helpers",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_match_helpers.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_match_helpers.py:TestGenericMultiEdgeMatch",
+      "type": "class",
+      "name": "TestGenericMultiEdgeMatch",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_match_helpers.py",
+      "summary": "Python class TestGenericMultiEdgeMatch",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_match_helpers.py:test_categorical_node_match",
+      "type": "function",
+      "name": "test_categorical_node_match",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_match_helpers.py",
+      "summary": "Python function test_categorical_node_match",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "type": "file",
+      "name": "test_temporalisomorphvf2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:TestTimeRespectingGraphMatcher",
+      "type": "class",
+      "name": "TestTimeRespectingGraphMatcher",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "summary": "Python class TestTimeRespectingGraphMatcher",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:TestDiTimeRespectingGraphMatcher",
+      "type": "class",
+      "name": "TestDiTimeRespectingGraphMatcher",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "summary": "Python class TestDiTimeRespectingGraphMatcher",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:provide_g1_edgelist",
+      "type": "function",
+      "name": "provide_g1_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "summary": "Python function provide_g1_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:put_same_time",
+      "type": "function",
+      "name": "put_same_time",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "summary": "Python function put_same_time",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:put_same_datetime",
+      "type": "function",
+      "name": "put_same_datetime",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "summary": "Python function put_same_datetime",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:put_sequence_time",
+      "type": "function",
+      "name": "put_sequence_time",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "summary": "Python function put_sequence_time",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:put_time_config_0",
+      "type": "function",
+      "name": "put_time_config_0",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "summary": "Python function put_time_config_0",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:put_time_config_1",
+      "type": "function",
+      "name": "put_time_config_1",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "summary": "Python function put_time_config_1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:put_time_config_2",
+      "type": "function",
+      "name": "put_time_config_2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "summary": "Python function put_time_config_2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "type": "file",
+      "name": "test_tree_isomorphism",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_tree_isomorphism_raises_on_directed_and_multigraphs",
+      "type": "function",
+      "name": "test_tree_isomorphism_raises_on_directed_and_multigraphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "summary": "Python function test_tree_isomorphism_raises_on_directed_and_multigraphs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_input_not_tree",
+      "type": "function",
+      "name": "test_input_not_tree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "summary": "Python function test_input_not_tree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_hardcoded",
+      "type": "function",
+      "name": "test_hardcoded",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "summary": "Python function test_hardcoded",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_tree_isomorphic_all_non_isomorphic_trees_relabeled",
+      "type": "function",
+      "name": "test_tree_isomorphic_all_non_isomorphic_trees_relabeled",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "summary": "Python function test_tree_isomorphic_all_non_isomorphic_trees_relabeled",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_trivial_rooted_tree_isomorphism",
+      "type": "function",
+      "name": "test_trivial_rooted_tree_isomorphism",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "summary": "Python function test_trivial_rooted_tree_isomorphism",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_rooted_tree_isomorphism_different_order",
+      "type": "function",
+      "name": "test_rooted_tree_isomorphism_different_order",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "summary": "Python function test_rooted_tree_isomorphism_different_order",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_tree_isomorphism_all_non_isomorphic_pairs",
+      "type": "function",
+      "name": "test_tree_isomorphism_all_non_isomorphic_pairs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "summary": "Python function test_tree_isomorphism_all_non_isomorphic_pairs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_long_paths_graphs",
+      "type": "function",
+      "name": "test_long_paths_graphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "summary": "Python function test_long_paths_graphs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "type": "file",
+      "name": "test_vf2pp_helpers",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestNodeOrdering",
+      "type": "class",
+      "name": "TestNodeOrdering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "summary": "Python class TestNodeOrdering",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestGraphCandidateSelection",
+      "type": "class",
+      "name": "TestGraphCandidateSelection",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "summary": "Python class TestGraphCandidateSelection",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestDiGraphCandidateSelection",
+      "type": "class",
+      "name": "TestDiGraphCandidateSelection",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "summary": "Python class TestDiGraphCandidateSelection",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestGraphISOFeasibility",
+      "type": "class",
+      "name": "TestGraphISOFeasibility",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "summary": "Python class TestGraphISOFeasibility",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestMultiGraphISOFeasibility",
+      "type": "class",
+      "name": "TestMultiGraphISOFeasibility",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "summary": "Python class TestMultiGraphISOFeasibility",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestDiGraphISOFeasibility",
+      "type": "class",
+      "name": "TestDiGraphISOFeasibility",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "summary": "Python class TestDiGraphISOFeasibility",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestGraphTinoutUpdating",
+      "type": "class",
+      "name": "TestGraphTinoutUpdating",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "summary": "Python class TestGraphTinoutUpdating",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestDiGraphTinoutUpdating",
+      "type": "class",
+      "name": "TestDiGraphTinoutUpdating",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "summary": "Python class TestDiGraphTinoutUpdating",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "type": "file",
+      "name": "test_vf2pp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py:TestPreCheck",
+      "type": "class",
+      "name": "TestPreCheck",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "summary": "Python class TestPreCheck",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py:TestAllGraphTypesEdgeCases",
+      "type": "class",
+      "name": "TestAllGraphTypesEdgeCases",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "summary": "Python class TestAllGraphTypesEdgeCases",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py:TestGraphISOVF2pp",
+      "type": "class",
+      "name": "TestGraphISOVF2pp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "summary": "Python class TestGraphISOVF2pp",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py:TestMultiGraphISOVF2pp",
+      "type": "class",
+      "name": "TestMultiGraphISOVF2pp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "summary": "Python class TestMultiGraphISOVF2pp",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py:TestDiGraphISOVF2pp",
+      "type": "class",
+      "name": "TestDiGraphISOVF2pp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "summary": "Python class TestDiGraphISOVF2pp",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py:test_isomorphvf2pp_multidigraphs",
+      "type": "function",
+      "name": "test_isomorphvf2pp_multidigraphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "summary": "Python function test_isomorphvf2pp_multidigraphs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "type": "file",
+      "name": "test_vf2userfunc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py:TestMatch_Graph",
+      "type": "class",
+      "name": "TestMatch_Graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "summary": "Python class TestMatch_Graph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py:TestMatch_DiGraph",
+      "type": "class",
+      "name": "TestMatch_DiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "summary": "Python class TestMatch_DiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py:TestMatch_MultiGraph",
+      "type": "class",
+      "name": "TestMatch_MultiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "summary": "Python class TestMatch_MultiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py:TestMatch_MultiDiGraph",
+      "type": "class",
+      "name": "TestMatch_MultiDiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "summary": "Python class TestMatch_MultiDiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py:test_simple",
+      "type": "function",
+      "name": "test_simple",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "summary": "Python function test_simple",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py:test_weightkey",
+      "type": "function",
+      "name": "test_weightkey",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "summary": "Python function test_weightkey",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py",
+      "type": "file",
+      "name": "tree_isomorphism",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py:root_trees",
+      "type": "function",
+      "name": "root_trees",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py",
+      "summary": "Python function root_trees",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py:rooted_tree_isomorphism",
+      "type": "function",
+      "name": "rooted_tree_isomorphism",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py",
+      "summary": "Python function rooted_tree_isomorphism",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py:tree_isomorphism",
+      "type": "function",
+      "name": "tree_isomorphism",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py",
+      "summary": "Python function tree_isomorphism",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py",
+      "type": "file",
+      "name": "vf2pp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py:vf2pp_isomorphism",
+      "type": "function",
+      "name": "vf2pp_isomorphism",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py",
+      "summary": "Python function vf2pp_isomorphism",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py:vf2pp_is_isomorphic",
+      "type": "function",
+      "name": "vf2pp_is_isomorphic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py",
+      "summary": "Python function vf2pp_is_isomorphic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py:vf2pp_all_isomorphisms",
+      "type": "function",
+      "name": "vf2pp_all_isomorphisms",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py",
+      "summary": "Python function vf2pp_all_isomorphisms",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py",
+      "type": "file",
+      "name": "vf2userfunc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py:GraphMatcher",
+      "type": "class",
+      "name": "GraphMatcher",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py",
+      "summary": "Python class GraphMatcher",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py:DiGraphMatcher",
+      "type": "class",
+      "name": "DiGraphMatcher",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py",
+      "summary": "Python class DiGraphMatcher",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py:MultiGraphMatcher",
+      "type": "class",
+      "name": "MultiGraphMatcher",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py",
+      "summary": "Python class MultiGraphMatcher",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py:MultiDiGraphMatcher",
+      "type": "class",
+      "name": "MultiDiGraphMatcher",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py",
+      "summary": "Python class MultiDiGraphMatcher",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/hits_alg.py",
+      "type": "file",
+      "name": "hits_alg",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/hits_alg.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/hits_alg.py:hits",
+      "type": "function",
+      "name": "hits",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/hits_alg.py",
+      "summary": "Python function hits",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/pagerank_alg.py",
+      "type": "file",
+      "name": "pagerank_alg",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/pagerank_alg.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/pagerank_alg.py:pagerank",
+      "type": "function",
+      "name": "pagerank",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/pagerank_alg.py",
+      "summary": "Python function pagerank",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/pagerank_alg.py:google_matrix",
+      "type": "function",
+      "name": "google_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/pagerank_alg.py",
+      "summary": "Python function google_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_hits.py",
+      "type": "file",
+      "name": "test_hits",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_hits.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_hits.py:TestHITS",
+      "type": "class",
+      "name": "TestHITS",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_hits.py",
+      "summary": "Python class TestHITS",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_pagerank.py",
+      "type": "file",
+      "name": "test_pagerank",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_pagerank.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_pagerank.py:TestPageRank",
+      "type": "class",
+      "name": "TestPageRank",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_pagerank.py",
+      "summary": "Python class TestPageRank",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_pagerank.py:TestPageRankScipy",
+      "type": "class",
+      "name": "TestPageRankScipy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_pagerank.py",
+      "summary": "Python class TestPageRankScipy",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "type": "file",
+      "name": "link_prediction",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:resource_allocation_index",
+      "type": "function",
+      "name": "resource_allocation_index",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "summary": "Python function resource_allocation_index",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:jaccard_coefficient",
+      "type": "function",
+      "name": "jaccard_coefficient",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "summary": "Python function jaccard_coefficient",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:adamic_adar_index",
+      "type": "function",
+      "name": "adamic_adar_index",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "summary": "Python function adamic_adar_index",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:common_neighbor_centrality",
+      "type": "function",
+      "name": "common_neighbor_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "summary": "Python function common_neighbor_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:preferential_attachment",
+      "type": "function",
+      "name": "preferential_attachment",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "summary": "Python function preferential_attachment",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:cn_soundarajan_hopcroft",
+      "type": "function",
+      "name": "cn_soundarajan_hopcroft",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "summary": "Python function cn_soundarajan_hopcroft",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:ra_index_soundarajan_hopcroft",
+      "type": "function",
+      "name": "ra_index_soundarajan_hopcroft",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "summary": "Python function ra_index_soundarajan_hopcroft",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:within_inter_cluster",
+      "type": "function",
+      "name": "within_inter_cluster",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "summary": "Python function within_inter_cluster",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py",
+      "type": "file",
+      "name": "lowest_common_ancestors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py:all_pairs_lowest_common_ancestor",
+      "type": "function",
+      "name": "all_pairs_lowest_common_ancestor",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py",
+      "summary": "Python function all_pairs_lowest_common_ancestor",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py:lowest_common_ancestor",
+      "type": "function",
+      "name": "lowest_common_ancestor",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py",
+      "summary": "Python function lowest_common_ancestor",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py:tree_all_pairs_lowest_common_ancestor",
+      "type": "function",
+      "name": "tree_all_pairs_lowest_common_ancestor",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py",
+      "summary": "Python function tree_all_pairs_lowest_common_ancestor",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "type": "file",
+      "name": "matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:maximal_matching",
+      "type": "function",
+      "name": "maximal_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "summary": "Python function maximal_matching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:matching_dict_to_set",
+      "type": "function",
+      "name": "matching_dict_to_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "summary": "Python function matching_dict_to_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:is_matching",
+      "type": "function",
+      "name": "is_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "summary": "Python function is_matching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:is_maximal_matching",
+      "type": "function",
+      "name": "is_maximal_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "summary": "Python function is_maximal_matching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:is_perfect_matching",
+      "type": "function",
+      "name": "is_perfect_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "summary": "Python function is_perfect_matching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:min_weight_matching",
+      "type": "function",
+      "name": "min_weight_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "summary": "Python function min_weight_matching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:max_weight_matching",
+      "type": "function",
+      "name": "max_weight_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "summary": "Python function max_weight_matching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py:GraphMatcher",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py:DiGraphMatcher",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py:GMState",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/isomorphvf2.py:DiGMState",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:copyfunc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:allclose",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:categorical_node_match",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:categorical_multiedge_match",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:numerical_node_match",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:numerical_multiedge_match",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:generic_node_match",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/matchhelpers.py:generic_multiedge_match",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/temporalisomorphvf2.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/temporalisomorphvf2.py:TimeRespectingGraphMatcher",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/temporalisomorphvf2.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/temporalisomorphvf2.py:TimeRespectingDiGraphMatcher",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:TestSelfIsomorphism",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:TestSubgraphIsomorphism",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:TestWikipediaExample",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:TestLargestCommonSubgraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:TestDiGraphISO",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:test_noncomparable_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:test_selfloop",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:is_isomorphic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:test_simple_node_match",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:test_simple_node_and_edge_match",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:test_simple_edge_match",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_ismags.py:test_weightkey",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py:TestIsomorph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py:test_graph_could_be_isomorphic_variants_deprecated",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py:test_could_be_isomorphic_combined_properties",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphism.py:test_could_be_isomorphic_individual_vs_combined_dt",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:TestWikipediaExample",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:TestVF2GraphDB",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:TestAtlas",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_multiedge",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_matcher_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_selfloop",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_selfloop_mono",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_isomorphism_iter1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_monomorphism_iter1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_isomorphism_iter2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_multiple",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_noncomparable_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_monomorphism_edge_match",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_isomorphvf2.py:test_three_node",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_match_helpers.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_match_helpers.py:TestGenericMultiEdgeMatch",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_match_helpers.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_match_helpers.py:test_categorical_node_match",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:TestTimeRespectingGraphMatcher",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:TestDiTimeRespectingGraphMatcher",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:provide_g1_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:put_same_time",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:put_same_datetime",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:put_sequence_time",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:put_time_config_0",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:put_time_config_1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_temporalisomorphvf2.py:put_time_config_2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_tree_isomorphism_raises_on_directed_and_multigraphs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_input_not_tree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_hardcoded",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_tree_isomorphic_all_non_isomorphic_trees_relabeled",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_trivial_rooted_tree_isomorphism",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_rooted_tree_isomorphism_different_order",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_tree_isomorphism_all_non_isomorphic_pairs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_tree_isomorphism.py:test_long_paths_graphs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestNodeOrdering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestGraphCandidateSelection",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestDiGraphCandidateSelection",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestGraphISOFeasibility",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestMultiGraphISOFeasibility",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestDiGraphISOFeasibility",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestGraphTinoutUpdating",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp_helpers.py:TestDiGraphTinoutUpdating",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py:TestPreCheck",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py:TestAllGraphTypesEdgeCases",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py:TestGraphISOVF2pp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py:TestMultiGraphISOVF2pp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py:TestDiGraphISOVF2pp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2pp.py:test_isomorphvf2pp_multidigraphs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py:TestMatch_Graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py:TestMatch_DiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py:TestMatch_MultiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py:TestMatch_MultiDiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py:test_simple",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/test_vf2userfunc.py:test_weightkey",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py:root_trees",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py:rooted_tree_isomorphism",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tree_isomorphism.py:tree_isomorphism",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py:vf2pp_isomorphism",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py:vf2pp_is_isomorphic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2pp.py:vf2pp_all_isomorphisms",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py:GraphMatcher",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py:DiGraphMatcher",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py:MultiGraphMatcher",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/vf2userfunc.py:MultiDiGraphMatcher",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/hits_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/hits_alg.py:hits",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/pagerank_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/pagerank_alg.py:pagerank",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/pagerank_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/pagerank_alg.py:google_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_hits.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_hits.py:TestHITS",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_pagerank.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_pagerank.py:TestPageRank",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_pagerank.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/link_analysis/tests/test_pagerank.py:TestPageRankScipy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:resource_allocation_index",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:jaccard_coefficient",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:adamic_adar_index",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:common_neighbor_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:preferential_attachment",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:cn_soundarajan_hopcroft",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:ra_index_soundarajan_hopcroft",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/link_prediction.py:within_inter_cluster",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py:all_pairs_lowest_common_ancestor",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py:lowest_common_ancestor",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/lowest_common_ancestors.py:tree_all_pairs_lowest_common_ancestor",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:maximal_matching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:matching_dict_to_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:is_matching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:is_maximal_matching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:is_perfect_matching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:min_weight_matching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/matching.py:max_weight_matching",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 140,
+    "edgeCount": 117,
+    "nodeTypes": {
+      "file": 23,
+      "class": 42,
+      "function": 75
+    }
+  }
+}

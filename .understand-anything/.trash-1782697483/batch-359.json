@@ -1,0 +1,174 @@
+{
+  "batchIndex": 359,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_ismags.cpython-314.pyc",
+      "type": "file",
+      "name": "test_ismags.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_ismags.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_isomorphism.cpython-314.pyc",
+      "type": "file",
+      "name": "test_isomorphism.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_isomorphism.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_isomorphvf2.cpython-314.pyc",
+      "type": "file",
+      "name": "test_isomorphvf2.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_isomorphvf2.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_match_helpers.cpython-314.pyc",
+      "type": "file",
+      "name": "test_match_helpers.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_match_helpers.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_temporalisomorphvf2.cpython-314.pyc",
+      "type": "file",
+      "name": "test_temporalisomorphvf2.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_temporalisomorphvf2.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_tree_isomorphism.cpython-314.pyc",
+      "type": "file",
+      "name": "test_tree_isomorphism.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_tree_isomorphism.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_vf2pp.cpython-314.pyc",
+      "type": "file",
+      "name": "test_vf2pp.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_vf2pp.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_vf2pp_helpers.cpython-314.pyc",
+      "type": "file",
+      "name": "test_vf2pp_helpers.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_vf2pp_helpers.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_vf2userfunc.cpython-314.pyc",
+      "type": "file",
+      "name": "test_vf2userfunc.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_vf2userfunc.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_ismags.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_ismags.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_isomorphism.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_isomorphism.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_isomorphvf2.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_isomorphvf2.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_match_helpers.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_match_helpers.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_temporalisomorphvf2.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_temporalisomorphvf2.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_tree_isomorphism.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_tree_isomorphism.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_vf2pp.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_vf2pp.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_vf2pp_helpers.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_vf2pp_helpers.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_vf2userfunc.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/isomorphism/tests/__pycache__/test_vf2userfunc.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 10,
+    "edgeCount": 10,
+    "nodeTypes": {
+      "file": 10
+    }
+  }
+}

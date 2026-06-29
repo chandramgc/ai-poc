@@ -1,0 +1,122 @@
+{
+  "batchIndex": 274,
+  "nodes": [
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.controller/OrderController.html",
+      "type": "file",
+      "name": "OrderController",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.controller/OrderController.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.controller/OrderController.java.html",
+      "type": "file",
+      "name": "OrderController.java",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.controller/OrderController.java.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.controller/TimeController.html",
+      "type": "file",
+      "name": "TimeController",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.controller/TimeController.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.controller/TimeController.java.html",
+      "type": "file",
+      "name": "TimeController.java",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.controller/TimeController.java.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.controller/index.html",
+      "type": "file",
+      "name": "index",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.controller/index.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.controller/index.source.html",
+      "type": "file",
+      "name": "index.source",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.controller/index.source.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.controller/OrderController.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.controller/OrderController.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.controller/OrderController.java.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.controller/OrderController.java.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.controller/TimeController.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.controller/TimeController.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.controller/TimeController.java.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.controller/TimeController.java.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.controller/index.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.controller/index.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.controller/index.source.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.controller/index.source.html",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 6,
+    "nodeTypes": {
+      "file": 6
+    }
+  }
+}

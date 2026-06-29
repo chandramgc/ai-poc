@@ -1,0 +1,67 @@
+{
+  "batchIndex": 287,
+  "nodes": [
+    {
+      "id": "file:tmp/clean-test/.gitignore",
+      "type": "file",
+      "name": ".gitignore",
+      "filePath": "tmp/clean-test/.gitignore",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/clean-test/AGENTS.md",
+      "type": "document",
+      "name": "AGENTS",
+      "filePath": "tmp/clean-test/AGENTS.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:AGENTS.md - AI Agent Configura",
+        "section:\ud83c\udf31 Spec Kit (SDD)",
+        "section:\ud83d\udc34 Ponytail",
+        "section:\ud83e\udde0 Graphify",
+        "section:Development Workflow",
+        "section:Key Files",
+        "code_blocks:1"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/clean-test/Makefile",
+      "type": "file",
+      "name": "Makefile",
+      "filePath": "tmp/clean-test/Makefile",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/clean-test/.gitignore",
+      "target": "file:tmp/clean-test/.gitignore",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/clean-test/Makefile",
+      "target": "file:tmp/clean-test/Makefile",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 3,
+    "edgeCount": 2,
+    "nodeTypes": {
+      "file": 2,
+      "document": 1
+    }
+  }
+}

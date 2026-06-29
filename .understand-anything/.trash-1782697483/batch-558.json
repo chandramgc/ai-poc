@@ -1,0 +1,94 @@
+{
+  "batchIndex": 558,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/folds.scm",
+      "type": "file",
+      "name": "folds",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_objc/queries/folds.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/highlights.scm",
+      "type": "file",
+      "name": "highlights",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_objc/queries/highlights.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/indents.scm",
+      "type": "file",
+      "name": "indents",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_objc/queries/indents.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/injections.scm",
+      "type": "file",
+      "name": "injections",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_objc/queries/injections.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/locals.scm",
+      "type": "file",
+      "name": "locals",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_objc/queries/locals.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/folds.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/folds.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/highlights.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/highlights.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/indents.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/indents.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/injections.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/injections.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/locals.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_objc/queries/locals.scm",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

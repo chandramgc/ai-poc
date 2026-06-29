@@ -1,0 +1,648 @@
+{
+  "batchIndex": 634,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/function_base.py",
+      "type": "file",
+      "name": "function_base",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/function_base.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/getlimits.py",
+      "type": "file",
+      "name": "getlimits",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/getlimits.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/multiarray.py",
+      "type": "file",
+      "name": "multiarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/multiarray.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/numeric.py",
+      "type": "file",
+      "name": "numeric",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/numeric.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/numerictypes.py",
+      "type": "file",
+      "name": "numerictypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/numerictypes.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/overrides.py",
+      "type": "file",
+      "name": "overrides",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/overrides.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/records.py",
+      "type": "file",
+      "name": "records",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/records.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/shape_base.py",
+      "type": "file",
+      "name": "shape_base",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/shape_base.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/umath.py",
+      "type": "file",
+      "name": "umath",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/umath.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ctypeslib/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ctypeslib/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ctypeslib/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/__pycache__/_ctypeslib.cpython-314.pyc",
+      "type": "file",
+      "name": "_ctypeslib.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ctypeslib/__pycache__/_ctypeslib.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py",
+      "type": "file",
+      "name": "_ctypeslib",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py:_ndptr",
+      "type": "class",
+      "name": "_ndptr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py",
+      "summary": "Python class _ndptr",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py:_concrete_ndptr",
+      "type": "class",
+      "name": "_concrete_ndptr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py",
+      "summary": "Python class _concrete_ndptr",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py:ndpointer",
+      "type": "function",
+      "name": "ndpointer",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py",
+      "summary": "Python function ndpointer",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.pyi",
+      "type": "file",
+      "name": "_ctypeslib",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/doc/__pycache__/ufuncs.cpython-314.pyc",
+      "type": "file",
+      "name": "ufuncs.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/doc/__pycache__/ufuncs.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/doc/ufuncs.py",
+      "type": "file",
+      "name": "ufuncs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/doc/ufuncs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/dtypes.py",
+      "type": "file",
+      "name": "dtypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/dtypes.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/dtypes.py:register_dlpack_dtype",
+      "type": "function",
+      "name": "register_dlpack_dtype",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/dtypes.py",
+      "summary": "Python function register_dlpack_dtype",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "type": "file",
+      "name": "exceptions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:ComplexWarning",
+      "type": "class",
+      "name": "ComplexWarning",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "summary": "Python class ComplexWarning",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:ModuleDeprecationWarning",
+      "type": "class",
+      "name": "ModuleDeprecationWarning",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "summary": "Python class ModuleDeprecationWarning",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:VisibleDeprecationWarning",
+      "type": "class",
+      "name": "VisibleDeprecationWarning",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "summary": "Python class VisibleDeprecationWarning",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:RankWarning",
+      "type": "class",
+      "name": "RankWarning",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "summary": "Python class RankWarning",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:TooHardError",
+      "type": "class",
+      "name": "TooHardError",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "summary": "Python class TooHardError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:AxisError",
+      "type": "class",
+      "name": "AxisError",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "summary": "Python class AxisError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:DTypePromotionError",
+      "type": "class",
+      "name": "DTypePromotionError",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "summary": "Python class DTypePromotionError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/__init__.py:get_include",
+      "type": "function",
+      "name": "get_include",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/__init__.py",
+      "summary": "Python function get_include",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/__main__.py",
+      "type": "file",
+      "name": "__main__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/__main__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/__version__.py",
+      "type": "file",
+      "name": "__version__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/__version__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_backends/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/_backends/__init__.py:f2py_build_generator",
+      "type": "function",
+      "name": "f2py_build_generator",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_backends/__init__.py",
+      "summary": "Python function f2py_build_generator",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_backend.py",
+      "type": "file",
+      "name": "_backend",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_backends/_backend.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_backend.py:Backend",
+      "type": "class",
+      "name": "Backend",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_backends/_backend.py",
+      "summary": "Python class Backend",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.py",
+      "type": "file",
+      "name": "_meson",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.py:MesonTemplate",
+      "type": "class",
+      "name": "MesonTemplate",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.py",
+      "summary": "Python class MesonTemplate",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.py:MesonBackend",
+      "type": "class",
+      "name": "MesonBackend",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.py",
+      "summary": "Python class MesonBackend",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/__pycache__/_ctypeslib.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/__pycache__/_ctypeslib.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py:_ndptr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py:_concrete_ndptr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.py:ndpointer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/ctypeslib/_ctypeslib.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/doc/__pycache__/ufuncs.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/doc/__pycache__/ufuncs.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/dtypes.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/dtypes.py:register_dlpack_dtype",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:ComplexWarning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:ModuleDeprecationWarning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:VisibleDeprecationWarning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:RankWarning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:TooHardError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:AxisError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/exceptions.py:DTypePromotionError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/__init__.py:get_include",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/_backends/__init__.py:f2py_build_generator",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_backend.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_backend.py:Backend",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.py:MesonTemplate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.py:MesonBackend",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 41,
+    "edgeCount": 21,
+    "nodeTypes": {
+      "file": 25,
+      "class": 12,
+      "function": 4
+    }
+  }
+}

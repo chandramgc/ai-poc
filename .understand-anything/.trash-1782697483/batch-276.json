@@ -1,0 +1,86 @@
+{
+  "batchIndex": 276,
+  "nodes": [
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.exception/GlobalExceptionHandler.html",
+      "type": "file",
+      "name": "GlobalExceptionHandler",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.exception/GlobalExceptionHandler.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.exception/GlobalExceptionHandler.java.html",
+      "type": "file",
+      "name": "GlobalExceptionHandler.java",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.exception/GlobalExceptionHandler.java.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.exception/index.html",
+      "type": "file",
+      "name": "index",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.exception/index.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.exception/index.source.html",
+      "type": "file",
+      "name": "index.source",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.exception/index.source.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.exception/GlobalExceptionHandler.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.exception/GlobalExceptionHandler.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.exception/GlobalExceptionHandler.java.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.exception/GlobalExceptionHandler.java.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.exception/index.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.exception/index.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.exception/index.source.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.exception/index.source.html",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 4,
+    "nodeTypes": {
+      "file": 4
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "batchIndex": 298,
+  "nodes": [
+    {
+      "id": "file:tmp/speckit-test/.gitignore",
+      "type": "file",
+      "name": ".gitignore",
+      "filePath": "tmp/speckit-test/.gitignore",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/AGENTS.md",
+      "type": "document",
+      "name": "AGENTS",
+      "filePath": "tmp/speckit-test/AGENTS.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:AGENTS.md - AI Agent Configura",
+        "section:\ud83c\udf31 Spec Kit (SDD)",
+        "section:\ud83d\udc34 Ponytail",
+        "section:\ud83e\udde0 Graphify",
+        "section:Development Workflow",
+        "section:Key Files",
+        "code_blocks:1"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/Makefile",
+      "type": "file",
+      "name": "Makefile",
+      "filePath": "tmp/speckit-test/Makefile",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/build.gradle",
+      "type": "config",
+      "name": "build",
+      "filePath": "tmp/speckit-test/build.gradle",
+      "summary": "Gradle build configuration",
+      "tags": [
+        "gradle",
+        "config",
+        "build",
+        "plugin:java",
+        "plugin:org.springframework.boot",
+        "plugin:io.spring.dependency-management",
+        "dependencies:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/speckit-test/.gitignore",
+      "target": "file:tmp/speckit-test/.gitignore",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/Makefile",
+      "target": "file:tmp/speckit-test/Makefile",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 2,
+    "nodeTypes": {
+      "file": 2,
+      "document": 1,
+      "config": 1
+    }
+  }
+}

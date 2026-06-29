@@ -1,0 +1,94 @@
+{
+  "batchIndex": 303,
+  "nodes": [
+    {
+      "id": "file:tmp/test-auto-java/.git/COMMIT_EDITMSG",
+      "type": "file",
+      "name": "COMMIT_EDITMSG",
+      "filePath": "tmp/test-auto-java/.git/COMMIT_EDITMSG",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-auto-java/.git/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": "tmp/test-auto-java/.git/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-auto-java/.git/config",
+      "type": "file",
+      "name": "config",
+      "filePath": "tmp/test-auto-java/.git/config",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-auto-java/.git/description",
+      "type": "file",
+      "name": "description",
+      "filePath": "tmp/test-auto-java/.git/description",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-auto-java/.git/index",
+      "type": "file",
+      "name": "index",
+      "filePath": "tmp/test-auto-java/.git/index",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/test-auto-java/.git/COMMIT_EDITMSG",
+      "target": "file:tmp/test-auto-java/.git/COMMIT_EDITMSG",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-auto-java/.git/HEAD",
+      "target": "file:tmp/test-auto-java/.git/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-auto-java/.git/config",
+      "target": "file:tmp/test-auto-java/.git/config",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-auto-java/.git/description",
+      "target": "file:tmp/test-auto-java/.git/description",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-auto-java/.git/index",
+      "target": "file:tmp/test-auto-java/.git/index",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "batchIndex": 283,
+  "nodes": [
+    {
+      "id": "file:scaffold-automation/.graphifyignore",
+      "type": "file",
+      "name": ".graphifyignore",
+      "filePath": "scaffold-automation/.graphifyignore",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/00_START_HERE.md",
+      "type": "document",
+      "name": "00_START_HERE",
+      "filePath": "scaffold-automation/00_START_HERE.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:\u2705 Project Complete: AI-POC Aut",
+        "section:\ud83d\udce6 What Was Created",
+        "section:Core Deliverables",
+        "section:**Total: 1,120+ lines of autom",
+        "section:\ud83c\udfaf Three Integrated Frameworks",
+        "section:1\ufe0f\u20e3 **Spec Kit** (Spec-Driven ",
+        "section:2\ufe0f\u20e3 **Ponytail** (Code Quality",
+        "section:3\ufe0f\u20e3 **Graphify** (Knowledge Gr",
+        "section:\ud83d\ude80 How to Use",
+        "section:Step 1: Create a New Project",
+        "code_blocks:17"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/AGENTS.md",
+      "type": "document",
+      "name": "AGENTS",
+      "filePath": "scaffold-automation/AGENTS.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:AGENTS.md - AI Agent Configura",
+        "section:\ud83c\udf31 Spec Kit (SDD)",
+        "section:\ud83d\udc34 Ponytail",
+        "section:\ud83e\udde0 Graphify",
+        "section:Development Workflow",
+        "section:Key Files",
+        "code_blocks:1"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/EXISTING_PROJECT_SETUP.md",
+      "type": "document",
+      "name": "EXISTING_PROJECT_SETUP",
+      "filePath": "scaffold-automation/EXISTING_PROJECT_SETUP.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Adding Automation to Existing ",
+        "section:\ud83c\udfaf What This Does",
+        "section:\ud83d\ude80 Quick Start",
+        "section:Add Automation to Current Dire",
+        "section:Add Automation to Another Proj",
+        "section:Add Automation from ai-poc Rep",
+        "section:\ud83d\udcc1 What Gets Added",
+        "section:Existing files preserved:",
+        "section:\u2728 Features",
+        "section:\u2705 Non-Destructive",
+        "code_blocks:29"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/EXISTING_PROJECT_UPDATE.md",
+      "type": "document",
+      "name": "EXISTING_PROJECT_UPDATE",
+      "filePath": "scaffold-automation/EXISTING_PROJECT_UPDATE.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:\u2705 Update: Existing Project Sup",
+        "section:\ud83c\udfaf What's New",
+        "section:Two Modes of Operation",
+        "section:Mode 1: Create NEW project",
+        "section:Mode 2: Add automation to EXIS",
+        "section:\ud83d\udccb Key Features",
+        "section:\u2705 Existing Project Mode",
+        "section:\u2705 Smart File Handling",
+        "section:\u2705 Help System",
+        "section:\ud83d\ude80 Usage Examples",
+        "code_blocks:19"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/Makefile",
+      "type": "file",
+      "name": "Makefile",
+      "filePath": "scaffold-automation/Makefile",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/QUICK_REFERENCE.md",
+      "type": "document",
+      "name": "QUICK_REFERENCE",
+      "filePath": "scaffold-automation/QUICK_REFERENCE.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:\ud83d\ude80 Quick Reference - Scaffold A",
+        "section:One-Liner Setup",
+        "section:Essential Commands",
+        "section:Create Project",
+        "section:Run Full Setup",
+        "section:or",
+        "section:Development Workflows",
+        "section:\ud83d\udccb Spec-Driven Development",
+        "section:\ud83e\udde0 Knowledge Graph",
+        "section:\ud83d\udc34 Ponytail (Code Quality)",
+        "code_blocks:10"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/README.md",
+      "type": "document",
+      "name": "README",
+      "filePath": "scaffold-automation/README.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Project with Automation",
+        "section:\ud83c\udf31 Spec Kit (Spec-Driven Develo",
+        "section:Spec Kit Resources",
+        "section:\ud83d\udc34 Ponytail",
+        "section:Ponytail Resources",
+        "section:\ud83e\udde0 Graphify",
+        "section:Graphify Resources",
+        "section:\ud83d\ude80 Quick Start",
+        "section:1. Initialize the project",
+        "section:2. Generate knowledge graph",
+        "code_blocks:11"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/SCAFFOLD_DOCUMENTATION.md",
+      "type": "document",
+      "name": "SCAFFOLD_DOCUMENTATION",
+      "filePath": "scaffold-automation/SCAFFOLD_DOCUMENTATION.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:\ud83c\udfaf AI-POC Automation Scaffold -",
+        "section:What You've Got",
+        "section:1. \ud83c\udf31 **Spec Kit** (Spec-Driven",
+        "section:2. \ud83d\udc34 **Ponytail** (Lazy Code Q",
+        "section:3. \ud83e\udde0 **Graphify** (Knowledge G",
+        "section:\u26a1 Quick Start (< 5 minutes)",
+        "section:Step 1: Create a New Project",
+        "section:Step 2: Run Full Setup",
+        "section:Step 3: Start Your First Featu",
+        "section:Define project principles",
+        "code_blocks:17"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/SCAFFOLD_USAGE.md",
+      "type": "document",
+      "name": "SCAFFOLD_USAGE",
+      "filePath": "scaffold-automation/SCAFFOLD_USAGE.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Scaffold Automation - Complete",
+        "section:Overview",
+        "section:Prerequisites",
+        "section:Check installed tools",
+        "section:Install uv (package manager - ",
+        "section:Quick Start",
+        "section:1. Run the scaffold script",
+        "section:2. Navigate to the project",
+        "section:3. View what was created",
+        "section:or",
+        "code_blocks:39"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/scaffold-20260628_111937.log",
+      "type": "file",
+      "name": "scaffold-20260628_111937",
+      "filePath": "scaffold-automation/scaffold-20260628_111937.log",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:scaffold-automation/.graphifyignore",
+      "target": "file:scaffold-automation/.graphifyignore",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/Makefile",
+      "target": "file:scaffold-automation/Makefile",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/scaffold-20260628_111937.log",
+      "target": "file:scaffold-automation/scaffold-20260628_111937.log",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 11,
+    "edgeCount": 3,
+    "nodeTypes": {
+      "file": 3,
+      "document": 8
+    }
+  }
+}

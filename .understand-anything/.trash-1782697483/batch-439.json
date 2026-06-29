@@ -1,0 +1,110 @@
+{
+  "batchIndex": 439,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/linalg/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/linalg/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/linalg/_linalg.pyi",
+      "type": "file",
+      "name": "_linalg",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/linalg/_linalg.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/linalg/_umath_linalg.cpython-314-darwin.so",
+      "type": "file",
+      "name": "_umath_linalg.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/linalg/_umath_linalg.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/linalg/_umath_linalg.pyi",
+      "type": "file",
+      "name": "_umath_linalg",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/linalg/_umath_linalg.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/linalg/lapack_lite.cpython-314-darwin.so",
+      "type": "file",
+      "name": "lapack_lite.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/linalg/lapack_lite.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/linalg/lapack_lite.pyi",
+      "type": "file",
+      "name": "lapack_lite",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/linalg/lapack_lite.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/linalg/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/linalg/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/linalg/_linalg.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/linalg/_linalg.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/linalg/_umath_linalg.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/linalg/_umath_linalg.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/linalg/_umath_linalg.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/linalg/_umath_linalg.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/linalg/lapack_lite.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/linalg/lapack_lite.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/linalg/lapack_lite.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/linalg/lapack_lite.pyi",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 6,
+    "nodeTypes": {
+      "file": 6
+    }
+  }
+}

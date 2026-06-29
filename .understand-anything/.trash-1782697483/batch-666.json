@@ -1,0 +1,1221 @@
+{
+  "batchIndex": 666,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__pycache__/test_rapidfuzz_packaging.cpython-314.pyc",
+      "type": "file",
+      "name": "test_rapidfuzz_packaging.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__pycache__/test_rapidfuzz_packaging.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/test_rapidfuzz_packaging.py",
+      "type": "file",
+      "name": "test_rapidfuzz_packaging",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/test_rapidfuzz_packaging.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/test_rapidfuzz_packaging.py:test_pyi_hooksample",
+      "type": "function",
+      "name": "test_pyi_hooksample",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/test_rapidfuzz_packaging.py",
+      "summary": "Python function test_pyi_hooksample",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/_common_py.py",
+      "type": "file",
+      "name": "_common_py",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/_common_py.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/_feature_detector.py",
+      "type": "file",
+      "name": "_feature_detector",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/_feature_detector.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/_utils.py",
+      "type": "file",
+      "name": "_utils",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/_utils.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/rapidfuzz/_utils.py:ScorerFlag",
+      "type": "class",
+      "name": "ScorerFlag",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/_utils.py",
+      "summary": "Python class ScorerFlag",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/_utils.py:setupPandas",
+      "type": "function",
+      "name": "setupPandas",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/_utils.py",
+      "summary": "Python function setupPandas",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/_utils.py:add_scorer_attrs",
+      "type": "function",
+      "name": "add_scorer_attrs",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/_utils.py",
+      "summary": "Python function add_scorer_attrs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "type": "file",
+      "name": "_initialize_py",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py:MatchingBlock",
+      "type": "class",
+      "name": "MatchingBlock",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "summary": "Python class MatchingBlock",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py:Editop",
+      "type": "class",
+      "name": "Editop",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "summary": "Python class Editop",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py:Editops",
+      "type": "class",
+      "name": "Editops",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "summary": "Python class Editops",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py:Opcode",
+      "type": "class",
+      "name": "Opcode",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "summary": "Python class Opcode",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py:Opcodes",
+      "type": "class",
+      "name": "Opcodes",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "summary": "Python class Opcodes",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py:ScoreAlignment",
+      "type": "class",
+      "name": "ScoreAlignment",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "summary": "Python class ScoreAlignment",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize.py",
+      "type": "file",
+      "name": "_initialize",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py",
+      "type": "file",
+      "name": "DamerauLevenshtein_py",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py:distance",
+      "type": "function",
+      "name": "distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py",
+      "summary": "Python function distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py:similarity",
+      "type": "function",
+      "name": "similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py",
+      "summary": "Python function similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py:normalized_distance",
+      "type": "function",
+      "name": "normalized_distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py",
+      "summary": "Python function normalized_distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py:normalized_similarity",
+      "type": "function",
+      "name": "normalized_similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py",
+      "summary": "Python function normalized_similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein.py",
+      "type": "file",
+      "name": "DamerauLevenshtein",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "type": "file",
+      "name": "Hamming_py",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py:distance",
+      "type": "function",
+      "name": "distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "summary": "Python function distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py:similarity",
+      "type": "function",
+      "name": "similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "summary": "Python function similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py:normalized_distance",
+      "type": "function",
+      "name": "normalized_distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "summary": "Python function normalized_distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py:normalized_similarity",
+      "type": "function",
+      "name": "normalized_similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "summary": "Python function normalized_similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py:editops",
+      "type": "function",
+      "name": "editops",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "summary": "Python function editops",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py:opcodes",
+      "type": "function",
+      "name": "opcodes",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "summary": "Python function opcodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming.py",
+      "type": "file",
+      "name": "Hamming",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "type": "file",
+      "name": "Indel_py",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py:distance",
+      "type": "function",
+      "name": "distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "summary": "Python function distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py:similarity",
+      "type": "function",
+      "name": "similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "summary": "Python function similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py:normalized_distance",
+      "type": "function",
+      "name": "normalized_distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "summary": "Python function normalized_distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py:normalized_similarity",
+      "type": "function",
+      "name": "normalized_similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "summary": "Python function normalized_similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py:editops",
+      "type": "function",
+      "name": "editops",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "summary": "Python function editops",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py:opcodes",
+      "type": "function",
+      "name": "opcodes",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "summary": "Python function opcodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel.py",
+      "type": "file",
+      "name": "Indel",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py",
+      "type": "file",
+      "name": "Jaro_py",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py:similarity",
+      "type": "function",
+      "name": "similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py",
+      "summary": "Python function similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py:normalized_similarity",
+      "type": "function",
+      "name": "normalized_similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py",
+      "summary": "Python function normalized_similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py:distance",
+      "type": "function",
+      "name": "distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py",
+      "summary": "Python function distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py:normalized_distance",
+      "type": "function",
+      "name": "normalized_distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py",
+      "summary": "Python function normalized_distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro.py",
+      "type": "file",
+      "name": "Jaro",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py",
+      "type": "file",
+      "name": "JaroWinkler_py",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py:similarity",
+      "type": "function",
+      "name": "similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py",
+      "summary": "Python function similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py:normalized_similarity",
+      "type": "function",
+      "name": "normalized_similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py",
+      "summary": "Python function normalized_similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py:distance",
+      "type": "function",
+      "name": "distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py",
+      "summary": "Python function distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py:normalized_distance",
+      "type": "function",
+      "name": "normalized_distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py",
+      "summary": "Python function normalized_distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler.py",
+      "type": "file",
+      "name": "JaroWinkler",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "type": "file",
+      "name": "LCSseq_py",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py:similarity",
+      "type": "function",
+      "name": "similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "summary": "Python function similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py:distance",
+      "type": "function",
+      "name": "distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "summary": "Python function distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py:normalized_distance",
+      "type": "function",
+      "name": "normalized_distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "summary": "Python function normalized_distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py:normalized_similarity",
+      "type": "function",
+      "name": "normalized_similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "summary": "Python function normalized_similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py:editops",
+      "type": "function",
+      "name": "editops",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "summary": "Python function editops",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py:opcodes",
+      "type": "function",
+      "name": "opcodes",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "summary": "Python function opcodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq.py",
+      "type": "file",
+      "name": "LCSseq",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein_py.py",
+      "type": "file",
+      "name": "Levenshtein_py",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein_py.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein_py.py:editops",
+      "type": "function",
+      "name": "editops",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein_py.py",
+      "summary": "Python function editops",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein_py.py:opcodes",
+      "type": "function",
+      "name": "opcodes",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein_py.py",
+      "summary": "Python function opcodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein.py",
+      "type": "file",
+      "name": "Levenshtein",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/metrics_py.py",
+      "type": "file",
+      "name": "metrics_py",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/metrics_py.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:13"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py",
+      "type": "file",
+      "name": "OSA_py",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py:distance",
+      "type": "function",
+      "name": "distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py",
+      "summary": "Python function distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py:similarity",
+      "type": "function",
+      "name": "similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py",
+      "summary": "Python function similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py:normalized_distance",
+      "type": "function",
+      "name": "normalized_distance",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py",
+      "summary": "Python function normalized_distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py:normalized_similarity",
+      "type": "function",
+      "name": "normalized_similarity",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py",
+      "summary": "Python function normalized_similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__pycache__/test_rapidfuzz_packaging.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__pycache__/test_rapidfuzz_packaging.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/test_rapidfuzz_packaging.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/test_rapidfuzz_packaging.py:test_pyi_hooksample",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/_utils.py",
+      "target": "class:venv/lib/python3.14/site-packages/rapidfuzz/_utils.py:ScorerFlag",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/_utils.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/_utils.py:setupPandas",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/_utils.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/_utils.py:add_scorer_attrs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "target": "class:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py:MatchingBlock",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "target": "class:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py:Editop",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "target": "class:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py:Editops",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "target": "class:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py:Opcode",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "target": "class:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py:Opcodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py",
+      "target": "class:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_py.py:ScoreAlignment",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py:distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py:similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py:normalized_distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein_py.py:normalized_similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py:distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py:similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py:normalized_distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py:normalized_similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py:editops",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming_py.py:opcodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py:distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py:similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py:normalized_distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py:normalized_similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py:editops",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel_py.py:opcodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py:similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py:normalized_similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py:distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro_py.py:normalized_distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py:similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py:normalized_similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py:distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler_py.py:normalized_distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py:similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py:distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py:normalized_distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py:normalized_similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py:editops",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq_py.py:opcodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein_py.py:editops",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein_py.py:opcodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py:distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py:similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py:normalized_distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA_py.py:normalized_similarity",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 71,
+    "edgeCount": 48,
+    "nodeTypes": {
+      "file": 25,
+      "function": 39,
+      "class": 7
+    }
+  }
+}

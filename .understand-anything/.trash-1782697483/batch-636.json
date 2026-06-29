@@ -1,0 +1,431 @@
+{
+  "batchIndex": 636,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/f2cmap/isoFortranEnvMap.f90",
+      "type": "file",
+      "name": "isoFortranEnvMap",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/f2cmap/isoFortranEnvMap.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/inplace/foo.f",
+      "type": "file",
+      "name": "foo",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/inplace/foo.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/isocintrin/isoCtests.f90",
+      "type": "file",
+      "name": "isoCtests",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/isocintrin/isoCtests.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/kind/foo.f90",
+      "type": "file",
+      "name": "foo",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/kind/foo.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh25337/data.f90",
+      "type": "file",
+      "name": "data",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh25337/data.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh25337/use_data.f90",
+      "type": "file",
+      "name": "use_data",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh25337/use_data.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh26920/two_mods_with_no_public_entities.f90",
+      "type": "file",
+      "name": "two_mods_with_no_public_entities",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh26920/two_mods_with_no_public_entities.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh26920/two_mods_with_one_public_routine.f90",
+      "type": "file",
+      "name": "two_mods_with_one_public_routine",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh26920/two_mods_with_one_public_routine.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/module_data_docstring.f90",
+      "type": "file",
+      "name": "module_data_docstring",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/module_data_docstring.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/use_modules.f90",
+      "type": "file",
+      "name": "use_modules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/use_modules.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/negative_bounds/issue_20853.f90",
+      "type": "file",
+      "name": "issue_20853",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/negative_bounds/issue_20853.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/quoted_character/foo.f",
+      "type": "file",
+      "name": "foo",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/quoted_character/foo.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_character/foo77.f",
+      "type": "file",
+      "name": "foo77",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_character/foo77.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_character/foo90.f90",
+      "type": "file",
+      "name": "foo90",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_character/foo90.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_complex/foo77.f",
+      "type": "file",
+      "name": "foo77",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_complex/foo77.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_complex/foo90.f90",
+      "type": "file",
+      "name": "foo90",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_complex/foo90.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_integer/foo77.f",
+      "type": "file",
+      "name": "foo77",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_integer/foo77.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_integer/foo90.f90",
+      "type": "file",
+      "name": "foo90",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_integer/foo90.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_logical/foo77.f",
+      "type": "file",
+      "name": "foo77",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_logical/foo77.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_logical/foo90.f90",
+      "type": "file",
+      "name": "foo90",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_logical/foo90.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_real/foo77.f",
+      "type": "file",
+      "name": "foo77",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_real/foo77.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_real/foo90.f90",
+      "type": "file",
+      "name": "foo90",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_real/foo90.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/size/foo.f90",
+      "type": "file",
+      "name": "foo",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/size/foo.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/value_attrspec/gh21665.f90",
+      "type": "file",
+      "name": "gh21665",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/value_attrspec/gh21665.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_abstract_interface.py",
+      "type": "file",
+      "name": "test_abstract_interface",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_abstract_interface.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_abstract_interface.py:TestAbstractInterface",
+      "type": "class",
+      "name": "TestAbstractInterface",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_abstract_interface.py",
+      "summary": "Python class TestAbstractInterface",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/f2cmap/isoFortranEnvMap.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/f2cmap/isoFortranEnvMap.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/inplace/foo.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/inplace/foo.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/isocintrin/isoCtests.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/isocintrin/isoCtests.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/kind/foo.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/kind/foo.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh25337/data.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh25337/data.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh25337/use_data.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh25337/use_data.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh26920/two_mods_with_no_public_entities.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh26920/two_mods_with_no_public_entities.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh26920/two_mods_with_one_public_routine.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh26920/two_mods_with_one_public_routine.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/module_data_docstring.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/module_data_docstring.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/use_modules.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/use_modules.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/negative_bounds/issue_20853.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/negative_bounds/issue_20853.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/quoted_character/foo.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/quoted_character/foo.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_character/foo77.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_character/foo77.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_character/foo90.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_character/foo90.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_complex/foo77.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_complex/foo77.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_complex/foo90.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_complex/foo90.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_integer/foo77.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_integer/foo77.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_integer/foo90.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_integer/foo90.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_logical/foo77.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_logical/foo77.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_logical/foo90.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_logical/foo90.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_real/foo77.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_real/foo77.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_real/foo90.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_real/foo90.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/size/foo.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/size/foo.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/value_attrspec/gh21665.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/value_attrspec/gh21665.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_abstract_interface.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_abstract_interface.py:TestAbstractInterface",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 26,
+    "edgeCount": 25,
+    "nodeTypes": {
+      "file": 25,
+      "class": 1
+    }
+  }
+}

@@ -1,0 +1,3127 @@
+{
+  "batchIndex": 629,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/overrides.py",
+      "type": "file",
+      "name": "overrides",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/overrides.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/overrides.py:get_array_function_like_doc",
+      "type": "function",
+      "name": "get_array_function_like_doc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/overrides.py",
+      "summary": "Python function get_array_function_like_doc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/overrides.py:finalize_array_function_like",
+      "type": "function",
+      "name": "finalize_array_function_like",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/overrides.py",
+      "summary": "Python function finalize_array_function_like",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/overrides.py:verify_matching_signatures",
+      "type": "function",
+      "name": "verify_matching_signatures",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/overrides.py",
+      "summary": "Python function verify_matching_signatures",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/overrides.py:array_function_dispatch",
+      "type": "function",
+      "name": "array_function_dispatch",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/overrides.py",
+      "summary": "Python function array_function_dispatch",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/overrides.py:array_function_from_dispatcher",
+      "type": "function",
+      "name": "array_function_from_dispatcher",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/overrides.py",
+      "summary": "Python function array_function_from_dispatcher",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/printoptions.py",
+      "type": "file",
+      "name": "printoptions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/printoptions.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "type": "file",
+      "name": "records",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/records.py:format_parser",
+      "type": "class",
+      "name": "format_parser",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "summary": "Python class format_parser",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/records.py:record",
+      "type": "class",
+      "name": "record",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "summary": "Python class record",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/records.py:recarray",
+      "type": "class",
+      "name": "recarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "summary": "Python class recarray",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:find_duplicate",
+      "type": "function",
+      "name": "find_duplicate",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "summary": "Python function find_duplicate",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:fromarrays",
+      "type": "function",
+      "name": "fromarrays",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "summary": "Python function fromarrays",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:fromrecords",
+      "type": "function",
+      "name": "fromrecords",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "summary": "Python function fromrecords",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:fromstring",
+      "type": "function",
+      "name": "fromstring",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "summary": "Python function fromstring",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:get_remaining_size",
+      "type": "function",
+      "name": "get_remaining_size",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "summary": "Python function get_remaining_size",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:fromfile",
+      "type": "function",
+      "name": "fromfile",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "summary": "Python function fromfile",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:array",
+      "type": "function",
+      "name": "array",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "summary": "Python function array",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "type": "file",
+      "name": "shape_base",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:atleast_1d",
+      "type": "function",
+      "name": "atleast_1d",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "summary": "Python function atleast_1d",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:atleast_2d",
+      "type": "function",
+      "name": "atleast_2d",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "summary": "Python function atleast_2d",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:atleast_3d",
+      "type": "function",
+      "name": "atleast_3d",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "summary": "Python function atleast_3d",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:vstack",
+      "type": "function",
+      "name": "vstack",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "summary": "Python function vstack",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:hstack",
+      "type": "function",
+      "name": "hstack",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "summary": "Python function hstack",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:stack",
+      "type": "function",
+      "name": "stack",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "summary": "Python function stack",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:unstack",
+      "type": "function",
+      "name": "unstack",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "summary": "Python function unstack",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:block",
+      "type": "function",
+      "name": "block",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "summary": "Python function block",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "type": "file",
+      "name": "strings",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:multiply",
+      "type": "function",
+      "name": "multiply",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function multiply",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:mod",
+      "type": "function",
+      "name": "mod",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function mod",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:find",
+      "type": "function",
+      "name": "find",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function find",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:rfind",
+      "type": "function",
+      "name": "rfind",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function rfind",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:index",
+      "type": "function",
+      "name": "index",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function index",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:rindex",
+      "type": "function",
+      "name": "rindex",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function rindex",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:count",
+      "type": "function",
+      "name": "count",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function count",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:startswith",
+      "type": "function",
+      "name": "startswith",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function startswith",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:endswith",
+      "type": "function",
+      "name": "endswith",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function endswith",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:decode",
+      "type": "function",
+      "name": "decode",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function decode",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:encode",
+      "type": "function",
+      "name": "encode",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function encode",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:expandtabs",
+      "type": "function",
+      "name": "expandtabs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function expandtabs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:center",
+      "type": "function",
+      "name": "center",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function center",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:ljust",
+      "type": "function",
+      "name": "ljust",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function ljust",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:rjust",
+      "type": "function",
+      "name": "rjust",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function rjust",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:zfill",
+      "type": "function",
+      "name": "zfill",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function zfill",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:lstrip",
+      "type": "function",
+      "name": "lstrip",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function lstrip",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:rstrip",
+      "type": "function",
+      "name": "rstrip",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function rstrip",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:strip",
+      "type": "function",
+      "name": "strip",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function strip",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:upper",
+      "type": "function",
+      "name": "upper",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function upper",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:lower",
+      "type": "function",
+      "name": "lower",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function lower",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:swapcase",
+      "type": "function",
+      "name": "swapcase",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function swapcase",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:capitalize",
+      "type": "function",
+      "name": "capitalize",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function capitalize",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:title",
+      "type": "function",
+      "name": "title",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function title",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:replace",
+      "type": "function",
+      "name": "replace",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function replace",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:partition",
+      "type": "function",
+      "name": "partition",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:rpartition",
+      "type": "function",
+      "name": "rpartition",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function rpartition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:translate",
+      "type": "function",
+      "name": "translate",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function translate",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:slice",
+      "type": "function",
+      "name": "slice",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "summary": "Python function slice",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/_locales.py",
+      "type": "file",
+      "name": "_locales",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/_locales.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/_locales.py:CommaDecimalPointLocale",
+      "type": "class",
+      "name": "CommaDecimalPointLocale",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/_locales.py",
+      "summary": "Python class CommaDecimalPointLocale",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/_locales.py:find_comma_decimal_point_locale",
+      "type": "function",
+      "name": "find_comma_decimal_point_locale",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/_locales.py",
+      "summary": "Python function find_comma_decimal_point_locale",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/_natype.py",
+      "type": "file",
+      "name": "_natype",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/_natype.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/_natype.py:NAType",
+      "type": "class",
+      "name": "NAType",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/_natype.py",
+      "summary": "Python class NAType",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/__pycache__/setup.cpython-314.pyc",
+      "type": "file",
+      "name": "setup.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/__pycache__/setup.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/checks.pyx",
+      "type": "file",
+      "name": "checks",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/checks.pyx",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/meson.build",
+      "type": "file",
+      "name": "meson",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/meson.build",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/setup.py",
+      "type": "file",
+      "name": "setup",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/setup.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/limited_api/__pycache__/setup.cpython-314.pyc",
+      "type": "file",
+      "name": "setup.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/examples/limited_api/__pycache__/setup.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/limited_api/setup.py",
+      "type": "file",
+      "name": "setup",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/examples/limited_api/setup.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py",
+      "type": "file",
+      "name": "test__exceptions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py:TestArrayMemoryError",
+      "type": "class",
+      "name": "TestArrayMemoryError",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py",
+      "summary": "Python class TestArrayMemoryError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py:TestUFuncNoLoopError",
+      "type": "class",
+      "name": "TestUFuncNoLoopError",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py",
+      "summary": "Python class TestUFuncNoLoopError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py:TestAxisError",
+      "type": "class",
+      "name": "TestAxisError",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py",
+      "summary": "Python class TestAxisError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_abc.py",
+      "type": "file",
+      "name": "test_abc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_abc.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_abc.py:TestABC",
+      "type": "class",
+      "name": "TestABC",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_abc.py",
+      "summary": "Python class TestABC",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "type": "file",
+      "name": "test_api",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_array_array",
+      "type": "function",
+      "name": "test_array_array",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_array_array",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test___array___refcount",
+      "type": "function",
+      "name": "test___array___refcount",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test___array___refcount",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_array_impossible_casts",
+      "type": "function",
+      "name": "test_array_impossible_casts",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_array_impossible_casts",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_array_astype",
+      "type": "function",
+      "name": "test_array_astype",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_array_astype",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_array_astype_to_string_discovery_empty",
+      "type": "function",
+      "name": "test_array_astype_to_string_discovery_empty",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_array_astype_to_string_discovery_empty",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_array_astype_to_void",
+      "type": "function",
+      "name": "test_array_astype_to_void",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_array_astype_to_void",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_object_array_astype_to_void",
+      "type": "function",
+      "name": "test_object_array_astype_to_void",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_object_array_astype_to_void",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_array_astype_warning",
+      "type": "function",
+      "name": "test_array_astype_warning",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_array_astype_warning",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_string_to_boolean_cast",
+      "type": "function",
+      "name": "test_string_to_boolean_cast",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_string_to_boolean_cast",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_string_to_complex_cast",
+      "type": "function",
+      "name": "test_string_to_complex_cast",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_string_to_complex_cast",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_none_to_nan_cast",
+      "type": "function",
+      "name": "test_none_to_nan_cast",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_none_to_nan_cast",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_copyto_fromscalar",
+      "type": "function",
+      "name": "test_copyto_fromscalar",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_copyto_fromscalar",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_copyto",
+      "type": "function",
+      "name": "test_copyto",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_copyto",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_copyto_cast_safety",
+      "type": "function",
+      "name": "test_copyto_cast_safety",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_copyto_cast_safety",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_copyto_permute",
+      "type": "function",
+      "name": "test_copyto_permute",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_copyto_permute",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_copy_order",
+      "type": "function",
+      "name": "test_copy_order",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_copy_order",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_contiguous_flags",
+      "type": "function",
+      "name": "test_contiguous_flags",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_contiguous_flags",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_broadcast_arrays",
+      "type": "function",
+      "name": "test_broadcast_arrays",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_broadcast_arrays",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_full_from_list",
+      "type": "function",
+      "name": "test_full_from_list",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_full_from_list",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_astype_copyflag",
+      "type": "function",
+      "name": "test_astype_copyflag",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "summary": "Python function test_astype_copyflag",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "type": "file",
+      "name": "test_argparse",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_thread_safe_argparse_cache",
+      "type": "function",
+      "name": "test_thread_safe_argparse_cache",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "summary": "Python function test_thread_safe_argparse_cache",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_invalid_integers",
+      "type": "function",
+      "name": "test_invalid_integers",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "summary": "Python function test_invalid_integers",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_missing_arguments",
+      "type": "function",
+      "name": "test_missing_arguments",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "summary": "Python function test_missing_arguments",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_too_many_positional",
+      "type": "function",
+      "name": "test_too_many_positional",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "summary": "Python function test_too_many_positional",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_multiple_values",
+      "type": "function",
+      "name": "test_multiple_values",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "summary": "Python function test_multiple_values",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_string_fallbacks",
+      "type": "function",
+      "name": "test_string_fallbacks",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "summary": "Python function test_string_fallbacks",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_too_many_arguments_method_forwarding",
+      "type": "function",
+      "name": "test_too_many_arguments_method_forwarding",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "summary": "Python function test_too_many_arguments_method_forwarding",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "type": "file",
+      "name": "test_array_api_info",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_capabilities",
+      "type": "function",
+      "name": "test_capabilities",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "summary": "Python function test_capabilities",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_default_device",
+      "type": "function",
+      "name": "test_default_device",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "summary": "Python function test_default_device",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_default_dtypes",
+      "type": "function",
+      "name": "test_default_dtypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "summary": "Python function test_default_dtypes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_dtypes_all",
+      "type": "function",
+      "name": "test_dtypes_all",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "summary": "Python function test_dtypes_all",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_dtypes_kind",
+      "type": "function",
+      "name": "test_dtypes_kind",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "summary": "Python function test_dtypes_kind",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_dtypes_tuple",
+      "type": "function",
+      "name": "test_dtypes_tuple",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "summary": "Python function test_dtypes_tuple",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_dtypes_invalid_kind",
+      "type": "function",
+      "name": "test_dtypes_invalid_kind",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "summary": "Python function test_dtypes_invalid_kind",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_dtypes_invalid_device",
+      "type": "function",
+      "name": "test_dtypes_invalid_device",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "summary": "Python function test_dtypes_invalid_device",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_devices",
+      "type": "function",
+      "name": "test_devices",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "summary": "Python function test_devices",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "type": "file",
+      "name": "test_array_coercion",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestStringDiscovery",
+      "type": "class",
+      "name": "TestStringDiscovery",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python class TestStringDiscovery",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestScalarDiscovery",
+      "type": "class",
+      "name": "TestScalarDiscovery",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python class TestScalarDiscovery",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestTimeScalars",
+      "type": "class",
+      "name": "TestTimeScalars",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python class TestTimeScalars",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestNested",
+      "type": "class",
+      "name": "TestNested",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python class TestNested",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestBadSequences",
+      "type": "class",
+      "name": "TestBadSequences",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python class TestBadSequences",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestArrayLikes",
+      "type": "class",
+      "name": "TestArrayLikes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python class TestArrayLikes",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestAsArray",
+      "type": "class",
+      "name": "TestAsArray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python class TestAsArray",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestSpecialAttributeLookupFailure",
+      "type": "class",
+      "name": "TestSpecialAttributeLookupFailure",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python class TestSpecialAttributeLookupFailure",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:arraylikes",
+      "type": "function",
+      "name": "arraylikes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python function arraylikes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:scalar_instances",
+      "type": "function",
+      "name": "scalar_instances",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python function scalar_instances",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:is_parametric_dtype",
+      "type": "function",
+      "name": "is_parametric_dtype",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python function is_parametric_dtype",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:test_subarray_from_array_construction",
+      "type": "function",
+      "name": "test_subarray_from_array_construction",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python function test_subarray_from_array_construction",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:test_empty_string",
+      "type": "function",
+      "name": "test_empty_string",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python function test_empty_string",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:test_string_to_float_coercion_errors",
+      "type": "function",
+      "name": "test_string_to_float_coercion_errors",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "summary": "Python function test_string_to_float_coercion_errors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_interface.py",
+      "type": "file",
+      "name": "test_array_interface",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_interface.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_interface.py:get_module",
+      "type": "function",
+      "name": "get_module",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_interface.py",
+      "summary": "Python function get_module",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_interface.py:test_cstruct",
+      "type": "function",
+      "name": "test_cstruct",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_interface.py",
+      "summary": "Python function test_cstruct",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py",
+      "type": "file",
+      "name": "test_arraymethod",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py:TestResolveDescriptors",
+      "type": "class",
+      "name": "TestResolveDescriptors",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py",
+      "summary": "Python class TestResolveDescriptors",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py:TestSimpleStridedCall",
+      "type": "class",
+      "name": "TestSimpleStridedCall",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py",
+      "summary": "Python class TestSimpleStridedCall",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py:TestClassGetItem",
+      "type": "class",
+      "name": "TestClassGetItem",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py",
+      "summary": "Python class TestClassGetItem",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "type": "file",
+      "name": "test_arrayobject",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:MyArr",
+      "type": "class",
+      "name": "MyArr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "summary": "Python class MyArr",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:MyArrNoWrap",
+      "type": "class",
+      "name": "MyArrNoWrap",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "summary": "Python class MyArrNoWrap",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_matrix_transpose_raises_error_for_1d",
+      "type": "function",
+      "name": "test_matrix_transpose_raises_error_for_1d",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "summary": "Python function test_matrix_transpose_raises_error_for_1d",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_matrix_transpose_equals_transpose_2d",
+      "type": "function",
+      "name": "test_matrix_transpose_equals_transpose_2d",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "summary": "Python function test_matrix_transpose_equals_transpose_2d",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_matrix_transpose_equals_swapaxes",
+      "type": "function",
+      "name": "test_matrix_transpose_equals_swapaxes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "summary": "Python function test_matrix_transpose_equals_swapaxes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_array_wrap",
+      "type": "function",
+      "name": "test_array_wrap",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "summary": "Python function test_array_wrap",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_cleanup_with_refs_non_contig",
+      "type": "function",
+      "name": "test_cleanup_with_refs_non_contig",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "summary": "Python function test_cleanup_with_refs_non_contig",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_real_imag_attributes_non_complex",
+      "type": "function",
+      "name": "test_real_imag_attributes_non_complex",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "summary": "Python function test_real_imag_attributes_non_complex",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_real_imag_attributes_complex",
+      "type": "function",
+      "name": "test_real_imag_attributes_complex",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "summary": "Python function test_real_imag_attributes_complex",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_real_imag_attributes_object",
+      "type": "function",
+      "name": "test_real_imag_attributes_object",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "summary": "Python function test_real_imag_attributes_object",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_real_imag_ufunc_minimal",
+      "type": "function",
+      "name": "test_real_imag_ufunc_minimal",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "summary": "Python function test_real_imag_ufunc_minimal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "type": "file",
+      "name": "test_arrayprint",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:TestArrayRepr",
+      "type": "class",
+      "name": "TestArrayRepr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python class TestArrayRepr",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:TestComplexArray",
+      "type": "class",
+      "name": "TestComplexArray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python class TestComplexArray",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:TestArray2String",
+      "type": "class",
+      "name": "TestArray2String",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python class TestArray2String",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:TestPrintOptions",
+      "type": "class",
+      "name": "TestPrintOptions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python class TestPrintOptions",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:TestContextManager",
+      "type": "class",
+      "name": "TestContextManager",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python class TestContextManager",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_unicode_object_array",
+      "type": "function",
+      "name": "test_unicode_object_array",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python function test_unicode_object_array",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_scalar_repr_numbers",
+      "type": "function",
+      "name": "test_scalar_repr_numbers",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python function test_scalar_repr_numbers",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_scalar_repr_special",
+      "type": "function",
+      "name": "test_scalar_repr_special",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python function test_scalar_repr_special",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_scalar_void_float_str",
+      "type": "function",
+      "name": "test_scalar_void_float_str",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python function test_scalar_void_float_str",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_printoptions_asyncio_safe",
+      "type": "function",
+      "name": "test_printoptions_asyncio_safe",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python function test_printoptions_asyncio_safe",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_multithreaded_array_printing",
+      "type": "function",
+      "name": "test_multithreaded_array_printing",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python function test_multithreaded_array_printing",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_user_defined_floating_dtype_printing_does_not_corrupt_precision",
+      "type": "function",
+      "name": "test_user_defined_floating_dtype_printing_does_not_corrupt_precision",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python function test_user_defined_floating_dtype_printing_does_not_corrupt_precision",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_array_dtype_short_repr",
+      "type": "function",
+      "name": "test_array_dtype_short_repr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "summary": "Python function test_array_dtype_short_repr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py",
+      "type": "file",
+      "name": "test_casting_floatingpoint_errors",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py:values_and_dtypes",
+      "type": "function",
+      "name": "values_and_dtypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py",
+      "summary": "Python function values_and_dtypes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py:check_operations",
+      "type": "function",
+      "name": "check_operations",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py",
+      "summary": "Python function check_operations",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py:test_floatingpoint_errors_casting",
+      "type": "function",
+      "name": "test_floatingpoint_errors_casting",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py",
+      "summary": "Python function test_floatingpoint_errors_casting",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py",
+      "type": "file",
+      "name": "test_casting_unittests",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py:Casting",
+      "type": "class",
+      "name": "Casting",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py",
+      "summary": "Python class Casting",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py:TestChanges",
+      "type": "class",
+      "name": "TestChanges",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py",
+      "summary": "Python class TestChanges",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py:TestCasting",
+      "type": "class",
+      "name": "TestCasting",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py",
+      "summary": "Python class TestCasting",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py:simple_dtype_instances",
+      "type": "function",
+      "name": "simple_dtype_instances",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py",
+      "summary": "Python function simple_dtype_instances",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py:get_expected_stringlength",
+      "type": "function",
+      "name": "get_expected_stringlength",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py",
+      "summary": "Python function get_expected_stringlength",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/overrides.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/overrides.py:get_array_function_like_doc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/overrides.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/overrides.py:finalize_array_function_like",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/overrides.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/overrides.py:verify_matching_signatures",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/overrides.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/overrides.py:array_function_dispatch",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/overrides.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/overrides.py:array_function_from_dispatcher",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/records.py:format_parser",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/records.py:record",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/records.py:recarray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:find_duplicate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:fromarrays",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:fromrecords",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:fromstring",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:get_remaining_size",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:fromfile",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/records.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/records.py:array",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:atleast_1d",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:atleast_2d",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:atleast_3d",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:vstack",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:hstack",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:stack",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:unstack",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/shape_base.py:block",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:multiply",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:mod",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:find",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:rfind",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:index",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:rindex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:count",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:startswith",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:endswith",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:decode",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:encode",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:expandtabs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:center",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:ljust",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:rjust",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:zfill",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:lstrip",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:rstrip",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:strip",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:upper",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:lower",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:swapcase",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:capitalize",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:title",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:replace",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:rpartition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:translate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/strings.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/strings.py:slice",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/_locales.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/_locales.py:CommaDecimalPointLocale",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/_locales.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/_locales.py:find_comma_decimal_point_locale",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/_natype.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/_natype.py:NAType",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/__pycache__/setup.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/__pycache__/setup.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/checks.pyx",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/checks.pyx",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/meson.build",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/cython/meson.build",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/limited_api/__pycache__/setup.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/examples/limited_api/__pycache__/setup.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py:TestArrayMemoryError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py:TestUFuncNoLoopError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test__exceptions.py:TestAxisError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_abc.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_abc.py:TestABC",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_array_array",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test___array___refcount",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_array_impossible_casts",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_array_astype",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_array_astype_to_string_discovery_empty",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_array_astype_to_void",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_object_array_astype_to_void",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_array_astype_warning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_string_to_boolean_cast",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_string_to_complex_cast",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_none_to_nan_cast",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_copyto_fromscalar",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_copyto",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_copyto_cast_safety",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_copyto_permute",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_copy_order",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_contiguous_flags",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_broadcast_arrays",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_full_from_list",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_api.py:test_astype_copyflag",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_thread_safe_argparse_cache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_invalid_integers",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_missing_arguments",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_too_many_positional",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_multiple_values",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_string_fallbacks",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_argparse.py:test_too_many_arguments_method_forwarding",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_capabilities",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_default_device",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_default_dtypes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_dtypes_all",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_dtypes_kind",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_dtypes_tuple",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_dtypes_invalid_kind",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_dtypes_invalid_device",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_api_info.py:test_devices",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestStringDiscovery",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestScalarDiscovery",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestTimeScalars",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestNested",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestBadSequences",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestArrayLikes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestAsArray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:TestSpecialAttributeLookupFailure",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:arraylikes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:scalar_instances",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:is_parametric_dtype",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:test_subarray_from_array_construction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:test_empty_string",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_coercion.py:test_string_to_float_coercion_errors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_interface.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_interface.py:get_module",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_interface.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_array_interface.py:test_cstruct",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py:TestResolveDescriptors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py:TestSimpleStridedCall",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arraymethod.py:TestClassGetItem",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:MyArr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:MyArrNoWrap",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_matrix_transpose_raises_error_for_1d",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_matrix_transpose_equals_transpose_2d",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_matrix_transpose_equals_swapaxes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_array_wrap",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_cleanup_with_refs_non_contig",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_real_imag_attributes_non_complex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_real_imag_attributes_complex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_real_imag_attributes_object",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayobject.py:test_real_imag_ufunc_minimal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:TestArrayRepr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:TestComplexArray",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:TestArray2String",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:TestPrintOptions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:TestContextManager",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_unicode_object_array",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_scalar_repr_numbers",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_scalar_repr_special",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_scalar_void_float_str",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_printoptions_asyncio_safe",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_multithreaded_array_printing",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_user_defined_floating_dtype_printing_does_not_corrupt_precision",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_arrayprint.py:test_array_dtype_short_repr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py:values_and_dtypes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py:check_operations",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py:test_floatingpoint_errors_casting",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py:Casting",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py:TestChanges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py:TestCasting",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py:simple_dtype_instances",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_core/tests/test_casting_unittests.py:get_expected_stringlength",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 171,
+    "edgeCount": 150,
+    "nodeTypes": {
+      "file": 25,
+      "function": 116,
+      "class": 30
+    }
+  }
+}

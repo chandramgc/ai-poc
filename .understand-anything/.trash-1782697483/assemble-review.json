@@ -1,0 +1,74 @@
+{
+  "validationStatus": "warning",
+  "timestamp": "2026-06-29T01:39:50.807055Z",
+  "summary": {
+    "totalNodes": 15868,
+    "totalEdges": 14345,
+    "nodeTypeDistribution": {
+      "file": 7859,
+      "class": 2587,
+      "function": 5110,
+      "interface": 1,
+      "document": 258,
+      "config": 53
+    },
+    "edgeTypeDistribution": {
+      "contains": 7698,
+      "imports": 10,
+      "calls": 3,
+      "self": 6385,
+      "tested_by": 249
+    }
+  },
+  "issues": [
+    {
+      "severity": "warning",
+      "category": "orphan_nodes",
+      "count": 632,
+      "examples": [
+        "file:AGENTS.md",
+        "file:README.md",
+        "file:build.gradle",
+        "file:checkstyle.xml",
+        "file:settings.gradle",
+        "file:.github/agents/speckit.agent-context.update.agent.md",
+        "file:.github/agents/speckit.analyze.agent.md",
+        "file:.github/agents/speckit.checklist.agent.md",
+        "file:.github/agents/speckit.clarify.agent.md",
+        "file:.github/agents/speckit.constitution.agent.md"
+      ],
+      "recommendation": "Orphan nodes with no edges may indicate incomplete extraction or isolated components. Review and consider removing if not intentional."
+    },
+    {
+      "severity": "info",
+      "category": "high_complexity_nodes",
+      "count": 4,
+      "examples": [
+        [
+          "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_multiarray.py",
+          122
+        ],
+        [
+          "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_nditer.py",
+          111
+        ],
+        [
+          "file:venv/lib/python3.14/site-packages/numpy/_core/tests/test_stringdtype.py",
+          102
+        ],
+        [
+          "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.py",
+          116
+        ]
+      ],
+      "recommendation": "Highly connected nodes may represent important hub components. Review for potential factoring or role specialization."
+    }
+  ],
+  "qualityMetrics": {
+    "graphDensity": 6e-05,
+    "avgEdgesPerNode": 0.9,
+    "connectedComponentCount": 7917,
+    "orphanNodeCount": 632
+  },
+  "notes": "\nGraph Review Summary:\n- Total nodes: 15868\n- Total edges: 14345\n- Orphan nodes: 632 (4.0% of nodes)\n- Dangling edges: 0\n- Schema violations: 0\n- Duplicate IDs: 0\n- Nodes with high complexity (>100 edges): 4\n- Node types: 6 distinct types\n- Edge types: 5 distinct types\n- Graph connectivity: 7917 components\n- Average edges per node: 0.90\n\nValidation Status: WARNING\n"
+}

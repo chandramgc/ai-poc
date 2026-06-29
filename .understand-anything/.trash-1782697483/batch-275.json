@@ -1,0 +1,158 @@
+{
+  "batchIndex": 275,
+  "nodes": [
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.dto/OrderRequest.html",
+      "type": "file",
+      "name": "OrderRequest",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.dto/OrderRequest.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.dto/OrderRequest.java.html",
+      "type": "file",
+      "name": "OrderRequest.java",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.dto/OrderRequest.java.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.dto/OrderResponse.html",
+      "type": "file",
+      "name": "OrderResponse",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.dto/OrderResponse.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.dto/OrderResponse.java.html",
+      "type": "file",
+      "name": "OrderResponse.java",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.dto/OrderResponse.java.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.dto/TimeResponse.html",
+      "type": "file",
+      "name": "TimeResponse",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.dto/TimeResponse.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.dto/TimeResponse.java.html",
+      "type": "file",
+      "name": "TimeResponse.java",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.dto/TimeResponse.java.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.dto/index.html",
+      "type": "file",
+      "name": "index",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.dto/index.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/jacoco/test/html/com.aipoc.dto/index.source.html",
+      "type": "file",
+      "name": "index.source",
+      "filePath": "build/reports/jacoco/test/html/com.aipoc.dto/index.source.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.dto/OrderRequest.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.dto/OrderRequest.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.dto/OrderRequest.java.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.dto/OrderRequest.java.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.dto/OrderResponse.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.dto/OrderResponse.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.dto/OrderResponse.java.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.dto/OrderResponse.java.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.dto/TimeResponse.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.dto/TimeResponse.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.dto/TimeResponse.java.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.dto/TimeResponse.java.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.dto/index.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.dto/index.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/jacoco/test/html/com.aipoc.dto/index.source.html",
+      "target": "file:build/reports/jacoco/test/html/com.aipoc.dto/index.source.html",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 8,
+    "edgeCount": 8,
+    "nodeTypes": {
+      "file": 8
+    }
+  }
+}

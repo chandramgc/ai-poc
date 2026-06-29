@@ -1,0 +1,124 @@
+{
+  "batchIndex": 272,
+  "nodes": [
+    {
+      "id": "file:.specify/templates/checklist-template.md",
+      "type": "document",
+      "name": "checklist-template",
+      "filePath": ".specify/templates/checklist-template.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:[CHECKLIST TYPE] Checklist: [F",
+        "section:[Category 1]",
+        "section:[Category 2]",
+        "section:Notes"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/templates/constitution-template.md",
+      "type": "document",
+      "name": "constitution-template",
+      "filePath": ".specify/templates/constitution-template.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:[PROJECT_NAME] Constitution",
+        "section:Core Principles",
+        "section:[PRINCIPLE_1_NAME]",
+        "section:[PRINCIPLE_2_NAME]",
+        "section:[PRINCIPLE_3_NAME]",
+        "section:[PRINCIPLE_4_NAME]",
+        "section:[PRINCIPLE_5_NAME]",
+        "section:[SECTION_2_NAME]",
+        "section:[SECTION_3_NAME]",
+        "section:Governance"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/templates/plan-template.md",
+      "type": "document",
+      "name": "plan-template",
+      "filePath": ".specify/templates/plan-template.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Implementation Plan: [FEATURE]",
+        "section:Summary",
+        "section:Technical Context",
+        "section:Constitution Check",
+        "section:Project Structure",
+        "section:Documentation (this feature)",
+        "section:Source Code (repository root)",
+        "section:[REMOVE IF UNUSED] Option 1: S",
+        "section:[REMOVE IF UNUSED] Option 2: W",
+        "section:[REMOVE IF UNUSED] Option 3: M",
+        "code_blocks:2"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/templates/spec-template.md",
+      "type": "document",
+      "name": "spec-template",
+      "filePath": ".specify/templates/spec-template.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Feature Specification: [FEATUR",
+        "section:User Scenarios & Testing *(man",
+        "section:User Story 1 - [Brief Title] (",
+        "section:User Story 2 - [Brief Title] (",
+        "section:User Story 3 - [Brief Title] (",
+        "section:Edge Cases",
+        "section:Requirements *(mandatory)*",
+        "section:Functional Requirements",
+        "section:Key Entities *(include if feat",
+        "section:Success Criteria *(mandatory)*"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/templates/tasks-template.md",
+      "type": "document",
+      "name": "tasks-template",
+      "filePath": ".specify/templates/tasks-template.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Tasks: [FEATURE NAME]",
+        "section:Format: `[ID] [P?] [Story] Des",
+        "section:Path Conventions",
+        "section:Phase 1: Setup (Shared Infrast",
+        "section:Phase 2: Foundational (Blockin",
+        "section:Phase 3: User Story 1 - [Title",
+        "section:Tests for User Story 1 (OPTION",
+        "section:Implementation for User Story ",
+        "section:Phase 4: User Story 2 - [Title",
+        "section:Tests for User Story 2 (OPTION",
+        "code_blocks:1"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 0,
+    "nodeTypes": {
+      "document": 5
+    }
+  }
+}

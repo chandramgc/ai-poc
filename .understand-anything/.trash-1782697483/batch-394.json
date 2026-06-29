@@ -1,0 +1,334 @@
+{
+  "batchIndex": 394,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_add_newdocs.pyi",
+      "type": "file",
+      "name": "_add_newdocs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_add_newdocs.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_add_newdocs_scalars.pyi",
+      "type": "file",
+      "name": "_add_newdocs_scalars",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_add_newdocs_scalars.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_asarray.pyi",
+      "type": "file",
+      "name": "_asarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_asarray.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_dtype.pyi",
+      "type": "file",
+      "name": "_dtype",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_dtype.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_dtype_ctypes.pyi",
+      "type": "file",
+      "name": "_dtype_ctypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_dtype_ctypes.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_exceptions.pyi",
+      "type": "file",
+      "name": "_exceptions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_exceptions.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_internal.pyi",
+      "type": "file",
+      "name": "_internal",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_internal.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_methods.pyi",
+      "type": "file",
+      "name": "_methods",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_methods.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_multiarray_tests.cpython-314-darwin.so",
+      "type": "file",
+      "name": "_multiarray_tests.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_multiarray_tests.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_multiarray_umath.cpython-314-darwin.so",
+      "type": "file",
+      "name": "_multiarray_umath.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_multiarray_umath.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_operand_flag_tests.cpython-314-darwin.so",
+      "type": "file",
+      "name": "_operand_flag_tests.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_operand_flag_tests.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_rational_tests.cpython-314-darwin.so",
+      "type": "file",
+      "name": "_rational_tests.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_rational_tests.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_simd.cpython-314-darwin.so",
+      "type": "file",
+      "name": "_simd.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_simd.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_simd.pyi",
+      "type": "file",
+      "name": "_simd",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_simd.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_string_helpers.pyi",
+      "type": "file",
+      "name": "_string_helpers",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_string_helpers.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_struct_ufunc_tests.cpython-314-darwin.so",
+      "type": "file",
+      "name": "_struct_ufunc_tests.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_struct_ufunc_tests.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_type_aliases.pyi",
+      "type": "file",
+      "name": "_type_aliases",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_type_aliases.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_ufunc_config.pyi",
+      "type": "file",
+      "name": "_ufunc_config",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_ufunc_config.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/_umath_tests.cpython-314-darwin.so",
+      "type": "file",
+      "name": "_umath_tests.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/_umath_tests.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_add_newdocs.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_add_newdocs.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_add_newdocs_scalars.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_add_newdocs_scalars.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_asarray.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_asarray.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_dtype.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_dtype.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_dtype_ctypes.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_dtype_ctypes.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_exceptions.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_exceptions.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_internal.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_internal.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_methods.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_methods.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_multiarray_tests.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_multiarray_tests.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_multiarray_umath.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_multiarray_umath.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_operand_flag_tests.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_operand_flag_tests.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_rational_tests.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_rational_tests.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_simd.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_simd.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_simd.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_simd.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_string_helpers.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_string_helpers.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_struct_ufunc_tests.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_struct_ufunc_tests.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_type_aliases.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_type_aliases.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_ufunc_config.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_ufunc_config.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/_umath_tests.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/_umath_tests.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 20,
+    "edgeCount": 20,
+    "nodeTypes": {
+      "file": 20
+    }
+  }
+}

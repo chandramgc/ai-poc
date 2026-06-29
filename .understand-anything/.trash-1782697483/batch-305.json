@@ -1,0 +1,62 @@
+{
+  "batchIndex": 305,
+  "nodes": [
+    {
+      "id": "file:tmp/test-auto-java/.git/objects/b6/58db7c4cb9f6ce1210640bb7724cbb187c603e",
+      "type": "file",
+      "name": "58db7c4cb9f6ce1210640bb7724cbb187c603e",
+      "filePath": "tmp/test-auto-java/.git/objects/b6/58db7c4cb9f6ce1210640bb7724cbb187c603e",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-auto-java/.git/objects/b6/74ec78bf030ab32a5e7ea83f93089f13b842c9",
+      "type": "file",
+      "name": "74ec78bf030ab32a5e7ea83f93089f13b842c9",
+      "filePath": "tmp/test-auto-java/.git/objects/b6/74ec78bf030ab32a5e7ea83f93089f13b842c9",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-auto-java/.git/objects/b6/79141a1d47f7cd4fcbd063c00fc4866d778c6c",
+      "type": "file",
+      "name": "79141a1d47f7cd4fcbd063c00fc4866d778c6c",
+      "filePath": "tmp/test-auto-java/.git/objects/b6/79141a1d47f7cd4fcbd063c00fc4866d778c6c",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/test-auto-java/.git/objects/b6/58db7c4cb9f6ce1210640bb7724cbb187c603e",
+      "target": "file:tmp/test-auto-java/.git/objects/b6/58db7c4cb9f6ce1210640bb7724cbb187c603e",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-auto-java/.git/objects/b6/74ec78bf030ab32a5e7ea83f93089f13b842c9",
+      "target": "file:tmp/test-auto-java/.git/objects/b6/74ec78bf030ab32a5e7ea83f93089f13b842c9",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-auto-java/.git/objects/b6/79141a1d47f7cd4fcbd063c00fc4866d778c6c",
+      "target": "file:tmp/test-auto-java/.git/objects/b6/79141a1d47f7cd4fcbd063c00fc4866d778c6c",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 3,
+    "edgeCount": 3,
+    "nodeTypes": {
+      "file": 3
+    }
+  }
+}

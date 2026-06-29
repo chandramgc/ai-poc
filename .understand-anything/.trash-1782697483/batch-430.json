@@ -1,0 +1,62 @@
+{
+  "batchIndex": 430,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/fft/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/fft/__pycache__/_helper.cpython-314.pyc",
+      "type": "file",
+      "name": "_helper.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/__pycache__/_helper.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/fft/__pycache__/_pocketfft.cpython-314.pyc",
+      "type": "file",
+      "name": "_pocketfft.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/__pycache__/_pocketfft.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/fft/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/__pycache__/_helper.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/fft/__pycache__/_helper.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/__pycache__/_pocketfft.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/fft/__pycache__/_pocketfft.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 3,
+    "edgeCount": 3,
+    "nodeTypes": {
+      "file": 3
+    }
+  }
+}

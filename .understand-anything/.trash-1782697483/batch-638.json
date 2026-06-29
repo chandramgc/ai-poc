@@ -1,0 +1,3007 @@
+{
+  "batchIndex": 638,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py",
+      "type": "file",
+      "name": "test_return_real",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py:TestReturnReal",
+      "type": "class",
+      "name": "TestReturnReal",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py",
+      "summary": "Python class TestReturnReal",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py:TestCReturnReal",
+      "type": "class",
+      "name": "TestCReturnReal",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py",
+      "summary": "Python class TestCReturnReal",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py:TestFReturnReal",
+      "type": "class",
+      "name": "TestFReturnReal",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py",
+      "summary": "Python class TestFReturnReal",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_routines.py",
+      "type": "file",
+      "name": "test_routines",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_routines.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_routines.py:TestRenamedFunc",
+      "type": "class",
+      "name": "TestRenamedFunc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_routines.py",
+      "summary": "Python class TestRenamedFunc",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_routines.py:TestRenamedSubroutine",
+      "type": "class",
+      "name": "TestRenamedSubroutine",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_routines.py",
+      "summary": "Python class TestRenamedSubroutine",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_semicolon_split.py",
+      "type": "file",
+      "name": "test_semicolon_split",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_semicolon_split.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_semicolon_split.py:TestMultiline",
+      "type": "class",
+      "name": "TestMultiline",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_semicolon_split.py",
+      "summary": "Python class TestMultiline",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_semicolon_split.py:TestCallstatement",
+      "type": "class",
+      "name": "TestCallstatement",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_semicolon_split.py",
+      "summary": "Python class TestCallstatement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_size.py",
+      "type": "file",
+      "name": "test_size",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_size.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_size.py:TestSizeSumExample",
+      "type": "class",
+      "name": "TestSizeSumExample",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_size.py",
+      "summary": "Python class TestSizeSumExample",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py",
+      "type": "file",
+      "name": "test_string",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py:TestString",
+      "type": "class",
+      "name": "TestString",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py",
+      "summary": "Python class TestString",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py:TestDocStringArguments",
+      "type": "class",
+      "name": "TestDocStringArguments",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py",
+      "summary": "Python class TestDocStringArguments",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py:TestFixedString",
+      "type": "class",
+      "name": "TestFixedString",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py",
+      "summary": "Python class TestFixedString",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_symbolic.py",
+      "type": "file",
+      "name": "test_symbolic",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_symbolic.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_symbolic.py:TestSymbolic",
+      "type": "class",
+      "name": "TestSymbolic",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_symbolic.py",
+      "summary": "Python class TestSymbolic",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_value_attrspec.py",
+      "type": "file",
+      "name": "test_value_attrspec",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_value_attrspec.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_value_attrspec.py:TestValueAttr",
+      "type": "class",
+      "name": "TestValueAttr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/test_value_attrspec.py",
+      "summary": "Python class TestValueAttr",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "type": "file",
+      "name": "util",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:11"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:CompilerChecker",
+      "type": "class",
+      "name": "CompilerChecker",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python class CompilerChecker",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:SimplifiedMesonBackend",
+      "type": "class",
+      "name": "SimplifiedMesonBackend",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python class SimplifiedMesonBackend",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:F2PyTest",
+      "type": "class",
+      "name": "F2PyTest",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python class F2PyTest",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:check_language",
+      "type": "function",
+      "name": "check_language",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python function check_language",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:has_c_compiler",
+      "type": "function",
+      "name": "has_c_compiler",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python function has_c_compiler",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:has_f77_compiler",
+      "type": "function",
+      "name": "has_f77_compiler",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python function has_f77_compiler",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:has_f90_compiler",
+      "type": "function",
+      "name": "has_f90_compiler",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python function has_f90_compiler",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:has_fortran_compiler",
+      "type": "function",
+      "name": "has_fortran_compiler",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python function has_fortran_compiler",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:get_module_dir",
+      "type": "function",
+      "name": "get_module_dir",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python function get_module_dir",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:get_temp_module_name",
+      "type": "function",
+      "name": "get_temp_module_name",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python function get_temp_module_name",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:build_module",
+      "type": "function",
+      "name": "build_module",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python function build_module",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:build_code",
+      "type": "function",
+      "name": "build_code",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python function build_code",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:build_meson",
+      "type": "function",
+      "name": "build_meson",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python function build_meson",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:getpath",
+      "type": "function",
+      "name": "getpath",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python function getpath",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:switchdir",
+      "type": "function",
+      "name": "switchdir",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "summary": "Python function switchdir",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/use_rules.py",
+      "type": "file",
+      "name": "use_rules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/use_rules.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/use_rules.py:buildusevars",
+      "type": "function",
+      "name": "buildusevars",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/use_rules.py",
+      "summary": "Python function buildusevars",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/f2py/use_rules.py:buildusevar",
+      "type": "function",
+      "name": "buildusevar",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/use_rules.py",
+      "summary": "Python function buildusevar",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/fft/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/fft/_helper.py",
+      "type": "file",
+      "name": "_helper",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_helper.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_helper.py:fftshift",
+      "type": "function",
+      "name": "fftshift",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_helper.py",
+      "summary": "Python function fftshift",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_helper.py:ifftshift",
+      "type": "function",
+      "name": "ifftshift",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_helper.py",
+      "summary": "Python function ifftshift",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_helper.py:fftfreq",
+      "type": "function",
+      "name": "fftfreq",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_helper.py",
+      "summary": "Python function fftfreq",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_helper.py:rfftfreq",
+      "type": "function",
+      "name": "rfftfreq",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_helper.py",
+      "summary": "Python function rfftfreq",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "type": "file",
+      "name": "_pocketfft",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:fft",
+      "type": "function",
+      "name": "fft",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "summary": "Python function fft",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:ifft",
+      "type": "function",
+      "name": "ifft",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "summary": "Python function ifft",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:rfft",
+      "type": "function",
+      "name": "rfft",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "summary": "Python function rfft",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:irfft",
+      "type": "function",
+      "name": "irfft",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "summary": "Python function irfft",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:hfft",
+      "type": "function",
+      "name": "hfft",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "summary": "Python function hfft",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:ihfft",
+      "type": "function",
+      "name": "ihfft",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "summary": "Python function ihfft",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:fftn",
+      "type": "function",
+      "name": "fftn",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "summary": "Python function fftn",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:ifftn",
+      "type": "function",
+      "name": "ifftn",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "summary": "Python function ifftn",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:rfftn",
+      "type": "function",
+      "name": "rfftn",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "summary": "Python function rfftn",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:irfftn",
+      "type": "function",
+      "name": "irfftn",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "summary": "Python function irfftn",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py",
+      "type": "file",
+      "name": "test_helper",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py:TestFFTShift",
+      "type": "class",
+      "name": "TestFFTShift",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py",
+      "summary": "Python class TestFFTShift",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py:TestFFTFreq",
+      "type": "class",
+      "name": "TestFFTFreq",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py",
+      "summary": "Python class TestFFTFreq",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py:TestRFFTFreq",
+      "type": "class",
+      "name": "TestRFFTFreq",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py",
+      "summary": "Python class TestRFFTFreq",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py:TestIRFFTN",
+      "type": "class",
+      "name": "TestIRFFTN",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py",
+      "summary": "Python class TestIRFFTN",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "type": "file",
+      "name": "test_pocketfft",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:TestFFTShift",
+      "type": "class",
+      "name": "TestFFTShift",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "summary": "Python class TestFFTShift",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:TestFFT1D",
+      "type": "class",
+      "name": "TestFFT1D",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "summary": "Python class TestFFT1D",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:TestFFTThreadSafe",
+      "type": "class",
+      "name": "TestFFTThreadSafe",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "summary": "Python class TestFFTThreadSafe",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:fft1",
+      "type": "function",
+      "name": "fft1",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "summary": "Python function fft1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:test_fft_with_order",
+      "type": "function",
+      "name": "test_fft_with_order",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "summary": "Python function test_fft_with_order",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:test_fft_output_order",
+      "type": "function",
+      "name": "test_fft_output_order",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "summary": "Python function test_fft_output_order",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:test_irfft_with_n_1_regression",
+      "type": "function",
+      "name": "test_irfft_with_n_1_regression",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "summary": "Python function test_irfft_with_n_1_regression",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:test_irfft_with_n_large_regression",
+      "type": "function",
+      "name": "test_irfft_with_n_large_regression",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "summary": "Python function test_irfft_with_n_large_regression",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:test_fft_with_integer_or_bool_input",
+      "type": "function",
+      "name": "test_fft_with_integer_or_bool_input",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "summary": "Python function test_fft_with_integer_or_bool_input",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/_array_utils_impl.py",
+      "type": "file",
+      "name": "_array_utils_impl",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_array_utils_impl.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_array_utils_impl.py:byte_bounds",
+      "type": "function",
+      "name": "byte_bounds",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_array_utils_impl.py",
+      "summary": "Python function byte_bounds",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraypad_impl.py",
+      "type": "file",
+      "name": "_arraypad_impl",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraypad_impl.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraypad_impl.py:pad",
+      "type": "function",
+      "name": "pad",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraypad_impl.py",
+      "summary": "Python function pad",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "type": "file",
+      "name": "_arraysetops_impl",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:UniqueAllResult",
+      "type": "class",
+      "name": "UniqueAllResult",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python class UniqueAllResult",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:UniqueCountsResult",
+      "type": "class",
+      "name": "UniqueCountsResult",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python class UniqueCountsResult",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:UniqueInverseResult",
+      "type": "class",
+      "name": "UniqueInverseResult",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python class UniqueInverseResult",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:ediff1d",
+      "type": "function",
+      "name": "ediff1d",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python function ediff1d",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:unique",
+      "type": "function",
+      "name": "unique",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python function unique",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:unique_all",
+      "type": "function",
+      "name": "unique_all",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python function unique_all",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:unique_counts",
+      "type": "function",
+      "name": "unique_counts",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python function unique_counts",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:unique_inverse",
+      "type": "function",
+      "name": "unique_inverse",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python function unique_inverse",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:unique_values",
+      "type": "function",
+      "name": "unique_values",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python function unique_values",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:intersect1d",
+      "type": "function",
+      "name": "intersect1d",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python function intersect1d",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:setxor1d",
+      "type": "function",
+      "name": "setxor1d",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python function setxor1d",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:isin",
+      "type": "function",
+      "name": "isin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python function isin",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:union1d",
+      "type": "function",
+      "name": "union1d",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python function union1d",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:setdiff1d",
+      "type": "function",
+      "name": "setdiff1d",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "summary": "Python function setdiff1d",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/_arrayterator_impl.py",
+      "type": "file",
+      "name": "_arrayterator_impl",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arrayterator_impl.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_arrayterator_impl.py:Arrayterator",
+      "type": "class",
+      "name": "Arrayterator",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_arrayterator_impl.py",
+      "summary": "Python class Arrayterator",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/_datasource.py",
+      "type": "file",
+      "name": "_datasource",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_datasource.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_datasource.py:_FileOpeners",
+      "type": "class",
+      "name": "_FileOpeners",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_datasource.py",
+      "summary": "Python class _FileOpeners",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_datasource.py:DataSource",
+      "type": "class",
+      "name": "DataSource",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_datasource.py",
+      "summary": "Python class DataSource",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_datasource.py:open",
+      "type": "function",
+      "name": "open",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_datasource.py",
+      "summary": "Python function open",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "type": "file",
+      "name": "_format_impl",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:magic",
+      "type": "function",
+      "name": "magic",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python function magic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:read_magic",
+      "type": "function",
+      "name": "read_magic",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python function read_magic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:dtype_to_descr",
+      "type": "function",
+      "name": "dtype_to_descr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python function dtype_to_descr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:descr_to_dtype",
+      "type": "function",
+      "name": "descr_to_dtype",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python function descr_to_dtype",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:header_data_from_array_1_0",
+      "type": "function",
+      "name": "header_data_from_array_1_0",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python function header_data_from_array_1_0",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:write_array_header_1_0",
+      "type": "function",
+      "name": "write_array_header_1_0",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python function write_array_header_1_0",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:write_array_header_2_0",
+      "type": "function",
+      "name": "write_array_header_2_0",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python function write_array_header_2_0",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:read_array_header_1_0",
+      "type": "function",
+      "name": "read_array_header_1_0",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python function read_array_header_1_0",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:read_array_header_2_0",
+      "type": "function",
+      "name": "read_array_header_2_0",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python function read_array_header_2_0",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:write_array",
+      "type": "function",
+      "name": "write_array",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python function write_array",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:read_array",
+      "type": "function",
+      "name": "read_array",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python function read_array",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:open_memmap",
+      "type": "function",
+      "name": "open_memmap",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python function open_memmap",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:isfileobj",
+      "type": "function",
+      "name": "isfileobj",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "summary": "Python function isfileobj",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "type": "file",
+      "name": "_function_base_impl",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:14"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:vectorize",
+      "type": "class",
+      "name": "vectorize",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python class vectorize",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:flip",
+      "type": "function",
+      "name": "flip",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function flip",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:iterable",
+      "type": "function",
+      "name": "iterable",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function iterable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:average",
+      "type": "function",
+      "name": "average",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function average",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:asarray_chkfinite",
+      "type": "function",
+      "name": "asarray_chkfinite",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function asarray_chkfinite",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:piecewise",
+      "type": "function",
+      "name": "piecewise",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function piecewise",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:select",
+      "type": "function",
+      "name": "select",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function select",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:copy",
+      "type": "function",
+      "name": "copy",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function copy",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:gradient",
+      "type": "function",
+      "name": "gradient",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function gradient",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:diff",
+      "type": "function",
+      "name": "diff",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function diff",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:interp",
+      "type": "function",
+      "name": "interp",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function interp",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:angle",
+      "type": "function",
+      "name": "angle",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function angle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:unwrap",
+      "type": "function",
+      "name": "unwrap",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function unwrap",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:sort_complex",
+      "type": "function",
+      "name": "sort_complex",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function sort_complex",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:trim_zeros",
+      "type": "function",
+      "name": "trim_zeros",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function trim_zeros",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:extract",
+      "type": "function",
+      "name": "extract",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function extract",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:place",
+      "type": "function",
+      "name": "place",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function place",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:cov",
+      "type": "function",
+      "name": "cov",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function cov",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:corrcoef",
+      "type": "function",
+      "name": "corrcoef",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function corrcoef",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:blackman",
+      "type": "function",
+      "name": "blackman",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function blackman",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:bartlett",
+      "type": "function",
+      "name": "bartlett",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function bartlett",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:hanning",
+      "type": "function",
+      "name": "hanning",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function hanning",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:hamming",
+      "type": "function",
+      "name": "hamming",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function hamming",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:i0",
+      "type": "function",
+      "name": "i0",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function i0",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:kaiser",
+      "type": "function",
+      "name": "kaiser",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function kaiser",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:sinc",
+      "type": "function",
+      "name": "sinc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function sinc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:median",
+      "type": "function",
+      "name": "median",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function median",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:percentile",
+      "type": "function",
+      "name": "percentile",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function percentile",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:quantile",
+      "type": "function",
+      "name": "quantile",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function quantile",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:trapezoid",
+      "type": "function",
+      "name": "trapezoid",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function trapezoid",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:meshgrid",
+      "type": "function",
+      "name": "meshgrid",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function meshgrid",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:delete",
+      "type": "function",
+      "name": "delete",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function delete",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:insert",
+      "type": "function",
+      "name": "insert",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function insert",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:append",
+      "type": "function",
+      "name": "append",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function append",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:digitize",
+      "type": "function",
+      "name": "digitize",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "summary": "Python function digitize",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py",
+      "type": "file",
+      "name": "_histograms_impl",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py:histogram_bin_edges",
+      "type": "function",
+      "name": "histogram_bin_edges",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py",
+      "summary": "Python function histogram_bin_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py:histogram",
+      "type": "function",
+      "name": "histogram",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py",
+      "summary": "Python function histogram",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py:histogramdd",
+      "type": "function",
+      "name": "histogramdd",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py",
+      "summary": "Python function histogramdd",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "type": "file",
+      "name": "_index_tricks_impl",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:11"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:nd_grid",
+      "type": "class",
+      "name": "nd_grid",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python class nd_grid",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:MGridClass",
+      "type": "class",
+      "name": "MGridClass",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python class MGridClass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:OGridClass",
+      "type": "class",
+      "name": "OGridClass",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python class OGridClass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:AxisConcatenator",
+      "type": "class",
+      "name": "AxisConcatenator",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python class AxisConcatenator",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:RClass",
+      "type": "class",
+      "name": "RClass",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python class RClass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:CClass",
+      "type": "class",
+      "name": "CClass",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python class CClass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:ndenumerate",
+      "type": "class",
+      "name": "ndenumerate",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python class ndenumerate",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:ndindex",
+      "type": "class",
+      "name": "ndindex",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python class ndindex",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:IndexExpression",
+      "type": "class",
+      "name": "IndexExpression",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python class IndexExpression",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:ix_",
+      "type": "function",
+      "name": "ix_",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python function ix_",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:fill_diagonal",
+      "type": "function",
+      "name": "fill_diagonal",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python function fill_diagonal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:diag_indices",
+      "type": "function",
+      "name": "diag_indices",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python function diag_indices",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:diag_indices_from",
+      "type": "function",
+      "name": "diag_indices_from",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "summary": "Python function diag_indices_from",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py:TestReturnReal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py:TestCReturnReal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_return_real.py:TestFReturnReal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_routines.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_routines.py:TestRenamedFunc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_routines.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_routines.py:TestRenamedSubroutine",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_semicolon_split.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_semicolon_split.py:TestMultiline",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_semicolon_split.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_semicolon_split.py:TestCallstatement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_size.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_size.py:TestSizeSumExample",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py:TestString",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py:TestDocStringArguments",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_string.py:TestFixedString",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_symbolic.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_symbolic.py:TestSymbolic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_value_attrspec.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/test_value_attrspec.py:TestValueAttr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:CompilerChecker",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:SimplifiedMesonBackend",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:F2PyTest",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:check_language",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:has_c_compiler",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:has_f77_compiler",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:has_f90_compiler",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:has_fortran_compiler",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:get_module_dir",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:get_temp_module_name",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:build_module",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:build_code",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:build_meson",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:getpath",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/tests/util.py:switchdir",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/use_rules.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/use_rules.py:buildusevars",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/use_rules.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/f2py/use_rules.py:buildusevar",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_helper.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_helper.py:fftshift",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_helper.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_helper.py:ifftshift",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_helper.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_helper.py:fftfreq",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_helper.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_helper.py:rfftfreq",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:fft",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:ifft",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:rfft",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:irfft",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:hfft",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:ihfft",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:fftn",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:ifftn",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:rfftn",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.py:irfftn",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py:TestFFTShift",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py:TestFFTFreq",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py:TestRFFTFreq",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_helper.py:TestIRFFTN",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:TestFFTShift",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:TestFFT1D",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:TestFFTThreadSafe",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:fft1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:test_fft_with_order",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:test_fft_output_order",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:test_irfft_with_n_1_regression",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:test_irfft_with_n_large_regression",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/fft/tests/test_pocketfft.py:test_fft_with_integer_or_bool_input",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_array_utils_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_array_utils_impl.py:byte_bounds",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraypad_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraypad_impl.py:pad",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:UniqueAllResult",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:UniqueCountsResult",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:UniqueInverseResult",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:ediff1d",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:unique",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:unique_all",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:unique_counts",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:unique_inverse",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:unique_values",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:intersect1d",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:setxor1d",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:isin",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:union1d",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:setdiff1d",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_arrayterator_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_arrayterator_impl.py:Arrayterator",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_datasource.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_datasource.py:_FileOpeners",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_datasource.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_datasource.py:DataSource",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_datasource.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_datasource.py:open",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:magic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:read_magic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:dtype_to_descr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:descr_to_dtype",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:header_data_from_array_1_0",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:write_array_header_1_0",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:write_array_header_2_0",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:read_array_header_1_0",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:read_array_header_2_0",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:write_array",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:read_array",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:open_memmap",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_format_impl.py:isfileobj",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:vectorize",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:flip",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:iterable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:average",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:asarray_chkfinite",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:piecewise",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:select",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:copy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:gradient",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:diff",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:interp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:angle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:unwrap",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:sort_complex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:trim_zeros",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:extract",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:place",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:cov",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:corrcoef",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:blackman",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:bartlett",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:hanning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:hamming",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:i0",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:kaiser",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:sinc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:median",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:percentile",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:quantile",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:trapezoid",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:meshgrid",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:delete",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:insert",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:append",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py:digitize",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py:histogram_bin_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py:histogram",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_histograms_impl.py:histogramdd",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:nd_grid",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:MGridClass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:OGridClass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:AxisConcatenator",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:RClass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:CClass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:ndenumerate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:ndindex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:IndexExpression",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:ix_",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:fill_diagonal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:diag_indices",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/lib/_index_tricks_impl.py:diag_indices_from",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 165,
+    "edgeCount": 141,
+    "nodeTypes": {
+      "file": 24,
+      "class": 39,
+      "function": 102
+    }
+  }
+}

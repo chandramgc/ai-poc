@@ -1,0 +1,2296 @@
+{
+  "batchIndex": 643,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "type": "file",
+      "name": "test_legendre",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestConstants",
+      "type": "class",
+      "name": "TestConstants",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "summary": "Python class TestConstants",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestArithmetic",
+      "type": "class",
+      "name": "TestArithmetic",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "summary": "Python class TestArithmetic",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestEvaluation",
+      "type": "class",
+      "name": "TestEvaluation",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "summary": "Python class TestEvaluation",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestIntegral",
+      "type": "class",
+      "name": "TestIntegral",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "summary": "Python class TestIntegral",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestDerivative",
+      "type": "class",
+      "name": "TestDerivative",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "summary": "Python class TestDerivative",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestVander",
+      "type": "class",
+      "name": "TestVander",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "summary": "Python class TestVander",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestFitting",
+      "type": "class",
+      "name": "TestFitting",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "summary": "Python class TestFitting",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestCompanion",
+      "type": "class",
+      "name": "TestCompanion",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "summary": "Python class TestCompanion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestGauss",
+      "type": "class",
+      "name": "TestGauss",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "summary": "Python class TestGauss",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestMisc",
+      "type": "class",
+      "name": "TestMisc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "summary": "Python class TestMisc",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:trim",
+      "type": "function",
+      "name": "trim",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "summary": "Python function trim",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "type": "file",
+      "name": "test_polynomial",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestConstants",
+      "type": "class",
+      "name": "TestConstants",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python class TestConstants",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestArithmetic",
+      "type": "class",
+      "name": "TestArithmetic",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python class TestArithmetic",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestFraction",
+      "type": "class",
+      "name": "TestFraction",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python class TestFraction",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestEvaluation",
+      "type": "class",
+      "name": "TestEvaluation",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python class TestEvaluation",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestIntegral",
+      "type": "class",
+      "name": "TestIntegral",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python class TestIntegral",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestDerivative",
+      "type": "class",
+      "name": "TestDerivative",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python class TestDerivative",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestVander",
+      "type": "class",
+      "name": "TestVander",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python class TestVander",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestCompanion",
+      "type": "class",
+      "name": "TestCompanion",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python class TestCompanion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestMisc",
+      "type": "class",
+      "name": "TestMisc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python class TestMisc",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:ArrayFunctionInterceptor",
+      "type": "class",
+      "name": "ArrayFunctionInterceptor",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python class ArrayFunctionInterceptor",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:trim",
+      "type": "function",
+      "name": "trim",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python function trim",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:test_polyval2d_array_function_hook",
+      "type": "function",
+      "name": "test_polyval2d_array_function_hook",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python function test_polyval2d_array_function_hook",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:test_polygrid2d_array_function_hook",
+      "type": "function",
+      "name": "test_polygrid2d_array_function_hook",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "summary": "Python function test_polygrid2d_array_function_hook",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polyutils.py",
+      "type": "file",
+      "name": "test_polyutils",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polyutils.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polyutils.py:TestMisc",
+      "type": "class",
+      "name": "TestMisc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polyutils.py",
+      "summary": "Python class TestMisc",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polyutils.py:TestDomain",
+      "type": "class",
+      "name": "TestDomain",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polyutils.py",
+      "summary": "Python class TestDomain",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "type": "file",
+      "name": "test_printing",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestStrUnicodeSuperSubscripts",
+      "type": "class",
+      "name": "TestStrUnicodeSuperSubscripts",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "summary": "Python class TestStrUnicodeSuperSubscripts",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestStrAscii",
+      "type": "class",
+      "name": "TestStrAscii",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "summary": "Python class TestStrAscii",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestLinebreaking",
+      "type": "class",
+      "name": "TestLinebreaking",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "summary": "Python class TestLinebreaking",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestFormat",
+      "type": "class",
+      "name": "TestFormat",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "summary": "Python class TestFormat",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestRepr",
+      "type": "class",
+      "name": "TestRepr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "summary": "Python class TestRepr",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestLatexRepr",
+      "type": "class",
+      "name": "TestLatexRepr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "summary": "Python class TestLatexRepr",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestPrintOptions",
+      "type": "class",
+      "name": "TestPrintOptions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "summary": "Python class TestPrintOptions",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:test_set_default_printoptions",
+      "type": "function",
+      "name": "test_set_default_printoptions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "summary": "Python function test_set_default_printoptions",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:test_complex_coefficients",
+      "type": "function",
+      "name": "test_complex_coefficients",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "summary": "Python function test_complex_coefficients",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:test_numeric_object_coefficients",
+      "type": "function",
+      "name": "test_numeric_object_coefficients",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "summary": "Python function test_numeric_object_coefficients",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:test_nonnumeric_object_coefficients",
+      "type": "function",
+      "name": "test_nonnumeric_object_coefficients",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "summary": "Python function test_nonnumeric_object_coefficients",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:test_symbol",
+      "type": "function",
+      "name": "test_symbol",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "summary": "Python function test_symbol",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "type": "file",
+      "name": "test_symbol",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:TestInit",
+      "type": "class",
+      "name": "TestInit",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "summary": "Python class TestInit",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:TestUnaryOperators",
+      "type": "class",
+      "name": "TestUnaryOperators",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "summary": "Python class TestUnaryOperators",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:TestBinaryOperatorsSameSymbol",
+      "type": "class",
+      "name": "TestBinaryOperatorsSameSymbol",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "summary": "Python class TestBinaryOperatorsSameSymbol",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:TestBinaryOperatorsDifferentSymbol",
+      "type": "class",
+      "name": "TestBinaryOperatorsDifferentSymbol",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "summary": "Python class TestBinaryOperatorsDifferentSymbol",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:TestEquality",
+      "type": "class",
+      "name": "TestEquality",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "summary": "Python class TestEquality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:TestExtraMethods",
+      "type": "class",
+      "name": "TestExtraMethods",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "summary": "Python class TestExtraMethods",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:test_composition",
+      "type": "function",
+      "name": "test_composition",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "summary": "Python function test_composition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:test_fit",
+      "type": "function",
+      "name": "test_fit",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "summary": "Python function test_fit",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:test_froomroots",
+      "type": "function",
+      "name": "test_froomroots",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "summary": "Python function test_froomroots",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:test_identity",
+      "type": "function",
+      "name": "test_identity",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "summary": "Python function test_identity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:test_basis",
+      "type": "function",
+      "name": "test_basis",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "summary": "Python function test_basis",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/__pycache__/_pickle.cpython-314.pyc",
+      "type": "file",
+      "name": "_pickle.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/__pycache__/_pickle.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/__pycache__/extending.cpython-314.pyc",
+      "type": "file",
+      "name": "extending.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/__pycache__/extending.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/__pycache__/parse.cpython-314.pyc",
+      "type": "file",
+      "name": "parse.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/__pycache__/parse.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/extending.py",
+      "type": "file",
+      "name": "extending",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/extending.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/parse.py",
+      "type": "file",
+      "name": "parse",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/parse.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/parse.py:parse_distributions_h",
+      "type": "function",
+      "name": "parse_distributions_h",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/parse.py",
+      "summary": "Python function parse_distributions_h",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/__pycache__/extending_distributions.cpython-314.pyc",
+      "type": "file",
+      "name": "extending_distributions.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/numba/__pycache__/extending_distributions.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/__pycache__/extending.cpython-314.pyc",
+      "type": "file",
+      "name": "extending.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/numba/__pycache__/extending.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending_distributions.py",
+      "type": "file",
+      "name": "extending_distributions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending_distributions.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending_distributions.py:normals",
+      "type": "function",
+      "name": "normals",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending_distributions.py",
+      "summary": "Python function normals",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py",
+      "type": "file",
+      "name": "extending",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py:normals",
+      "type": "function",
+      "name": "normals",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py",
+      "summary": "Python function normals",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py:numbacall",
+      "type": "function",
+      "name": "numbacall",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py",
+      "summary": "Python function numbacall",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py:numpycall",
+      "type": "function",
+      "name": "numpycall",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py",
+      "summary": "Python function numpycall",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py:bounded_uint",
+      "type": "function",
+      "name": "bounded_uint",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py",
+      "summary": "Python function bounded_uint",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py:bounded_uints",
+      "type": "function",
+      "name": "bounded_uints",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py",
+      "summary": "Python function bounded_uints",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/_pickle.py",
+      "type": "file",
+      "name": "_pickle",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_pickle.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/lib/libnpyrandom.a",
+      "type": "file",
+      "name": "libnpyrandom",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/lib/libnpyrandom.a",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/data/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "type": "file",
+      "name": "test_direct",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:Base",
+      "type": "class",
+      "name": "Base",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python class Base",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:TestPhilox",
+      "type": "class",
+      "name": "TestPhilox",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python class TestPhilox",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:TestPCG64",
+      "type": "class",
+      "name": "TestPCG64",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python class TestPCG64",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:TestPCG64DXSM",
+      "type": "class",
+      "name": "TestPCG64DXSM",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python class TestPCG64DXSM",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:TestMT19937",
+      "type": "class",
+      "name": "TestMT19937",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python class TestMT19937",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:TestSFC64",
+      "type": "class",
+      "name": "TestSFC64",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python class TestSFC64",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:TestDefaultRNG",
+      "type": "class",
+      "name": "TestDefaultRNG",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python class TestDefaultRNG",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:assert_state_equal",
+      "type": "function",
+      "name": "assert_state_equal",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function assert_state_equal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uint32_to_float32",
+      "type": "function",
+      "name": "uint32_to_float32",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function uint32_to_float32",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform32_from_uint64",
+      "type": "function",
+      "name": "uniform32_from_uint64",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function uniform32_from_uint64",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform32_from_uint53",
+      "type": "function",
+      "name": "uniform32_from_uint53",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function uniform32_from_uint53",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform32_from_uint32",
+      "type": "function",
+      "name": "uniform32_from_uint32",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function uniform32_from_uint32",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform32_from_uint",
+      "type": "function",
+      "name": "uniform32_from_uint",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function uniform32_from_uint",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform_from_uint",
+      "type": "function",
+      "name": "uniform_from_uint",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function uniform_from_uint",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform_from_uint64",
+      "type": "function",
+      "name": "uniform_from_uint64",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function uniform_from_uint64",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform_from_uint32",
+      "type": "function",
+      "name": "uniform_from_uint32",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function uniform_from_uint32",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform_from_dsfmt",
+      "type": "function",
+      "name": "uniform_from_dsfmt",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function uniform_from_dsfmt",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:gauss_from_uint",
+      "type": "function",
+      "name": "gauss_from_uint",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function gauss_from_uint",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:test_seedsequence",
+      "type": "function",
+      "name": "test_seedsequence",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function test_seedsequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:test_generator_spawning",
+      "type": "function",
+      "name": "test_generator_spawning",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function test_generator_spawning",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:test_spawn_negative_n_children",
+      "type": "function",
+      "name": "test_spawn_negative_n_children",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function test_spawn_negative_n_children",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:test_non_spawnable",
+      "type": "function",
+      "name": "test_non_spawnable",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "summary": "Python function test_non_spawnable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py",
+      "type": "file",
+      "name": "test_extending",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py:test_cython",
+      "type": "function",
+      "name": "test_cython",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py",
+      "summary": "Python function test_cython",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py:test_numba",
+      "type": "function",
+      "name": "test_numba",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py",
+      "summary": "Python function test_numba",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py:test_cffi",
+      "type": "function",
+      "name": "test_cffi",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py",
+      "summary": "Python function test_cffi",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937_regressions.py",
+      "type": "file",
+      "name": "test_generator_mt19937_regressions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937_regressions.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937_regressions.py:TestRegression",
+      "type": "class",
+      "name": "TestRegression",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937_regressions.py",
+      "summary": "Python class TestRegression",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "type": "file",
+      "name": "test_generator_mt19937",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestSeed",
+      "type": "class",
+      "name": "TestSeed",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python class TestSeed",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestBinomial",
+      "type": "class",
+      "name": "TestBinomial",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python class TestBinomial",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestMultinomial",
+      "type": "class",
+      "name": "TestMultinomial",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python class TestMultinomial",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestMultivariateHypergeometric",
+      "type": "class",
+      "name": "TestMultivariateHypergeometric",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python class TestMultivariateHypergeometric",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestSetState",
+      "type": "class",
+      "name": "TestSetState",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python class TestSetState",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestIntegers",
+      "type": "class",
+      "name": "TestIntegers",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python class TestIntegers",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestRandomDist",
+      "type": "class",
+      "name": "TestRandomDist",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python class TestRandomDist",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestBroadcast",
+      "type": "class",
+      "name": "TestBroadcast",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python class TestBroadcast",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestThread",
+      "type": "class",
+      "name": "TestThread",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python class TestThread",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestSingleEltArrayInput",
+      "type": "class",
+      "name": "TestSingleEltArrayInput",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python class TestSingleEltArrayInput",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:endpoint",
+      "type": "function",
+      "name": "endpoint",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python function endpoint",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_jumped",
+      "type": "function",
+      "name": "test_jumped",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python function test_jumped",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_broadcast_size_error",
+      "type": "function",
+      "name": "test_broadcast_size_error",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python function test_broadcast_size_error",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_broadcast_size_scalar",
+      "type": "function",
+      "name": "test_broadcast_size_scalar",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python function test_broadcast_size_scalar",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_ragged_shuffle",
+      "type": "function",
+      "name": "test_ragged_shuffle",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python function test_ragged_shuffle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_single_arg_integer_exception",
+      "type": "function",
+      "name": "test_single_arg_integer_exception",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python function test_single_arg_integer_exception",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_c_contig_req_out",
+      "type": "function",
+      "name": "test_c_contig_req_out",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python function test_c_contig_req_out",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_contig_req_out",
+      "type": "function",
+      "name": "test_contig_req_out",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python function test_contig_req_out",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_generator_ctor_old_style_pickle",
+      "type": "function",
+      "name": "test_generator_ctor_old_style_pickle",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python function test_generator_ctor_old_style_pickle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_pickle_preserves_seed_sequence",
+      "type": "function",
+      "name": "test_pickle_preserves_seed_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python function test_pickle_preserves_seed_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_legacy_pickle",
+      "type": "function",
+      "name": "test_legacy_pickle",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "summary": "Python function test_legacy_pickle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestConstants",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestArithmetic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestEvaluation",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestIntegral",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestDerivative",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestVander",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestFitting",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestCompanion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestGauss",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:TestMisc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_legendre.py:trim",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestConstants",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestArithmetic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestFraction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestEvaluation",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestIntegral",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestDerivative",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestVander",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestCompanion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:TestMisc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:ArrayFunctionInterceptor",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:trim",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:test_polyval2d_array_function_hook",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polynomial.py:test_polygrid2d_array_function_hook",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polyutils.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polyutils.py:TestMisc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polyutils.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_polyutils.py:TestDomain",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestStrUnicodeSuperSubscripts",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestStrAscii",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestLinebreaking",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestFormat",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestRepr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestLatexRepr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:TestPrintOptions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:test_set_default_printoptions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:test_complex_coefficients",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:test_numeric_object_coefficients",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:test_nonnumeric_object_coefficients",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_printing.py:test_symbol",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:TestInit",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:TestUnaryOperators",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:TestBinaryOperatorsSameSymbol",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:TestBinaryOperatorsDifferentSymbol",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:TestEquality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:TestExtraMethods",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:test_composition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:test_fit",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:test_froomroots",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:test_identity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/polynomial/tests/test_symbol.py:test_basis",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/__pycache__/_pickle.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/__pycache__/_pickle.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/__pycache__/extending.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/__pycache__/extending.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/__pycache__/parse.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/__pycache__/parse.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/parse.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/cffi/parse.py:parse_distributions_h",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/__pycache__/extending_distributions.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/__pycache__/extending_distributions.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/__pycache__/extending.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/__pycache__/extending.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending_distributions.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending_distributions.py:normals",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py:normals",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py:numbacall",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py:numpycall",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py:bounded_uint",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/_examples/numba/extending.py:bounded_uints",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/lib/libnpyrandom.a",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/lib/libnpyrandom.a",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:Base",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:TestPhilox",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:TestPCG64",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:TestPCG64DXSM",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:TestMT19937",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:TestSFC64",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:TestDefaultRNG",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:assert_state_equal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uint32_to_float32",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform32_from_uint64",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform32_from_uint53",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform32_from_uint32",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform32_from_uint",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform_from_uint",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform_from_uint64",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform_from_uint32",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:uniform_from_dsfmt",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:gauss_from_uint",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:test_seedsequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:test_generator_spawning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:test_spawn_negative_n_children",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_direct.py:test_non_spawnable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py:test_cython",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py:test_numba",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_extending.py:test_cffi",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937_regressions.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937_regressions.py:TestRegression",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestSeed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestBinomial",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestMultinomial",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestMultivariateHypergeometric",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestSetState",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestIntegers",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestRandomDist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestBroadcast",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestThread",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:TestSingleEltArrayInput",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:endpoint",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_jumped",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_broadcast_size_error",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_broadcast_size_scalar",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_ragged_shuffle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_single_arg_integer_exception",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_c_contig_req_out",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_contig_req_out",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_generator_ctor_old_style_pickle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_pickle_preserves_seed_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/random/tests/test_generator_mt19937.py:test_legacy_pickle",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 126,
+    "edgeCount": 111,
+    "nodeTypes": {
+      "file": 23,
+      "class": 53,
+      "function": 50
+    }
+  }
+}

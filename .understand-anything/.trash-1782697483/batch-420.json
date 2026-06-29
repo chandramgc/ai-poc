@@ -1,0 +1,94 @@
+{
+  "batchIndex": 420,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/.f2py_f2cmap",
+      "type": "file",
+      "name": ".f2py_f2cmap",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/.f2py_f2cmap",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_free.f90",
+      "type": "file",
+      "name": "foo_free",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_free.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_mod.f90",
+      "type": "file",
+      "name": "foo_mod",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_mod.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_use.f90",
+      "type": "file",
+      "name": "foo_use",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_use.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/precision.f90",
+      "type": "file",
+      "name": "precision",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/precision.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/.f2py_f2cmap",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/.f2py_f2cmap",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_free.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_free.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_mod.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_mod.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_use.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_use.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/precision.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/precision.f90",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

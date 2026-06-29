@@ -1,0 +1,142 @@
+{
+  "batchIndex": 482,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/constructors.cpython-314.pyc",
+      "type": "file",
+      "name": "constructors.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/constructors.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/pep723.cpython-314.pyc",
+      "type": "file",
+      "name": "pep723.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/pep723.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_dependency_group.cpython-314.pyc",
+      "type": "file",
+      "name": "req_dependency_group.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_dependency_group.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_file.cpython-314.pyc",
+      "type": "file",
+      "name": "req_file.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_file.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_install.cpython-314.pyc",
+      "type": "file",
+      "name": "req_install.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_install.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_set.cpython-314.pyc",
+      "type": "file",
+      "name": "req_set.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_set.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_uninstall.cpython-314.pyc",
+      "type": "file",
+      "name": "req_uninstall.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_uninstall.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/constructors.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/constructors.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/pep723.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/pep723.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_dependency_group.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_dependency_group.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_file.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_file.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_install.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_install.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_set.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_set.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_uninstall.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__pycache__/req_uninstall.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 8,
+    "edgeCount": 8,
+    "nodeTypes": {
+      "file": 8
+    }
+  }
+}

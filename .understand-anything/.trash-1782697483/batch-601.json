@@ -1,0 +1,686 @@
+{
+  "batchIndex": 601,
+  "nodes": [
+    {
+      "id": "file:tmp/test-java/.git/objects/fa/4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "type": "file",
+      "name": "4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "filePath": "tmp/test-java/.git/objects/fa/4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/.git/refs/heads/master",
+      "type": "file",
+      "name": "master",
+      "filePath": "tmp/test-java/.git/refs/heads/master",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/.specify/constitution.md",
+      "type": "document",
+      "name": "constitution",
+      "filePath": "tmp/test-java/.specify/constitution.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Project Constitution",
+        "section:Development Principles",
+        "section:1. Code Quality",
+        "section:2. Spec-Driven Development",
+        "section:3. Performance",
+        "section:4. Security",
+        "section:5. Documentation",
+        "section:Spec Organization",
+        "section:Compliance & Quality Gates"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/.specify/templates/example-spec.md",
+      "type": "document",
+      "name": "example-spec",
+      "filePath": "tmp/test-java/.specify/templates/example-spec.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Feature Specification",
+        "section:Overview",
+        "section:User Story",
+        "section:Acceptance Criteria",
+        "section:Technical Considerations",
+        "section:Dependencies",
+        "section:Related Specs"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/automation/graphify/run-graphify.sh",
+      "type": "file",
+      "name": "run-graphify",
+      "filePath": "tmp/test-java/automation/graphify/run-graphify.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/automation/manifest.json",
+      "type": "config",
+      "name": "manifest",
+      "filePath": "tmp/test-java/automation/manifest.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:3"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/automation/orchestrate.sh",
+      "type": "file",
+      "name": "orchestrate",
+      "filePath": "tmp/test-java/automation/orchestrate.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/automation/ponytail/install-ponytail.sh",
+      "type": "file",
+      "name": "install-ponytail",
+      "filePath": "tmp/test-java/automation/ponytail/install-ponytail.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/automation/sdd/run-sdd.sh",
+      "type": "file",
+      "name": "run-sdd",
+      "filePath": "tmp/test-java/automation/sdd/run-sdd.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/src/main/java/com/example/Application.java",
+      "type": "file",
+      "name": "Application",
+      "filePath": "tmp/test-java/src/main/java/com/example/Application.java",
+      "summary": "Java source file",
+      "tags": [
+        "java",
+        "package:com.example",
+        "annotation:SpringBootApplication",
+        "entry-point",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": "Java source file"
+    },
+    {
+      "id": "class:tmp/test-java/src/main/java/com/example/Application.java:Application",
+      "type": "class",
+      "name": "Application",
+      "filePath": "tmp/test-java/src/main/java/com/example/Application.java",
+      "summary": "Class Application",
+      "tags": [
+        "java",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:tmp/test-java/src/main/java/com/example/Application.java:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "tmp/test-java/src/main/java/com/example/Application.java",
+      "summary": "Method main returning void",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/src/main/java/com/example/HelloController.java",
+      "type": "file",
+      "name": "HelloController",
+      "filePath": "tmp/test-java/src/main/java/com/example/HelloController.java",
+      "summary": "Java source file",
+      "tags": [
+        "java",
+        "package:com.example",
+        "annotation:RestController",
+        "annotation:GetMapping",
+        "controller",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": "Java source file"
+    },
+    {
+      "id": "class:tmp/test-java/src/main/java/com/example/HelloController.java:HelloController",
+      "type": "class",
+      "name": "HelloController",
+      "filePath": "tmp/test-java/src/main/java/com/example/HelloController.java",
+      "summary": "Class HelloController",
+      "tags": [
+        "java",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:tmp/test-java/src/main/java/com/example/HelloController.java:hello",
+      "type": "function",
+      "name": "hello",
+      "filePath": "tmp/test-java/src/main/java/com/example/HelloController.java",
+      "summary": "Method hello returning String",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:tmp/test-java/src/main/java/com/example/HelloController.java:status",
+      "type": "function",
+      "name": "status",
+      "filePath": "tmp/test-java/src/main/java/com/example/HelloController.java",
+      "summary": "Method status returning String",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/src/main/resources/application.yml",
+      "type": "config",
+      "name": "application",
+      "filePath": "tmp/test-java/src/main/resources/application.yml",
+      "summary": "YAML configuration file",
+      "tags": [
+        "yaml",
+        "config",
+        "keys:3"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/src/test/java/com/example/ApplicationTest.java",
+      "type": "file",
+      "name": "ApplicationTest",
+      "filePath": "tmp/test-java/src/test/java/com/example/ApplicationTest.java",
+      "summary": "Java source file",
+      "tags": [
+        "java",
+        "package:com.example",
+        "annotation:SpringBootTest",
+        "annotation:AutoConfigureMockMvc",
+        "annotation:Test",
+        "annotation:Autowired",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": "Java source file"
+    },
+    {
+      "id": "class:tmp/test-java/src/test/java/com/example/ApplicationTest.java:ApplicationTest",
+      "type": "class",
+      "name": "ApplicationTest",
+      "filePath": "tmp/test-java/src/test/java/com/example/ApplicationTest.java",
+      "summary": "Class ApplicationTest",
+      "tags": [
+        "java",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:tmp/test-java/src/test/java/com/example/ApplicationTest.java:testHelloEndpoint",
+      "type": "function",
+      "name": "testHelloEndpoint",
+      "filePath": "tmp/test-java/src/test/java/com/example/ApplicationTest.java",
+      "summary": "Method testHelloEndpoint returning void",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/.gitignore",
+      "type": "file",
+      "name": ".gitignore",
+      "filePath": "venv/.gitignore",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/__main__.py",
+      "type": "file",
+      "name": "__main__",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/__main__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/__main__.py:_StageTimer",
+      "type": "class",
+      "name": "_StageTimer",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/__main__.py",
+      "summary": "Python class _StageTimer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/_minhash.py",
+      "type": "file",
+      "name": "_minhash",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/_minhash.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/_minhash.py:MinHash",
+      "type": "class",
+      "name": "MinHash",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/_minhash.py",
+      "summary": "Python class MinHash",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/_minhash.py:MinHashLSH",
+      "type": "class",
+      "name": "MinHashLSH",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/_minhash.py",
+      "summary": "Python class MinHashLSH",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/affected.py",
+      "type": "file",
+      "name": "affected",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/affected.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/affected.py:AffectedHit",
+      "type": "class",
+      "name": "AffectedHit",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/affected.py",
+      "summary": "Python class AffectedHit",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/analyze.py",
+      "type": "file",
+      "name": "analyze",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/analyze.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/benchmark.py",
+      "type": "file",
+      "name": "benchmark",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/benchmark.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/build.py",
+      "type": "file",
+      "name": "build",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/build.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/cache.py",
+      "type": "file",
+      "name": "cache",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/cache.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/callflow_html.py",
+      "type": "file",
+      "name": "callflow_html",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/callflow_html.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/callflow_html.py:CallflowOptions",
+      "type": "class",
+      "name": "CallflowOptions",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/callflow_html.py",
+      "summary": "Python class CallflowOptions",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/graphify/callflow_html.py:read_json",
+      "type": "function",
+      "name": "read_json",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/callflow_html.py",
+      "summary": "Python function read_json",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/graphify/callflow_html.py:first_present",
+      "type": "function",
+      "name": "first_present",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/callflow_html.py",
+      "summary": "Python function first_present",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/graphify/callflow_html.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/callflow_html.py",
+      "summary": "Python function main",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/cargo_introspect.py",
+      "type": "file",
+      "name": "cargo_introspect",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/cargo_introspect.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/cluster.py",
+      "type": "file",
+      "name": "cluster",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/cluster.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/test-java/.git/objects/fa/4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "target": "file:tmp/test-java/.git/objects/fa/4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/.git/refs/heads/master",
+      "target": "file:tmp/test-java/.git/refs/heads/master",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/automation/graphify/run-graphify.sh",
+      "target": "file:tmp/test-java/automation/graphify/run-graphify.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/automation/orchestrate.sh",
+      "target": "file:tmp/test-java/automation/orchestrate.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/automation/ponytail/install-ponytail.sh",
+      "target": "file:tmp/test-java/automation/ponytail/install-ponytail.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/automation/sdd/run-sdd.sh",
+      "target": "file:tmp/test-java/automation/sdd/run-sdd.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/src/main/java/com/example/Application.java",
+      "target": "class:tmp/test-java/src/main/java/com/example/Application.java:Application",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/src/main/java/com/example/Application.java",
+      "target": "method:tmp/test-java/src/main/java/com/example/Application.java:main",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/src/main/java/com/example/HelloController.java",
+      "target": "class:tmp/test-java/src/main/java/com/example/HelloController.java:HelloController",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/src/main/java/com/example/HelloController.java",
+      "target": "method:tmp/test-java/src/main/java/com/example/HelloController.java:hello",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/src/main/java/com/example/HelloController.java",
+      "target": "method:tmp/test-java/src/main/java/com/example/HelloController.java:status",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/src/test/java/com/example/ApplicationTest.java",
+      "target": "class:tmp/test-java/src/test/java/com/example/ApplicationTest.java:ApplicationTest",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/src/test/java/com/example/ApplicationTest.java",
+      "target": "method:tmp/test-java/src/test/java/com/example/ApplicationTest.java:testHelloEndpoint",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/.gitignore",
+      "target": "file:venv/.gitignore",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/__main__.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/__main__.py:_StageTimer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/_minhash.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/_minhash.py:MinHash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/_minhash.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/_minhash.py:MinHashLSH",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/affected.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/affected.py:AffectedHit",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/callflow_html.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/callflow_html.py:CallflowOptions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/callflow_html.py",
+      "target": "function:venv/lib/python3.14/site-packages/graphify/callflow_html.py:read_json",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/callflow_html.py",
+      "target": "function:venv/lib/python3.14/site-packages/graphify/callflow_html.py:first_present",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/callflow_html.py",
+      "target": "function:venv/lib/python3.14/site-packages/graphify/callflow_html.py:main",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 40,
+    "edgeCount": 22,
+    "nodeTypes": {
+      "file": 21,
+      "document": 2,
+      "config": 2,
+      "class": 8,
+      "function": 7
+    }
+  }
+}

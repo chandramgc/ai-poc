@@ -1,0 +1,94 @@
+{
+  "batchIndex": 307,
+  "nodes": [
+    {
+      "id": "file:tmp/test-java-fixed/.git/COMMIT_EDITMSG",
+      "type": "file",
+      "name": "COMMIT_EDITMSG",
+      "filePath": "tmp/test-java-fixed/.git/COMMIT_EDITMSG",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java-fixed/.git/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": "tmp/test-java-fixed/.git/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java-fixed/.git/config",
+      "type": "file",
+      "name": "config",
+      "filePath": "tmp/test-java-fixed/.git/config",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java-fixed/.git/description",
+      "type": "file",
+      "name": "description",
+      "filePath": "tmp/test-java-fixed/.git/description",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java-fixed/.git/index",
+      "type": "file",
+      "name": "index",
+      "filePath": "tmp/test-java-fixed/.git/index",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/test-java-fixed/.git/COMMIT_EDITMSG",
+      "target": "file:tmp/test-java-fixed/.git/COMMIT_EDITMSG",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java-fixed/.git/HEAD",
+      "target": "file:tmp/test-java-fixed/.git/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java-fixed/.git/config",
+      "target": "file:tmp/test-java-fixed/.git/config",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java-fixed/.git/description",
+      "target": "file:tmp/test-java-fixed/.git/description",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java-fixed/.git/index",
+      "target": "file:tmp/test-java-fixed/.git/index",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

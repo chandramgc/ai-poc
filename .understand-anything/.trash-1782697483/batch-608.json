@@ -1,0 +1,2785 @@
+{
+  "batchIndex": 608,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py",
+      "type": "file",
+      "name": "test_eigenvector_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py:TestEigenvectorCentrality",
+      "type": "class",
+      "name": "TestEigenvectorCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py",
+      "summary": "Python class TestEigenvectorCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py:TestEigenvectorCentralityDirected",
+      "type": "class",
+      "name": "TestEigenvectorCentralityDirected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py",
+      "summary": "Python class TestEigenvectorCentralityDirected",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py:TestEigenvectorCentralityExceptions",
+      "type": "class",
+      "name": "TestEigenvectorCentralityExceptions",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py",
+      "summary": "Python class TestEigenvectorCentralityExceptions",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py",
+      "type": "file",
+      "name": "test_group",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py:TestGroupBetweennessCentrality",
+      "type": "class",
+      "name": "TestGroupBetweennessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py",
+      "summary": "Python class TestGroupBetweennessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py:TestProminentGroup",
+      "type": "class",
+      "name": "TestProminentGroup",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py",
+      "summary": "Python class TestProminentGroup",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py:TestGroupClosenessCentrality",
+      "type": "class",
+      "name": "TestGroupClosenessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py",
+      "summary": "Python class TestGroupClosenessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py:TestGroupDegreeCentrality",
+      "type": "class",
+      "name": "TestGroupDegreeCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py",
+      "summary": "Python class TestGroupDegreeCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_harmonic_centrality.py",
+      "type": "file",
+      "name": "test_harmonic_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_harmonic_centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_harmonic_centrality.py:TestClosenessCentrality",
+      "type": "class",
+      "name": "TestClosenessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_harmonic_centrality.py",
+      "summary": "Python class TestClosenessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py",
+      "type": "file",
+      "name": "test_katz_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py:TestKatzCentrality",
+      "type": "class",
+      "name": "TestKatzCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py",
+      "summary": "Python class TestKatzCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py:TestKatzCentralityNumpy",
+      "type": "class",
+      "name": "TestKatzCentralityNumpy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py",
+      "summary": "Python class TestKatzCentralityNumpy",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py:TestKatzCentralityDirected",
+      "type": "class",
+      "name": "TestKatzCentralityDirected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py",
+      "summary": "Python class TestKatzCentralityDirected",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py:TestKatzCentralityDirectedNumpy",
+      "type": "class",
+      "name": "TestKatzCentralityDirectedNumpy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py",
+      "summary": "Python class TestKatzCentralityDirectedNumpy",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py:TestKatzEigenvectorVKatz",
+      "type": "class",
+      "name": "TestKatzEigenvectorVKatz",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py",
+      "summary": "Python class TestKatzEigenvectorVKatz",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "type": "file",
+      "name": "test_laplacian_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_null_graph",
+      "type": "function",
+      "name": "test_laplacian_centrality_null_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "summary": "Python function test_laplacian_centrality_null_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_single_node",
+      "type": "function",
+      "name": "test_laplacian_centrality_single_node",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "summary": "Python function test_laplacian_centrality_single_node",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_unconnected_nodes",
+      "type": "function",
+      "name": "test_laplacian_centrality_unconnected_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "summary": "Python function test_laplacian_centrality_unconnected_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_empty_graph",
+      "type": "function",
+      "name": "test_laplacian_centrality_empty_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "summary": "Python function test_laplacian_centrality_empty_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_E",
+      "type": "function",
+      "name": "test_laplacian_centrality_E",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "summary": "Python function test_laplacian_centrality_E",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_KC",
+      "type": "function",
+      "name": "test_laplacian_centrality_KC",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "summary": "Python function test_laplacian_centrality_KC",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_K",
+      "type": "function",
+      "name": "test_laplacian_centrality_K",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "summary": "Python function test_laplacian_centrality_K",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_P3",
+      "type": "function",
+      "name": "test_laplacian_centrality_P3",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "summary": "Python function test_laplacian_centrality_P3",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_K5",
+      "type": "function",
+      "name": "test_laplacian_centrality_K5",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "summary": "Python function test_laplacian_centrality_K5",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_FF",
+      "type": "function",
+      "name": "test_laplacian_centrality_FF",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "summary": "Python function test_laplacian_centrality_FF",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_DG",
+      "type": "function",
+      "name": "test_laplacian_centrality_DG",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "summary": "Python function test_laplacian_centrality_DG",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_load_centrality.py",
+      "type": "file",
+      "name": "test_load_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_load_centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_load_centrality.py:TestLoadCentrality",
+      "type": "class",
+      "name": "TestLoadCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_load_centrality.py",
+      "summary": "Python class TestLoadCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "type": "file",
+      "name": "test_percolation_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py:example1a_G",
+      "type": "function",
+      "name": "example1a_G",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "summary": "Python function example1a_G",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py:example1b_G",
+      "type": "function",
+      "name": "example1b_G",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "summary": "Python function example1b_G",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py:test_percolation_example1a",
+      "type": "function",
+      "name": "test_percolation_example1a",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "summary": "Python function test_percolation_example1a",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py:test_percolation_example1b",
+      "type": "function",
+      "name": "test_percolation_example1b",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "summary": "Python function test_percolation_example1b",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py:test_converge_to_betweenness",
+      "type": "function",
+      "name": "test_converge_to_betweenness",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "summary": "Python function test_converge_to_betweenness",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py:test_default_percolation",
+      "type": "function",
+      "name": "test_default_percolation",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "summary": "Python function test_default_percolation",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_reaching.py",
+      "type": "file",
+      "name": "test_reaching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_reaching.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_reaching.py:TestGlobalReachingCentrality",
+      "type": "class",
+      "name": "TestGlobalReachingCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_reaching.py",
+      "summary": "Python class TestGlobalReachingCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_reaching.py:TestLocalReachingCentrality",
+      "type": "class",
+      "name": "TestLocalReachingCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_reaching.py",
+      "summary": "Python class TestLocalReachingCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "type": "file",
+      "name": "test_second_order_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_empty",
+      "type": "function",
+      "name": "test_empty",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "summary": "Python function test_empty",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_non_connected",
+      "type": "function",
+      "name": "test_non_connected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "summary": "Python function test_non_connected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_non_negative_edge_weights",
+      "type": "function",
+      "name": "test_non_negative_edge_weights",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "summary": "Python function test_non_negative_edge_weights",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_weight_attribute",
+      "type": "function",
+      "name": "test_weight_attribute",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "summary": "Python function test_weight_attribute",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_one_node_graph",
+      "type": "function",
+      "name": "test_one_node_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "summary": "Python function test_one_node_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_P3",
+      "type": "function",
+      "name": "test_P3",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "summary": "Python function test_P3",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_K3",
+      "type": "function",
+      "name": "test_K3",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "summary": "Python function test_K3",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_ring_graph",
+      "type": "function",
+      "name": "test_ring_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "summary": "Python function test_ring_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_subgraph.py",
+      "type": "file",
+      "name": "test_subgraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_subgraph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_subgraph.py:TestSubgraph",
+      "type": "class",
+      "name": "TestSubgraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_subgraph.py",
+      "summary": "Python class TestSubgraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "type": "file",
+      "name": "test_trophic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels",
+      "type": "function",
+      "name": "test_trophic_levels",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "summary": "Python function test_trophic_levels",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels_levine",
+      "type": "function",
+      "name": "test_trophic_levels_levine",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "summary": "Python function test_trophic_levels_levine",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels_simple",
+      "type": "function",
+      "name": "test_trophic_levels_simple",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "summary": "Python function test_trophic_levels_simple",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels_more_complex",
+      "type": "function",
+      "name": "test_trophic_levels_more_complex",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "summary": "Python function test_trophic_levels_more_complex",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels_even_more_complex",
+      "type": "function",
+      "name": "test_trophic_levels_even_more_complex",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "summary": "Python function test_trophic_levels_even_more_complex",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels_singular_matrix",
+      "type": "function",
+      "name": "test_trophic_levels_singular_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "summary": "Python function test_trophic_levels_singular_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels_singular_with_basal",
+      "type": "function",
+      "name": "test_trophic_levels_singular_with_basal",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "summary": "Python function test_trophic_levels_singular_with_basal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_differences",
+      "type": "function",
+      "name": "test_trophic_differences",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "summary": "Python function test_trophic_differences",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_incoherence_parameter_no_cannibalism",
+      "type": "function",
+      "name": "test_trophic_incoherence_parameter_no_cannibalism",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "summary": "Python function test_trophic_incoherence_parameter_no_cannibalism",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_incoherence_parameter_cannibalism",
+      "type": "function",
+      "name": "test_trophic_incoherence_parameter_cannibalism",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "summary": "Python function test_trophic_incoherence_parameter_cannibalism",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_no_basal_node",
+      "type": "function",
+      "name": "test_no_basal_node",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "summary": "Python function test_no_basal_node",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_voterank.py",
+      "type": "file",
+      "name": "test_voterank",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_voterank.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_voterank.py:TestVoteRankCentrality",
+      "type": "class",
+      "name": "TestVoteRankCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_voterank.py",
+      "summary": "Python class TestVoteRankCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py",
+      "type": "file",
+      "name": "trophic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py:trophic_levels",
+      "type": "function",
+      "name": "trophic_levels",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py",
+      "summary": "Python function trophic_levels",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py:trophic_differences",
+      "type": "function",
+      "name": "trophic_differences",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py",
+      "summary": "Python function trophic_differences",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py:trophic_incoherence_parameter",
+      "type": "function",
+      "name": "trophic_incoherence_parameter",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py",
+      "summary": "Python function trophic_incoherence_parameter",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/voterank_alg.py",
+      "type": "file",
+      "name": "voterank_alg",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/voterank_alg.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/voterank_alg.py:voterank",
+      "type": "function",
+      "name": "voterank",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/voterank_alg.py",
+      "summary": "Python function voterank",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/chains.py",
+      "type": "file",
+      "name": "chains",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/chains.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/chains.py:chain_decomposition",
+      "type": "function",
+      "name": "chain_decomposition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/chains.py",
+      "summary": "Python function chain_decomposition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "type": "file",
+      "name": "chordal",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py:NetworkXTreewidthBoundExceeded",
+      "type": "class",
+      "name": "NetworkXTreewidthBoundExceeded",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "summary": "Python class NetworkXTreewidthBoundExceeded",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py:is_chordal",
+      "type": "function",
+      "name": "is_chordal",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "summary": "Python function is_chordal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py:find_induced_nodes",
+      "type": "function",
+      "name": "find_induced_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "summary": "Python function find_induced_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py:chordal_graph_cliques",
+      "type": "function",
+      "name": "chordal_graph_cliques",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "summary": "Python function chordal_graph_cliques",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py:chordal_graph_treewidth",
+      "type": "function",
+      "name": "chordal_graph_treewidth",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "summary": "Python function chordal_graph_treewidth",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py:complete_to_chordal_graph",
+      "type": "function",
+      "name": "complete_to_chordal_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "summary": "Python function complete_to_chordal_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "type": "file",
+      "name": "clique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:MaxWeightClique",
+      "type": "class",
+      "name": "MaxWeightClique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "summary": "Python class MaxWeightClique",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:enumerate_all_cliques",
+      "type": "function",
+      "name": "enumerate_all_cliques",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "summary": "Python function enumerate_all_cliques",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:find_cliques",
+      "type": "function",
+      "name": "find_cliques",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "summary": "Python function find_cliques",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:find_cliques_recursive",
+      "type": "function",
+      "name": "find_cliques_recursive",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "summary": "Python function find_cliques_recursive",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:make_max_clique_graph",
+      "type": "function",
+      "name": "make_max_clique_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "summary": "Python function make_max_clique_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:make_clique_bipartite",
+      "type": "function",
+      "name": "make_clique_bipartite",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "summary": "Python function make_clique_bipartite",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:node_clique_number",
+      "type": "function",
+      "name": "node_clique_number",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "summary": "Python function node_clique_number",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:number_of_cliques",
+      "type": "function",
+      "name": "number_of_cliques",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "summary": "Python function number_of_cliques",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:max_weight_clique",
+      "type": "function",
+      "name": "max_weight_clique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "summary": "Python function max_weight_clique",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "type": "file",
+      "name": "cluster",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:triangles",
+      "type": "function",
+      "name": "triangles",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "summary": "Python function triangles",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:all_triangles",
+      "type": "function",
+      "name": "all_triangles",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "summary": "Python function all_triangles",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:average_clustering",
+      "type": "function",
+      "name": "average_clustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "summary": "Python function average_clustering",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:clustering",
+      "type": "function",
+      "name": "clustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "summary": "Python function clustering",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:transitivity",
+      "type": "function",
+      "name": "transitivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "summary": "Python function transitivity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:square_clustering",
+      "type": "function",
+      "name": "square_clustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "summary": "Python function square_clustering",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:generalized_degree",
+      "type": "function",
+      "name": "generalized_degree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "summary": "Python function generalized_degree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "type": "file",
+      "name": "equitable_coloring",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:is_coloring",
+      "type": "function",
+      "name": "is_coloring",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "summary": "Python function is_coloring",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:is_equitable",
+      "type": "function",
+      "name": "is_equitable",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "summary": "Python function is_equitable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:make_C_from_F",
+      "type": "function",
+      "name": "make_C_from_F",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "summary": "Python function make_C_from_F",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:make_N_from_L_C",
+      "type": "function",
+      "name": "make_N_from_L_C",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "summary": "Python function make_N_from_L_C",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:make_H_from_C_N",
+      "type": "function",
+      "name": "make_H_from_C_N",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "summary": "Python function make_H_from_C_N",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:change_color",
+      "type": "function",
+      "name": "change_color",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "summary": "Python function change_color",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:move_witnesses",
+      "type": "function",
+      "name": "move_witnesses",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "summary": "Python function move_witnesses",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:pad_graph",
+      "type": "function",
+      "name": "pad_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "summary": "Python function pad_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:procedure_P",
+      "type": "function",
+      "name": "procedure_P",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "summary": "Python function procedure_P",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:equitable_color",
+      "type": "function",
+      "name": "equitable_color",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "summary": "Python function equitable_color",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "type": "file",
+      "name": "greedy_coloring",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:_Node",
+      "type": "class",
+      "name": "_Node",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "summary": "Python class _Node",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:_AdjEntry",
+      "type": "class",
+      "name": "_AdjEntry",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "summary": "Python class _AdjEntry",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_largest_first",
+      "type": "function",
+      "name": "strategy_largest_first",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "summary": "Python function strategy_largest_first",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_random_sequential",
+      "type": "function",
+      "name": "strategy_random_sequential",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "summary": "Python function strategy_random_sequential",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_smallest_last",
+      "type": "function",
+      "name": "strategy_smallest_last",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "summary": "Python function strategy_smallest_last",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_independent_set",
+      "type": "function",
+      "name": "strategy_independent_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "summary": "Python function strategy_independent_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_connected_sequential_bfs",
+      "type": "function",
+      "name": "strategy_connected_sequential_bfs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "summary": "Python function strategy_connected_sequential_bfs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_connected_sequential_dfs",
+      "type": "function",
+      "name": "strategy_connected_sequential_dfs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "summary": "Python function strategy_connected_sequential_dfs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_connected_sequential",
+      "type": "function",
+      "name": "strategy_connected_sequential",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "summary": "Python function strategy_connected_sequential",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_saturation_largest_first",
+      "type": "function",
+      "name": "strategy_saturation_largest_first",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "summary": "Python function strategy_saturation_largest_first",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:greedy_color",
+      "type": "function",
+      "name": "greedy_color",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "summary": "Python function greedy_color",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/__pycache__/test_coloring.cpython-314.pyc",
+      "type": "file",
+      "name": "test_coloring.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/__pycache__/test_coloring.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "type": "file",
+      "name": "test_coloring",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:TestColoring",
+      "type": "class",
+      "name": "TestColoring",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python class TestColoring",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:verify_coloring",
+      "type": "function",
+      "name": "verify_coloring",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function verify_coloring",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:verify_length",
+      "type": "function",
+      "name": "verify_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function verify_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:dict_to_sets",
+      "type": "function",
+      "name": "dict_to_sets",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function dict_to_sets",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:empty_graph",
+      "type": "function",
+      "name": "empty_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function empty_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:one_node_graph",
+      "type": "function",
+      "name": "one_node_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function one_node_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:two_node_graph",
+      "type": "function",
+      "name": "two_node_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function two_node_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:three_node_clique",
+      "type": "function",
+      "name": "three_node_clique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function three_node_clique",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:disconnected",
+      "type": "function",
+      "name": "disconnected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function disconnected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:rs_shc",
+      "type": "function",
+      "name": "rs_shc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function rs_shc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:slf_shc",
+      "type": "function",
+      "name": "slf_shc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function slf_shc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:slf_hc",
+      "type": "function",
+      "name": "slf_hc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function slf_hc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:lf_shc",
+      "type": "function",
+      "name": "lf_shc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function lf_shc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:lf_hc",
+      "type": "function",
+      "name": "lf_hc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function lf_hc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:sl_shc",
+      "type": "function",
+      "name": "sl_shc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function sl_shc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:sl_hc",
+      "type": "function",
+      "name": "sl_hc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function sl_hc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:gis_shc",
+      "type": "function",
+      "name": "gis_shc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function gis_shc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:gis_hc",
+      "type": "function",
+      "name": "gis_hc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function gis_hc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:cs_shc",
+      "type": "function",
+      "name": "cs_shc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function cs_shc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:rsi_shc",
+      "type": "function",
+      "name": "rsi_shc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function rsi_shc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:lfi_shc",
+      "type": "function",
+      "name": "lfi_shc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function lfi_shc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:lfi_hc",
+      "type": "function",
+      "name": "lfi_hc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function lfi_hc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:sli_shc",
+      "type": "function",
+      "name": "sli_shc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function sli_shc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:sli_hc",
+      "type": "function",
+      "name": "sli_hc",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function sli_hc",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:check_state",
+      "type": "function",
+      "name": "check_state",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function check_state",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:max_degree",
+      "type": "function",
+      "name": "max_degree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function max_degree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:make_params_from_graph",
+      "type": "function",
+      "name": "make_params_from_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "summary": "Python function make_params_from_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py:TestEigenvectorCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py:TestEigenvectorCentralityDirected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_eigenvector_centrality.py:TestEigenvectorCentralityExceptions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py:TestGroupBetweennessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py:TestProminentGroup",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py:TestGroupClosenessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_group.py:TestGroupDegreeCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_harmonic_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_harmonic_centrality.py:TestClosenessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py:TestKatzCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py:TestKatzCentralityNumpy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py:TestKatzCentralityDirected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py:TestKatzCentralityDirectedNumpy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_katz_centrality.py:TestKatzEigenvectorVKatz",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_null_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_single_node",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_unconnected_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_empty_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_E",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_KC",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_K",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_P3",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_K5",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_FF",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_laplacian_centrality.py:test_laplacian_centrality_DG",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_load_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_load_centrality.py:TestLoadCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py:example1a_G",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py:example1b_G",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py:test_percolation_example1a",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py:test_percolation_example1b",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py:test_converge_to_betweenness",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_percolation_centrality.py:test_default_percolation",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_reaching.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_reaching.py:TestGlobalReachingCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_reaching.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_reaching.py:TestLocalReachingCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_empty",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_non_connected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_non_negative_edge_weights",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_weight_attribute",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_one_node_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_P3",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_K3",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_second_order_centrality.py:test_ring_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_subgraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_subgraph.py:TestSubgraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels_levine",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels_simple",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels_more_complex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels_even_more_complex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels_singular_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_levels_singular_with_basal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_differences",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_incoherence_parameter_no_cannibalism",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_trophic_incoherence_parameter_cannibalism",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_trophic.py:test_no_basal_node",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_voterank.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_voterank.py:TestVoteRankCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py:trophic_levels",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py:trophic_differences",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/trophic.py:trophic_incoherence_parameter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/voterank_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/voterank_alg.py:voterank",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/chains.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/chains.py:chain_decomposition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py:NetworkXTreewidthBoundExceeded",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py:is_chordal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py:find_induced_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py:chordal_graph_cliques",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py:chordal_graph_treewidth",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/chordal.py:complete_to_chordal_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:MaxWeightClique",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:enumerate_all_cliques",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:find_cliques",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:find_cliques_recursive",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:make_max_clique_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:make_clique_bipartite",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:node_clique_number",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:number_of_cliques",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/clique.py:max_weight_clique",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:triangles",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:all_triangles",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:average_clustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:clustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:transitivity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:square_clustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/cluster.py:generalized_degree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:is_coloring",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:is_equitable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:make_C_from_F",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:make_N_from_L_C",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:make_H_from_C_N",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:change_color",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:move_witnesses",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:pad_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:procedure_P",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/equitable_coloring.py:equitable_color",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:_Node",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:_AdjEntry",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_largest_first",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_random_sequential",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_smallest_last",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_independent_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_connected_sequential_bfs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_connected_sequential_dfs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_connected_sequential",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:strategy_saturation_largest_first",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/greedy_coloring.py:greedy_color",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/__pycache__/test_coloring.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/__pycache__/test_coloring.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:TestColoring",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:verify_coloring",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:verify_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:dict_to_sets",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:empty_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:one_node_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:two_node_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:three_node_clique",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:disconnected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:rs_shc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:slf_shc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:slf_hc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:lf_shc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:lf_hc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:sl_shc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:sl_hc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:gis_shc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:gis_hc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:cs_shc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:rsi_shc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:lfi_shc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:lfi_hc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:sli_shc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:sli_hc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:check_state",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:max_degree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/coloring/tests/test_coloring.py:make_params_from_graph",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 153,
+    "edgeCount": 131,
+    "nodeTypes": {
+      "file": 24,
+      "class": 23,
+      "function": 106
+    }
+  }
+}

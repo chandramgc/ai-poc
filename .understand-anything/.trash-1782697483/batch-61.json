@@ -1,0 +1,142 @@
+{
+  "batchIndex": 61,
+  "nodes": [
+    {
+      "id": "file:.git/objects/35/2d575b76ca698c66e7612204143e67c1547f34",
+      "type": "file",
+      "name": "2d575b76ca698c66e7612204143e67c1547f34",
+      "filePath": ".git/objects/35/2d575b76ca698c66e7612204143e67c1547f34",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/35/3e42e1755e8f38b7f2338b9476c48f3ca38360",
+      "type": "file",
+      "name": "3e42e1755e8f38b7f2338b9476c48f3ca38360",
+      "filePath": ".git/objects/35/3e42e1755e8f38b7f2338b9476c48f3ca38360",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/35/5ac40462e89ed21552654ad8e495c02a728c46",
+      "type": "file",
+      "name": "5ac40462e89ed21552654ad8e495c02a728c46",
+      "filePath": ".git/objects/35/5ac40462e89ed21552654ad8e495c02a728c46",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/35/735ebbad258b0bbfd9fd6d46cdb4fefb042346",
+      "type": "file",
+      "name": "735ebbad258b0bbfd9fd6d46cdb4fefb042346",
+      "filePath": ".git/objects/35/735ebbad258b0bbfd9fd6d46cdb4fefb042346",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/35/769e84408ce9076572c84e17d4a3f3eb611d08",
+      "type": "file",
+      "name": "769e84408ce9076572c84e17d4a3f3eb611d08",
+      "filePath": ".git/objects/35/769e84408ce9076572c84e17d4a3f3eb611d08",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/35/886a8d03ad6e72e226df01af6a6c76ae040c7b",
+      "type": "file",
+      "name": "886a8d03ad6e72e226df01af6a6c76ae040c7b",
+      "filePath": ".git/objects/35/886a8d03ad6e72e226df01af6a6c76ae040c7b",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/35/abb57d88a7613ff9c47a84cfb3ba4afbedea84",
+      "type": "file",
+      "name": "abb57d88a7613ff9c47a84cfb3ba4afbedea84",
+      "filePath": ".git/objects/35/abb57d88a7613ff9c47a84cfb3ba4afbedea84",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/35/f881afb8c7e043567cf85953d9046c011cec3d",
+      "type": "file",
+      "name": "f881afb8c7e043567cf85953d9046c011cec3d",
+      "filePath": ".git/objects/35/f881afb8c7e043567cf85953d9046c011cec3d",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:.git/objects/35/2d575b76ca698c66e7612204143e67c1547f34",
+      "target": "file:.git/objects/35/2d575b76ca698c66e7612204143e67c1547f34",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/35/3e42e1755e8f38b7f2338b9476c48f3ca38360",
+      "target": "file:.git/objects/35/3e42e1755e8f38b7f2338b9476c48f3ca38360",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/35/5ac40462e89ed21552654ad8e495c02a728c46",
+      "target": "file:.git/objects/35/5ac40462e89ed21552654ad8e495c02a728c46",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/35/735ebbad258b0bbfd9fd6d46cdb4fefb042346",
+      "target": "file:.git/objects/35/735ebbad258b0bbfd9fd6d46cdb4fefb042346",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/35/769e84408ce9076572c84e17d4a3f3eb611d08",
+      "target": "file:.git/objects/35/769e84408ce9076572c84e17d4a3f3eb611d08",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/35/886a8d03ad6e72e226df01af6a6c76ae040c7b",
+      "target": "file:.git/objects/35/886a8d03ad6e72e226df01af6a6c76ae040c7b",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/35/abb57d88a7613ff9c47a84cfb3ba4afbedea84",
+      "target": "file:.git/objects/35/abb57d88a7613ff9c47a84cfb3ba4afbedea84",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/35/f881afb8c7e043567cf85953d9046c011cec3d",
+      "target": "file:.git/objects/35/f881afb8c7e043567cf85953d9046c011cec3d",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 8,
+    "edgeCount": 8,
+    "nodeTypes": {
+      "file": 8
+    }
+  }
+}

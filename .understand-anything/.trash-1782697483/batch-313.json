@@ -1,0 +1,256 @@
+{
+  "batchIndex": 313,
+  "nodes": [
+    {
+      "id": "file:venv/bin/Activate.ps1",
+      "type": "file",
+      "name": "Activate",
+      "filePath": "venv/bin/Activate.ps1",
+      "summary": "Powershell file",
+      "tags": [
+        "powershell"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/activate",
+      "type": "file",
+      "name": "activate",
+      "filePath": "venv/bin/activate",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/activate.csh",
+      "type": "file",
+      "name": "activate",
+      "filePath": "venv/bin/activate.csh",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/activate.fish",
+      "type": "file",
+      "name": "activate",
+      "filePath": "venv/bin/activate.fish",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/f2py",
+      "type": "file",
+      "name": "f2py",
+      "filePath": "venv/bin/f2py",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/graphify",
+      "type": "file",
+      "name": "graphify",
+      "filePath": "venv/bin/graphify",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/graphify-mcp",
+      "type": "file",
+      "name": "graphify-mcp",
+      "filePath": "venv/bin/graphify-mcp",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/numpy-config",
+      "type": "file",
+      "name": "numpy-config",
+      "filePath": "venv/bin/numpy-config",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/pip",
+      "type": "file",
+      "name": "pip",
+      "filePath": "venv/bin/pip",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/pip3",
+      "type": "file",
+      "name": "pip3",
+      "filePath": "venv/bin/pip3",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/pip3.14",
+      "type": "file",
+      "name": "pip3",
+      "filePath": "venv/bin/pip3.14",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/python",
+      "type": "file",
+      "name": "python",
+      "filePath": "venv/bin/python",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/python3",
+      "type": "file",
+      "name": "python3",
+      "filePath": "venv/bin/python3",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/python3.14",
+      "type": "file",
+      "name": "python3",
+      "filePath": "venv/bin/python3.14",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/bin/\ud835\udf0bthon",
+      "type": "file",
+      "name": "\ud835\udf0bthon",
+      "filePath": "venv/bin/\ud835\udf0bthon",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/bin/Activate.ps1",
+      "target": "file:venv/bin/Activate.ps1",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/activate",
+      "target": "file:venv/bin/activate",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/activate.csh",
+      "target": "file:venv/bin/activate.csh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/activate.fish",
+      "target": "file:venv/bin/activate.fish",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/f2py",
+      "target": "file:venv/bin/f2py",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/graphify",
+      "target": "file:venv/bin/graphify",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/graphify-mcp",
+      "target": "file:venv/bin/graphify-mcp",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/numpy-config",
+      "target": "file:venv/bin/numpy-config",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/pip",
+      "target": "file:venv/bin/pip",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/pip3",
+      "target": "file:venv/bin/pip3",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/pip3.14",
+      "target": "file:venv/bin/pip3.14",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/python",
+      "target": "file:venv/bin/python",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/python3",
+      "target": "file:venv/bin/python3",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/python3.14",
+      "target": "file:venv/bin/python3.14",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/bin/\ud835\udf0bthon",
+      "target": "file:venv/bin/\ud835\udf0bthon",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 15,
+    "edgeCount": 15,
+    "nodeTypes": {
+      "file": 15
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "batchIndex": 336,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/conftest.cpython-314.pyc",
+      "type": "file",
+      "name": "conftest.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/__pycache__/conftest.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/convert.cpython-314.pyc",
+      "type": "file",
+      "name": "convert.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/__pycache__/convert.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/convert_matrix.cpython-314.pyc",
+      "type": "file",
+      "name": "convert_matrix.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/__pycache__/convert_matrix.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/exception.cpython-314.pyc",
+      "type": "file",
+      "name": "exception.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/__pycache__/exception.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/lazy_imports.cpython-314.pyc",
+      "type": "file",
+      "name": "lazy_imports.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/__pycache__/lazy_imports.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/relabel.cpython-314.pyc",
+      "type": "file",
+      "name": "relabel.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/__pycache__/relabel.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/conftest.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/conftest.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/convert.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/convert.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/convert_matrix.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/convert_matrix.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/exception.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/exception.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/lazy_imports.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/lazy_imports.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/relabel.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/__pycache__/relabel.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 7,
+    "edgeCount": 7,
+    "nodeTypes": {
+      "file": 7
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "batchIndex": 441,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ma/API_CHANGES.txt",
+      "type": "file",
+      "name": "API_CHANGES",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ma/API_CHANGES.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ma/LICENSE",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ma/LICENSE",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ma/README.rst",
+      "type": "file",
+      "name": "README",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ma/README.rst",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ma/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ma/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ma/core.pyi",
+      "type": "file",
+      "name": "core",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ma/core.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ma/extras.pyi",
+      "type": "file",
+      "name": "extras",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ma/extras.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ma/mrecords.pyi",
+      "type": "file",
+      "name": "mrecords",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ma/mrecords.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/ma/testutils.pyi",
+      "type": "file",
+      "name": "testutils",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/ma/testutils.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ma/API_CHANGES.txt",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/ma/API_CHANGES.txt",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ma/LICENSE",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/ma/LICENSE",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ma/README.rst",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/ma/README.rst",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ma/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/ma/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ma/core.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/ma/core.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ma/extras.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/ma/extras.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ma/mrecords.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/ma/mrecords.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/ma/testutils.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/ma/testutils.pyi",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 8,
+    "edgeCount": 8,
+    "nodeTypes": {
+      "file": 8
+    }
+  }
+}

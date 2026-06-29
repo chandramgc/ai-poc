@@ -1,0 +1,606 @@
+{
+  "batchIndex": 602,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/dedup.py",
+      "type": "file",
+      "name": "dedup",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/dedup.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/dedup.py:_UF",
+      "type": "class",
+      "name": "_UF",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/dedup.py",
+      "summary": "Python class _UF",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/detect.py",
+      "type": "file",
+      "name": "detect",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/detect.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/detect.py:FileType",
+      "type": "class",
+      "name": "FileType",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/detect.py",
+      "summary": "Python class FileType",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/diagnostics.py",
+      "type": "file",
+      "name": "diagnostics",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/diagnostics.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/export.py",
+      "type": "file",
+      "name": "export",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/export.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:13"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extract.py",
+      "type": "file",
+      "name": "extract",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extract.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:16"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/extract.py:LanguageConfig",
+      "type": "class",
+      "name": "LanguageConfig",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extract.py",
+      "summary": "Python class LanguageConfig",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_SymbolDeclarationFact",
+      "type": "class",
+      "name": "_SymbolDeclarationFact",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extract.py",
+      "summary": "Python class _SymbolDeclarationFact",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_SymbolImportFact",
+      "type": "class",
+      "name": "_SymbolImportFact",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extract.py",
+      "summary": "Python class _SymbolImportFact",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_SymbolAliasFact",
+      "type": "class",
+      "name": "_SymbolAliasFact",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extract.py",
+      "summary": "Python class _SymbolAliasFact",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_SymbolExportFact",
+      "type": "class",
+      "name": "_SymbolExportFact",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extract.py",
+      "summary": "Python class _SymbolExportFact",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_StarExportFact",
+      "type": "class",
+      "name": "_StarExportFact",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extract.py",
+      "summary": "Python class _StarExportFact",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_SymbolUseFact",
+      "type": "class",
+      "name": "_SymbolUseFact",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extract.py",
+      "summary": "Python class _SymbolUseFact",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_SymbolResolutionFacts",
+      "type": "class",
+      "name": "_SymbolResolutionFacts",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extract.py",
+      "summary": "Python class _SymbolResolutionFacts",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/base.py",
+      "type": "file",
+      "name": "base",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/base.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/blade.py",
+      "type": "file",
+      "name": "blade",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/blade.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/csharp.py",
+      "type": "file",
+      "name": "csharp",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/csharp.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/elixir.py",
+      "type": "file",
+      "name": "elixir",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/elixir.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/razor.py",
+      "type": "file",
+      "name": "razor",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/razor.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/extractors/zig.py",
+      "type": "file",
+      "name": "zig",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/extractors/zig.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/file_slice.py",
+      "type": "file",
+      "name": "file_slice",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/file_slice.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/file_slice.py:FileSlice",
+      "type": "class",
+      "name": "FileSlice",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/file_slice.py",
+      "summary": "Python class FileSlice",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/global_graph.py",
+      "type": "file",
+      "name": "global_graph",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/global_graph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/google_workspace.py",
+      "type": "file",
+      "name": "google_workspace",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/google_workspace.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/hooks.py",
+      "type": "file",
+      "name": "hooks",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/hooks.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/ids.py",
+      "type": "file",
+      "name": "ids",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/ids.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/ingest.py",
+      "type": "file",
+      "name": "ingest",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/ingest.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/llm.py",
+      "type": "file",
+      "name": "llm",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/llm.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/llm.py:_ImageRef",
+      "type": "class",
+      "name": "_ImageRef",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/llm.py",
+      "summary": "Python class _ImageRef",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/manifest_ingest.py",
+      "type": "file",
+      "name": "manifest_ingest",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/manifest_ingest.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/manifest.py",
+      "type": "file",
+      "name": "manifest",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/manifest.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/mcp_ingest.py",
+      "type": "file",
+      "name": "mcp_ingest",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/mcp_ingest.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/multigraph_compat.py",
+      "type": "file",
+      "name": "multigraph_compat",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/multigraph_compat.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/multigraph_compat.py:CapabilityCheck",
+      "type": "class",
+      "name": "CapabilityCheck",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/multigraph_compat.py",
+      "summary": "Python class CapabilityCheck",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/graphify/multigraph_compat.py:MultigraphCapabilityResult",
+      "type": "class",
+      "name": "MultigraphCapabilityResult",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/multigraph_compat.py",
+      "summary": "Python class MultigraphCapabilityResult",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/paths.py",
+      "type": "file",
+      "name": "paths",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/paths.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/graphify/pg_introspect.py",
+      "type": "file",
+      "name": "pg_introspect",
+      "filePath": "venv/lib/python3.14/site-packages/graphify/pg_introspect.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/dedup.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/dedup.py:_UF",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/detect.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/detect.py:FileType",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extract.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/extract.py:LanguageConfig",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extract.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_SymbolDeclarationFact",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extract.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_SymbolImportFact",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extract.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_SymbolAliasFact",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extract.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_SymbolExportFact",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extract.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_StarExportFact",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extract.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_SymbolUseFact",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/extract.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/extract.py:_SymbolResolutionFacts",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/file_slice.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/file_slice.py:FileSlice",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/llm.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/llm.py:_ImageRef",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/multigraph_compat.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/multigraph_compat.py:CapabilityCheck",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/graphify/multigraph_compat.py",
+      "target": "class:venv/lib/python3.14/site-packages/graphify/multigraph_compat.py:MultigraphCapabilityResult",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 39,
+    "edgeCount": 14,
+    "nodeTypes": {
+      "file": 25,
+      "class": 14
+    }
+  }
+}

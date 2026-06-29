@@ -1,0 +1,126 @@
+{
+  "batchIndex": 65,
+  "nodes": [
+    {
+      "id": "file:.git/objects/39/319c13cac27d65d88d34dac95470a6494a0dae",
+      "type": "file",
+      "name": "319c13cac27d65d88d34dac95470a6494a0dae",
+      "filePath": ".git/objects/39/319c13cac27d65d88d34dac95470a6494a0dae",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/39/32ae45fa7bfd2483b704e5056c8621f6a0478f",
+      "type": "file",
+      "name": "32ae45fa7bfd2483b704e5056c8621f6a0478f",
+      "filePath": ".git/objects/39/32ae45fa7bfd2483b704e5056c8621f6a0478f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/39/a8bc4598cda72411af11762b3f69a23477f29d",
+      "type": "file",
+      "name": "a8bc4598cda72411af11762b3f69a23477f29d",
+      "filePath": ".git/objects/39/a8bc4598cda72411af11762b3f69a23477f29d",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/39/c31c974fdf397574e43d5ae6036d09aec7b9ae",
+      "type": "file",
+      "name": "c31c974fdf397574e43d5ae6036d09aec7b9ae",
+      "filePath": ".git/objects/39/c31c974fdf397574e43d5ae6036d09aec7b9ae",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/39/cf35027cc5fd8b6e1af0c2bc41cb5ffe4f37d4",
+      "type": "file",
+      "name": "cf35027cc5fd8b6e1af0c2bc41cb5ffe4f37d4",
+      "filePath": ".git/objects/39/cf35027cc5fd8b6e1af0c2bc41cb5ffe4f37d4",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/39/f62a6d25923ea86f3c840e8af7942880bc2565",
+      "type": "file",
+      "name": "f62a6d25923ea86f3c840e8af7942880bc2565",
+      "filePath": ".git/objects/39/f62a6d25923ea86f3c840e8af7942880bc2565",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/39/fcc966ed95d368fa943d02a690f3c8fa0d9b93",
+      "type": "file",
+      "name": "fcc966ed95d368fa943d02a690f3c8fa0d9b93",
+      "filePath": ".git/objects/39/fcc966ed95d368fa943d02a690f3c8fa0d9b93",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:.git/objects/39/319c13cac27d65d88d34dac95470a6494a0dae",
+      "target": "file:.git/objects/39/319c13cac27d65d88d34dac95470a6494a0dae",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/39/32ae45fa7bfd2483b704e5056c8621f6a0478f",
+      "target": "file:.git/objects/39/32ae45fa7bfd2483b704e5056c8621f6a0478f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/39/a8bc4598cda72411af11762b3f69a23477f29d",
+      "target": "file:.git/objects/39/a8bc4598cda72411af11762b3f69a23477f29d",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/39/c31c974fdf397574e43d5ae6036d09aec7b9ae",
+      "target": "file:.git/objects/39/c31c974fdf397574e43d5ae6036d09aec7b9ae",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/39/cf35027cc5fd8b6e1af0c2bc41cb5ffe4f37d4",
+      "target": "file:.git/objects/39/cf35027cc5fd8b6e1af0c2bc41cb5ffe4f37d4",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/39/f62a6d25923ea86f3c840e8af7942880bc2565",
+      "target": "file:.git/objects/39/f62a6d25923ea86f3c840e8af7942880bc2565",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/39/fcc966ed95d368fa943d02a690f3c8fa0d9b93",
+      "target": "file:.git/objects/39/fcc966ed95d368fa943d02a690f3c8fa0d9b93",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 7,
+    "edgeCount": 7,
+    "nodeTypes": {
+      "file": 7
+    }
+  }
+}

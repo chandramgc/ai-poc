@@ -1,0 +1,1658 @@
+{
+  "batchIndex": 605,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py",
+      "type": "file",
+      "name": "correlation",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py:degree_assortativity_coefficient",
+      "type": "function",
+      "name": "degree_assortativity_coefficient",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py",
+      "summary": "Python function degree_assortativity_coefficient",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py:degree_pearson_correlation_coefficient",
+      "type": "function",
+      "name": "degree_pearson_correlation_coefficient",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py",
+      "summary": "Python function degree_pearson_correlation_coefficient",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py:attribute_assortativity_coefficient",
+      "type": "function",
+      "name": "attribute_assortativity_coefficient",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py",
+      "summary": "Python function attribute_assortativity_coefficient",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py:numeric_assortativity_coefficient",
+      "type": "function",
+      "name": "numeric_assortativity_coefficient",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py",
+      "summary": "Python function numeric_assortativity_coefficient",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py:attribute_ac",
+      "type": "function",
+      "name": "attribute_ac",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py",
+      "summary": "Python function attribute_ac",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py",
+      "type": "file",
+      "name": "mixing",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py:attribute_mixing_dict",
+      "type": "function",
+      "name": "attribute_mixing_dict",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py",
+      "summary": "Python function attribute_mixing_dict",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py:attribute_mixing_matrix",
+      "type": "function",
+      "name": "attribute_mixing_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py",
+      "summary": "Python function attribute_mixing_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py:degree_mixing_dict",
+      "type": "function",
+      "name": "degree_mixing_dict",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py",
+      "summary": "Python function degree_mixing_dict",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py:degree_mixing_matrix",
+      "type": "function",
+      "name": "degree_mixing_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py",
+      "summary": "Python function degree_mixing_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py:mixing_dict",
+      "type": "function",
+      "name": "mixing_dict",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py",
+      "summary": "Python function mixing_dict",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/neighbor_degree.py",
+      "type": "file",
+      "name": "neighbor_degree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/neighbor_degree.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/neighbor_degree.py:average_neighbor_degree",
+      "type": "function",
+      "name": "average_neighbor_degree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/neighbor_degree.py",
+      "summary": "Python function average_neighbor_degree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/pairs.py",
+      "type": "file",
+      "name": "pairs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/pairs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/pairs.py:node_attribute_xy",
+      "type": "function",
+      "name": "node_attribute_xy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/pairs.py",
+      "summary": "Python function node_attribute_xy",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/pairs.py:node_degree_xy",
+      "type": "function",
+      "name": "node_degree_xy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/pairs.py",
+      "summary": "Python function node_degree_xy",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/base_test.py",
+      "type": "file",
+      "name": "base_test",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/base_test.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/base_test.py:BaseTestAttributeMixing",
+      "type": "class",
+      "name": "BaseTestAttributeMixing",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/base_test.py",
+      "summary": "Python class BaseTestAttributeMixing",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/base_test.py:BaseTestDegreeMixing",
+      "type": "class",
+      "name": "BaseTestDegreeMixing",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/base_test.py",
+      "summary": "Python class BaseTestDegreeMixing",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_connectivity.py",
+      "type": "file",
+      "name": "test_connectivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_connectivity.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_connectivity.py:TestNeighborConnectivity",
+      "type": "class",
+      "name": "TestNeighborConnectivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_connectivity.py",
+      "summary": "Python class TestNeighborConnectivity",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_correlation.py",
+      "type": "file",
+      "name": "test_correlation",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_correlation.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_correlation.py:TestDegreeMixingCorrelation",
+      "type": "class",
+      "name": "TestDegreeMixingCorrelation",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_correlation.py",
+      "summary": "Python class TestDegreeMixingCorrelation",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_correlation.py:TestAttributeMixingCorrelation",
+      "type": "class",
+      "name": "TestAttributeMixingCorrelation",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_correlation.py",
+      "summary": "Python class TestAttributeMixingCorrelation",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py",
+      "type": "file",
+      "name": "test_mixing",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py:TestDegreeMixingDict",
+      "type": "class",
+      "name": "TestDegreeMixingDict",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py",
+      "summary": "Python class TestDegreeMixingDict",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py:TestDegreeMixingMatrix",
+      "type": "class",
+      "name": "TestDegreeMixingMatrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py",
+      "summary": "Python class TestDegreeMixingMatrix",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py:TestAttributeMixingDict",
+      "type": "class",
+      "name": "TestAttributeMixingDict",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py",
+      "summary": "Python class TestAttributeMixingDict",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py:TestAttributeMixingMatrix",
+      "type": "class",
+      "name": "TestAttributeMixingMatrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py",
+      "summary": "Python class TestAttributeMixingMatrix",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_neighbor_degree.py",
+      "type": "file",
+      "name": "test_neighbor_degree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_neighbor_degree.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_neighbor_degree.py:TestAverageNeighbor",
+      "type": "class",
+      "name": "TestAverageNeighbor",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_neighbor_degree.py",
+      "summary": "Python class TestAverageNeighbor",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_pairs.py",
+      "type": "file",
+      "name": "test_pairs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_pairs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_pairs.py:TestAttributeMixingXY",
+      "type": "class",
+      "name": "TestAttributeMixingXY",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_pairs.py",
+      "summary": "Python class TestAttributeMixingXY",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_pairs.py:TestDegreeMixingXY",
+      "type": "class",
+      "name": "TestDegreeMixingXY",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_pairs.py",
+      "summary": "Python class TestDegreeMixingXY",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py",
+      "type": "file",
+      "name": "asteroidal",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py:find_asteroidal_triple",
+      "type": "function",
+      "name": "find_asteroidal_triple",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py",
+      "summary": "Python function find_asteroidal_triple",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py:is_at_free",
+      "type": "function",
+      "name": "is_at_free",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py",
+      "summary": "Python function is_at_free",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py:create_component_structure",
+      "type": "function",
+      "name": "create_component_structure",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py",
+      "summary": "Python function create_component_structure",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:13"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "type": "file",
+      "name": "basic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py:color",
+      "type": "function",
+      "name": "color",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "summary": "Python function color",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py:is_bipartite",
+      "type": "function",
+      "name": "is_bipartite",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "summary": "Python function is_bipartite",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py:is_bipartite_node_set",
+      "type": "function",
+      "name": "is_bipartite_node_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "summary": "Python function is_bipartite_node_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py:sets",
+      "type": "function",
+      "name": "sets",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "summary": "Python function sets",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py:density",
+      "type": "function",
+      "name": "density",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "summary": "Python function density",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py:degrees",
+      "type": "function",
+      "name": "degrees",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "summary": "Python function degrees",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py",
+      "type": "file",
+      "name": "centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py:degree_centrality",
+      "type": "function",
+      "name": "degree_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py",
+      "summary": "Python function degree_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py:betweenness_centrality",
+      "type": "function",
+      "name": "betweenness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py",
+      "summary": "Python function betweenness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py:closeness_centrality",
+      "type": "function",
+      "name": "closeness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py",
+      "summary": "Python function closeness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "type": "file",
+      "name": "cluster",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py:cc_dot",
+      "type": "function",
+      "name": "cc_dot",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "summary": "Python function cc_dot",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py:cc_max",
+      "type": "function",
+      "name": "cc_max",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "summary": "Python function cc_max",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py:cc_min",
+      "type": "function",
+      "name": "cc_min",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "summary": "Python function cc_min",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py:latapy_clustering",
+      "type": "function",
+      "name": "latapy_clustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "summary": "Python function latapy_clustering",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py:average_clustering",
+      "type": "function",
+      "name": "average_clustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "summary": "Python function average_clustering",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py:robins_alexander_clustering",
+      "type": "function",
+      "name": "robins_alexander_clustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "summary": "Python function robins_alexander_clustering",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/covering.py",
+      "type": "file",
+      "name": "covering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/covering.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/covering.py:min_edge_cover",
+      "type": "function",
+      "name": "min_edge_cover",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/covering.py",
+      "summary": "Python function min_edge_cover",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py",
+      "type": "file",
+      "name": "edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py:write_edgelist",
+      "type": "function",
+      "name": "write_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py",
+      "summary": "Python function write_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py:generate_edgelist",
+      "type": "function",
+      "name": "generate_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py",
+      "summary": "Python function generate_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py:parse_edgelist",
+      "type": "function",
+      "name": "parse_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py",
+      "summary": "Python function parse_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py:read_edgelist",
+      "type": "function",
+      "name": "read_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py",
+      "summary": "Python function read_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/extendability.py",
+      "type": "file",
+      "name": "extendability",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/extendability.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/extendability.py:maximal_extendability",
+      "type": "function",
+      "name": "maximal_extendability",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/extendability.py",
+      "summary": "Python function maximal_extendability",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "type": "file",
+      "name": "generators",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:complete_bipartite_graph",
+      "type": "function",
+      "name": "complete_bipartite_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "summary": "Python function complete_bipartite_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:configuration_model",
+      "type": "function",
+      "name": "configuration_model",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "summary": "Python function configuration_model",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:havel_hakimi_graph",
+      "type": "function",
+      "name": "havel_hakimi_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "summary": "Python function havel_hakimi_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:reverse_havel_hakimi_graph",
+      "type": "function",
+      "name": "reverse_havel_hakimi_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "summary": "Python function reverse_havel_hakimi_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:alternating_havel_hakimi_graph",
+      "type": "function",
+      "name": "alternating_havel_hakimi_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "summary": "Python function alternating_havel_hakimi_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:preferential_attachment_graph",
+      "type": "function",
+      "name": "preferential_attachment_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "summary": "Python function preferential_attachment_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:random_graph",
+      "type": "function",
+      "name": "random_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "summary": "Python function random_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:gnmk_random_graph",
+      "type": "function",
+      "name": "gnmk_random_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "summary": "Python function gnmk_random_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/link_analysis.py",
+      "type": "file",
+      "name": "link_analysis",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/link_analysis.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/link_analysis.py:birank",
+      "type": "function",
+      "name": "birank",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/link_analysis.py",
+      "summary": "Python function birank",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py",
+      "type": "file",
+      "name": "matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py:hopcroft_karp_matching",
+      "type": "function",
+      "name": "hopcroft_karp_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py",
+      "summary": "Python function hopcroft_karp_matching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py:eppstein_matching",
+      "type": "function",
+      "name": "eppstein_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py",
+      "summary": "Python function eppstein_matching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py:to_vertex_cover",
+      "type": "function",
+      "name": "to_vertex_cover",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py",
+      "summary": "Python function to_vertex_cover",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py:minimum_weight_full_matching",
+      "type": "function",
+      "name": "minimum_weight_full_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py",
+      "summary": "Python function minimum_weight_full_matching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matrix.py",
+      "type": "file",
+      "name": "matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matrix.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matrix.py:biadjacency_matrix",
+      "type": "function",
+      "name": "biadjacency_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matrix.py",
+      "summary": "Python function biadjacency_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matrix.py:from_biadjacency_matrix",
+      "type": "function",
+      "name": "from_biadjacency_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matrix.py",
+      "summary": "Python function from_biadjacency_matrix",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py",
+      "type": "file",
+      "name": "projection",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py:projected_graph",
+      "type": "function",
+      "name": "projected_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py",
+      "summary": "Python function projected_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py:weighted_projected_graph",
+      "type": "function",
+      "name": "weighted_projected_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py",
+      "summary": "Python function weighted_projected_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py:collaboration_weighted_projected_graph",
+      "type": "function",
+      "name": "collaboration_weighted_projected_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py",
+      "summary": "Python function collaboration_weighted_projected_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py:overlap_weighted_projected_graph",
+      "type": "function",
+      "name": "overlap_weighted_projected_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py",
+      "summary": "Python function overlap_weighted_projected_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py:generic_weighted_projected_graph",
+      "type": "function",
+      "name": "generic_weighted_projected_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py",
+      "summary": "Python function generic_weighted_projected_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/redundancy.py",
+      "type": "file",
+      "name": "redundancy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/redundancy.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/redundancy.py:node_redundancy",
+      "type": "function",
+      "name": "node_redundancy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/redundancy.py",
+      "summary": "Python function node_redundancy",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py:degree_assortativity_coefficient",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py:degree_pearson_correlation_coefficient",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py:attribute_assortativity_coefficient",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py:numeric_assortativity_coefficient",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/correlation.py:attribute_ac",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py:attribute_mixing_dict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py:attribute_mixing_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py:degree_mixing_dict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py:degree_mixing_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/mixing.py:mixing_dict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/neighbor_degree.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/neighbor_degree.py:average_neighbor_degree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/pairs.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/pairs.py:node_attribute_xy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/pairs.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/pairs.py:node_degree_xy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/base_test.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/base_test.py:BaseTestAttributeMixing",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/base_test.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/base_test.py:BaseTestDegreeMixing",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_connectivity.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_connectivity.py:TestNeighborConnectivity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_correlation.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_correlation.py:TestDegreeMixingCorrelation",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_correlation.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_correlation.py:TestAttributeMixingCorrelation",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py:TestDegreeMixingDict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py:TestDegreeMixingMatrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py:TestAttributeMixingDict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_mixing.py:TestAttributeMixingMatrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_neighbor_degree.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_neighbor_degree.py:TestAverageNeighbor",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_pairs.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_pairs.py:TestAttributeMixingXY",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_pairs.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/tests/test_pairs.py:TestDegreeMixingXY",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py:find_asteroidal_triple",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py:is_at_free",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/asteroidal.py:create_component_structure",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py:color",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py:is_bipartite",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py:is_bipartite_node_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py:sets",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py:density",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/basic.py:degrees",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py:degree_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py:betweenness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/centrality.py:closeness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py:cc_dot",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py:cc_max",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py:cc_min",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py:latapy_clustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py:average_clustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/cluster.py:robins_alexander_clustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/covering.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/covering.py:min_edge_cover",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py:write_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py:generate_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py:parse_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/edgelist.py:read_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/extendability.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/extendability.py:maximal_extendability",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:complete_bipartite_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:configuration_model",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:havel_hakimi_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:reverse_havel_hakimi_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:alternating_havel_hakimi_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:preferential_attachment_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:random_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/generators.py:gnmk_random_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/link_analysis.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/link_analysis.py:birank",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py:hopcroft_karp_matching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py:eppstein_matching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py:to_vertex_cover",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matching.py:minimum_weight_full_matching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matrix.py:biadjacency_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/matrix.py:from_biadjacency_matrix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py:projected_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py:weighted_projected_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py:collaboration_weighted_projected_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py:overlap_weighted_projected_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/projection.py:generic_weighted_projected_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/redundancy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/bipartite/redundancy.py:node_redundancy",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 94,
+    "edgeCount": 70,
+    "nodeTypes": {
+      "file": 24,
+      "function": 58,
+      "class": 12
+    }
+  }
+}

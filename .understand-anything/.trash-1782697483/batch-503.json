@@ -1,0 +1,94 @@
+{
+  "batchIndex": 503,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/abstract.cpython-314.pyc",
+      "type": "file",
+      "name": "abstract.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/abstract.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/criterion.cpython-314.pyc",
+      "type": "file",
+      "name": "criterion.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/criterion.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/exceptions.cpython-314.pyc",
+      "type": "file",
+      "name": "exceptions.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/exceptions.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/resolution.cpython-314.pyc",
+      "type": "file",
+      "name": "resolution.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/resolution.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/abstract.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/abstract.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/criterion.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/criterion.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/exceptions.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/exceptions.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/resolution.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__/resolution.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

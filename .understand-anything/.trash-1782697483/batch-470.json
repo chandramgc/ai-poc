@@ -1,0 +1,158 @@
+{
+  "batchIndex": 470,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/build_env.cpython-314.pyc",
+      "type": "file",
+      "name": "build_env.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/__pycache__/build_env.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/cache.cpython-314.pyc",
+      "type": "file",
+      "name": "cache.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/__pycache__/cache.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/configuration.cpython-314.pyc",
+      "type": "file",
+      "name": "configuration.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/__pycache__/configuration.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/exceptions.cpython-314.pyc",
+      "type": "file",
+      "name": "exceptions.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/__pycache__/exceptions.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/main.cpython-314.pyc",
+      "type": "file",
+      "name": "main.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/__pycache__/main.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/pyproject.cpython-314.pyc",
+      "type": "file",
+      "name": "pyproject.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/__pycache__/pyproject.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/self_outdated_check.cpython-314.pyc",
+      "type": "file",
+      "name": "self_outdated_check.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/__pycache__/self_outdated_check.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/wheel_builder.cpython-314.pyc",
+      "type": "file",
+      "name": "wheel_builder.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/__pycache__/wheel_builder.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/build_env.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/build_env.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/cache.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/cache.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/configuration.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/configuration.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/exceptions.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/exceptions.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/main.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/main.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/pyproject.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/pyproject.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/self_outdated_check.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/self_outdated_check.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/wheel_builder.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/__pycache__/wheel_builder.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 9,
+    "edgeCount": 9,
+    "nodeTypes": {
+      "file": 9
+    }
+  }
+}

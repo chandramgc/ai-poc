@@ -1,0 +1,269 @@
+{
+  "batchIndex": 2,
+  "nodes": [
+    {
+      "id": "file:.env",
+      "type": "file",
+      "name": ".env",
+      "filePath": ".env",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.gitignore",
+      "type": "file",
+      "name": ".gitignore",
+      "filePath": ".gitignore",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:AGENTS.md",
+      "type": "document",
+      "name": "AGENTS",
+      "filePath": "AGENTS.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:AGENTS.md - AI Agent Configura",
+        "section:\ud83c\udf31 Spec Kit (SDD)",
+        "section:\ud83d\udc34 Ponytail",
+        "section:\ud83e\udde0 Graphify",
+        "section:Development Workflow",
+        "section:Key Files",
+        "code_blocks:1"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:Makefile",
+      "type": "file",
+      "name": "Makefile",
+      "filePath": "Makefile",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:README.md",
+      "type": "document",
+      "name": "README",
+      "filePath": "README.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Project with Automation",
+        "section:\ud83c\udf31 Spec Kit (Spec-Driven Develo",
+        "section:Spec Kit Resources",
+        "section:\ud83d\udc34 Ponytail",
+        "section:Ponytail Resources",
+        "section:\ud83e\udde0 Graphify",
+        "section:Graphify Resources",
+        "section:\ud83d\ude80 Quick Start",
+        "section:1. Initialize the project",
+        "section:2. Generate knowledge graph",
+        "code_blocks:11"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build.gradle",
+      "type": "config",
+      "name": "build",
+      "filePath": "build.gradle",
+      "summary": "Gradle build configuration",
+      "tags": [
+        "gradle",
+        "config",
+        "build",
+        "plugin:java",
+        "plugin:org.springframework.boot",
+        "plugin:io.spring.dependency-management",
+        "dependencies:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:checkstyle.xml",
+      "type": "config",
+      "name": "checkstyle",
+      "filePath": "checkstyle.xml",
+      "summary": "XML configuration file",
+      "tags": [
+        "xml",
+        "config"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:gradlew",
+      "type": "file",
+      "name": "gradlew",
+      "filePath": "gradlew",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:gradlew.bat",
+      "type": "file",
+      "name": "gradlew",
+      "filePath": "gradlew.bat",
+      "summary": "Batch file",
+      "tags": [
+        "batch"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-20260628_153250.log",
+      "type": "file",
+      "name": "scaffold-20260628_153250",
+      "filePath": "scaffold-20260628_153250.log",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-20260628_154125.log",
+      "type": "file",
+      "name": "scaffold-20260628_154125",
+      "filePath": "scaffold-20260628_154125.log",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-20260628_154219.log",
+      "type": "file",
+      "name": "scaffold-20260628_154219",
+      "filePath": "scaffold-20260628_154219.log",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation.sh",
+      "type": "file",
+      "name": "scaffold-automation",
+      "filePath": "scaffold-automation.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:settings.gradle",
+      "type": "config",
+      "name": "settings",
+      "filePath": "settings.gradle",
+      "summary": "Gradle build configuration",
+      "tags": [
+        "gradle",
+        "config",
+        "build"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:sonar-project.properties",
+      "type": "file",
+      "name": "sonar-project",
+      "filePath": "sonar-project.properties",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:.env",
+      "target": "file:.env",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.gitignore",
+      "target": "file:.gitignore",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:Makefile",
+      "target": "file:Makefile",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:gradlew",
+      "target": "file:gradlew",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:gradlew.bat",
+      "target": "file:gradlew.bat",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-20260628_153250.log",
+      "target": "file:scaffold-20260628_153250.log",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-20260628_154125.log",
+      "target": "file:scaffold-20260628_154125.log",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-20260628_154219.log",
+      "target": "file:scaffold-20260628_154219.log",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation.sh",
+      "target": "file:scaffold-automation.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:sonar-project.properties",
+      "target": "file:sonar-project.properties",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 15,
+    "edgeCount": 10,
+    "nodeTypes": {
+      "file": 10,
+      "document": 2,
+      "config": 3
+    }
+  }
+}

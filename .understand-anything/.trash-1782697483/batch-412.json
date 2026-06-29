@@ -1,0 +1,254 @@
+{
+  "batchIndex": 412,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/_internal.pyi",
+      "type": "file",
+      "name": "_internal",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/_internal.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/arrayprint.pyi",
+      "type": "file",
+      "name": "arrayprint",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/arrayprint.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/defchararray.pyi",
+      "type": "file",
+      "name": "defchararray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/defchararray.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/einsumfunc.pyi",
+      "type": "file",
+      "name": "einsumfunc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/einsumfunc.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/fromnumeric.pyi",
+      "type": "file",
+      "name": "fromnumeric",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/fromnumeric.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/function_base.pyi",
+      "type": "file",
+      "name": "function_base",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/function_base.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/getlimits.pyi",
+      "type": "file",
+      "name": "getlimits",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/getlimits.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/multiarray.pyi",
+      "type": "file",
+      "name": "multiarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/multiarray.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/numeric.pyi",
+      "type": "file",
+      "name": "numeric",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/numeric.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/numerictypes.pyi",
+      "type": "file",
+      "name": "numerictypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/numerictypes.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/overrides.pyi",
+      "type": "file",
+      "name": "overrides",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/overrides.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/records.pyi",
+      "type": "file",
+      "name": "records",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/records.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/shape_base.pyi",
+      "type": "file",
+      "name": "shape_base",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/shape_base.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/umath.pyi",
+      "type": "file",
+      "name": "umath",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/umath.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/_internal.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/_internal.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/arrayprint.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/arrayprint.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/defchararray.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/defchararray.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/einsumfunc.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/einsumfunc.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/fromnumeric.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/fromnumeric.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/function_base.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/function_base.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/getlimits.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/getlimits.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/multiarray.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/multiarray.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/numeric.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/numeric.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/numerictypes.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/numerictypes.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/overrides.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/overrides.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/records.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/records.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/shape_base.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/shape_base.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/core/umath.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/core/umath.pyi",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 15,
+    "edgeCount": 15,
+    "nodeTypes": {
+      "file": 15
+    }
+  }
+}

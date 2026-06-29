@@ -1,0 +1,2722 @@
+{
+  "batchIndex": 604,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/kcomponents.py",
+      "type": "file",
+      "name": "kcomponents",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/kcomponents.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/kcomponents.py:_AntiGraph",
+      "type": "class",
+      "name": "_AntiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/kcomponents.py",
+      "summary": "Python class _AntiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/kcomponents.py:k_components",
+      "type": "function",
+      "name": "k_components",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/kcomponents.py",
+      "summary": "Python function k_components",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/matching.py",
+      "type": "file",
+      "name": "matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/matching.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/matching.py:min_maximal_matching",
+      "type": "function",
+      "name": "min_maximal_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/matching.py",
+      "summary": "Python function min_maximal_matching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/maxcut.py",
+      "type": "file",
+      "name": "maxcut",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/maxcut.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/maxcut.py:randomized_partitioning",
+      "type": "function",
+      "name": "randomized_partitioning",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/maxcut.py",
+      "summary": "Python function randomized_partitioning",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/maxcut.py:one_exchange",
+      "type": "function",
+      "name": "one_exchange",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/maxcut.py",
+      "summary": "Python function one_exchange",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/ramsey.py",
+      "type": "file",
+      "name": "ramsey",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/ramsey.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/ramsey.py:ramsey_R2",
+      "type": "function",
+      "name": "ramsey_R2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/ramsey.py",
+      "summary": "Python function ramsey_R2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/steinertree.py",
+      "type": "file",
+      "name": "steinertree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/steinertree.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/steinertree.py:metric_closure",
+      "type": "function",
+      "name": "metric_closure",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/steinertree.py",
+      "summary": "Python function metric_closure",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/steinertree.py:steiner_tree",
+      "type": "function",
+      "name": "steiner_tree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/steinertree.py",
+      "summary": "Python function steiner_tree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "type": "file",
+      "name": "test_approx_clust_coeff",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py:test_petersen",
+      "type": "function",
+      "name": "test_petersen",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "summary": "Python function test_petersen",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py:test_petersen_seed",
+      "type": "function",
+      "name": "test_petersen_seed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "summary": "Python function test_petersen_seed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py:test_tetrahedral",
+      "type": "function",
+      "name": "test_tetrahedral",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "summary": "Python function test_tetrahedral",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py:test_dodecahedral",
+      "type": "function",
+      "name": "test_dodecahedral",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "summary": "Python function test_dodecahedral",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py:test_empty",
+      "type": "function",
+      "name": "test_empty",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "summary": "Python function test_empty",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py:test_complete",
+      "type": "function",
+      "name": "test_complete",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "summary": "Python function test_complete",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "type": "file",
+      "name": "test_clique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py:TestCliqueRemoval",
+      "type": "class",
+      "name": "TestCliqueRemoval",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "summary": "Python class TestCliqueRemoval",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py:TestMaxClique",
+      "type": "class",
+      "name": "TestMaxClique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "summary": "Python class TestMaxClique",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py:is_independent_set",
+      "type": "function",
+      "name": "is_independent_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "summary": "Python function is_independent_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py:is_clique",
+      "type": "function",
+      "name": "is_clique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "summary": "Python function is_clique",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py:test_large_clique_size",
+      "type": "function",
+      "name": "test_large_clique_size",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "summary": "Python function test_large_clique_size",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py:test_independent_set",
+      "type": "function",
+      "name": "test_independent_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "summary": "Python function test_independent_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "type": "file",
+      "name": "test_connectivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:TestAllPairsNodeConnectivityApprox",
+      "type": "class",
+      "name": "TestAllPairsNodeConnectivityApprox",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python class TestAllPairsNodeConnectivityApprox",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_global_node_connectivity",
+      "type": "function",
+      "name": "test_global_node_connectivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python function test_global_node_connectivity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_white_harary1",
+      "type": "function",
+      "name": "test_white_harary1",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python function test_white_harary1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_complete_graphs",
+      "type": "function",
+      "name": "test_complete_graphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python function test_complete_graphs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_empty_graphs",
+      "type": "function",
+      "name": "test_empty_graphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python function test_empty_graphs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_petersen",
+      "type": "function",
+      "name": "test_petersen",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python function test_petersen",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_dodecahedral",
+      "type": "function",
+      "name": "test_dodecahedral",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python function test_dodecahedral",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_octahedral",
+      "type": "function",
+      "name": "test_octahedral",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python function test_octahedral",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_only_source",
+      "type": "function",
+      "name": "test_only_source",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python function test_only_source",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_only_target",
+      "type": "function",
+      "name": "test_only_target",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python function test_only_target",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_missing_source",
+      "type": "function",
+      "name": "test_missing_source",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python function test_missing_source",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_missing_target",
+      "type": "function",
+      "name": "test_missing_target",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python function test_missing_target",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_source_equals_target",
+      "type": "function",
+      "name": "test_source_equals_target",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python function test_source_equals_target",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_directed_node_connectivity",
+      "type": "function",
+      "name": "test_directed_node_connectivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "summary": "Python function test_directed_node_connectivity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "type": "file",
+      "name": "test_density",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:close_cliques_example",
+      "type": "function",
+      "name": "close_cliques_example",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "summary": "Python function close_cliques_example",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_star",
+      "type": "function",
+      "name": "test_star",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "summary": "Python function test_star",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_greedy_plus_plus_complete_graph",
+      "type": "function",
+      "name": "test_greedy_plus_plus_complete_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "summary": "Python function test_greedy_plus_plus_complete_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_greedy_plus_plus_close_cliques",
+      "type": "function",
+      "name": "test_greedy_plus_plus_close_cliques",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "summary": "Python function test_greedy_plus_plus_close_cliques",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_fista_close_cliques",
+      "type": "function",
+      "name": "test_fista_close_cliques",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "summary": "Python function test_fista_close_cliques",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:bipartite_and_clique_example",
+      "type": "function",
+      "name": "bipartite_and_clique_example",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "summary": "Python function bipartite_and_clique_example",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_greedy_plus_plus_bipartite_and_clique",
+      "type": "function",
+      "name": "test_greedy_plus_plus_bipartite_and_clique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "summary": "Python function test_greedy_plus_plus_bipartite_and_clique",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_fista_bipartite_and_clique",
+      "type": "function",
+      "name": "test_fista_bipartite_and_clique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "summary": "Python function test_fista_bipartite_and_clique",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_fista_big_dataset",
+      "type": "function",
+      "name": "test_fista_big_dataset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "summary": "Python function test_fista_big_dataset",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_greedy_plus_plus_edgeless_cornercase",
+      "type": "function",
+      "name": "test_greedy_plus_plus_edgeless_cornercase",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "summary": "Python function test_greedy_plus_plus_edgeless_cornercase",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_gh_8271",
+      "type": "function",
+      "name": "test_gh_8271",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "summary": "Python function test_gh_8271",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_distance_measures.py",
+      "type": "file",
+      "name": "test_distance_measures",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_distance_measures.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_distance_measures.py:TestDiameter",
+      "type": "class",
+      "name": "TestDiameter",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_distance_measures.py",
+      "summary": "Python class TestDiameter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_dominating_set.py",
+      "type": "file",
+      "name": "test_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_dominating_set.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_dominating_set.py:TestMinWeightDominatingSet",
+      "type": "class",
+      "name": "TestMinWeightDominatingSet",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_dominating_set.py",
+      "summary": "Python class TestMinWeightDominatingSet",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "type": "file",
+      "name": "test_kcomponents",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:TestAntiGraph",
+      "type": "class",
+      "name": "TestAntiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "summary": "Python class TestAntiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:build_k_number_dict",
+      "type": "function",
+      "name": "build_k_number_dict",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "summary": "Python function build_k_number_dict",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:graph_example_1",
+      "type": "function",
+      "name": "graph_example_1",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "summary": "Python function graph_example_1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:torrents_and_ferraro_graph",
+      "type": "function",
+      "name": "torrents_and_ferraro_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "summary": "Python function torrents_and_ferraro_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_torrents_and_ferraro_graph",
+      "type": "function",
+      "name": "test_torrents_and_ferraro_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "summary": "Python function test_torrents_and_ferraro_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_example_1",
+      "type": "function",
+      "name": "test_example_1",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "summary": "Python function test_example_1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_karate_0",
+      "type": "function",
+      "name": "test_karate_0",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "summary": "Python function test_karate_0",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_karate_1",
+      "type": "function",
+      "name": "test_karate_1",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "summary": "Python function test_karate_1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_example_1_detail_3_and_4",
+      "type": "function",
+      "name": "test_example_1_detail_3_and_4",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "summary": "Python function test_example_1_detail_3_and_4",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_directed",
+      "type": "function",
+      "name": "test_directed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "summary": "Python function test_directed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_same",
+      "type": "function",
+      "name": "test_same",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "summary": "Python function test_same",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_matching.py",
+      "type": "file",
+      "name": "test_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_matching.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_matching.py:test_min_maximal_matching",
+      "type": "function",
+      "name": "test_min_maximal_matching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_matching.py",
+      "summary": "Python function test_min_maximal_matching",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "type": "file",
+      "name": "test_maxcut",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py:test_raises_on_directed_and_multigraphs",
+      "type": "function",
+      "name": "test_raises_on_directed_and_multigraphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "summary": "Python function test_raises_on_directed_and_multigraphs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py:test_random_partitioning",
+      "type": "function",
+      "name": "test_random_partitioning",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "summary": "Python function test_random_partitioning",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py:test_random_partitioning_all_to_one",
+      "type": "function",
+      "name": "test_random_partitioning_all_to_one",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "summary": "Python function test_random_partitioning_all_to_one",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py:test_one_exchange_basic",
+      "type": "function",
+      "name": "test_one_exchange_basic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "summary": "Python function test_one_exchange_basic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py:test_one_exchange_optimal",
+      "type": "function",
+      "name": "test_one_exchange_optimal",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "summary": "Python function test_one_exchange_optimal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py:test_negative_weights",
+      "type": "function",
+      "name": "test_negative_weights",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "summary": "Python function test_negative_weights",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_ramsey.py",
+      "type": "file",
+      "name": "test_ramsey",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_ramsey.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_ramsey.py:test_ramsey",
+      "type": "function",
+      "name": "test_ramsey",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_ramsey.py",
+      "summary": "Python function test_ramsey",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "type": "file",
+      "name": "test_steinertree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:TestSteinerTree",
+      "type": "class",
+      "name": "TestSteinerTree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "summary": "Python class TestSteinerTree",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:method",
+      "type": "function",
+      "name": "method",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "summary": "Python function method",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:test_steiner_tree_weight_attribute",
+      "type": "function",
+      "name": "test_steiner_tree_weight_attribute",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "summary": "Python function test_steiner_tree_weight_attribute",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:test_steiner_tree_multigraph_weight_attribute",
+      "type": "function",
+      "name": "test_steiner_tree_multigraph_weight_attribute",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "summary": "Python function test_steiner_tree_multigraph_weight_attribute",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:test_steiner_tree_methods",
+      "type": "function",
+      "name": "test_steiner_tree_methods",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "summary": "Python function test_steiner_tree_methods",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:test_steiner_tree_method_invalid",
+      "type": "function",
+      "name": "test_steiner_tree_method_invalid",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "summary": "Python function test_steiner_tree_method_invalid",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:test_steiner_tree_remove_non_terminal_leaves_self_loop_edges",
+      "type": "function",
+      "name": "test_steiner_tree_remove_non_terminal_leaves_self_loop_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "summary": "Python function test_steiner_tree_remove_non_terminal_leaves_self_loop_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:test_steiner_tree_non_terminal_leaves_multigraph_self_loop_edges",
+      "type": "function",
+      "name": "test_steiner_tree_non_terminal_leaves_multigraph_self_loop_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "summary": "Python function test_steiner_tree_non_terminal_leaves_multigraph_self_loop_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "type": "file",
+      "name": "test_traveling_salesman",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:TestBase",
+      "type": "class",
+      "name": "TestBase",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python class TestBase",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:TestGreedyTSP",
+      "type": "class",
+      "name": "TestGreedyTSP",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python class TestGreedyTSP",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:TestSimulatedAnnealingTSP",
+      "type": "class",
+      "name": "TestSimulatedAnnealingTSP",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python class TestSimulatedAnnealingTSP",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:TestThresholdAcceptingTSP",
+      "type": "class",
+      "name": "TestThresholdAcceptingTSP",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python class TestThresholdAcceptingTSP",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_christofides_hamiltonian",
+      "type": "function",
+      "name": "test_christofides_hamiltonian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_christofides_hamiltonian",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_christofides_incomplete_graph",
+      "type": "function",
+      "name": "test_christofides_incomplete_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_christofides_incomplete_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_christofides_ignore_selfloops",
+      "type": "function",
+      "name": "test_christofides_ignore_selfloops",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_christofides_ignore_selfloops",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:validate_solution",
+      "type": "function",
+      "name": "validate_solution",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function validate_solution",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:validate_symmetric_solution",
+      "type": "function",
+      "name": "validate_symmetric_solution",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function validate_symmetric_solution",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_TSP_method",
+      "type": "function",
+      "name": "test_TSP_method",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_TSP_method",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_TSP_unweighted",
+      "type": "function",
+      "name": "test_TSP_unweighted",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_TSP_unweighted",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_TSP_weighted",
+      "type": "function",
+      "name": "test_TSP_weighted",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_TSP_weighted",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_TSP_incomplete_graph_short_path",
+      "type": "function",
+      "name": "test_TSP_incomplete_graph_short_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_TSP_incomplete_graph_short_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_TSP_alternate_weight",
+      "type": "function",
+      "name": "test_TSP_alternate_weight",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_TSP_alternate_weight",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_held_karp_ascent",
+      "type": "function",
+      "name": "test_held_karp_ascent",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_held_karp_ascent",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_ascent_fractional_solution",
+      "type": "function",
+      "name": "test_ascent_fractional_solution",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_ascent_fractional_solution",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_ascent_method_asymmetric",
+      "type": "function",
+      "name": "test_ascent_method_asymmetric",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_ascent_method_asymmetric",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_ascent_method_asymmetric_2",
+      "type": "function",
+      "name": "test_ascent_method_asymmetric_2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_ascent_method_asymmetric_2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_held_karp_ascent_asymmetric_3",
+      "type": "function",
+      "name": "test_held_karp_ascent_asymmetric_3",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_held_karp_ascent_asymmetric_3",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_held_karp_ascent_fractional_asymmetric",
+      "type": "function",
+      "name": "test_held_karp_ascent_fractional_asymmetric",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_held_karp_ascent_fractional_asymmetric",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_spanning_tree_distribution",
+      "type": "function",
+      "name": "test_spanning_tree_distribution",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_spanning_tree_distribution",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_tsp",
+      "type": "function",
+      "name": "test_asadpour_tsp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_asadpour_tsp",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_real_world",
+      "type": "function",
+      "name": "test_asadpour_real_world",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_asadpour_real_world",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_real_world_path",
+      "type": "function",
+      "name": "test_asadpour_real_world_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_asadpour_real_world_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_disconnected_graph",
+      "type": "function",
+      "name": "test_asadpour_disconnected_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_asadpour_disconnected_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_incomplete_graph",
+      "type": "function",
+      "name": "test_asadpour_incomplete_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_asadpour_incomplete_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_empty_graph",
+      "type": "function",
+      "name": "test_asadpour_empty_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_asadpour_empty_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_small_graphs",
+      "type": "function",
+      "name": "test_asadpour_small_graphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_asadpour_small_graphs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_integral_held_karp",
+      "type": "function",
+      "name": "test_asadpour_integral_held_karp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_asadpour_integral_held_karp",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_directed_tsp_impossible",
+      "type": "function",
+      "name": "test_directed_tsp_impossible",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "summary": "Python function test_directed_tsp_impossible",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py",
+      "type": "file",
+      "name": "test_treewidth",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py:TestTreewidthMinDegree",
+      "type": "class",
+      "name": "TestTreewidthMinDegree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py",
+      "summary": "Python class TestTreewidthMinDegree",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py:TestTreewidthMinFillIn",
+      "type": "class",
+      "name": "TestTreewidthMinFillIn",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py",
+      "summary": "Python class TestTreewidthMinFillIn",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py:is_tree_decomp",
+      "type": "function",
+      "name": "is_tree_decomp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py",
+      "summary": "Python function is_tree_decomp",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_vertex_cover.py",
+      "type": "file",
+      "name": "test_vertex_cover",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_vertex_cover.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_vertex_cover.py:TestMWVC",
+      "type": "class",
+      "name": "TestMWVC",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_vertex_cover.py",
+      "summary": "Python class TestMWVC",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_vertex_cover.py:is_cover",
+      "type": "function",
+      "name": "is_cover",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_vertex_cover.py",
+      "summary": "Python function is_cover",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "type": "file",
+      "name": "traveling_salesman",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:swap_two_nodes",
+      "type": "function",
+      "name": "swap_two_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "summary": "Python function swap_two_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:move_one_node",
+      "type": "function",
+      "name": "move_one_node",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "summary": "Python function move_one_node",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:christofides",
+      "type": "function",
+      "name": "christofides",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "summary": "Python function christofides",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:traveling_salesman_problem",
+      "type": "function",
+      "name": "traveling_salesman_problem",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "summary": "Python function traveling_salesman_problem",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:asadpour_atsp",
+      "type": "function",
+      "name": "asadpour_atsp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "summary": "Python function asadpour_atsp",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:held_karp_ascent",
+      "type": "function",
+      "name": "held_karp_ascent",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "summary": "Python function held_karp_ascent",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:spanning_tree_distribution",
+      "type": "function",
+      "name": "spanning_tree_distribution",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "summary": "Python function spanning_tree_distribution",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:greedy_tsp",
+      "type": "function",
+      "name": "greedy_tsp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "summary": "Python function greedy_tsp",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:simulated_annealing_tsp",
+      "type": "function",
+      "name": "simulated_annealing_tsp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "summary": "Python function simulated_annealing_tsp",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:threshold_accepting_tsp",
+      "type": "function",
+      "name": "threshold_accepting_tsp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "summary": "Python function threshold_accepting_tsp",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py",
+      "type": "file",
+      "name": "treewidth",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py:MinDegreeHeuristic",
+      "type": "class",
+      "name": "MinDegreeHeuristic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py",
+      "summary": "Python class MinDegreeHeuristic",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py:treewidth_min_degree",
+      "type": "function",
+      "name": "treewidth_min_degree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py",
+      "summary": "Python function treewidth_min_degree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py:treewidth_min_fill_in",
+      "type": "function",
+      "name": "treewidth_min_fill_in",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py",
+      "summary": "Python function treewidth_min_fill_in",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py:min_fill_in_heuristic",
+      "type": "function",
+      "name": "min_fill_in_heuristic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py",
+      "summary": "Python function min_fill_in_heuristic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py:treewidth_decomp",
+      "type": "function",
+      "name": "treewidth_decomp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py",
+      "summary": "Python function treewidth_decomp",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/vertex_cover.py",
+      "type": "file",
+      "name": "vertex_cover",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/vertex_cover.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/vertex_cover.py:min_weighted_vertex_cover",
+      "type": "function",
+      "name": "min_weighted_vertex_cover",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/approximation/vertex_cover.py",
+      "summary": "Python function min_weighted_vertex_cover",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/connectivity.py",
+      "type": "file",
+      "name": "connectivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/connectivity.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/connectivity.py:average_degree_connectivity",
+      "type": "function",
+      "name": "average_degree_connectivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/connectivity.py",
+      "summary": "Python function average_degree_connectivity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/kcomponents.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/kcomponents.py:_AntiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/kcomponents.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/kcomponents.py:k_components",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/matching.py:min_maximal_matching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/maxcut.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/maxcut.py:randomized_partitioning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/maxcut.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/maxcut.py:one_exchange",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/ramsey.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/ramsey.py:ramsey_R2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/steinertree.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/steinertree.py:metric_closure",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/steinertree.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/steinertree.py:steiner_tree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py:test_petersen",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py:test_petersen_seed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py:test_tetrahedral",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py:test_dodecahedral",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py:test_empty",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_approx_clust_coeff.py:test_complete",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py:TestCliqueRemoval",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py:TestMaxClique",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py:is_independent_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py:is_clique",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py:test_large_clique_size",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_clique.py:test_independent_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:TestAllPairsNodeConnectivityApprox",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_global_node_connectivity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_white_harary1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_complete_graphs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_empty_graphs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_petersen",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_dodecahedral",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_octahedral",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_only_source",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_only_target",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_missing_source",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_missing_target",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_source_equals_target",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_connectivity.py:test_directed_node_connectivity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:close_cliques_example",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_star",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_greedy_plus_plus_complete_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_greedy_plus_plus_close_cliques",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_fista_close_cliques",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:bipartite_and_clique_example",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_greedy_plus_plus_bipartite_and_clique",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_fista_bipartite_and_clique",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_fista_big_dataset",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_greedy_plus_plus_edgeless_cornercase",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_density.py:test_gh_8271",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_distance_measures.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_distance_measures.py:TestDiameter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_dominating_set.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_dominating_set.py:TestMinWeightDominatingSet",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:TestAntiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:build_k_number_dict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:graph_example_1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:torrents_and_ferraro_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_torrents_and_ferraro_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_example_1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_karate_0",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_karate_1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_example_1_detail_3_and_4",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_directed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_kcomponents.py:test_same",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_matching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_matching.py:test_min_maximal_matching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py:test_raises_on_directed_and_multigraphs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py:test_random_partitioning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py:test_random_partitioning_all_to_one",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py:test_one_exchange_basic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py:test_one_exchange_optimal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_maxcut.py:test_negative_weights",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_ramsey.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_ramsey.py:test_ramsey",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:TestSteinerTree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:method",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:test_steiner_tree_weight_attribute",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:test_steiner_tree_multigraph_weight_attribute",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:test_steiner_tree_methods",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:test_steiner_tree_method_invalid",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:test_steiner_tree_remove_non_terminal_leaves_self_loop_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_steinertree.py:test_steiner_tree_non_terminal_leaves_multigraph_self_loop_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:TestBase",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:TestGreedyTSP",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:TestSimulatedAnnealingTSP",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:TestThresholdAcceptingTSP",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_christofides_hamiltonian",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_christofides_incomplete_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_christofides_ignore_selfloops",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:validate_solution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:validate_symmetric_solution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_TSP_method",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_TSP_unweighted",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_TSP_weighted",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_TSP_incomplete_graph_short_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_TSP_alternate_weight",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_held_karp_ascent",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_ascent_fractional_solution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_ascent_method_asymmetric",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_ascent_method_asymmetric_2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_held_karp_ascent_asymmetric_3",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_held_karp_ascent_fractional_asymmetric",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_spanning_tree_distribution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_tsp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_real_world",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_real_world_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_disconnected_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_incomplete_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_empty_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_small_graphs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_asadpour_integral_held_karp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_traveling_salesman.py:test_directed_tsp_impossible",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py:TestTreewidthMinDegree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py:TestTreewidthMinFillIn",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_treewidth.py:is_tree_decomp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_vertex_cover.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_vertex_cover.py:TestMWVC",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_vertex_cover.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/tests/test_vertex_cover.py:is_cover",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:swap_two_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:move_one_node",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:christofides",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:traveling_salesman_problem",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:asadpour_atsp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:held_karp_ascent",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:spanning_tree_distribution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:greedy_tsp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:simulated_annealing_tsp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/traveling_salesman.py:threshold_accepting_tsp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py:MinDegreeHeuristic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py:treewidth_min_degree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py:treewidth_min_fill_in",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py:min_fill_in_heuristic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/treewidth.py:treewidth_decomp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/vertex_cover.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/approximation/vertex_cover.py:min_weighted_vertex_cover",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/connectivity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/connectivity.py:average_degree_connectivity",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 150,
+    "edgeCount": 126,
+    "nodeTypes": {
+      "file": 24,
+      "class": 16,
+      "function": 110
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "batchIndex": 450,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cython/extending.pyx",
+      "type": "file",
+      "name": "extending",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/cython/extending.pyx",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cython/extending_distributions.pyx",
+      "type": "file",
+      "name": "extending_distributions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/cython/extending_distributions.pyx",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cython/meson.build",
+      "type": "file",
+      "name": "meson",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/_examples/cython/meson.build",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cython/extending.pyx",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cython/extending.pyx",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cython/extending_distributions.pyx",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cython/extending_distributions.pyx",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cython/meson.build",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/_examples/cython/meson.build",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 3,
+    "edgeCount": 3,
+    "nodeTypes": {
+      "file": 3
+    }
+  }
+}

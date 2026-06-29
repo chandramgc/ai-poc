@@ -1,0 +1,110 @@
+{
+  "batchIndex": 449,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/bit_generator.cpython-314-darwin.so",
+      "type": "file",
+      "name": "bit_generator.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/bit_generator.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/bit_generator.pxd",
+      "type": "file",
+      "name": "bit_generator",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/bit_generator.pxd",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/bit_generator.pyi",
+      "type": "file",
+      "name": "bit_generator",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/bit_generator.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/c_distributions.pxd",
+      "type": "file",
+      "name": "c_distributions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/c_distributions.pxd",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/mtrand.cpython-314-darwin.so",
+      "type": "file",
+      "name": "mtrand.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/mtrand.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/mtrand.pyi",
+      "type": "file",
+      "name": "mtrand",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/mtrand.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/bit_generator.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/bit_generator.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/bit_generator.pxd",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/bit_generator.pxd",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/bit_generator.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/bit_generator.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/c_distributions.pxd",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/c_distributions.pxd",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/mtrand.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/mtrand.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/mtrand.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/mtrand.pyi",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 6,
+    "nodeTypes": {
+      "file": 6
+    }
+  }
+}

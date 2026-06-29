@@ -1,0 +1,831 @@
+{
+  "batchIndex": 665,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py",
+      "type": "file",
+      "name": "connection",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py:_LockedObject",
+      "type": "class",
+      "name": "_LockedObject",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py",
+      "summary": "Python class _LockedObject",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py:HTTP2Connection",
+      "type": "class",
+      "name": "HTTP2Connection",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py",
+      "summary": "Python class HTTP2Connection",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py:HTTP2Response",
+      "type": "class",
+      "name": "HTTP2Response",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py",
+      "summary": "Python class HTTP2Response",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/probe.py",
+      "type": "file",
+      "name": "probe",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/probe.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/probe.py:_HTTP2ProbeCache",
+      "type": "class",
+      "name": "_HTTP2ProbeCache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/probe.py",
+      "summary": "Python class _HTTP2ProbeCache",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/LICENSE.txt",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/LICENSE.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py",
+      "type": "file",
+      "name": "poolmanager",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:16"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py:PoolKey",
+      "type": "class",
+      "name": "PoolKey",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py",
+      "summary": "Python class PoolKey",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py:PoolManager",
+      "type": "class",
+      "name": "PoolManager",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py",
+      "summary": "Python class PoolManager",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py:ProxyManager",
+      "type": "class",
+      "name": "ProxyManager",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py",
+      "summary": "Python class ProxyManager",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/py.typed",
+      "type": "file",
+      "name": "py",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/py.typed",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "type": "file",
+      "name": "response",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:17"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:ContentDecoder",
+      "type": "class",
+      "name": "ContentDecoder",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "summary": "Python class ContentDecoder",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:DeflateDecoder",
+      "type": "class",
+      "name": "DeflateDecoder",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "summary": "Python class DeflateDecoder",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:GzipDecoderState",
+      "type": "class",
+      "name": "GzipDecoderState",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "summary": "Python class GzipDecoderState",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:GzipDecoder",
+      "type": "class",
+      "name": "GzipDecoder",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "summary": "Python class GzipDecoder",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:MultiDecoder",
+      "type": "class",
+      "name": "MultiDecoder",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "summary": "Python class MultiDecoder",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:BytesQueueBuffer",
+      "type": "class",
+      "name": "BytesQueueBuffer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "summary": "Python class BytesQueueBuffer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:BaseHTTPResponse",
+      "type": "class",
+      "name": "BaseHTTPResponse",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "summary": "Python class BaseHTTPResponse",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:HTTPResponse",
+      "type": "class",
+      "name": "HTTPResponse",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "summary": "Python class HTTPResponse",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/connection.py",
+      "type": "file",
+      "name": "connection",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/connection.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/proxy.py",
+      "type": "file",
+      "name": "proxy",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/proxy.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/request.py",
+      "type": "file",
+      "name": "request",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/request.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/request.py:_TYPE_FAILEDTELL",
+      "type": "class",
+      "name": "_TYPE_FAILEDTELL",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/request.py",
+      "summary": "Python class _TYPE_FAILEDTELL",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/request.py:ChunksAndContentLength",
+      "type": "class",
+      "name": "ChunksAndContentLength",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/request.py",
+      "summary": "Python class ChunksAndContentLength",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/response.py",
+      "type": "file",
+      "name": "response",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/response.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/retry.py",
+      "type": "file",
+      "name": "retry",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/retry.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/retry.py:RequestHistory",
+      "type": "class",
+      "name": "RequestHistory",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/retry.py",
+      "summary": "Python class RequestHistory",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/retry.py:Retry",
+      "type": "class",
+      "name": "Retry",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/retry.py",
+      "summary": "Python class Retry",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssl_.py",
+      "type": "file",
+      "name": "ssl_",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssl_.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssl_match_hostname.py",
+      "type": "file",
+      "name": "ssl_match_hostname",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssl_match_hostname.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssl_match_hostname.py:CertificateError",
+      "type": "class",
+      "name": "CertificateError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssl_match_hostname.py",
+      "summary": "Python class CertificateError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssltransport.py",
+      "type": "file",
+      "name": "ssltransport",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssltransport.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssltransport.py:SSLTransport",
+      "type": "class",
+      "name": "SSLTransport",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssltransport.py",
+      "summary": "Python class SSLTransport",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/timeout.py",
+      "type": "file",
+      "name": "timeout",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/timeout.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/timeout.py:_TYPE_DEFAULT",
+      "type": "class",
+      "name": "_TYPE_DEFAULT",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/timeout.py",
+      "summary": "Python class _TYPE_DEFAULT",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/timeout.py:Timeout",
+      "type": "class",
+      "name": "Timeout",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/timeout.py",
+      "summary": "Python class Timeout",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/url.py",
+      "type": "file",
+      "name": "url",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/url.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/util.py",
+      "type": "file",
+      "name": "util",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/util.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/wait.py",
+      "type": "file",
+      "name": "wait",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/wait.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/vendor.txt",
+      "type": "file",
+      "name": "vendor",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/vendor.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/py.typed",
+      "type": "file",
+      "name": "py",
+      "filePath": "venv/lib/python3.14/site-packages/pip/py.typed",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz-3.14.5.dist-info/licenses/LICENSE",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz-3.14.5.dist-info/licenses/LICENSE",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/__init__.py:get_include",
+      "type": "function",
+      "name": "get_include",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__init__.py",
+      "summary": "Python function get_include",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__init__.py:get_PyInstaller_tests",
+      "type": "function",
+      "name": "get_PyInstaller_tests",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__init__.py",
+      "summary": "Python function get_PyInstaller_tests",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py:_LockedObject",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py:HTTP2Connection",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/connection.py:HTTP2Response",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/probe.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/http2/probe.py:_HTTP2ProbeCache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/LICENSE.txt",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/LICENSE.txt",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py:PoolKey",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py:PoolManager",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py:ProxyManager",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/py.typed",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/py.typed",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:ContentDecoder",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:DeflateDecoder",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:GzipDecoderState",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:GzipDecoder",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:MultiDecoder",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:BytesQueueBuffer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:BaseHTTPResponse",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py:HTTPResponse",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/request.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/request.py:_TYPE_FAILEDTELL",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/request.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/request.py:ChunksAndContentLength",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/retry.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/retry.py:RequestHistory",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/retry.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/retry.py:Retry",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssl_match_hostname.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssl_match_hostname.py:CertificateError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssltransport.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssltransport.py:SSLTransport",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/timeout.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/timeout.py:_TYPE_DEFAULT",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/timeout.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/timeout.py:Timeout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/vendor.txt",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/vendor.txt",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/py.typed",
+      "target": "file:venv/lib/python3.14/site-packages/pip/py.typed",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz-3.14.5.dist-info/licenses/LICENSE",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz-3.14.5.dist-info/licenses/LICENSE",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/__init__.py:get_include",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/rapidfuzz/__pyinstaller/__init__.py:get_PyInstaller_tests",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 50,
+    "edgeCount": 30,
+    "nodeTypes": {
+      "file": 25,
+      "class": 23,
+      "function": 2
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "batchIndex": 406,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-sin.csv",
+      "type": "file",
+      "name": "umath-validation-set-sin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-sin.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-sinh.csv",
+      "type": "file",
+      "name": "umath-validation-set-sinh",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-sinh.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-tan.csv",
+      "type": "file",
+      "name": "umath-validation-set-tan",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-tan.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-tanh.csv",
+      "type": "file",
+      "name": "umath-validation-set-tanh",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-tanh.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-sin.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-sin.csv",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-sinh.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-sinh.csv",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-tan.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-tan.csv",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-tanh.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/tests/data/umath-validation-set-tanh.csv",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 4,
+    "nodeTypes": {
+      "file": 4
+    }
+  }
+}

@@ -1,0 +1,3149 @@
+{
+  "batchIndex": 614,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/__pycache__/contraction.cpython-314.pyc",
+      "type": "file",
+      "name": "contraction.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/__pycache__/contraction.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py",
+      "type": "file",
+      "name": "contraction",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py:equivalence_classes",
+      "type": "function",
+      "name": "equivalence_classes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py",
+      "summary": "Python function equivalence_classes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py:quotient_graph",
+      "type": "function",
+      "name": "quotient_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py",
+      "summary": "Python function quotient_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py:contracted_nodes",
+      "type": "function",
+      "name": "contracted_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py",
+      "summary": "Python function contracted_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py:contracted_edge",
+      "type": "function",
+      "name": "contracted_edge",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py",
+      "summary": "Python function contracted_edge",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/__pycache__/test_contraction.cpython-314.pyc",
+      "type": "file",
+      "name": "test_contraction.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/__pycache__/test_contraction.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "type": "file",
+      "name": "test_contraction",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_quotient_graph_complete_multipartite",
+      "type": "function",
+      "name": "test_quotient_graph_complete_multipartite",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_quotient_graph_complete_multipartite",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_quotient_graph_complete_bipartite",
+      "type": "function",
+      "name": "test_quotient_graph_complete_bipartite",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_quotient_graph_complete_bipartite",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_quotient_graph_edge_relation",
+      "type": "function",
+      "name": "test_quotient_graph_edge_relation",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_quotient_graph_edge_relation",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_condensation_as_quotient",
+      "type": "function",
+      "name": "test_condensation_as_quotient",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_condensation_as_quotient",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_path",
+      "type": "function",
+      "name": "test_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_path__partition_provided_as_dict_of_lists",
+      "type": "function",
+      "name": "test_path__partition_provided_as_dict_of_lists",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_path__partition_provided_as_dict_of_lists",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_path__partition_provided_as_dict_of_tuples",
+      "type": "function",
+      "name": "test_path__partition_provided_as_dict_of_tuples",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_path__partition_provided_as_dict_of_tuples",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_path__partition_provided_as_dict_of_sets",
+      "type": "function",
+      "name": "test_path__partition_provided_as_dict_of_sets",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_path__partition_provided_as_dict_of_sets",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_multigraph_path",
+      "type": "function",
+      "name": "test_multigraph_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_multigraph_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_directed_path",
+      "type": "function",
+      "name": "test_directed_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_directed_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_directed_multigraph_path",
+      "type": "function",
+      "name": "test_directed_multigraph_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_directed_multigraph_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_overlapping_blocks",
+      "type": "function",
+      "name": "test_overlapping_blocks",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_overlapping_blocks",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_weighted_path",
+      "type": "function",
+      "name": "test_weighted_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_weighted_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_barbell",
+      "type": "function",
+      "name": "test_barbell",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_barbell",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_barbell_plus",
+      "type": "function",
+      "name": "test_barbell_plus",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_barbell_plus",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_blockmodel",
+      "type": "function",
+      "name": "test_blockmodel",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_blockmodel",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_multigraph_blockmodel",
+      "type": "function",
+      "name": "test_multigraph_blockmodel",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_multigraph_blockmodel",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_quotient_graph_incomplete_partition",
+      "type": "function",
+      "name": "test_quotient_graph_incomplete_partition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_quotient_graph_incomplete_partition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_undirected_node_contraction",
+      "type": "function",
+      "name": "test_undirected_node_contraction",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_undirected_node_contraction",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_directed_node_contraction",
+      "type": "function",
+      "name": "test_directed_node_contraction",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_directed_node_contraction",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_contracted_nodes_multigraph",
+      "type": "function",
+      "name": "test_contracted_nodes_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_contracted_nodes_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_multigraph_keys",
+      "type": "function",
+      "name": "test_multigraph_keys",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_multigraph_keys",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_node_attributes",
+      "type": "function",
+      "name": "test_node_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_node_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_edge_attributes",
+      "type": "function",
+      "name": "test_edge_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_edge_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_contract_loop_graph",
+      "type": "function",
+      "name": "test_contract_loop_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_contract_loop_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_undirected_edge_contraction",
+      "type": "function",
+      "name": "test_undirected_edge_contraction",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_undirected_edge_contraction",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_multigraph_edge_contraction",
+      "type": "function",
+      "name": "test_multigraph_edge_contraction",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_multigraph_edge_contraction",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_nonexistent_edge",
+      "type": "function",
+      "name": "test_nonexistent_edge",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "summary": "Python function test_nonexistent_edge",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/mis.py",
+      "type": "file",
+      "name": "mis",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/mis.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/mis.py:maximal_independent_set",
+      "type": "function",
+      "name": "maximal_independent_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/mis.py",
+      "summary": "Python function maximal_independent_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/moral.py",
+      "type": "file",
+      "name": "moral",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/moral.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/moral.py:moral_graph",
+      "type": "function",
+      "name": "moral_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/moral.py",
+      "summary": "Python function moral_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/node_classification.py",
+      "type": "file",
+      "name": "node_classification",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/node_classification.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/node_classification.py:harmonic_function",
+      "type": "function",
+      "name": "harmonic_function",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/node_classification.py",
+      "summary": "Python function harmonic_function",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/node_classification.py:local_and_global_consistency",
+      "type": "function",
+      "name": "local_and_global_consistency",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/node_classification.py",
+      "summary": "Python function local_and_global_consistency",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/non_randomness.py",
+      "type": "file",
+      "name": "non_randomness",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/non_randomness.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/non_randomness.py:non_randomness",
+      "type": "function",
+      "name": "non_randomness",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/non_randomness.py",
+      "summary": "Python function non_randomness",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py",
+      "type": "file",
+      "name": "all",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py:disjoint_union_all",
+      "type": "function",
+      "name": "disjoint_union_all",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py",
+      "summary": "Python function disjoint_union_all",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py:compose_all",
+      "type": "function",
+      "name": "compose_all",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py",
+      "summary": "Python function compose_all",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py:intersection_all",
+      "type": "function",
+      "name": "intersection_all",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py",
+      "summary": "Python function intersection_all",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py",
+      "type": "file",
+      "name": "binary",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py:disjoint_union",
+      "type": "function",
+      "name": "disjoint_union",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py",
+      "summary": "Python function disjoint_union",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py:intersection",
+      "type": "function",
+      "name": "intersection",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py",
+      "summary": "Python function intersection",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py:difference",
+      "type": "function",
+      "name": "difference",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py",
+      "summary": "Python function difference",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py:symmetric_difference",
+      "type": "function",
+      "name": "symmetric_difference",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py",
+      "summary": "Python function symmetric_difference",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py:compose",
+      "type": "function",
+      "name": "compose",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py",
+      "summary": "Python function compose",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "type": "file",
+      "name": "product",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:tensor_product",
+      "type": "function",
+      "name": "tensor_product",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "summary": "Python function tensor_product",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:cartesian_product",
+      "type": "function",
+      "name": "cartesian_product",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "summary": "Python function cartesian_product",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:lexicographic_product",
+      "type": "function",
+      "name": "lexicographic_product",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "summary": "Python function lexicographic_product",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:strong_product",
+      "type": "function",
+      "name": "strong_product",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "summary": "Python function strong_product",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:power",
+      "type": "function",
+      "name": "power",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "summary": "Python function power",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:rooted_product",
+      "type": "function",
+      "name": "rooted_product",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "summary": "Python function rooted_product",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:corona_product",
+      "type": "function",
+      "name": "corona_product",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "summary": "Python function corona_product",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:modular_product",
+      "type": "function",
+      "name": "modular_product",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "summary": "Python function modular_product",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "type": "file",
+      "name": "test_all",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_union_all_attributes",
+      "type": "function",
+      "name": "test_union_all_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_union_all_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all",
+      "type": "function",
+      "name": "test_intersection_all",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_intersection_all",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all_different_node_sets",
+      "type": "function",
+      "name": "test_intersection_all_different_node_sets",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_intersection_all_different_node_sets",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all_attributes",
+      "type": "function",
+      "name": "test_intersection_all_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_intersection_all_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all_attributes_different_node_sets",
+      "type": "function",
+      "name": "test_intersection_all_attributes_different_node_sets",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_intersection_all_attributes_different_node_sets",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all_multigraph_attributes",
+      "type": "function",
+      "name": "test_intersection_all_multigraph_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_intersection_all_multigraph_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all_multigraph_attributes_different_node_sets",
+      "type": "function",
+      "name": "test_intersection_all_multigraph_attributes_different_node_sets",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_intersection_all_multigraph_attributes_different_node_sets",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all_digraph",
+      "type": "function",
+      "name": "test_intersection_all_digraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_intersection_all_digraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_union_all_and_compose_all",
+      "type": "function",
+      "name": "test_union_all_and_compose_all",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_union_all_and_compose_all",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_union_all_multigraph",
+      "type": "function",
+      "name": "test_union_all_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_union_all_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_input_output",
+      "type": "function",
+      "name": "test_input_output",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_input_output",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_mixed_type_union",
+      "type": "function",
+      "name": "test_mixed_type_union",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_mixed_type_union",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_mixed_type_disjoint_union",
+      "type": "function",
+      "name": "test_mixed_type_disjoint_union",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_mixed_type_disjoint_union",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_mixed_type_intersection",
+      "type": "function",
+      "name": "test_mixed_type_intersection",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_mixed_type_intersection",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_mixed_type_compose",
+      "type": "function",
+      "name": "test_mixed_type_compose",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_mixed_type_compose",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_empty_union",
+      "type": "function",
+      "name": "test_empty_union",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_empty_union",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_empty_disjoint_union",
+      "type": "function",
+      "name": "test_empty_disjoint_union",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_empty_disjoint_union",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_empty_compose_all",
+      "type": "function",
+      "name": "test_empty_compose_all",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_empty_compose_all",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_empty_intersection_all",
+      "type": "function",
+      "name": "test_empty_intersection_all",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "summary": "Python function test_empty_intersection_all",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "type": "file",
+      "name": "test_binary",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_union_attributes",
+      "type": "function",
+      "name": "test_union_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_union_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_intersection",
+      "type": "function",
+      "name": "test_intersection",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_intersection",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_intersection_node_sets_different",
+      "type": "function",
+      "name": "test_intersection_node_sets_different",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_intersection_node_sets_different",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_intersection_attributes",
+      "type": "function",
+      "name": "test_intersection_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_intersection_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_intersection_attributes_node_sets_different",
+      "type": "function",
+      "name": "test_intersection_attributes_node_sets_different",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_intersection_attributes_node_sets_different",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_intersection_multigraph_attributes",
+      "type": "function",
+      "name": "test_intersection_multigraph_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_intersection_multigraph_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_intersection_multigraph_attributes_node_set_different",
+      "type": "function",
+      "name": "test_intersection_multigraph_attributes_node_set_different",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_intersection_multigraph_attributes_node_set_different",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_difference",
+      "type": "function",
+      "name": "test_difference",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_difference",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_difference2",
+      "type": "function",
+      "name": "test_difference2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_difference2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_difference_attributes",
+      "type": "function",
+      "name": "test_difference_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_difference_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_difference_multigraph_attributes",
+      "type": "function",
+      "name": "test_difference_multigraph_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_difference_multigraph_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_difference_raise",
+      "type": "function",
+      "name": "test_difference_raise",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_difference_raise",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_symmetric_difference_multigraph",
+      "type": "function",
+      "name": "test_symmetric_difference_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_symmetric_difference_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_union_and_compose",
+      "type": "function",
+      "name": "test_union_and_compose",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_union_and_compose",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_union_multigraph",
+      "type": "function",
+      "name": "test_union_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_union_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_disjoint_union_multigraph",
+      "type": "function",
+      "name": "test_disjoint_union_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_disjoint_union_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_compose_multigraph",
+      "type": "function",
+      "name": "test_compose_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_compose_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_full_join_graph",
+      "type": "function",
+      "name": "test_full_join_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_full_join_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_full_join_multigraph",
+      "type": "function",
+      "name": "test_full_join_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_full_join_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_mixed_type_union",
+      "type": "function",
+      "name": "test_mixed_type_union",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "summary": "Python function test_mixed_type_union",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "type": "file",
+      "name": "test_product",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_tensor_product_raises",
+      "type": "function",
+      "name": "test_tensor_product_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_tensor_product_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_tensor_product_null",
+      "type": "function",
+      "name": "test_tensor_product_null",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_tensor_product_null",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_tensor_product_size",
+      "type": "function",
+      "name": "test_tensor_product_size",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_tensor_product_size",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_tensor_product_combinations",
+      "type": "function",
+      "name": "test_tensor_product_combinations",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_tensor_product_combinations",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_tensor_product_classic_result",
+      "type": "function",
+      "name": "test_tensor_product_classic_result",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_tensor_product_classic_result",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_tensor_product_random",
+      "type": "function",
+      "name": "test_tensor_product_random",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_tensor_product_random",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_cartesian_product_multigraph",
+      "type": "function",
+      "name": "test_cartesian_product_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_cartesian_product_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_cartesian_product_raises",
+      "type": "function",
+      "name": "test_cartesian_product_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_cartesian_product_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_cartesian_product_null",
+      "type": "function",
+      "name": "test_cartesian_product_null",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_cartesian_product_null",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_cartesian_product_size",
+      "type": "function",
+      "name": "test_cartesian_product_size",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_cartesian_product_size",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_cartesian_product_classic",
+      "type": "function",
+      "name": "test_cartesian_product_classic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_cartesian_product_classic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_cartesian_product_random",
+      "type": "function",
+      "name": "test_cartesian_product_random",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_cartesian_product_random",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_lexicographic_product_raises",
+      "type": "function",
+      "name": "test_lexicographic_product_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_lexicographic_product_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_lexicographic_product_null",
+      "type": "function",
+      "name": "test_lexicographic_product_null",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_lexicographic_product_null",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_lexicographic_product_size",
+      "type": "function",
+      "name": "test_lexicographic_product_size",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_lexicographic_product_size",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_lexicographic_product_combinations",
+      "type": "function",
+      "name": "test_lexicographic_product_combinations",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_lexicographic_product_combinations",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_lexicographic_product_random",
+      "type": "function",
+      "name": "test_lexicographic_product_random",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_lexicographic_product_random",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_strong_product_raises",
+      "type": "function",
+      "name": "test_strong_product_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_strong_product_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_strong_product_null",
+      "type": "function",
+      "name": "test_strong_product_null",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_strong_product_null",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_strong_product_size",
+      "type": "function",
+      "name": "test_strong_product_size",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_strong_product_size",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_strong_product_combinations",
+      "type": "function",
+      "name": "test_strong_product_combinations",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_strong_product_combinations",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_strong_product_random",
+      "type": "function",
+      "name": "test_strong_product_random",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_strong_product_random",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_graph_power_raises",
+      "type": "function",
+      "name": "test_graph_power_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_graph_power_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_graph_power",
+      "type": "function",
+      "name": "test_graph_power",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_graph_power",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_graph_power_negative",
+      "type": "function",
+      "name": "test_graph_power_negative",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_graph_power_negative",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_rooted_product_raises",
+      "type": "function",
+      "name": "test_rooted_product_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_rooted_product_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_rooted_product",
+      "type": "function",
+      "name": "test_rooted_product",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_rooted_product",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_corona_product",
+      "type": "function",
+      "name": "test_corona_product",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_corona_product",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_modular_product",
+      "type": "function",
+      "name": "test_modular_product",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_modular_product",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_modular_product_raises",
+      "type": "function",
+      "name": "test_modular_product_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "summary": "Python function test_modular_product_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py",
+      "type": "file",
+      "name": "test_unary",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py:test_complement",
+      "type": "function",
+      "name": "test_complement",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py",
+      "summary": "Python function test_complement",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py:test_complement_2",
+      "type": "function",
+      "name": "test_complement_2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py",
+      "summary": "Python function test_complement_2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py:test_reverse1",
+      "type": "function",
+      "name": "test_reverse1",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py",
+      "summary": "Python function test_reverse1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/unary.py",
+      "type": "file",
+      "name": "unary",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/unary.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/unary.py:complement",
+      "type": "function",
+      "name": "complement",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/unary.py",
+      "summary": "Python function complement",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/unary.py:reverse",
+      "type": "function",
+      "name": "reverse",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/operators/unary.py",
+      "summary": "Python function reverse",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/perfect_graph.py",
+      "type": "file",
+      "name": "perfect_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/perfect_graph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/perfect_graph.py:is_perfect_graph",
+      "type": "function",
+      "name": "is_perfect_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/perfect_graph.py",
+      "summary": "Python function is_perfect_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "type": "file",
+      "name": "planar_drawing",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py:combinatorial_embedding_to_pos",
+      "type": "function",
+      "name": "combinatorial_embedding_to_pos",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "summary": "Python function combinatorial_embedding_to_pos",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py:set_position",
+      "type": "function",
+      "name": "set_position",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "summary": "Python function set_position",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py:get_canonical_ordering",
+      "type": "function",
+      "name": "get_canonical_ordering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "summary": "Python function get_canonical_ordering",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py:triangulate_face",
+      "type": "function",
+      "name": "triangulate_face",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "summary": "Python function triangulate_face",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py:triangulate_embedding",
+      "type": "function",
+      "name": "triangulate_embedding",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "summary": "Python function triangulate_embedding",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py:make_bi_connected",
+      "type": "function",
+      "name": "make_bi_connected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "summary": "Python function make_bi_connected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "type": "file",
+      "name": "planarity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:Interval",
+      "type": "class",
+      "name": "Interval",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "summary": "Python class Interval",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:ConflictPair",
+      "type": "class",
+      "name": "ConflictPair",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "summary": "Python class ConflictPair",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:LRPlanarity",
+      "type": "class",
+      "name": "LRPlanarity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "summary": "Python class LRPlanarity",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:PlanarEmbedding",
+      "type": "class",
+      "name": "PlanarEmbedding",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "summary": "Python class PlanarEmbedding",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:is_planar",
+      "type": "function",
+      "name": "is_planar",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "summary": "Python function is_planar",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:check_planarity",
+      "type": "function",
+      "name": "check_planarity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "summary": "Python function check_planarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:check_planarity_recursive",
+      "type": "function",
+      "name": "check_planarity_recursive",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "summary": "Python function check_planarity_recursive",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:get_counterexample",
+      "type": "function",
+      "name": "get_counterexample",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "summary": "Python function get_counterexample",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:get_counterexample_recursive",
+      "type": "function",
+      "name": "get_counterexample_recursive",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "summary": "Python function get_counterexample_recursive",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:top_of_stack",
+      "type": "function",
+      "name": "top_of_stack",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "summary": "Python function top_of_stack",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/polynomials.py",
+      "type": "file",
+      "name": "polynomials",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/polynomials.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/polynomials.py:tutte_polynomial",
+      "type": "function",
+      "name": "tutte_polynomial",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/polynomials.py",
+      "summary": "Python function tutte_polynomial",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/polynomials.py:chromatic_polynomial",
+      "type": "function",
+      "name": "chromatic_polynomial",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/polynomials.py",
+      "summary": "Python function chromatic_polynomial",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/reciprocity.py",
+      "type": "file",
+      "name": "reciprocity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/reciprocity.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/reciprocity.py:reciprocity",
+      "type": "function",
+      "name": "reciprocity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/reciprocity.py",
+      "summary": "Python function reciprocity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/reciprocity.py:overall_reciprocity",
+      "type": "function",
+      "name": "overall_reciprocity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/reciprocity.py",
+      "summary": "Python function overall_reciprocity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/__pycache__/contraction.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/__pycache__/contraction.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py:equivalence_classes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py:quotient_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py:contracted_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/contraction.py:contracted_edge",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/__pycache__/test_contraction.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/__pycache__/test_contraction.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_quotient_graph_complete_multipartite",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_quotient_graph_complete_bipartite",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_quotient_graph_edge_relation",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_condensation_as_quotient",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_path__partition_provided_as_dict_of_lists",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_path__partition_provided_as_dict_of_tuples",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_path__partition_provided_as_dict_of_sets",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_multigraph_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_directed_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_directed_multigraph_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_overlapping_blocks",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_weighted_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_barbell",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_barbell_plus",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_blockmodel",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_multigraph_blockmodel",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_quotient_graph_incomplete_partition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_undirected_node_contraction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_directed_node_contraction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_contracted_nodes_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_multigraph_keys",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_node_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_edge_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_contract_loop_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_undirected_edge_contraction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_multigraph_edge_contraction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/minors/tests/test_contraction.py:test_nonexistent_edge",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/mis.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/mis.py:maximal_independent_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/moral.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/moral.py:moral_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/node_classification.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/node_classification.py:harmonic_function",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/node_classification.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/node_classification.py:local_and_global_consistency",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/non_randomness.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/non_randomness.py:non_randomness",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py:disjoint_union_all",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py:compose_all",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/all.py:intersection_all",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py:disjoint_union",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py:intersection",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py:difference",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py:symmetric_difference",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/binary.py:compose",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:tensor_product",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:cartesian_product",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:lexicographic_product",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:strong_product",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:power",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:rooted_product",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:corona_product",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/product.py:modular_product",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_union_all_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all_different_node_sets",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all_attributes_different_node_sets",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all_multigraph_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all_multigraph_attributes_different_node_sets",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_intersection_all_digraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_union_all_and_compose_all",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_union_all_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_input_output",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_mixed_type_union",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_mixed_type_disjoint_union",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_mixed_type_intersection",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_mixed_type_compose",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_empty_union",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_empty_disjoint_union",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_empty_compose_all",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_all.py:test_empty_intersection_all",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_union_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_intersection",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_intersection_node_sets_different",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_intersection_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_intersection_attributes_node_sets_different",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_intersection_multigraph_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_intersection_multigraph_attributes_node_set_different",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_difference",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_difference2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_difference_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_difference_multigraph_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_difference_raise",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_symmetric_difference_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_union_and_compose",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_union_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_disjoint_union_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_compose_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_full_join_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_full_join_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_binary.py:test_mixed_type_union",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_tensor_product_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_tensor_product_null",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_tensor_product_size",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_tensor_product_combinations",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_tensor_product_classic_result",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_tensor_product_random",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_cartesian_product_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_cartesian_product_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_cartesian_product_null",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_cartesian_product_size",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_cartesian_product_classic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_cartesian_product_random",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_lexicographic_product_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_lexicographic_product_null",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_lexicographic_product_size",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_lexicographic_product_combinations",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_lexicographic_product_random",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_strong_product_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_strong_product_null",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_strong_product_size",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_strong_product_combinations",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_strong_product_random",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_graph_power_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_graph_power",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_graph_power_negative",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_rooted_product_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_rooted_product",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_corona_product",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_modular_product",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_product.py:test_modular_product_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py:test_complement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py:test_complement_2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/tests/test_unary.py:test_reverse1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/unary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/unary.py:complement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/operators/unary.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/operators/unary.py:reverse",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/perfect_graph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/perfect_graph.py:is_perfect_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py:combinatorial_embedding_to_pos",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py:set_position",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py:get_canonical_ordering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py:triangulate_face",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py:triangulate_embedding",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planar_drawing.py:make_bi_connected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:Interval",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:ConflictPair",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:LRPlanarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:PlanarEmbedding",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:is_planar",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:check_planarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:check_planarity_recursive",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:get_counterexample",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:get_counterexample_recursive",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/planarity.py:top_of_stack",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/polynomials.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/polynomials.py:tutte_polynomial",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/polynomials.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/polynomials.py:chromatic_polynomial",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/reciprocity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/reciprocity.py:reciprocity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/reciprocity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/reciprocity.py:overall_reciprocity",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 172,
+    "edgeCount": 151,
+    "nodeTypes": {
+      "file": 24,
+      "function": 144,
+      "class": 4
+    }
+  }
+}

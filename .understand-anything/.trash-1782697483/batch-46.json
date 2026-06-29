@@ -1,0 +1,62 @@
+{
+  "batchIndex": 46,
+  "nodes": [
+    {
+      "id": "file:.git/objects/26/e566fba42034204e8f765fcc5a3b3c56b52800",
+      "type": "file",
+      "name": "e566fba42034204e8f765fcc5a3b3c56b52800",
+      "filePath": ".git/objects/26/e566fba42034204e8f765fcc5a3b3c56b52800",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/26/f43cdbbac8e3c3061bfb054d6e5c671c2b295e",
+      "type": "file",
+      "name": "f43cdbbac8e3c3061bfb054d6e5c671c2b295e",
+      "filePath": ".git/objects/26/f43cdbbac8e3c3061bfb054d6e5c671c2b295e",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/26/f793fe455f57e82d15810d3eb32fdc44d3205c",
+      "type": "file",
+      "name": "f793fe455f57e82d15810d3eb32fdc44d3205c",
+      "filePath": ".git/objects/26/f793fe455f57e82d15810d3eb32fdc44d3205c",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:.git/objects/26/e566fba42034204e8f765fcc5a3b3c56b52800",
+      "target": "file:.git/objects/26/e566fba42034204e8f765fcc5a3b3c56b52800",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/26/f43cdbbac8e3c3061bfb054d6e5c671c2b295e",
+      "target": "file:.git/objects/26/f43cdbbac8e3c3061bfb054d6e5c671c2b295e",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/26/f793fe455f57e82d15810d3eb32fdc44d3205c",
+      "target": "file:.git/objects/26/f793fe455f57e82d15810d3eb32fdc44d3205c",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 3,
+    "edgeCount": 3,
+    "nodeTypes": {
+      "file": 3
+    }
+  }
+}

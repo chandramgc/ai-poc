@@ -1,0 +1,78 @@
+{
+  "batchIndex": 400,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/LICENSE.txt",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/LICENSE.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/bitgen.h",
+      "type": "file",
+      "name": "bitgen",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/bitgen.h",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/distributions.h",
+      "type": "file",
+      "name": "distributions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/distributions.h",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/libdivide.h",
+      "type": "file",
+      "name": "libdivide",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/libdivide.h",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/LICENSE.txt",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/LICENSE.txt",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/bitgen.h",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/bitgen.h",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/distributions.h",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/distributions.h",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/libdivide.h",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/random/libdivide.h",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 4,
+    "nodeTypes": {
+      "file": 4
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "batchIndex": 429,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/fft/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/fft/_helper.pyi",
+      "type": "file",
+      "name": "_helper",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_helper.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.pyi",
+      "type": "file",
+      "name": "_pocketfft",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft_umath.cpython-314-darwin.so",
+      "type": "file",
+      "name": "_pocketfft_umath.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/fft/_pocketfft_umath.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/fft/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_helper.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/fft/_helper.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft_umath.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/fft/_pocketfft_umath.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 4,
+    "nodeTypes": {
+      "file": 4
+    }
+  }
+}

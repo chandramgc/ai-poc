@@ -1,0 +1,126 @@
+{
+  "batchIndex": 516,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/fuzz.pyi",
+      "type": "file",
+      "name": "fuzz",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/fuzz.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/fuzz_cpp.cpython-314-darwin.so",
+      "type": "file",
+      "name": "fuzz_cpp.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/fuzz_cpp.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/process.pyi",
+      "type": "file",
+      "name": "process",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/process.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/process_cpp_impl.cpython-314-darwin.so",
+      "type": "file",
+      "name": "process_cpp_impl.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/process_cpp_impl.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/utils.pyi",
+      "type": "file",
+      "name": "utils",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/utils.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/utils_cpp.cpython-314-darwin.so",
+      "type": "file",
+      "name": "utils_cpp.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/utils_cpp.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/fuzz.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/fuzz.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/fuzz_cpp.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/fuzz_cpp.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/process.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/process.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/process_cpp_impl.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/process_cpp_impl.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/utils.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/utils.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/utils_cpp.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/utils_cpp.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 7,
+    "edgeCount": 7,
+    "nodeTypes": {
+      "file": 7
+    }
+  }
+}

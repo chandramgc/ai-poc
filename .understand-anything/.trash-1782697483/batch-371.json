@@ -1,0 +1,110 @@
+{
+  "batchIndex": 371,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_beamsearch.cpython-314.pyc",
+      "type": "file",
+      "name": "test_beamsearch.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_beamsearch.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_bfs.cpython-314.pyc",
+      "type": "file",
+      "name": "test_bfs.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_bfs.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_dfs.cpython-314.pyc",
+      "type": "file",
+      "name": "test_dfs.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_dfs.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_edgebfs.cpython-314.pyc",
+      "type": "file",
+      "name": "test_edgebfs.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_edgebfs.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_edgedfs.cpython-314.pyc",
+      "type": "file",
+      "name": "test_edgedfs.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_edgedfs.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_beamsearch.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_beamsearch.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_bfs.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_bfs.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_dfs.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_dfs.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_edgebfs.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_edgebfs.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_edgedfs.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/traversal/tests/__pycache__/test_edgedfs.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 6,
+    "nodeTypes": {
+      "file": 6
+    }
+  }
+}

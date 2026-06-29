@@ -1,0 +1,238 @@
+{
+  "batchIndex": 392,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/__config__.pyi",
+      "type": "file",
+      "name": "__config__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/__config__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/__init__.cython-30.pxd",
+      "type": "file",
+      "name": "__init__.cython-30",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/__init__.cython-30.pxd",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/__init__.pxd",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/__init__.pxd",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_array_api_info.pyi",
+      "type": "file",
+      "name": "_array_api_info",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_array_api_info.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_configtool.pyi",
+      "type": "file",
+      "name": "_configtool",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_configtool.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_distributor_init.pyi",
+      "type": "file",
+      "name": "_distributor_init",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_distributor_init.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_expired_attrs_2_0.pyi",
+      "type": "file",
+      "name": "_expired_attrs_2_0",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_expired_attrs_2_0.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_globals.pyi",
+      "type": "file",
+      "name": "_globals",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_globals.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_pytesttester.pyi",
+      "type": "file",
+      "name": "_pytesttester",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_pytesttester.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/dtypes.pyi",
+      "type": "file",
+      "name": "dtypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/dtypes.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/exceptions.pyi",
+      "type": "file",
+      "name": "exceptions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/exceptions.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/matlib.pyi",
+      "type": "file",
+      "name": "matlib",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/matlib.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/version.pyi",
+      "type": "file",
+      "name": "version",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/version.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/__config__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/__config__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/__init__.cython-30.pxd",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/__init__.cython-30.pxd",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/__init__.pxd",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/__init__.pxd",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_array_api_info.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_array_api_info.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_configtool.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_configtool.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_distributor_init.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_distributor_init.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_expired_attrs_2_0.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_expired_attrs_2_0.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_globals.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_globals.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_pytesttester.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_pytesttester.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/dtypes.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/dtypes.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/exceptions.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/exceptions.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/matlib.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/matlib.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/version.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/version.pyi",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 14,
+    "edgeCount": 14,
+    "nodeTypes": {
+      "file": 14
+    }
+  }
+}

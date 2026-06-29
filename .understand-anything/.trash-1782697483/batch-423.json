@@ -1,0 +1,334 @@
+{
+  "batchIndex": 423,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/accesstype.f90",
+      "type": "file",
+      "name": "accesstype",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/accesstype.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/common_with_division.f",
+      "type": "file",
+      "name": "common_with_division",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/common_with_division.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_common.f",
+      "type": "file",
+      "name": "data_common",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_common.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_multiplier.f",
+      "type": "file",
+      "name": "data_multiplier",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_multiplier.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_stmts.f90",
+      "type": "file",
+      "name": "data_stmts",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_stmts.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_with_comments.f",
+      "type": "file",
+      "name": "data_with_comments",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_with_comments.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/foo_deps.f90",
+      "type": "file",
+      "name": "foo_deps",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/foo_deps.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh15035.f",
+      "type": "file",
+      "name": "gh15035",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh15035.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh17859.f",
+      "type": "file",
+      "name": "gh17859",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh17859.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh22648.pyf",
+      "type": "file",
+      "name": "gh22648",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh22648.pyf",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23533.f",
+      "type": "file",
+      "name": "gh23533",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23533.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23598.f90",
+      "type": "file",
+      "name": "gh23598",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23598.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23598Warn.f90",
+      "type": "file",
+      "name": "gh23598Warn",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23598Warn.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23879.f90",
+      "type": "file",
+      "name": "gh23879",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23879.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh27697.f90",
+      "type": "file",
+      "name": "gh27697",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh27697.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh2848.f90",
+      "type": "file",
+      "name": "gh2848",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh2848.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/operators.f90",
+      "type": "file",
+      "name": "operators",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/operators.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/privatemod.f90",
+      "type": "file",
+      "name": "privatemod",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/privatemod.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/publicmod.f90",
+      "type": "file",
+      "name": "publicmod",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/publicmod.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/pubprivmod.f90",
+      "type": "file",
+      "name": "pubprivmod",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/pubprivmod.f90",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/accesstype.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/accesstype.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/common_with_division.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/common_with_division.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_common.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_common.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_multiplier.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_multiplier.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_stmts.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_stmts.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_with_comments.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_with_comments.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/foo_deps.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/foo_deps.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh15035.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh15035.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh17859.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh17859.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh22648.pyf",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh22648.pyf",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23533.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23533.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23598.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23598.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23598Warn.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23598Warn.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23879.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23879.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh27697.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh27697.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh2848.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh2848.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/operators.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/operators.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/privatemod.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/privatemod.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/publicmod.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/publicmod.f90",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/pubprivmod.f90",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/pubprivmod.f90",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 20,
+    "edgeCount": 20,
+    "nodeTypes": {
+      "file": 20
+    }
+  }
+}

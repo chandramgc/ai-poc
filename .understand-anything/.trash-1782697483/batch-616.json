@@ -1,0 +1,4255 @@
+{
+  "batchIndex": 616,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_boundary.py",
+      "type": "file",
+      "name": "test_boundary",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_boundary.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_boundary.py:TestNodeBoundary",
+      "type": "class",
+      "name": "TestNodeBoundary",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_boundary.py",
+      "summary": "Python class TestNodeBoundary",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_boundary.py:TestEdgeBoundary",
+      "type": "class",
+      "name": "TestEdgeBoundary",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_boundary.py",
+      "summary": "Python class TestEdgeBoundary",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py",
+      "type": "file",
+      "name": "test_bridges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py:TestBridges",
+      "type": "class",
+      "name": "TestBridges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py",
+      "summary": "Python class TestBridges",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py:TestHasBridges",
+      "type": "class",
+      "name": "TestHasBridges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py",
+      "summary": "Python class TestHasBridges",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py:TestLocalBridges",
+      "type": "class",
+      "name": "TestLocalBridges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py",
+      "summary": "Python class TestLocalBridges",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "type": "file",
+      "name": "test_broadcasting",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_example_tree_broadcast",
+      "type": "function",
+      "name": "test_example_tree_broadcast",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "summary": "Python function test_example_tree_broadcast",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_path_broadcast",
+      "type": "function",
+      "name": "test_path_broadcast",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "summary": "Python function test_path_broadcast",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_empty_graph_broadcast",
+      "type": "function",
+      "name": "test_empty_graph_broadcast",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "summary": "Python function test_empty_graph_broadcast",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_star_broadcast",
+      "type": "function",
+      "name": "test_star_broadcast",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "summary": "Python function test_star_broadcast",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_binomial_tree_broadcast",
+      "type": "function",
+      "name": "test_binomial_tree_broadcast",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "summary": "Python function test_binomial_tree_broadcast",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_raises_graph_type",
+      "type": "function",
+      "name": "test_raises_graph_type",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "summary": "Python function test_raises_graph_type",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_raises_not_tree",
+      "type": "function",
+      "name": "test_raises_not_tree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "summary": "Python function test_raises_not_tree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_raises_node_not_in_G",
+      "type": "function",
+      "name": "test_raises_node_not_in_G",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "summary": "Python function test_raises_node_not_in_G",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py",
+      "type": "file",
+      "name": "test_chains",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py:TestChainDecomposition",
+      "type": "class",
+      "name": "TestChainDecomposition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py",
+      "summary": "Python class TestChainDecomposition",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py:cycles",
+      "type": "function",
+      "name": "cycles",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py",
+      "summary": "Python function cycles",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py:cyclic_equals",
+      "type": "function",
+      "name": "cyclic_equals",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py",
+      "summary": "Python function cyclic_equals",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chordal.py",
+      "type": "file",
+      "name": "test_chordal",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chordal.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chordal.py:TestMCS",
+      "type": "class",
+      "name": "TestMCS",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chordal.py",
+      "summary": "Python class TestMCS",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_clique.py",
+      "type": "file",
+      "name": "test_clique",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_clique.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_clique.py:TestCliques",
+      "type": "class",
+      "name": "TestCliques",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_clique.py",
+      "summary": "Python class TestCliques",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_clique.py:TestEnumerateAllCliques",
+      "type": "class",
+      "name": "TestEnumerateAllCliques",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_clique.py",
+      "summary": "Python class TestEnumerateAllCliques",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "type": "file",
+      "name": "test_cluster",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestTriangles",
+      "type": "class",
+      "name": "TestTriangles",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python class TestTriangles",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestDirectedClustering",
+      "type": "class",
+      "name": "TestDirectedClustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python class TestDirectedClustering",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestDirectedWeightedClustering",
+      "type": "class",
+      "name": "TestDirectedWeightedClustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python class TestDirectedWeightedClustering",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestWeightedClustering",
+      "type": "class",
+      "name": "TestWeightedClustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python class TestWeightedClustering",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestClustering",
+      "type": "class",
+      "name": "TestClustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python class TestClustering",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestTransitivity",
+      "type": "class",
+      "name": "TestTransitivity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python class TestTransitivity",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestSquareClustering",
+      "type": "class",
+      "name": "TestSquareClustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python class TestSquareClustering",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestAverageClustering",
+      "type": "class",
+      "name": "TestAverageClustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python class TestAverageClustering",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestDirectedAverageClustering",
+      "type": "class",
+      "name": "TestDirectedAverageClustering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python class TestDirectedAverageClustering",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestGeneralizedDegree",
+      "type": "class",
+      "name": "TestGeneralizedDegree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python class TestGeneralizedDegree",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_square_clustering_adjacent_squares",
+      "type": "function",
+      "name": "test_square_clustering_adjacent_squares",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python function test_square_clustering_adjacent_squares",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_square_clustering_2d_grid",
+      "type": "function",
+      "name": "test_square_clustering_2d_grid",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python function test_square_clustering_2d_grid",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_square_clustering_multiple_squares_non_complete",
+      "type": "function",
+      "name": "test_square_clustering_multiple_squares_non_complete",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python function test_square_clustering_multiple_squares_non_complete",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_non_integer_nodes",
+      "type": "function",
+      "name": "test_all_triangles_non_integer_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python function test_all_triangles_non_integer_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_overlapping",
+      "type": "function",
+      "name": "test_all_triangles_overlapping",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python function test_all_triangles_overlapping",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_subset",
+      "type": "function",
+      "name": "test_all_triangles_subset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python function test_all_triangles_subset",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_subset_empty",
+      "type": "function",
+      "name": "test_all_triangles_subset_empty",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python function test_all_triangles_subset_empty",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_no_triangles",
+      "type": "function",
+      "name": "test_all_triangles_no_triangles",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python function test_all_triangles_no_triangles",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_complete_graph_exact",
+      "type": "function",
+      "name": "test_all_triangles_complete_graph_exact",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python function test_all_triangles_complete_graph_exact",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_directed_graph",
+      "type": "function",
+      "name": "test_all_triangles_directed_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python function test_all_triangles_directed_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_multiedges",
+      "type": "function",
+      "name": "test_all_triangles_multiedges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "summary": "Python function test_all_triangles_multiedges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_communicability.py",
+      "type": "file",
+      "name": "test_communicability",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_communicability.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_communicability.py:TestCommunicability",
+      "type": "class",
+      "name": "TestCommunicability",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_communicability.py",
+      "summary": "Python class TestCommunicability",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_core.py",
+      "type": "file",
+      "name": "test_core",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_core.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_core.py:TestCore",
+      "type": "class",
+      "name": "TestCore",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_core.py",
+      "summary": "Python class TestCore",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_covering.py",
+      "type": "file",
+      "name": "test_covering",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_covering.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_covering.py:TestMinEdgeCover",
+      "type": "class",
+      "name": "TestMinEdgeCover",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_covering.py",
+      "summary": "Python class TestMinEdgeCover",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_covering.py:TestIsEdgeCover",
+      "type": "class",
+      "name": "TestIsEdgeCover",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_covering.py",
+      "summary": "Python class TestIsEdgeCover",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "type": "file",
+      "name": "test_cuts",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestCutSize",
+      "type": "class",
+      "name": "TestCutSize",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "summary": "Python class TestCutSize",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestVolume",
+      "type": "class",
+      "name": "TestVolume",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "summary": "Python class TestVolume",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestNormalizedCutSize",
+      "type": "class",
+      "name": "TestNormalizedCutSize",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "summary": "Python class TestNormalizedCutSize",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestConductance",
+      "type": "class",
+      "name": "TestConductance",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "summary": "Python class TestConductance",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestEdgeExpansion",
+      "type": "class",
+      "name": "TestEdgeExpansion",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "summary": "Python class TestEdgeExpansion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestNodeExpansion",
+      "type": "class",
+      "name": "TestNodeExpansion",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "summary": "Python class TestNodeExpansion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestBoundaryExpansion",
+      "type": "class",
+      "name": "TestBoundaryExpansion",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "summary": "Python class TestBoundaryExpansion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestMixingExpansion",
+      "type": "class",
+      "name": "TestMixingExpansion",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "summary": "Python class TestMixingExpansion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "type": "file",
+      "name": "test_cycles",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:TestCycles",
+      "type": "class",
+      "name": "TestCycles",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "summary": "Python class TestCycles",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:TestCycleEnumeration",
+      "type": "class",
+      "name": "TestCycleEnumeration",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "summary": "Python class TestCycleEnumeration",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:TestFindCycle",
+      "type": "class",
+      "name": "TestFindCycle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "summary": "Python class TestFindCycle",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:TestMinimumCycleBasis",
+      "type": "class",
+      "name": "TestMinimumCycleBasis",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "summary": "Python class TestMinimumCycleBasis",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:TestGirth",
+      "type": "class",
+      "name": "TestGirth",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "summary": "Python class TestGirth",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:check_independent",
+      "type": "function",
+      "name": "check_independent",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "summary": "Python function check_independent",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:pairwise",
+      "type": "function",
+      "name": "pairwise",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "summary": "Python function pairwise",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:cycle_edges",
+      "type": "function",
+      "name": "cycle_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "summary": "Python function cycle_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:directed_cycle_edgeset",
+      "type": "function",
+      "name": "directed_cycle_edgeset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "summary": "Python function directed_cycle_edgeset",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:undirected_cycle_edgeset",
+      "type": "function",
+      "name": "undirected_cycle_edgeset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "summary": "Python function undirected_cycle_edgeset",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:multigraph_cycle_edgeset",
+      "type": "function",
+      "name": "multigraph_cycle_edgeset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "summary": "Python function multigraph_cycle_edgeset",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:assert_basis_equal",
+      "type": "function",
+      "name": "assert_basis_equal",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "summary": "Python function assert_basis_equal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "type": "file",
+      "name": "test_d_separation",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:path_graph",
+      "type": "function",
+      "name": "path_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function path_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:fork_graph",
+      "type": "function",
+      "name": "fork_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function fork_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:collider_graph",
+      "type": "function",
+      "name": "collider_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function collider_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:naive_bayes_graph",
+      "type": "function",
+      "name": "naive_bayes_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function naive_bayes_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:asia_graph",
+      "type": "function",
+      "name": "asia_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function asia_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:path_graph_fixture",
+      "type": "function",
+      "name": "path_graph_fixture",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function path_graph_fixture",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:fork_graph_fixture",
+      "type": "function",
+      "name": "fork_graph_fixture",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function fork_graph_fixture",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:collider_graph_fixture",
+      "type": "function",
+      "name": "collider_graph_fixture",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function collider_graph_fixture",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:naive_bayes_graph_fixture",
+      "type": "function",
+      "name": "naive_bayes_graph_fixture",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function naive_bayes_graph_fixture",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:asia_graph_fixture",
+      "type": "function",
+      "name": "asia_graph_fixture",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function asia_graph_fixture",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:large_collider_graph",
+      "type": "function",
+      "name": "large_collider_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function large_collider_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:chain_and_fork_graph",
+      "type": "function",
+      "name": "chain_and_fork_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function chain_and_fork_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:no_separating_set_graph",
+      "type": "function",
+      "name": "no_separating_set_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function no_separating_set_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:large_no_separating_set_graph",
+      "type": "function",
+      "name": "large_no_separating_set_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function large_no_separating_set_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:collider_trek_graph",
+      "type": "function",
+      "name": "collider_trek_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function collider_trek_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_markov_condition",
+      "type": "function",
+      "name": "test_markov_condition",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function test_markov_condition",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_path_graph_dsep",
+      "type": "function",
+      "name": "test_path_graph_dsep",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function test_path_graph_dsep",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_fork_graph_dsep",
+      "type": "function",
+      "name": "test_fork_graph_dsep",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function test_fork_graph_dsep",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_collider_graph_dsep",
+      "type": "function",
+      "name": "test_collider_graph_dsep",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function test_collider_graph_dsep",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_naive_bayes_dsep",
+      "type": "function",
+      "name": "test_naive_bayes_dsep",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function test_naive_bayes_dsep",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_asia_graph_dsep",
+      "type": "function",
+      "name": "test_asia_graph_dsep",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function test_asia_graph_dsep",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_undirected_graphs_are_not_supported",
+      "type": "function",
+      "name": "test_undirected_graphs_are_not_supported",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function test_undirected_graphs_are_not_supported",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_cyclic_graphs_raise_error",
+      "type": "function",
+      "name": "test_cyclic_graphs_raise_error",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function test_cyclic_graphs_raise_error",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_invalid_nodes_raise_error",
+      "type": "function",
+      "name": "test_invalid_nodes_raise_error",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function test_invalid_nodes_raise_error",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_nondisjoint_node_sets_raise_error",
+      "type": "function",
+      "name": "test_nondisjoint_node_sets_raise_error",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function test_nondisjoint_node_sets_raise_error",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_is_minimal_d_separator",
+      "type": "function",
+      "name": "test_is_minimal_d_separator",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function test_is_minimal_d_separator",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_is_minimal_d_separator_checks_dsep",
+      "type": "function",
+      "name": "test_is_minimal_d_separator_checks_dsep",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function test_is_minimal_d_separator_checks_dsep",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test__reachable",
+      "type": "function",
+      "name": "test__reachable",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "summary": "Python function test__reachable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "type": "file",
+      "name": "test_dag",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:TestDagLongestPath",
+      "type": "class",
+      "name": "TestDagLongestPath",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python class TestDagLongestPath",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:TestDagLongestPathLength",
+      "type": "class",
+      "name": "TestDagLongestPathLength",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python class TestDagLongestPathLength",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:TestDAG",
+      "type": "class",
+      "name": "TestDAG",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python class TestDAG",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:TestDagToBranching",
+      "type": "class",
+      "name": "TestDagToBranching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python class TestDagToBranching",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_topological_generations",
+      "type": "function",
+      "name": "test_topological_generations",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_topological_generations",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_topological_generations_empty",
+      "type": "function",
+      "name": "test_topological_generations_empty",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_topological_generations_empty",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_topological_generations_cycle",
+      "type": "function",
+      "name": "test_topological_generations_cycle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_topological_generations_cycle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_cycle",
+      "type": "function",
+      "name": "test_is_aperiodic_cycle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_is_aperiodic_cycle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_cycle2",
+      "type": "function",
+      "name": "test_is_aperiodic_cycle2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_is_aperiodic_cycle2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_cycle3",
+      "type": "function",
+      "name": "test_is_aperiodic_cycle3",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_is_aperiodic_cycle3",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_cycle4",
+      "type": "function",
+      "name": "test_is_aperiodic_cycle4",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_is_aperiodic_cycle4",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_selfloop",
+      "type": "function",
+      "name": "test_is_aperiodic_selfloop",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_is_aperiodic_selfloop",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_null_graph_raises",
+      "type": "function",
+      "name": "test_is_aperiodic_null_graph_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_is_aperiodic_null_graph_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_undirected_raises",
+      "type": "function",
+      "name": "test_is_aperiodic_undirected_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_is_aperiodic_undirected_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_disconnected_raises",
+      "type": "function",
+      "name": "test_is_aperiodic_disconnected_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_is_aperiodic_disconnected_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_weakly_connected_raises",
+      "type": "function",
+      "name": "test_is_aperiodic_weakly_connected_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_is_aperiodic_weakly_connected_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_empty_graph",
+      "type": "function",
+      "name": "test_is_aperiodic_empty_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_is_aperiodic_empty_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_bipartite",
+      "type": "function",
+      "name": "test_is_aperiodic_bipartite",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_is_aperiodic_bipartite",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_single_node",
+      "type": "function",
+      "name": "test_is_aperiodic_single_node",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_is_aperiodic_single_node",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_ancestors_descendants_undirected",
+      "type": "function",
+      "name": "test_ancestors_descendants_undirected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_ancestors_descendants_undirected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_v_structures_raise",
+      "type": "function",
+      "name": "test_v_structures_raise",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_v_structures_raise",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_v_structures",
+      "type": "function",
+      "name": "test_v_structures",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_v_structures",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_colliders_raise",
+      "type": "function",
+      "name": "test_colliders_raise",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_colliders_raise",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_colliders",
+      "type": "function",
+      "name": "test_colliders",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "summary": "Python function test_colliders",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "type": "file",
+      "name": "test_distance_measures",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:TestDistance",
+      "type": "class",
+      "name": "TestDistance",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "summary": "Python class TestDistance",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:TestWeightedDistance",
+      "type": "class",
+      "name": "TestWeightedDistance",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "summary": "Python class TestWeightedDistance",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:TestResistanceDistance",
+      "type": "class",
+      "name": "TestResistanceDistance",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "summary": "Python class TestResistanceDistance",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:TestEffectiveGraphResistance",
+      "type": "class",
+      "name": "TestEffectiveGraphResistance",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "summary": "Python class TestEffectiveGraphResistance",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:TestBarycenter",
+      "type": "class",
+      "name": "TestBarycenter",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "summary": "Python class TestBarycenter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:TestKemenyConstant",
+      "type": "class",
+      "name": "TestKemenyConstant",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "summary": "Python class TestKemenyConstant",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:test__extrema_bounding_invalid_compute_kwarg",
+      "type": "function",
+      "name": "test__extrema_bounding_invalid_compute_kwarg",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "summary": "Python function test__extrema_bounding_invalid_compute_kwarg",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py",
+      "type": "file",
+      "name": "test_distance_regular",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py:TestDistanceRegular",
+      "type": "class",
+      "name": "TestDistanceRegular",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py",
+      "summary": "Python class TestDistanceRegular",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py:TestStronglyRegular",
+      "type": "class",
+      "name": "TestStronglyRegular",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py",
+      "summary": "Python class TestStronglyRegular",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py:test_raises_on_directed_and_multigraphs",
+      "type": "function",
+      "name": "test_raises_on_directed_and_multigraphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py",
+      "summary": "Python function test_raises_on_directed_and_multigraphs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py:test_empty_graph_raises",
+      "type": "function",
+      "name": "test_empty_graph_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py",
+      "summary": "Python function test_empty_graph_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominance.py",
+      "type": "file",
+      "name": "test_dominance",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominance.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominance.py:TestImmediateDominators",
+      "type": "class",
+      "name": "TestImmediateDominators",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominance.py",
+      "summary": "Python class TestImmediateDominators",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominance.py:TestDominanceFrontiers",
+      "type": "class",
+      "name": "TestDominanceFrontiers",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominance.py",
+      "summary": "Python class TestDominanceFrontiers",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "type": "file",
+      "name": "test_dominating",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_dominating_set",
+      "type": "function",
+      "name": "test_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "summary": "Python function test_dominating_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_complete",
+      "type": "function",
+      "name": "test_complete",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "summary": "Python function test_complete",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_raise_dominating_set",
+      "type": "function",
+      "name": "test_raise_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "summary": "Python function test_raise_dominating_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_is_dominating_set",
+      "type": "function",
+      "name": "test_is_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "summary": "Python function test_is_dominating_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_wikipedia_is_dominating_set",
+      "type": "function",
+      "name": "test_wikipedia_is_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "summary": "Python function test_wikipedia_is_dominating_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_is_connected_dominating_set",
+      "type": "function",
+      "name": "test_is_connected_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "summary": "Python function test_is_connected_dominating_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_null_graph_connected_dominating_set",
+      "type": "function",
+      "name": "test_null_graph_connected_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "summary": "Python function test_null_graph_connected_dominating_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_single_node_graph_connected_dominating_set",
+      "type": "function",
+      "name": "test_single_node_graph_connected_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "summary": "Python function test_single_node_graph_connected_dominating_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_raise_disconnected_graph_connected_dominating_set",
+      "type": "function",
+      "name": "test_raise_disconnected_graph_connected_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "summary": "Python function test_raise_disconnected_graph_connected_dominating_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_complete_graph_connected_dominating_set",
+      "type": "function",
+      "name": "test_complete_graph_connected_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "summary": "Python function test_complete_graph_connected_dominating_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_docstring_example_connected_dominating_set",
+      "type": "function",
+      "name": "test_docstring_example_connected_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "summary": "Python function test_docstring_example_connected_dominating_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_connected_watts_strogatz_graph_connected_dominating_set",
+      "type": "function",
+      "name": "test_connected_watts_strogatz_graph_connected_dominating_set",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "summary": "Python function test_connected_watts_strogatz_graph_connected_dominating_set",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_efficiency.py",
+      "type": "file",
+      "name": "test_efficiency",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_efficiency.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_efficiency.py:TestEfficiency",
+      "type": "class",
+      "name": "TestEfficiency",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_efficiency.py",
+      "summary": "Python class TestEfficiency",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "type": "file",
+      "name": "test_euler",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestIsEulerian",
+      "type": "class",
+      "name": "TestIsEulerian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "summary": "Python class TestIsEulerian",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestEulerianCircuit",
+      "type": "class",
+      "name": "TestEulerianCircuit",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "summary": "Python class TestEulerianCircuit",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestIsSemiEulerian",
+      "type": "class",
+      "name": "TestIsSemiEulerian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "summary": "Python class TestIsSemiEulerian",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestHasEulerianPath",
+      "type": "class",
+      "name": "TestHasEulerianPath",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "summary": "Python class TestHasEulerianPath",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestFindPathStart",
+      "type": "class",
+      "name": "TestFindPathStart",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "summary": "Python class TestFindPathStart",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestEulerianPath",
+      "type": "class",
+      "name": "TestEulerianPath",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "summary": "Python class TestEulerianPath",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestEulerize",
+      "type": "class",
+      "name": "TestEulerize",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "summary": "Python class TestEulerize",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:test_empty_graph_raises",
+      "type": "function",
+      "name": "test_empty_graph_raises",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "summary": "Python function test_empty_graph_raises",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "type": "file",
+      "name": "test_graph_hashing",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_positive_iters",
+      "type": "function",
+      "name": "test_positive_iters",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_positive_iters",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_empty_graph_hash",
+      "type": "function",
+      "name": "test_empty_graph_hash",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_empty_graph_hash",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_directed",
+      "type": "function",
+      "name": "test_directed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_directed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_reversed",
+      "type": "function",
+      "name": "test_reversed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_reversed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic",
+      "type": "function",
+      "name": "test_isomorphic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_isomorphic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_edge_attr",
+      "type": "function",
+      "name": "test_isomorphic_edge_attr",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_isomorphic_edge_attr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_missing_edge_attr",
+      "type": "function",
+      "name": "test_missing_edge_attr",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_missing_edge_attr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_node_attr",
+      "type": "function",
+      "name": "test_isomorphic_node_attr",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_isomorphic_node_attr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_missing_node_attr",
+      "type": "function",
+      "name": "test_missing_node_attr",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_missing_node_attr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_edge_attr_and_node_attr",
+      "type": "function",
+      "name": "test_isomorphic_edge_attr_and_node_attr",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_isomorphic_edge_attr_and_node_attr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_digest_size",
+      "type": "function",
+      "name": "test_digest_size",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_digest_size",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_directed_bugs",
+      "type": "function",
+      "name": "test_directed_bugs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_directed_bugs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_trivial_labels_isomorphism",
+      "type": "function",
+      "name": "test_trivial_labels_isomorphism",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_trivial_labels_isomorphism",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_trivial_labels_isomorphism_directed",
+      "type": "function",
+      "name": "test_trivial_labels_isomorphism_directed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_trivial_labels_isomorphism_directed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_trivial_labels_hashes",
+      "type": "function",
+      "name": "test_trivial_labels_hashes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_trivial_labels_hashes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:is_subiteration",
+      "type": "function",
+      "name": "is_subiteration",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function is_subiteration",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:hexdigest_sizes_correct",
+      "type": "function",
+      "name": "hexdigest_sizes_correct",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function hexdigest_sizes_correct",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_empty_graph_subgraph_hash",
+      "type": "function",
+      "name": "test_empty_graph_subgraph_hash",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_empty_graph_subgraph_hash",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_directed_subgraph_hash",
+      "type": "function",
+      "name": "test_directed_subgraph_hash",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_directed_subgraph_hash",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_reversed_subgraph_hash",
+      "type": "function",
+      "name": "test_reversed_subgraph_hash",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_reversed_subgraph_hash",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_subgraph_hash",
+      "type": "function",
+      "name": "test_isomorphic_subgraph_hash",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_isomorphic_subgraph_hash",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_edge_attr_subgraph_hash",
+      "type": "function",
+      "name": "test_isomorphic_edge_attr_subgraph_hash",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_isomorphic_edge_attr_subgraph_hash",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_missing_edge_attr_subgraph_hash",
+      "type": "function",
+      "name": "test_missing_edge_attr_subgraph_hash",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_missing_edge_attr_subgraph_hash",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_node_attr_subgraph_hash",
+      "type": "function",
+      "name": "test_isomorphic_node_attr_subgraph_hash",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_isomorphic_node_attr_subgraph_hash",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_missing_node_attr_subgraph_hash",
+      "type": "function",
+      "name": "test_missing_node_attr_subgraph_hash",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_missing_node_attr_subgraph_hash",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_edge_attr_and_node_attr_subgraph_hash",
+      "type": "function",
+      "name": "test_isomorphic_edge_attr_and_node_attr_subgraph_hash",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_isomorphic_edge_attr_and_node_attr_subgraph_hash",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_iteration_depth",
+      "type": "function",
+      "name": "test_iteration_depth",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_iteration_depth",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_iteration_depth_edge_attr",
+      "type": "function",
+      "name": "test_iteration_depth_edge_attr",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_iteration_depth_edge_attr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_iteration_depth_node_attr",
+      "type": "function",
+      "name": "test_iteration_depth_node_attr",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_iteration_depth_node_attr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_iteration_depth_node_edge_attr",
+      "type": "function",
+      "name": "test_iteration_depth_node_edge_attr",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_iteration_depth_node_edge_attr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_digest_size_subgraph_hash",
+      "type": "function",
+      "name": "test_digest_size_subgraph_hash",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_digest_size_subgraph_hash",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_initial_node_labels_subgraph_hash",
+      "type": "function",
+      "name": "test_initial_node_labels_subgraph_hash",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "summary": "Python function test_initial_node_labels_subgraph_hash",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "type": "file",
+      "name": "test_graphical",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:TestAtlas",
+      "type": "class",
+      "name": "TestAtlas",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python class TestAtlas",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_valid_degree_sequence1",
+      "type": "function",
+      "name": "test_valid_degree_sequence1",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python function test_valid_degree_sequence1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_valid_degree_sequence2",
+      "type": "function",
+      "name": "test_valid_degree_sequence2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python function test_valid_degree_sequence2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_string_input",
+      "type": "function",
+      "name": "test_string_input",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python function test_string_input",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_non_integer_input",
+      "type": "function",
+      "name": "test_non_integer_input",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python function test_non_integer_input",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_negative_input",
+      "type": "function",
+      "name": "test_negative_input",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python function test_negative_input",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_small_graph_true",
+      "type": "function",
+      "name": "test_small_graph_true",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python function test_small_graph_true",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_small_graph_false",
+      "type": "function",
+      "name": "test_small_graph_false",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python function test_small_graph_false",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_directed_degree_sequence",
+      "type": "function",
+      "name": "test_directed_degree_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python function test_directed_degree_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_small_directed_sequences",
+      "type": "function",
+      "name": "test_small_directed_sequences",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python function test_small_directed_sequences",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_multi_sequence",
+      "type": "function",
+      "name": "test_multi_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python function test_multi_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_pseudo_sequence",
+      "type": "function",
+      "name": "test_pseudo_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python function test_pseudo_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_numpy_degree_sequence",
+      "type": "function",
+      "name": "test_numpy_degree_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "summary": "Python function test_numpy_degree_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "type": "file",
+      "name": "test_hierarchy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py:test_hierarchy_undirected",
+      "type": "function",
+      "name": "test_hierarchy_undirected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "summary": "Python function test_hierarchy_undirected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py:test_hierarchy_cycle",
+      "type": "function",
+      "name": "test_hierarchy_cycle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "summary": "Python function test_hierarchy_cycle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py:test_hierarchy_tree",
+      "type": "function",
+      "name": "test_hierarchy_tree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "summary": "Python function test_hierarchy_tree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py:test_hierarchy_1",
+      "type": "function",
+      "name": "test_hierarchy_1",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "summary": "Python function test_hierarchy_1",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py:test_hierarchy_weight",
+      "type": "function",
+      "name": "test_hierarchy_weight",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "summary": "Python function test_hierarchy_weight",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py:test_hierarchy_empty_graph",
+      "type": "function",
+      "name": "test_hierarchy_empty_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "summary": "Python function test_hierarchy_empty_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hybrid.py",
+      "type": "file",
+      "name": "test_hybrid",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hybrid.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hybrid.py:test_2d_grid_graph",
+      "type": "function",
+      "name": "test_2d_grid_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hybrid.py",
+      "summary": "Python function test_2d_grid_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hybrid.py:test_small_graph",
+      "type": "function",
+      "name": "test_small_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hybrid.py",
+      "summary": "Python function test_small_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py",
+      "type": "file",
+      "name": "test_isolate",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py:test_is_isolate",
+      "type": "function",
+      "name": "test_is_isolate",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py",
+      "summary": "Python function test_is_isolate",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py:test_isolates",
+      "type": "function",
+      "name": "test_isolates",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py",
+      "summary": "Python function test_isolates",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py:test_number_of_isolates",
+      "type": "function",
+      "name": "test_number_of_isolates",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py",
+      "summary": "Python function test_number_of_isolates",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_boundary.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_boundary.py:TestNodeBoundary",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_boundary.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_boundary.py:TestEdgeBoundary",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py:TestBridges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py:TestHasBridges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_bridges.py:TestLocalBridges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_example_tree_broadcast",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_path_broadcast",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_empty_graph_broadcast",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_star_broadcast",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_binomial_tree_broadcast",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_raises_graph_type",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_raises_not_tree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_broadcasting.py:test_raises_node_not_in_G",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py:TestChainDecomposition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py:cycles",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chains.py:cyclic_equals",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chordal.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_chordal.py:TestMCS",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_clique.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_clique.py:TestCliques",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_clique.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_clique.py:TestEnumerateAllCliques",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestTriangles",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestDirectedClustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestDirectedWeightedClustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestWeightedClustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestClustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestTransitivity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestSquareClustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestAverageClustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestDirectedAverageClustering",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:TestGeneralizedDegree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_square_clustering_adjacent_squares",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_square_clustering_2d_grid",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_square_clustering_multiple_squares_non_complete",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_non_integer_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_overlapping",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_subset",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_subset_empty",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_no_triangles",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_complete_graph_exact",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_directed_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cluster.py:test_all_triangles_multiedges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_communicability.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_communicability.py:TestCommunicability",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_core.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_core.py:TestCore",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_covering.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_covering.py:TestMinEdgeCover",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_covering.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_covering.py:TestIsEdgeCover",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestCutSize",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestVolume",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestNormalizedCutSize",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestConductance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestEdgeExpansion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestNodeExpansion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestBoundaryExpansion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cuts.py:TestMixingExpansion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:TestCycles",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:TestCycleEnumeration",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:TestFindCycle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:TestMinimumCycleBasis",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:TestGirth",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:check_independent",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:pairwise",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:cycle_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:directed_cycle_edgeset",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:undirected_cycle_edgeset",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:multigraph_cycle_edgeset",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_cycles.py:assert_basis_equal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:path_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:fork_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:collider_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:naive_bayes_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:asia_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:path_graph_fixture",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:fork_graph_fixture",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:collider_graph_fixture",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:naive_bayes_graph_fixture",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:asia_graph_fixture",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:large_collider_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:chain_and_fork_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:no_separating_set_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:large_no_separating_set_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:collider_trek_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_markov_condition",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_path_graph_dsep",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_fork_graph_dsep",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_collider_graph_dsep",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_naive_bayes_dsep",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_asia_graph_dsep",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_undirected_graphs_are_not_supported",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_cyclic_graphs_raise_error",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_invalid_nodes_raise_error",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_nondisjoint_node_sets_raise_error",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_is_minimal_d_separator",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test_is_minimal_d_separator_checks_dsep",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_d_separation.py:test__reachable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:TestDagLongestPath",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:TestDagLongestPathLength",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:TestDAG",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:TestDagToBranching",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_topological_generations",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_topological_generations_empty",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_topological_generations_cycle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_cycle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_cycle2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_cycle3",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_cycle4",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_selfloop",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_null_graph_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_undirected_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_disconnected_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_weakly_connected_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_empty_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_bipartite",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_is_aperiodic_single_node",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_ancestors_descendants_undirected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_v_structures_raise",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_v_structures",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_colliders_raise",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dag.py:test_colliders",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:TestDistance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:TestWeightedDistance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:TestResistanceDistance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:TestEffectiveGraphResistance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:TestBarycenter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:TestKemenyConstant",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_measures.py:test__extrema_bounding_invalid_compute_kwarg",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py:TestDistanceRegular",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py:TestStronglyRegular",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py:test_raises_on_directed_and_multigraphs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_distance_regular.py:test_empty_graph_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominance.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominance.py:TestImmediateDominators",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominance.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominance.py:TestDominanceFrontiers",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_dominating_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_complete",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_raise_dominating_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_is_dominating_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_wikipedia_is_dominating_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_is_connected_dominating_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_null_graph_connected_dominating_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_single_node_graph_connected_dominating_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_raise_disconnected_graph_connected_dominating_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_complete_graph_connected_dominating_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_docstring_example_connected_dominating_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_dominating.py:test_connected_watts_strogatz_graph_connected_dominating_set",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_efficiency.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_efficiency.py:TestEfficiency",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestIsEulerian",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestEulerianCircuit",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestIsSemiEulerian",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestHasEulerianPath",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestFindPathStart",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestEulerianPath",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:TestEulerize",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_euler.py:test_empty_graph_raises",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_positive_iters",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_empty_graph_hash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_directed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_reversed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_edge_attr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_missing_edge_attr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_node_attr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_missing_node_attr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_edge_attr_and_node_attr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_digest_size",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_directed_bugs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_trivial_labels_isomorphism",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_trivial_labels_isomorphism_directed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_trivial_labels_hashes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:is_subiteration",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:hexdigest_sizes_correct",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_empty_graph_subgraph_hash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_directed_subgraph_hash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_reversed_subgraph_hash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_subgraph_hash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_edge_attr_subgraph_hash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_missing_edge_attr_subgraph_hash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_node_attr_subgraph_hash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_missing_node_attr_subgraph_hash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_isomorphic_edge_attr_and_node_attr_subgraph_hash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_iteration_depth",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_iteration_depth_edge_attr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_iteration_depth_node_attr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_iteration_depth_node_edge_attr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_digest_size_subgraph_hash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graph_hashing.py:test_initial_node_labels_subgraph_hash",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:TestAtlas",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_valid_degree_sequence1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_valid_degree_sequence2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_string_input",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_non_integer_input",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_negative_input",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_small_graph_true",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_small_graph_false",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_directed_degree_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_small_directed_sequences",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_multi_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_pseudo_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_graphical.py:test_numpy_degree_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py:test_hierarchy_undirected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py:test_hierarchy_cycle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py:test_hierarchy_tree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py:test_hierarchy_1",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py:test_hierarchy_weight",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hierarchy.py:test_hierarchy_empty_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hybrid.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hybrid.py:test_2d_grid_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hybrid.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_hybrid.py:test_small_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py:test_is_isolate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py:test_isolates",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_isolate.py:test_number_of_isolates",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 231,
+    "edgeCount": 206,
+    "nodeTypes": {
+      "file": 25,
+      "class": 59,
+      "function": 147
+    }
+  }
+}

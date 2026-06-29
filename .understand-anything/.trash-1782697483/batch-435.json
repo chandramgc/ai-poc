@@ -1,0 +1,206 @@
+{
+  "batchIndex": 435,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/_user_array_impl.cpython-314.pyc",
+      "type": "file",
+      "name": "_user_array_impl.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/__pycache__/_user_array_impl.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/_utils_impl.cpython-314.pyc",
+      "type": "file",
+      "name": "_utils_impl.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/__pycache__/_utils_impl.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/_version.cpython-314.pyc",
+      "type": "file",
+      "name": "_version.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/__pycache__/_version.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/array_utils.cpython-314.pyc",
+      "type": "file",
+      "name": "array_utils.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/__pycache__/array_utils.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/format.cpython-314.pyc",
+      "type": "file",
+      "name": "format.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/__pycache__/format.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/introspect.cpython-314.pyc",
+      "type": "file",
+      "name": "introspect.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/__pycache__/introspect.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/mixins.cpython-314.pyc",
+      "type": "file",
+      "name": "mixins.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/__pycache__/mixins.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/npyio.cpython-314.pyc",
+      "type": "file",
+      "name": "npyio.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/__pycache__/npyio.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/recfunctions.cpython-314.pyc",
+      "type": "file",
+      "name": "recfunctions.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/__pycache__/recfunctions.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/scimath.cpython-314.pyc",
+      "type": "file",
+      "name": "scimath.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/__pycache__/scimath.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/stride_tricks.cpython-314.pyc",
+      "type": "file",
+      "name": "stride_tricks.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/__pycache__/stride_tricks.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/user_array.cpython-314.pyc",
+      "type": "file",
+      "name": "user_array.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/lib/__pycache__/user_array.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/_user_array_impl.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/_user_array_impl.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/_utils_impl.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/_utils_impl.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/_version.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/_version.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/array_utils.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/array_utils.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/format.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/format.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/introspect.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/introspect.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/mixins.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/mixins.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/npyio.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/npyio.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/recfunctions.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/recfunctions.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/scimath.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/scimath.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/stride_tricks.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/stride_tricks.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/user_array.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/lib/__pycache__/user_array.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 12,
+    "edgeCount": 12,
+    "nodeTypes": {
+      "file": 12
+    }
+  }
+}

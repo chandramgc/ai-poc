@@ -1,0 +1,282 @@
+{
+  "batchIndex": 284,
+  "nodes": [
+    {
+      "id": "file:templates/.graphifyignore",
+      "type": "file",
+      "name": ".graphifyignore",
+      "filePath": "templates/.graphifyignore",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:templates/AGENTS.md",
+      "type": "document",
+      "name": "AGENTS",
+      "filePath": "templates/AGENTS.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:AGENTS.md - AI Agent Configura",
+        "section:\ud83c\udf31 Spec Kit (SDD)",
+        "section:\ud83d\udc34 Ponytail",
+        "section:\ud83e\udde0 Graphify",
+        "section:Development Workflow",
+        "section:Key Files",
+        "code_blocks:1"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:templates/JAVA_BEST_PRACTICES.md",
+      "type": "document",
+      "name": "JAVA_BEST_PRACTICES",
+      "filePath": "templates/JAVA_BEST_PRACTICES.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Java Coding Standards & Best P",
+        "section:Overview",
+        "section:Mandatory Rules (BLOCKER)",
+        "section:1. No Hard-coded Credentials (",
+        "section:2. Use SLF4J Logger, Not Syste",
+        "section:3. Always Use Try-With-Resourc",
+        "section:4. Return Optional, Not Null",
+        "section:Critical Rules",
+        "section:5. Null Safety",
+        "section:6. Never Use Raw Exceptions",
+        "code_blocks:12"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:templates/Makefile",
+      "type": "file",
+      "name": "Makefile",
+      "filePath": "templates/Makefile",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:templates/PYTHON_BEST_PRACTICES.md",
+      "type": "document",
+      "name": "PYTHON_BEST_PRACTICES",
+      "filePath": "templates/PYTHON_BEST_PRACTICES.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Python Coding Standards (PEP 8",
+        "section:Overview",
+        "section:Code Layout",
+        "section:Indentation",
+        "section:Correct: 4-space indent",
+        "section:Also correct: hanging indent",
+        "section:Line Length",
+        "section:Correct: broken into multiple ",
+        "section:Blank Lines",
+        "section:Imports",
+        "code_blocks:18"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:templates/README.md",
+      "type": "document",
+      "name": "README",
+      "filePath": "templates/README.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Project with Automation",
+        "section:\ud83c\udf31 Spec Kit (Spec-Driven Develo",
+        "section:Spec Kit Resources",
+        "section:\ud83d\udc34 Ponytail",
+        "section:Ponytail Resources",
+        "section:\ud83e\udde0 Graphify",
+        "section:Graphify Resources",
+        "section:\ud83d\ude80 Quick Start",
+        "section:1. Initialize the project",
+        "section:2. Generate knowledge graph",
+        "code_blocks:11"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:templates/constitution.md",
+      "type": "document",
+      "name": "constitution",
+      "filePath": "templates/constitution.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Project Constitution",
+        "section:Development Principles",
+        "section:1. Code Quality",
+        "section:2. Spec-Driven Development",
+        "section:3. Performance",
+        "section:4. Security",
+        "section:5. Documentation",
+        "section:Spec Organization",
+        "section:Compliance & Quality Gates"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:templates/example-spec.md",
+      "type": "document",
+      "name": "example-spec",
+      "filePath": "templates/example-spec.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Feature Specification",
+        "section:Overview",
+        "section:User Story",
+        "section:Acceptance Criteria",
+        "section:Technical Considerations",
+        "section:Dependencies",
+        "section:Related Specs"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:templates/install-ponytail.sh",
+      "type": "file",
+      "name": "install-ponytail",
+      "filePath": "templates/install-ponytail.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:templates/manifest.json",
+      "type": "config",
+      "name": "manifest",
+      "filePath": "templates/manifest.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:3"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:templates/orchestrate.sh",
+      "type": "file",
+      "name": "orchestrate",
+      "filePath": "templates/orchestrate.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:templates/ponytail-config.json",
+      "type": "config",
+      "name": "ponytail-config",
+      "filePath": "templates/ponytail-config.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:3"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:templates/run-graphify.sh",
+      "type": "file",
+      "name": "run-graphify",
+      "filePath": "templates/run-graphify.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:templates/run-sdd.sh",
+      "type": "file",
+      "name": "run-sdd",
+      "filePath": "templates/run-sdd.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:templates/.graphifyignore",
+      "target": "file:templates/.graphifyignore",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:templates/Makefile",
+      "target": "file:templates/Makefile",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:templates/install-ponytail.sh",
+      "target": "file:templates/install-ponytail.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:templates/orchestrate.sh",
+      "target": "file:templates/orchestrate.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:templates/run-graphify.sh",
+      "target": "file:templates/run-graphify.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:templates/run-sdd.sh",
+      "target": "file:templates/run-sdd.sh",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 14,
+    "edgeCount": 6,
+    "nodeTypes": {
+      "file": 6,
+      "document": 6,
+      "config": 2
+    }
+  }
+}

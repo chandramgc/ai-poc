@@ -1,0 +1,174 @@
+{
+  "batchIndex": 353,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/connectivity.cpython-314.pyc",
+      "type": "file",
+      "name": "connectivity.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/connectivity.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/cuts.cpython-314.pyc",
+      "type": "file",
+      "name": "cuts.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/cuts.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/disjoint_paths.cpython-314.pyc",
+      "type": "file",
+      "name": "disjoint_paths.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/disjoint_paths.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/edge_augmentation.cpython-314.pyc",
+      "type": "file",
+      "name": "edge_augmentation.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/edge_augmentation.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/edge_kcomponents.cpython-314.pyc",
+      "type": "file",
+      "name": "edge_kcomponents.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/edge_kcomponents.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/kcomponents.cpython-314.pyc",
+      "type": "file",
+      "name": "kcomponents.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/kcomponents.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/kcutsets.cpython-314.pyc",
+      "type": "file",
+      "name": "kcutsets.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/kcutsets.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/stoerwagner.cpython-314.pyc",
+      "type": "file",
+      "name": "stoerwagner.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/stoerwagner.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/utils.cpython-314.pyc",
+      "type": "file",
+      "name": "utils.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/utils.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/connectivity.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/connectivity.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/cuts.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/cuts.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/disjoint_paths.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/disjoint_paths.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/edge_augmentation.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/edge_augmentation.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/edge_kcomponents.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/edge_kcomponents.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/kcomponents.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/kcomponents.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/kcutsets.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/kcutsets.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/stoerwagner.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/stoerwagner.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/utils.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/connectivity/__pycache__/utils.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 10,
+    "edgeCount": 10,
+    "nodeTypes": {
+      "file": 10
+    }
+  }
+}

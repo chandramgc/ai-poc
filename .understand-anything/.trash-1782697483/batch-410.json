@@ -1,0 +1,78 @@
+{
+  "batchIndex": 410,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_utils/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_utils/_conversions.pyi",
+      "type": "file",
+      "name": "_conversions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_conversions.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.pyi",
+      "type": "file",
+      "name": "_inspect",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_inspect.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.pyi",
+      "type": "file",
+      "name": "_pep440",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_pep440.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_utils/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_conversions.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_utils/_conversions.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.pyi",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 4,
+    "nodeTypes": {
+      "file": 4
+    }
+  }
+}

@@ -1,0 +1,1710 @@
+{
+  "batchIndex": 658,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/_mapping.py",
+      "type": "file",
+      "name": "_mapping",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/_mapping.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "type": "file",
+      "name": "python",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:PythonLexer",
+      "type": "class",
+      "name": "PythonLexer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "summary": "Python class PythonLexer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:Python2Lexer",
+      "type": "class",
+      "name": "Python2Lexer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "summary": "Python class Python2Lexer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:_PythonConsoleLexerBase",
+      "type": "class",
+      "name": "_PythonConsoleLexerBase",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "summary": "Python class _PythonConsoleLexerBase",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:PythonConsoleLexer",
+      "type": "class",
+      "name": "PythonConsoleLexer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "summary": "Python class PythonConsoleLexer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:PythonTracebackLexer",
+      "type": "class",
+      "name": "PythonTracebackLexer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "summary": "Python class PythonTracebackLexer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:Python2TracebackLexer",
+      "type": "class",
+      "name": "Python2TracebackLexer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "summary": "Python class Python2TracebackLexer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:CythonLexer",
+      "type": "class",
+      "name": "CythonLexer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "summary": "Python class CythonLexer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:DgLexer",
+      "type": "class",
+      "name": "DgLexer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "summary": "Python class DgLexer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:NumPyLexer",
+      "type": "class",
+      "name": "NumPyLexer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "summary": "Python class NumPyLexer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/LICENSE",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/LICENSE",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/modeline.py",
+      "type": "file",
+      "name": "modeline",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/modeline.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/modeline.py:get_filetype_from_line",
+      "type": "function",
+      "name": "get_filetype_from_line",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/modeline.py",
+      "summary": "Python function get_filetype_from_line",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/modeline.py:get_filetype_from_buffer",
+      "type": "function",
+      "name": "get_filetype_from_buffer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/modeline.py",
+      "summary": "Python function get_filetype_from_buffer",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py",
+      "type": "file",
+      "name": "plugin",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py:iter_entry_points",
+      "type": "function",
+      "name": "iter_entry_points",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py",
+      "summary": "Python function iter_entry_points",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py:find_plugin_lexers",
+      "type": "function",
+      "name": "find_plugin_lexers",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py",
+      "summary": "Python function find_plugin_lexers",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py:find_plugin_formatters",
+      "type": "function",
+      "name": "find_plugin_formatters",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py",
+      "summary": "Python function find_plugin_formatters",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py:find_plugin_styles",
+      "type": "function",
+      "name": "find_plugin_styles",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py",
+      "summary": "Python function find_plugin_styles",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py:find_plugin_filters",
+      "type": "function",
+      "name": "find_plugin_filters",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py",
+      "summary": "Python function find_plugin_filters",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py",
+      "type": "file",
+      "name": "regexopt",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py:make_charset",
+      "type": "function",
+      "name": "make_charset",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py",
+      "summary": "Python function make_charset",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py:regex_opt_inner",
+      "type": "function",
+      "name": "regex_opt_inner",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py",
+      "summary": "Python function regex_opt_inner",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py:regex_opt",
+      "type": "function",
+      "name": "regex_opt",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py",
+      "summary": "Python function regex_opt",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/scanner.py",
+      "type": "file",
+      "name": "scanner",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/scanner.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/scanner.py:EndOfText",
+      "type": "class",
+      "name": "EndOfText",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/scanner.py",
+      "summary": "Python class EndOfText",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/scanner.py:Scanner",
+      "type": "class",
+      "name": "Scanner",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/scanner.py",
+      "summary": "Python class Scanner",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/sphinxext.py",
+      "type": "file",
+      "name": "sphinxext",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/sphinxext.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/sphinxext.py:PygmentsDoc",
+      "type": "class",
+      "name": "PygmentsDoc",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/sphinxext.py",
+      "summary": "Python class PygmentsDoc",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/sphinxext.py:setup",
+      "type": "function",
+      "name": "setup",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/sphinxext.py",
+      "summary": "Python function setup",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/style.py",
+      "type": "file",
+      "name": "style",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/style.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/style.py:StyleMeta",
+      "type": "class",
+      "name": "StyleMeta",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/style.py",
+      "summary": "Python class StyleMeta",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/style.py:Style",
+      "type": "class",
+      "name": "Style",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/style.py",
+      "summary": "Python class Style",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__init__.py:get_style_by_name",
+      "type": "function",
+      "name": "get_style_by_name",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__init__.py",
+      "summary": "Python function get_style_by_name",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__init__.py:get_all_styles",
+      "type": "function",
+      "name": "get_all_styles",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__init__.py",
+      "summary": "Python function get_all_styles",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__pycache__/_mapping.cpython-314.pyc",
+      "type": "file",
+      "name": "_mapping.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__pycache__/_mapping.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/_mapping.py",
+      "type": "file",
+      "name": "_mapping",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/_mapping.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py",
+      "type": "file",
+      "name": "token",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py:_TokenType",
+      "type": "class",
+      "name": "_TokenType",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py",
+      "summary": "Python class _TokenType",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py:is_token_subtype",
+      "type": "function",
+      "name": "is_token_subtype",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py",
+      "summary": "Python function is_token_subtype",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py:string_to_tokentype",
+      "type": "function",
+      "name": "string_to_tokentype",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py",
+      "summary": "Python function string_to_tokentype",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/unistring.py",
+      "type": "file",
+      "name": "unistring",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/unistring.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/unistring.py:combine",
+      "type": "function",
+      "name": "combine",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/unistring.py",
+      "summary": "Python function combine",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/unistring.py:allexcept",
+      "type": "function",
+      "name": "allexcept",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/unistring.py",
+      "summary": "Python function allexcept",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "type": "file",
+      "name": "util",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:ClassNotFound",
+      "type": "class",
+      "name": "ClassNotFound",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python class ClassNotFound",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:OptionError",
+      "type": "class",
+      "name": "OptionError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python class OptionError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:Future",
+      "type": "class",
+      "name": "Future",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python class Future",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:UnclosingTextIOWrapper",
+      "type": "class",
+      "name": "UnclosingTextIOWrapper",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python class UnclosingTextIOWrapper",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:get_choice_opt",
+      "type": "function",
+      "name": "get_choice_opt",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function get_choice_opt",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:get_bool_opt",
+      "type": "function",
+      "name": "get_bool_opt",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function get_bool_opt",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:get_int_opt",
+      "type": "function",
+      "name": "get_int_opt",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function get_int_opt",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:get_list_opt",
+      "type": "function",
+      "name": "get_list_opt",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function get_list_opt",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:docstring_headline",
+      "type": "function",
+      "name": "docstring_headline",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function docstring_headline",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:make_analysator",
+      "type": "function",
+      "name": "make_analysator",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function make_analysator",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:shebang_matches",
+      "type": "function",
+      "name": "shebang_matches",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function shebang_matches",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:doctype_matches",
+      "type": "function",
+      "name": "doctype_matches",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function doctype_matches",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:html_doctype_matches",
+      "type": "function",
+      "name": "html_doctype_matches",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function html_doctype_matches",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:looks_like_xml",
+      "type": "function",
+      "name": "looks_like_xml",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function looks_like_xml",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:surrogatepair",
+      "type": "function",
+      "name": "surrogatepair",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function surrogatepair",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:format_lines",
+      "type": "function",
+      "name": "format_lines",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function format_lines",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:guess_decode",
+      "type": "function",
+      "name": "guess_decode",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function guess_decode",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:guess_decode_from_terminal",
+      "type": "function",
+      "name": "guess_decode_from_terminal",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function guess_decode_from_terminal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:terminal_encoding",
+      "type": "function",
+      "name": "terminal_encoding",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "summary": "Python function terminal_encoding",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/__pycache__/_impl.cpython-314.pyc",
+      "type": "file",
+      "name": "_impl.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/__pycache__/_impl.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py",
+      "type": "file",
+      "name": "_impl",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py:BackendUnavailable",
+      "type": "class",
+      "name": "BackendUnavailable",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py",
+      "summary": "Python class BackendUnavailable",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py:HookMissing",
+      "type": "class",
+      "name": "HookMissing",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py",
+      "summary": "Python class HookMissing",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py:UnsupportedOperation",
+      "type": "class",
+      "name": "UnsupportedOperation",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py",
+      "summary": "Python class UnsupportedOperation",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py:BuildBackendHookCaller",
+      "type": "class",
+      "name": "BuildBackendHookCaller",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py",
+      "summary": "Python class BuildBackendHookCaller",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/_in_process.cpython-314.pyc",
+      "type": "file",
+      "name": "_in_process.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/_in_process.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "type": "file",
+      "name": "_in_process",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:BackendUnavailable",
+      "type": "class",
+      "name": "BackendUnavailable",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python class BackendUnavailable",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:HookMissing",
+      "type": "class",
+      "name": "HookMissing",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python class HookMissing",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:_BackendPathFinder",
+      "type": "class",
+      "name": "_BackendPathFinder",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python class _BackendPathFinder",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:_DummyException",
+      "type": "class",
+      "name": "_DummyException",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python class _DummyException",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:GotUnsupportedOperation",
+      "type": "class",
+      "name": "GotUnsupportedOperation",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python class GotUnsupportedOperation",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:write_json",
+      "type": "function",
+      "name": "write_json",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python function write_json",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:read_json",
+      "type": "function",
+      "name": "read_json",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python function read_json",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:get_requires_for_build_wheel",
+      "type": "function",
+      "name": "get_requires_for_build_wheel",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python function get_requires_for_build_wheel",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:get_requires_for_build_editable",
+      "type": "function",
+      "name": "get_requires_for_build_editable",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python function get_requires_for_build_editable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:prepare_metadata_for_build_wheel",
+      "type": "function",
+      "name": "prepare_metadata_for_build_wheel",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python function prepare_metadata_for_build_wheel",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:prepare_metadata_for_build_editable",
+      "type": "function",
+      "name": "prepare_metadata_for_build_editable",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python function prepare_metadata_for_build_editable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:build_wheel",
+      "type": "function",
+      "name": "build_wheel",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python function build_wheel",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:build_editable",
+      "type": "function",
+      "name": "build_editable",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python function build_editable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:get_requires_for_build_sdist",
+      "type": "function",
+      "name": "get_requires_for_build_sdist",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python function get_requires_for_build_sdist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:build_sdist",
+      "type": "function",
+      "name": "build_sdist",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python function build_sdist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "summary": "Python function main",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/LICENSE",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/LICENSE",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:PythonLexer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:Python2Lexer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:_PythonConsoleLexerBase",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:PythonConsoleLexer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:PythonTracebackLexer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:Python2TracebackLexer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:CythonLexer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:DgLexer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py:NumPyLexer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/LICENSE",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/LICENSE",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/modeline.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/modeline.py:get_filetype_from_line",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/modeline.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/modeline.py:get_filetype_from_buffer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py:iter_entry_points",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py:find_plugin_lexers",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py:find_plugin_formatters",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py:find_plugin_styles",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py:find_plugin_filters",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py:make_charset",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py:regex_opt_inner",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py:regex_opt",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/scanner.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/scanner.py:EndOfText",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/scanner.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/scanner.py:Scanner",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/sphinxext.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/sphinxext.py:PygmentsDoc",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/sphinxext.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/sphinxext.py:setup",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/style.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/style.py:StyleMeta",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/style.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/style.py:Style",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__init__.py:get_style_by_name",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__init__.py:get_all_styles",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__pycache__/_mapping.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__pycache__/_mapping.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py:_TokenType",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py:is_token_subtype",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py:string_to_tokentype",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/unistring.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/unistring.py:combine",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/unistring.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/unistring.py:allexcept",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:ClassNotFound",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:OptionError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:Future",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:UnclosingTextIOWrapper",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:get_choice_opt",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:get_bool_opt",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:get_int_opt",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:get_list_opt",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:docstring_headline",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:make_analysator",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:shebang_matches",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:doctype_matches",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:html_doctype_matches",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:looks_like_xml",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:surrogatepair",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:format_lines",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:guess_decode",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:guess_decode_from_terminal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py:terminal_encoding",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/__pycache__/_impl.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/__pycache__/_impl.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py:BackendUnavailable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py:HookMissing",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py:UnsupportedOperation",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py:BuildBackendHookCaller",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/_in_process.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/_in_process.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:BackendUnavailable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:HookMissing",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:_BackendPathFinder",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:_DummyException",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:GotUnsupportedOperation",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:write_json",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:read_json",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:get_requires_for_build_wheel",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:get_requires_for_build_editable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:prepare_metadata_for_build_wheel",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:prepare_metadata_for_build_editable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:build_wheel",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:build_editable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:get_requires_for_build_sdist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:build_sdist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py:main",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/LICENSE",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/LICENSE",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 96,
+    "edgeCount": 79,
+    "nodeTypes": {
+      "file": 25,
+      "class": 28,
+      "function": 43
+    }
+  }
+}

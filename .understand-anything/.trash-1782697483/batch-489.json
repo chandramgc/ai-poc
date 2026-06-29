@@ -1,0 +1,46 @@
+{
+  "batchIndex": 489,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/certifi/LICENSE",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/certifi/LICENSE",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/certifi/cacert.pem",
+      "type": "file",
+      "name": "cacert",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/certifi/cacert.pem",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/certifi/LICENSE",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/certifi/LICENSE",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/certifi/cacert.pem",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/certifi/cacert.pem",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 2,
+    "edgeCount": 2,
+    "nodeTypes": {
+      "file": 2
+    }
+  }
+}

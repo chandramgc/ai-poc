@@ -1,0 +1,94 @@
+{
+  "batchIndex": 310,
+  "nodes": [
+    {
+      "id": "file:tmp/test-java/.git/COMMIT_EDITMSG",
+      "type": "file",
+      "name": "COMMIT_EDITMSG",
+      "filePath": "tmp/test-java/.git/COMMIT_EDITMSG",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/.git/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": "tmp/test-java/.git/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/.git/config",
+      "type": "file",
+      "name": "config",
+      "filePath": "tmp/test-java/.git/config",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/.git/description",
+      "type": "file",
+      "name": "description",
+      "filePath": "tmp/test-java/.git/description",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-java/.git/index",
+      "type": "file",
+      "name": "index",
+      "filePath": "tmp/test-java/.git/index",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/test-java/.git/COMMIT_EDITMSG",
+      "target": "file:tmp/test-java/.git/COMMIT_EDITMSG",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/.git/HEAD",
+      "target": "file:tmp/test-java/.git/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/.git/config",
+      "target": "file:tmp/test-java/.git/config",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/.git/description",
+      "target": "file:tmp/test-java/.git/description",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-java/.git/index",
+      "target": "file:tmp/test-java/.git/index",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

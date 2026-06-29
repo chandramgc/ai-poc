@@ -1,0 +1,78 @@
+{
+  "batchIndex": 427,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/funcfortranname.f",
+      "type": "file",
+      "name": "funcfortranname",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/funcfortranname.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/funcfortranname.pyf",
+      "type": "file",
+      "name": "funcfortranname",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/funcfortranname.pyf",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/subrout.f",
+      "type": "file",
+      "name": "subrout",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/subrout.f",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/subrout.pyf",
+      "type": "file",
+      "name": "subrout",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/subrout.pyf",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/funcfortranname.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/funcfortranname.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/funcfortranname.pyf",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/funcfortranname.pyf",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/subrout.f",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/subrout.f",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/subrout.pyf",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/subrout.pyf",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 4,
+    "nodeTypes": {
+      "file": 4
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "batchIndex": 583,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/INSTALLER",
+      "type": "file",
+      "name": "INSTALLER",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/INSTALLER",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/LICENSE",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/LICENSE",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/METADATA",
+      "type": "file",
+      "name": "METADATA",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/METADATA",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/RECORD",
+      "type": "file",
+      "name": "RECORD",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/RECORD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/WHEEL",
+      "type": "file",
+      "name": "WHEEL",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/WHEEL",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/top_level.txt",
+      "type": "file",
+      "name": "top_level",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/top_level.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/INSTALLER",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/INSTALLER",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/LICENSE",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/LICENSE",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/METADATA",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/METADATA",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/RECORD",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/RECORD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/WHEEL",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/WHEEL",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/top_level.txt",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_zig-1.1.2.dist-info/top_level.txt",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 6,
+    "nodeTypes": {
+      "file": 6
+    }
+  }
+}

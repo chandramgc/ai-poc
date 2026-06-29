@@ -1,0 +1,720 @@
+{
+  "batchIndex": 627,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "type": "file",
+      "name": "test_random_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py:test_degree_sequences",
+      "type": "function",
+      "name": "test_degree_sequences",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "summary": "Python function test_degree_sequences",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py:test_valid_degree_sequence",
+      "type": "function",
+      "name": "test_valid_degree_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "summary": "Python function test_valid_degree_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py:test_zipf_rv",
+      "type": "function",
+      "name": "test_zipf_rv",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "summary": "Python function test_zipf_rv",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py:test_random_weighted_sample",
+      "type": "function",
+      "name": "test_random_weighted_sample",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "summary": "Python function test_random_weighted_sample",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py:test_random_weighted_choice",
+      "type": "function",
+      "name": "test_random_weighted_choice",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "summary": "Python function test_random_weighted_choice",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py:test_random_sequence_low_precision",
+      "type": "function",
+      "name": "test_random_sequence_low_precision",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "summary": "Python function test_random_sequence_low_precision",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_rcm.py",
+      "type": "file",
+      "name": "test_rcm",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_rcm.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_rcm.py:test_reverse_cuthill_mckee",
+      "type": "function",
+      "name": "test_reverse_cuthill_mckee",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_rcm.py",
+      "summary": "Python function test_reverse_cuthill_mckee",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_rcm.py:test_rcm_alternate_heuristic",
+      "type": "function",
+      "name": "test_rcm_alternate_heuristic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_rcm.py",
+      "summary": "Python function test_rcm_alternate_heuristic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py",
+      "type": "file",
+      "name": "test_unionfind",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py:test_unionfind",
+      "type": "function",
+      "name": "test_unionfind",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py",
+      "summary": "Python function test_unionfind",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py:test_subtree_union",
+      "type": "function",
+      "name": "test_subtree_union",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py",
+      "summary": "Python function test_subtree_union",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py:test_unionfind_weights",
+      "type": "function",
+      "name": "test_unionfind_weights",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py",
+      "summary": "Python function test_unionfind_weights",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py:test_unbalanced_merge_weights",
+      "type": "function",
+      "name": "test_unbalanced_merge_weights",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py",
+      "summary": "Python function test_unbalanced_merge_weights",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py:test_empty_union",
+      "type": "function",
+      "name": "test_empty_union",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py",
+      "summary": "Python function test_empty_union",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/utils/union_find.py",
+      "type": "file",
+      "name": "union_find",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/union_find.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/utils/union_find.py:UnionFind",
+      "type": "class",
+      "name": "UnionFind",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/utils/union_find.py",
+      "summary": "Python class UnionFind",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/LICENSE.txt",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/LICENSE.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "type": "file",
+      "name": "COPYING",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "type": "file",
+      "name": "dragon4_LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+      "type": "document",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
+      "type": "document",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/ma/LICENSE",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/ma/LICENSE",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/LICENSE.md",
+      "type": "document",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/LICENSE.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:NCSA Open Source License",
+        "section:3-Clause BSD License",
+        "section:Components"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
+      "type": "document",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:NumPy",
+        "section:Julia"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
+      "type": "document",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:MT19937"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
+      "type": "document",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:PCG64",
+        "section:The MIT License"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
+      "type": "document",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:PHILOX"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
+      "type": "document",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:SFC64",
+        "section:The MIT License"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
+      "type": "document",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:SPLITMIX64"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/__config__.py",
+      "type": "file",
+      "name": "__config__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/__config__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/__config__.py:DisplayModes",
+      "type": "class",
+      "name": "DisplayModes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/__config__.py",
+      "summary": "Python class DisplayModes",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/__config__.py:show",
+      "type": "function",
+      "name": "show",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/__config__.py",
+      "summary": "Python function show",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/__config__.py:show_config",
+      "type": "function",
+      "name": "show_config",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/__config__.py",
+      "summary": "Python function show_config",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_array_api_info.py",
+      "type": "file",
+      "name": "_array_api_info",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_array_api_info.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_array_api_info.py:__array_namespace_info__",
+      "type": "class",
+      "name": "__array_namespace_info__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_array_api_info.py",
+      "summary": "Python class __array_namespace_info__",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_configtool.py",
+      "type": "file",
+      "name": "_configtool",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_configtool.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py:test_degree_sequences",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py:test_valid_degree_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py:test_zipf_rv",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py:test_random_weighted_sample",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py:test_random_weighted_choice",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_random_sequence.py:test_random_sequence_low_precision",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_rcm.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_rcm.py:test_reverse_cuthill_mckee",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_rcm.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_rcm.py:test_rcm_alternate_heuristic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py:test_unionfind",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py:test_subtree_union",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py:test_unionfind_weights",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py:test_unbalanced_merge_weights",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/utils/tests/test_unionfind.py:test_empty_union",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/utils/union_find.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/utils/union_find.py:UnionFind",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/LICENSE.txt",
+      "target": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/LICENSE.txt",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "target": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "target": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+      "target": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "target": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "target": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "target": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/ma/LICENSE",
+      "target": "file:venv/lib/python3.14/site-packages/numpy-2.5.0.dist-info/licenses/numpy/ma/LICENSE",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/__config__.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/__config__.py:DisplayModes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/__config__.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/__config__.py:show",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/__config__.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/__config__.py:show_config",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_array_api_info.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_array_api_info.py:__array_namespace_info__",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 43,
+    "edgeCount": 26,
+    "nodeTypes": {
+      "file": 16,
+      "function": 15,
+      "class": 3,
+      "document": 9
+    }
+  }
+}

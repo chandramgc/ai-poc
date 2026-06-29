@@ -1,0 +1,413 @@
+{
+  "batchIndex": 588,
+  "nodes": [
+    {
+      "id": "file:build/resources/main/application.yml",
+      "type": "config",
+      "name": "application",
+      "filePath": "build/resources/main/application.yml",
+      "summary": "YAML configuration file",
+      "tags": [
+        "yaml",
+        "config",
+        "keys:5"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/test-results/test/binary/output.bin.idx",
+      "type": "file",
+      "name": "output.bin",
+      "filePath": "build/test-results/test/binary/output.bin.idx",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:gradle/wrapper/gradle-wrapper.properties",
+      "type": "file",
+      "name": "gradle-wrapper",
+      "filePath": "gradle/wrapper/gradle-wrapper.properties",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/info/exclude",
+      "type": "file",
+      "name": "exclude",
+      "filePath": "scaffold-automation/.git/info/exclude",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/logs/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": "scaffold-automation/.git/logs/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/logs/refs/heads/master",
+      "type": "file",
+      "name": "master",
+      "filePath": "scaffold-automation/.git/logs/refs/heads/master",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/01/454fe1a400a64d94b70f268860abbb9781e134",
+      "type": "file",
+      "name": "454fe1a400a64d94b70f268860abbb9781e134",
+      "filePath": "scaffold-automation/.git/objects/01/454fe1a400a64d94b70f268860abbb9781e134",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/04/4ab505a5fc122e998c87454ecba2f8de28f30d",
+      "type": "file",
+      "name": "4ab505a5fc122e998c87454ecba2f8de28f30d",
+      "filePath": "scaffold-automation/.git/objects/04/4ab505a5fc122e998c87454ecba2f8de28f30d",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/05/e4436b67af10286cbdfb7512b61f8fd75171ed",
+      "type": "file",
+      "name": "e4436b67af10286cbdfb7512b61f8fd75171ed",
+      "filePath": "scaffold-automation/.git/objects/05/e4436b67af10286cbdfb7512b61f8fd75171ed",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/10/b500bd49882cc4d4697b5dcdb5fc2e4ba43a41",
+      "type": "file",
+      "name": "b500bd49882cc4d4697b5dcdb5fc2e4ba43a41",
+      "filePath": "scaffold-automation/.git/objects/10/b500bd49882cc4d4697b5dcdb5fc2e4ba43a41",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/2b/55edef4bd4894a6ca4504ee89fbe19d0b90cbf",
+      "type": "file",
+      "name": "55edef4bd4894a6ca4504ee89fbe19d0b90cbf",
+      "filePath": "scaffold-automation/.git/objects/2b/55edef4bd4894a6ca4504ee89fbe19d0b90cbf",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/36/cc7a7290642ebd4121f4387146bfe2e3edaa75",
+      "type": "file",
+      "name": "cc7a7290642ebd4121f4387146bfe2e3edaa75",
+      "filePath": "scaffold-automation/.git/objects/36/cc7a7290642ebd4121f4387146bfe2e3edaa75",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/3a/bb0cb23b5027204231db17e0f9e061a430acaa",
+      "type": "file",
+      "name": "bb0cb23b5027204231db17e0f9e061a430acaa",
+      "filePath": "scaffold-automation/.git/objects/3a/bb0cb23b5027204231db17e0f9e061a430acaa",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/41/b7d41a19369838ff93a9749b59de01cb6ea566",
+      "type": "file",
+      "name": "b7d41a19369838ff93a9749b59de01cb6ea566",
+      "filePath": "scaffold-automation/.git/objects/41/b7d41a19369838ff93a9749b59de01cb6ea566",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/48/41fb66437b6e6efd0b4ae01e1e29a56a1731b7",
+      "type": "file",
+      "name": "41fb66437b6e6efd0b4ae01e1e29a56a1731b7",
+      "filePath": "scaffold-automation/.git/objects/48/41fb66437b6e6efd0b4ae01e1e29a56a1731b7",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/4c/3bed749be81bec19e5ee4bba8b7cafe7a7fd67",
+      "type": "file",
+      "name": "3bed749be81bec19e5ee4bba8b7cafe7a7fd67",
+      "filePath": "scaffold-automation/.git/objects/4c/3bed749be81bec19e5ee4bba8b7cafe7a7fd67",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/4f/d17a5409e49f8d5040437809f99b7934967d6b",
+      "type": "file",
+      "name": "d17a5409e49f8d5040437809f99b7934967d6b",
+      "filePath": "scaffold-automation/.git/objects/4f/d17a5409e49f8d5040437809f99b7934967d6b",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/51/552fb0dde44bd96baaf9803eed94ff05659a88",
+      "type": "file",
+      "name": "552fb0dde44bd96baaf9803eed94ff05659a88",
+      "filePath": "scaffold-automation/.git/objects/51/552fb0dde44bd96baaf9803eed94ff05659a88",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/74/235a40403c462645d1a82e60e2e757bd1f8444",
+      "type": "file",
+      "name": "235a40403c462645d1a82e60e2e757bd1f8444",
+      "filePath": "scaffold-automation/.git/objects/74/235a40403c462645d1a82e60e2e757bd1f8444",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/89/2ba312d2e5c4c4567f53905ea027cdabb7d2b3",
+      "type": "file",
+      "name": "2ba312d2e5c4c4567f53905ea027cdabb7d2b3",
+      "filePath": "scaffold-automation/.git/objects/89/2ba312d2e5c4c4567f53905ea027cdabb7d2b3",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/8a/7b637df43ca8f681abd7c93c65f410d72b2fd4",
+      "type": "file",
+      "name": "7b637df43ca8f681abd7c93c65f410d72b2fd4",
+      "filePath": "scaffold-automation/.git/objects/8a/7b637df43ca8f681abd7c93c65f410d72b2fd4",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/90/58317f9f953190dd1ea0fcffce307028f14230",
+      "type": "file",
+      "name": "58317f9f953190dd1ea0fcffce307028f14230",
+      "filePath": "scaffold-automation/.git/objects/90/58317f9f953190dd1ea0fcffce307028f14230",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/a4/742759318ba8edb12d3f96fea4496f20c6632a",
+      "type": "file",
+      "name": "742759318ba8edb12d3f96fea4496f20c6632a",
+      "filePath": "scaffold-automation/.git/objects/a4/742759318ba8edb12d3f96fea4496f20c6632a",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/b2/db66a696f838f91094a87158849022bbff1768",
+      "type": "file",
+      "name": "db66a696f838f91094a87158849022bbff1768",
+      "filePath": "scaffold-automation/.git/objects/b2/db66a696f838f91094a87158849022bbff1768",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/objects/b4/03b4c5d78a279561797926507d4f7ada93a411",
+      "type": "file",
+      "name": "03b4c5d78a279561797926507d4f7ada93a411",
+      "filePath": "scaffold-automation/.git/objects/b4/03b4c5d78a279561797926507d4f7ada93a411",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:build/test-results/test/binary/output.bin.idx",
+      "target": "file:build/test-results/test/binary/output.bin.idx",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:gradle/wrapper/gradle-wrapper.properties",
+      "target": "file:gradle/wrapper/gradle-wrapper.properties",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/info/exclude",
+      "target": "file:scaffold-automation/.git/info/exclude",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/logs/HEAD",
+      "target": "file:scaffold-automation/.git/logs/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/logs/refs/heads/master",
+      "target": "file:scaffold-automation/.git/logs/refs/heads/master",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/01/454fe1a400a64d94b70f268860abbb9781e134",
+      "target": "file:scaffold-automation/.git/objects/01/454fe1a400a64d94b70f268860abbb9781e134",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/04/4ab505a5fc122e998c87454ecba2f8de28f30d",
+      "target": "file:scaffold-automation/.git/objects/04/4ab505a5fc122e998c87454ecba2f8de28f30d",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/05/e4436b67af10286cbdfb7512b61f8fd75171ed",
+      "target": "file:scaffold-automation/.git/objects/05/e4436b67af10286cbdfb7512b61f8fd75171ed",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/10/b500bd49882cc4d4697b5dcdb5fc2e4ba43a41",
+      "target": "file:scaffold-automation/.git/objects/10/b500bd49882cc4d4697b5dcdb5fc2e4ba43a41",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/2b/55edef4bd4894a6ca4504ee89fbe19d0b90cbf",
+      "target": "file:scaffold-automation/.git/objects/2b/55edef4bd4894a6ca4504ee89fbe19d0b90cbf",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/36/cc7a7290642ebd4121f4387146bfe2e3edaa75",
+      "target": "file:scaffold-automation/.git/objects/36/cc7a7290642ebd4121f4387146bfe2e3edaa75",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/3a/bb0cb23b5027204231db17e0f9e061a430acaa",
+      "target": "file:scaffold-automation/.git/objects/3a/bb0cb23b5027204231db17e0f9e061a430acaa",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/41/b7d41a19369838ff93a9749b59de01cb6ea566",
+      "target": "file:scaffold-automation/.git/objects/41/b7d41a19369838ff93a9749b59de01cb6ea566",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/48/41fb66437b6e6efd0b4ae01e1e29a56a1731b7",
+      "target": "file:scaffold-automation/.git/objects/48/41fb66437b6e6efd0b4ae01e1e29a56a1731b7",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/4c/3bed749be81bec19e5ee4bba8b7cafe7a7fd67",
+      "target": "file:scaffold-automation/.git/objects/4c/3bed749be81bec19e5ee4bba8b7cafe7a7fd67",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/4f/d17a5409e49f8d5040437809f99b7934967d6b",
+      "target": "file:scaffold-automation/.git/objects/4f/d17a5409e49f8d5040437809f99b7934967d6b",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/51/552fb0dde44bd96baaf9803eed94ff05659a88",
+      "target": "file:scaffold-automation/.git/objects/51/552fb0dde44bd96baaf9803eed94ff05659a88",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/74/235a40403c462645d1a82e60e2e757bd1f8444",
+      "target": "file:scaffold-automation/.git/objects/74/235a40403c462645d1a82e60e2e757bd1f8444",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/89/2ba312d2e5c4c4567f53905ea027cdabb7d2b3",
+      "target": "file:scaffold-automation/.git/objects/89/2ba312d2e5c4c4567f53905ea027cdabb7d2b3",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/8a/7b637df43ca8f681abd7c93c65f410d72b2fd4",
+      "target": "file:scaffold-automation/.git/objects/8a/7b637df43ca8f681abd7c93c65f410d72b2fd4",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/90/58317f9f953190dd1ea0fcffce307028f14230",
+      "target": "file:scaffold-automation/.git/objects/90/58317f9f953190dd1ea0fcffce307028f14230",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/a4/742759318ba8edb12d3f96fea4496f20c6632a",
+      "target": "file:scaffold-automation/.git/objects/a4/742759318ba8edb12d3f96fea4496f20c6632a",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/b2/db66a696f838f91094a87158849022bbff1768",
+      "target": "file:scaffold-automation/.git/objects/b2/db66a696f838f91094a87158849022bbff1768",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/objects/b4/03b4c5d78a279561797926507d4f7ada93a411",
+      "target": "file:scaffold-automation/.git/objects/b4/03b4c5d78a279561797926507d4f7ada93a411",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 25,
+    "edgeCount": 24,
+    "nodeTypes": {
+      "config": 1,
+      "file": 24
+    }
+  }
+}

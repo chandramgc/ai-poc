@@ -1,0 +1,190 @@
+{
+  "batchIndex": 517,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/_common_py.cpython-314.pyc",
+      "type": "file",
+      "name": "_common_py.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/_common_py.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/_feature_detector.cpython-314.pyc",
+      "type": "file",
+      "name": "_feature_detector.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/_feature_detector.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/_utils.cpython-314.pyc",
+      "type": "file",
+      "name": "_utils.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/_utils.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/fuzz.cpython-314.pyc",
+      "type": "file",
+      "name": "fuzz.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/fuzz.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/fuzz_py.cpython-314.pyc",
+      "type": "file",
+      "name": "fuzz_py.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/fuzz_py.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/process.cpython-314.pyc",
+      "type": "file",
+      "name": "process.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/process.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/process_cpp.cpython-314.pyc",
+      "type": "file",
+      "name": "process_cpp.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/process_cpp.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/process_py.cpython-314.pyc",
+      "type": "file",
+      "name": "process_py.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/process_py.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/utils.cpython-314.pyc",
+      "type": "file",
+      "name": "utils.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/utils.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/utils_py.cpython-314.pyc",
+      "type": "file",
+      "name": "utils_py.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/utils_py.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/_common_py.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/_common_py.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/_feature_detector.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/_feature_detector.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/_utils.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/_utils.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/fuzz.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/fuzz.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/fuzz_py.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/fuzz_py.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/process.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/process.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/process_cpp.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/process_cpp.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/process_py.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/process_py.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/utils.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/utils.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/utils_py.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/__pycache__/utils_py.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 11,
+    "edgeCount": 11,
+    "nodeTypes": {
+      "file": 11
+    }
+  }
+}

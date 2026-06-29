@@ -1,0 +1,104 @@
+{
+  "batchIndex": 301,
+  "nodes": [
+    {
+      "id": "file:tmp/speckit-test/.specify/scripts/bash/check-prerequisites.sh",
+      "type": "file",
+      "name": "check-prerequisites",
+      "filePath": "tmp/speckit-test/.specify/scripts/bash/check-prerequisites.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/scripts/bash/common.sh",
+      "type": "file",
+      "name": "common",
+      "filePath": "tmp/speckit-test/.specify/scripts/bash/common.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/scripts/bash/create-new-feature.sh",
+      "type": "file",
+      "name": "create-new-feature",
+      "filePath": "tmp/speckit-test/.specify/scripts/bash/create-new-feature.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/scripts/bash/setup-plan.sh",
+      "type": "file",
+      "name": "setup-plan",
+      "filePath": "tmp/speckit-test/.specify/scripts/bash/setup-plan.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/scripts/bash/setup-tasks.sh",
+      "type": "file",
+      "name": "setup-tasks",
+      "filePath": "tmp/speckit-test/.specify/scripts/bash/setup-tasks.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/speckit-test/.specify/scripts/bash/check-prerequisites.sh",
+      "target": "file:tmp/speckit-test/.specify/scripts/bash/check-prerequisites.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.specify/scripts/bash/common.sh",
+      "target": "file:tmp/speckit-test/.specify/scripts/bash/common.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.specify/scripts/bash/create-new-feature.sh",
+      "target": "file:tmp/speckit-test/.specify/scripts/bash/create-new-feature.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.specify/scripts/bash/setup-plan.sh",
+      "target": "file:tmp/speckit-test/.specify/scripts/bash/setup-plan.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.specify/scripts/bash/setup-tasks.sh",
+      "target": "file:tmp/speckit-test/.specify/scripts/bash/setup-tasks.sh",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

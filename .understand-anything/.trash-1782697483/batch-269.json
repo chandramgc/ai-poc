@@ -1,0 +1,55 @@
+{
+  "batchIndex": 269,
+  "nodes": [
+    {
+      "id": "file:.specify/extensions.yml",
+      "type": "config",
+      "name": "extensions",
+      "filePath": ".specify/extensions.yml",
+      "summary": "YAML configuration file",
+      "tags": [
+        "yaml",
+        "config",
+        "keys:3"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/init-options.json",
+      "type": "config",
+      "name": "init-options",
+      "filePath": ".specify/init-options.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:6"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/integration.json",
+      "type": "config",
+      "name": "integration",
+      "filePath": ".specify/integration.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:6"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [],
+  "statistics": {
+    "nodeCount": 3,
+    "edgeCount": 0,
+    "nodeTypes": {
+      "config": 3
+    }
+  }
+}

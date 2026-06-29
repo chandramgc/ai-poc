@@ -1,0 +1,3063 @@
+{
+  "batchIndex": 656,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/ext.py",
+      "type": "file",
+      "name": "ext",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/msgpack/ext.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/ext.py:Timestamp",
+      "type": "class",
+      "name": "Timestamp",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/msgpack/ext.py",
+      "summary": "Python class Timestamp",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py",
+      "type": "file",
+      "name": "fallback",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py:Unpacker",
+      "type": "class",
+      "name": "Unpacker",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py",
+      "summary": "Python class Unpacker",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py:Packer",
+      "type": "class",
+      "name": "Packer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py",
+      "summary": "Python class Packer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py:unpackb",
+      "type": "function",
+      "name": "unpackb",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py",
+      "summary": "Python function unpackb",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py",
+      "type": "file",
+      "name": "_elffile",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py:ELFInvalid",
+      "type": "class",
+      "name": "ELFInvalid",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py",
+      "summary": "Python class ELFInvalid",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py:EIClass",
+      "type": "class",
+      "name": "EIClass",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py",
+      "summary": "Python class EIClass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py:EIData",
+      "type": "class",
+      "name": "EIData",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py",
+      "summary": "Python class EIData",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py:EMachine",
+      "type": "class",
+      "name": "EMachine",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py",
+      "summary": "Python class EMachine",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py:ELFFile",
+      "type": "class",
+      "name": "ELFFile",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py",
+      "summary": "Python class ELFFile",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_manylinux.py",
+      "type": "file",
+      "name": "_manylinux",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_manylinux.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_manylinux.py:_GLibCVersion",
+      "type": "class",
+      "name": "_GLibCVersion",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_manylinux.py",
+      "summary": "Python class _GLibCVersion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_musllinux.py",
+      "type": "file",
+      "name": "_musllinux",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_musllinux.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_musllinux.py:_MuslVersion",
+      "type": "class",
+      "name": "_MuslVersion",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_musllinux.py",
+      "summary": "Python class _MuslVersion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py",
+      "type": "file",
+      "name": "_parser",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py:Node",
+      "type": "class",
+      "name": "Node",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py",
+      "summary": "Python class Node",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py:Variable",
+      "type": "class",
+      "name": "Variable",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py",
+      "summary": "Python class Variable",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py:Value",
+      "type": "class",
+      "name": "Value",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py",
+      "summary": "Python class Value",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py:Op",
+      "type": "class",
+      "name": "Op",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py",
+      "summary": "Python class Op",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py:ParsedRequirement",
+      "type": "class",
+      "name": "ParsedRequirement",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py",
+      "summary": "Python class ParsedRequirement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_structures.py",
+      "type": "file",
+      "name": "_structures",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_structures.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_structures.py:InfinityType",
+      "type": "class",
+      "name": "InfinityType",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_structures.py",
+      "summary": "Python class InfinityType",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_structures.py:NegativeInfinityType",
+      "type": "class",
+      "name": "NegativeInfinityType",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_structures.py",
+      "summary": "Python class NegativeInfinityType",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py",
+      "type": "file",
+      "name": "_tokenizer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py:Token",
+      "type": "class",
+      "name": "Token",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py",
+      "summary": "Python class Token",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py:ParserSyntaxError",
+      "type": "class",
+      "name": "ParserSyntaxError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py",
+      "summary": "Python class ParserSyntaxError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py:Tokenizer",
+      "type": "class",
+      "name": "Tokenizer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py",
+      "summary": "Python class Tokenizer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py",
+      "type": "file",
+      "name": "dependency_groups",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py:DuplicateGroupNames",
+      "type": "class",
+      "name": "DuplicateGroupNames",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py",
+      "summary": "Python class DuplicateGroupNames",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py:CyclicDependencyGroup",
+      "type": "class",
+      "name": "CyclicDependencyGroup",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py",
+      "summary": "Python class CyclicDependencyGroup",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py:InvalidDependencyGroupObject",
+      "type": "class",
+      "name": "InvalidDependencyGroupObject",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py",
+      "summary": "Python class InvalidDependencyGroupObject",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py:DependencyGroupInclude",
+      "type": "class",
+      "name": "DependencyGroupInclude",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py",
+      "summary": "Python class DependencyGroupInclude",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py:DependencyGroupResolver",
+      "type": "class",
+      "name": "DependencyGroupResolver",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py",
+      "summary": "Python class DependencyGroupResolver",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "type": "file",
+      "name": "direct_url",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:_FromMappingProtocol",
+      "type": "class",
+      "name": "_FromMappingProtocol",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "summary": "Python class _FromMappingProtocol",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:DirectUrlValidationError",
+      "type": "class",
+      "name": "DirectUrlValidationError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "summary": "Python class DirectUrlValidationError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:_DirectUrlRequiredKeyError",
+      "type": "class",
+      "name": "_DirectUrlRequiredKeyError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "summary": "Python class _DirectUrlRequiredKeyError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:VcsInfo",
+      "type": "class",
+      "name": "VcsInfo",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "summary": "Python class VcsInfo",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:ArchiveInfo",
+      "type": "class",
+      "name": "ArchiveInfo",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "summary": "Python class ArchiveInfo",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:DirInfo",
+      "type": "class",
+      "name": "DirInfo",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "summary": "Python class DirInfo",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:DirectUrl",
+      "type": "class",
+      "name": "DirectUrl",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "summary": "Python class DirectUrl",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/errors.py",
+      "type": "file",
+      "name": "errors",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/errors.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/errors.py:_ErrorCollector",
+      "type": "class",
+      "name": "_ErrorCollector",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/errors.py",
+      "summary": "Python class _ErrorCollector",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__init__.py:InvalidLicenseExpression",
+      "type": "class",
+      "name": "InvalidLicenseExpression",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__init__.py",
+      "summary": "Python class InvalidLicenseExpression",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__pycache__/_spdx.cpython-314.pyc",
+      "type": "file",
+      "name": "_spdx.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__pycache__/_spdx.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/_spdx.py",
+      "type": "file",
+      "name": "_spdx",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/_spdx.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/_spdx.py:SPDXLicense",
+      "type": "class",
+      "name": "SPDXLicense",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/_spdx.py",
+      "summary": "Python class SPDXLicense",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/_spdx.py:SPDXException",
+      "type": "class",
+      "name": "SPDXException",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/_spdx.py",
+      "summary": "Python class SPDXException",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py",
+      "type": "file",
+      "name": "markers",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py:InvalidMarker",
+      "type": "class",
+      "name": "InvalidMarker",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py",
+      "summary": "Python class InvalidMarker",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py:UndefinedComparison",
+      "type": "class",
+      "name": "UndefinedComparison",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py",
+      "summary": "Python class UndefinedComparison",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py:UndefinedEnvironmentName",
+      "type": "class",
+      "name": "UndefinedEnvironmentName",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py",
+      "summary": "Python class UndefinedEnvironmentName",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py:Environment",
+      "type": "class",
+      "name": "Environment",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py",
+      "summary": "Python class Environment",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py:Marker",
+      "type": "class",
+      "name": "Marker",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py",
+      "summary": "Python class Marker",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "type": "file",
+      "name": "metadata",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py:InvalidMetadata",
+      "type": "class",
+      "name": "InvalidMetadata",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "summary": "Python class InvalidMetadata",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py:RawMetadata",
+      "type": "class",
+      "name": "RawMetadata",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "summary": "Python class RawMetadata",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py:RFC822Policy",
+      "type": "class",
+      "name": "RFC822Policy",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "summary": "Python class RFC822Policy",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py:RFC822Message",
+      "type": "class",
+      "name": "RFC822Message",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "summary": "Python class RFC822Message",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py:_Validator",
+      "type": "class",
+      "name": "_Validator",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "summary": "Python class _Validator",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py:Metadata",
+      "type": "class",
+      "name": "Metadata",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "summary": "Python class Metadata",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "type": "file",
+      "name": "pylock",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:13"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:_FromMappingProtocol",
+      "type": "class",
+      "name": "_FromMappingProtocol",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "summary": "Python class _FromMappingProtocol",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PylockValidationError",
+      "type": "class",
+      "name": "PylockValidationError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "summary": "Python class PylockValidationError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:_PylockRequiredKeyError",
+      "type": "class",
+      "name": "_PylockRequiredKeyError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "summary": "Python class _PylockRequiredKeyError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PylockUnsupportedVersionError",
+      "type": "class",
+      "name": "PylockUnsupportedVersionError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "summary": "Python class PylockUnsupportedVersionError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PylockSelectError",
+      "type": "class",
+      "name": "PylockSelectError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "summary": "Python class PylockSelectError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PackageVcs",
+      "type": "class",
+      "name": "PackageVcs",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "summary": "Python class PackageVcs",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PackageDirectory",
+      "type": "class",
+      "name": "PackageDirectory",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "summary": "Python class PackageDirectory",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PackageArchive",
+      "type": "class",
+      "name": "PackageArchive",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "summary": "Python class PackageArchive",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PackageSdist",
+      "type": "class",
+      "name": "PackageSdist",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "summary": "Python class PackageSdist",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PackageWheel",
+      "type": "class",
+      "name": "PackageWheel",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "summary": "Python class PackageWheel",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:Package",
+      "type": "class",
+      "name": "Package",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "summary": "Python class Package",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:Pylock",
+      "type": "class",
+      "name": "Pylock",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "summary": "Python class Pylock",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/requirements.py",
+      "type": "file",
+      "name": "requirements",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/requirements.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/requirements.py:InvalidRequirement",
+      "type": "class",
+      "name": "InvalidRequirement",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/requirements.py",
+      "summary": "Python class InvalidRequirement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/requirements.py:Requirement",
+      "type": "class",
+      "name": "Requirement",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/requirements.py",
+      "summary": "Python class Requirement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "type": "file",
+      "name": "specifiers",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:_BoundaryKind",
+      "type": "class",
+      "name": "_BoundaryKind",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "summary": "Python class _BoundaryKind",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:_BoundaryVersion",
+      "type": "class",
+      "name": "_BoundaryVersion",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "summary": "Python class _BoundaryVersion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:_LowerBound",
+      "type": "class",
+      "name": "_LowerBound",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "summary": "Python class _LowerBound",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:_UpperBound",
+      "type": "class",
+      "name": "_UpperBound",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "summary": "Python class _UpperBound",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:InvalidSpecifier",
+      "type": "class",
+      "name": "InvalidSpecifier",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "summary": "Python class InvalidSpecifier",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:BaseSpecifier",
+      "type": "class",
+      "name": "BaseSpecifier",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "summary": "Python class BaseSpecifier",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:Specifier",
+      "type": "class",
+      "name": "Specifier",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "summary": "Python class Specifier",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:SpecifierSet",
+      "type": "class",
+      "name": "SpecifierSet",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "summary": "Python class SpecifierSet",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/tags.py",
+      "type": "file",
+      "name": "tags",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/tags.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/tags.py:UnsortedTagsError",
+      "type": "class",
+      "name": "UnsortedTagsError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/tags.py",
+      "summary": "Python class UnsortedTagsError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/tags.py:Tag",
+      "type": "class",
+      "name": "Tag",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/tags.py",
+      "summary": "Python class Tag",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py",
+      "type": "file",
+      "name": "utils",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py:InvalidName",
+      "type": "class",
+      "name": "InvalidName",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py",
+      "summary": "Python class InvalidName",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py:InvalidWheelFilename",
+      "type": "class",
+      "name": "InvalidWheelFilename",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py",
+      "summary": "Python class InvalidWheelFilename",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py:InvalidSdistFilename",
+      "type": "class",
+      "name": "InvalidSdistFilename",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py",
+      "summary": "Python class InvalidSdistFilename",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "type": "file",
+      "name": "version",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py:_VersionReplace",
+      "type": "class",
+      "name": "_VersionReplace",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "summary": "Python class _VersionReplace",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py:InvalidVersion",
+      "type": "class",
+      "name": "InvalidVersion",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "summary": "Python class InvalidVersion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py:_BaseVersion",
+      "type": "class",
+      "name": "_BaseVersion",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "summary": "Python class _BaseVersion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py:_Version",
+      "type": "class",
+      "name": "_Version",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "summary": "Python class _Version",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py:Version",
+      "type": "class",
+      "name": "Version",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "summary": "Python class Version",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py:_TrimmedRelease",
+      "type": "class",
+      "name": "_TrimmedRelease",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "summary": "Python class _TrimmedRelease",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:27"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:_LoaderProtocol",
+      "type": "class",
+      "name": "_LoaderProtocol",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class _LoaderProtocol",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:_ZipLoaderModule",
+      "type": "class",
+      "name": "_ZipLoaderModule",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class _ZipLoaderModule",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:PEP440Warning",
+      "type": "class",
+      "name": "PEP440Warning",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class PEP440Warning",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ResolutionError",
+      "type": "class",
+      "name": "ResolutionError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class ResolutionError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:VersionConflict",
+      "type": "class",
+      "name": "VersionConflict",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class VersionConflict",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ContextualVersionConflict",
+      "type": "class",
+      "name": "ContextualVersionConflict",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class ContextualVersionConflict",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:DistributionNotFound",
+      "type": "class",
+      "name": "DistributionNotFound",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class DistributionNotFound",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:UnknownExtra",
+      "type": "class",
+      "name": "UnknownExtra",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class UnknownExtra",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:IMetadataProvider",
+      "type": "class",
+      "name": "IMetadataProvider",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class IMetadataProvider",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:IResourceProvider",
+      "type": "class",
+      "name": "IResourceProvider",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class IResourceProvider",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:WorkingSet",
+      "type": "class",
+      "name": "WorkingSet",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class WorkingSet",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:_ReqExtras",
+      "type": "class",
+      "name": "_ReqExtras",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class _ReqExtras",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:Environment",
+      "type": "class",
+      "name": "Environment",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class Environment",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ExtractionError",
+      "type": "class",
+      "name": "ExtractionError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class ExtractionError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ResourceManager",
+      "type": "class",
+      "name": "ResourceManager",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class ResourceManager",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:NullProvider",
+      "type": "class",
+      "name": "NullProvider",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class NullProvider",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:EggProvider",
+      "type": "class",
+      "name": "EggProvider",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class EggProvider",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:DefaultProvider",
+      "type": "class",
+      "name": "DefaultProvider",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class DefaultProvider",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:EmptyProvider",
+      "type": "class",
+      "name": "EmptyProvider",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class EmptyProvider",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ZipManifests",
+      "type": "class",
+      "name": "ZipManifests",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class ZipManifests",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:MemoizedZipManifests",
+      "type": "class",
+      "name": "MemoizedZipManifests",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class MemoizedZipManifests",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ZipProvider",
+      "type": "class",
+      "name": "ZipProvider",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class ZipProvider",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:FileMetadata",
+      "type": "class",
+      "name": "FileMetadata",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class FileMetadata",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:PathMetadata",
+      "type": "class",
+      "name": "PathMetadata",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class PathMetadata",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:EggMetadata",
+      "type": "class",
+      "name": "EggMetadata",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class EggMetadata",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:NoDists",
+      "type": "class",
+      "name": "NoDists",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class NoDists",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:EntryPoint",
+      "type": "class",
+      "name": "EntryPoint",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class EntryPoint",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:Distribution",
+      "type": "class",
+      "name": "Distribution",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class Distribution",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:EggInfoDistribution",
+      "type": "class",
+      "name": "EggInfoDistribution",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class EggInfoDistribution",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:DistInfoDistribution",
+      "type": "class",
+      "name": "DistInfoDistribution",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class DistInfoDistribution",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:RequirementParseError",
+      "type": "class",
+      "name": "RequirementParseError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class RequirementParseError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:Requirement",
+      "type": "class",
+      "name": "Requirement",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class Requirement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:PkgResourcesDeprecationWarning",
+      "type": "class",
+      "name": "PkgResourcesDeprecationWarning",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python class PkgResourcesDeprecationWarning",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:get_supported_platform",
+      "type": "function",
+      "name": "get_supported_platform",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function get_supported_platform",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:register_loader_type",
+      "type": "function",
+      "name": "register_loader_type",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function register_loader_type",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:get_build_platform",
+      "type": "function",
+      "name": "get_build_platform",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function get_build_platform",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:compatible_platforms",
+      "type": "function",
+      "name": "compatible_platforms",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function compatible_platforms",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:get_entry_map",
+      "type": "function",
+      "name": "get_entry_map",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function get_entry_map",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:get_entry_info",
+      "type": "function",
+      "name": "get_entry_info",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function get_entry_info",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:safe_name",
+      "type": "function",
+      "name": "safe_name",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function safe_name",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:safe_version",
+      "type": "function",
+      "name": "safe_version",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function safe_version",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:safe_extra",
+      "type": "function",
+      "name": "safe_extra",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function safe_extra",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:to_filename",
+      "type": "function",
+      "name": "to_filename",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function to_filename",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:invalid_marker",
+      "type": "function",
+      "name": "invalid_marker",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function invalid_marker",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:register_finder",
+      "type": "function",
+      "name": "register_finder",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function register_finder",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:find_distributions",
+      "type": "function",
+      "name": "find_distributions",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function find_distributions",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:find_nothing",
+      "type": "function",
+      "name": "find_nothing",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function find_nothing",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:find_on_path",
+      "type": "function",
+      "name": "find_on_path",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function find_on_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:dist_factory",
+      "type": "function",
+      "name": "dist_factory",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function dist_factory",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:safe_listdir",
+      "type": "function",
+      "name": "safe_listdir",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function safe_listdir",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:distributions_from_metadata",
+      "type": "function",
+      "name": "distributions_from_metadata",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function distributions_from_metadata",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:non_empty_lines",
+      "type": "function",
+      "name": "non_empty_lines",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function non_empty_lines",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:resolve_egg_link",
+      "type": "function",
+      "name": "resolve_egg_link",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function resolve_egg_link",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:register_namespace_handler",
+      "type": "function",
+      "name": "register_namespace_handler",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function register_namespace_handler",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:declare_namespace",
+      "type": "function",
+      "name": "declare_namespace",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function declare_namespace",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:fixup_namespace_packages",
+      "type": "function",
+      "name": "fixup_namespace_packages",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function fixup_namespace_packages",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:file_ns_handler",
+      "type": "function",
+      "name": "file_ns_handler",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function file_ns_handler",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:null_ns_handler",
+      "type": "function",
+      "name": "null_ns_handler",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function null_ns_handler",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:normalize_path",
+      "type": "function",
+      "name": "normalize_path",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function normalize_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:issue_warning",
+      "type": "function",
+      "name": "issue_warning",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function issue_warning",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:parse_requirements",
+      "type": "function",
+      "name": "parse_requirements",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function parse_requirements",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ensure_directory",
+      "type": "function",
+      "name": "ensure_directory",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "summary": "Python function ensure_directory",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/ext.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/ext.py:Timestamp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py:Unpacker",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py:Packer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py:unpackb",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py:ELFInvalid",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py:EIClass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py:EIData",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py:EMachine",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py:ELFFile",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_manylinux.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_manylinux.py:_GLibCVersion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_musllinux.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_musllinux.py:_MuslVersion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py:Node",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py:Variable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py:Value",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py:Op",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py:ParsedRequirement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_structures.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_structures.py:InfinityType",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_structures.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_structures.py:NegativeInfinityType",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py:Token",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py:ParserSyntaxError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py:Tokenizer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py:DuplicateGroupNames",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py:CyclicDependencyGroup",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py:InvalidDependencyGroupObject",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py:DependencyGroupInclude",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/dependency_groups.py:DependencyGroupResolver",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:_FromMappingProtocol",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:DirectUrlValidationError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:_DirectUrlRequiredKeyError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:VcsInfo",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:ArchiveInfo",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:DirInfo",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/direct_url.py:DirectUrl",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/errors.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/errors.py:_ErrorCollector",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__init__.py:InvalidLicenseExpression",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__pycache__/_spdx.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__pycache__/_spdx.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/_spdx.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/_spdx.py:SPDXLicense",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/_spdx.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/_spdx.py:SPDXException",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py:InvalidMarker",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py:UndefinedComparison",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py:UndefinedEnvironmentName",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py:Environment",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py:Marker",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py:InvalidMetadata",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py:RawMetadata",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py:RFC822Policy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py:RFC822Message",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py:_Validator",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py:Metadata",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:_FromMappingProtocol",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PylockValidationError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:_PylockRequiredKeyError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PylockUnsupportedVersionError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PylockSelectError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PackageVcs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PackageDirectory",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PackageArchive",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PackageSdist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:PackageWheel",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:Package",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/pylock.py:Pylock",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/requirements.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/requirements.py:InvalidRequirement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/requirements.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/requirements.py:Requirement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:_BoundaryKind",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:_BoundaryVersion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:_LowerBound",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:_UpperBound",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:InvalidSpecifier",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:BaseSpecifier",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:Specifier",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py:SpecifierSet",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/tags.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/tags.py:UnsortedTagsError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/tags.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/tags.py:Tag",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py:InvalidName",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py:InvalidWheelFilename",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py:InvalidSdistFilename",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py:_VersionReplace",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py:InvalidVersion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py:_BaseVersion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py:_Version",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py:Version",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py:_TrimmedRelease",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:_LoaderProtocol",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:_ZipLoaderModule",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:PEP440Warning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ResolutionError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:VersionConflict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ContextualVersionConflict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:DistributionNotFound",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:UnknownExtra",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:IMetadataProvider",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:IResourceProvider",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:WorkingSet",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:_ReqExtras",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:Environment",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ExtractionError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ResourceManager",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:NullProvider",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:EggProvider",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:DefaultProvider",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:EmptyProvider",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ZipManifests",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:MemoizedZipManifests",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ZipProvider",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:FileMetadata",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:PathMetadata",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:EggMetadata",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:NoDists",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:EntryPoint",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:Distribution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:EggInfoDistribution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:DistInfoDistribution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:RequirementParseError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:Requirement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:PkgResourcesDeprecationWarning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:get_supported_platform",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:register_loader_type",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:get_build_platform",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:compatible_platforms",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:get_entry_map",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:get_entry_info",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:safe_name",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:safe_version",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:safe_extra",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:to_filename",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:invalid_marker",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:register_finder",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:find_distributions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:find_nothing",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:find_on_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:dist_factory",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:safe_listdir",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:distributions_from_metadata",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:non_empty_lines",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:resolve_egg_link",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:register_namespace_handler",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:declare_namespace",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:fixup_namespace_packages",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:file_ns_handler",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:null_ns_handler",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:normalize_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:issue_warning",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:parse_requirements",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py:ensure_directory",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 168,
+    "edgeCount": 145,
+    "nodeTypes": {
+      "file": 25,
+      "class": 113,
+      "function": 30
+    }
+  }
+}

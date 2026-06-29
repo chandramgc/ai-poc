@@ -1,0 +1,950 @@
+{
+  "batchIndex": 648,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip-26.1.2.dist-info/licenses/src/pip/_vendor/urllib3/LICENSE.txt",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/pip-26.1.2.dist-info/licenses/src/pip/_vendor/urllib3/LICENSE.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/__main__.py",
+      "type": "file",
+      "name": "__main__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/__main__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/__pip-runner__.py",
+      "type": "file",
+      "name": "__pip-runner__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/__pip-runner__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/__pip-runner__.py:PipImportRedirectingFinder",
+      "type": "class",
+      "name": "PipImportRedirectingFinder",
+      "filePath": "venv/lib/python3.14/site-packages/pip/__pip-runner__.py",
+      "summary": "Python class PipImportRedirectingFinder",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/pip/__pip-runner__.py:version_str",
+      "type": "function",
+      "name": "version_str",
+      "filePath": "venv/lib/python3.14/site-packages/pip/__pip-runner__.py",
+      "summary": "Python function version_str",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "type": "file",
+      "name": "build_env",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:22"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/build_env.py:_Prefix",
+      "type": "class",
+      "name": "_Prefix",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "summary": "Python class _Prefix",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/build_env.py:BuildEnvironmentInstaller",
+      "type": "class",
+      "name": "BuildEnvironmentInstaller",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "summary": "Python class BuildEnvironmentInstaller",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/build_env.py:SubprocessBuildEnvironmentInstaller",
+      "type": "class",
+      "name": "SubprocessBuildEnvironmentInstaller",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "summary": "Python class SubprocessBuildEnvironmentInstaller",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/build_env.py:InprocessBuildEnvironmentInstaller",
+      "type": "class",
+      "name": "InprocessBuildEnvironmentInstaller",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "summary": "Python class InprocessBuildEnvironmentInstaller",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/build_env.py:BuildEnvironment",
+      "type": "class",
+      "name": "BuildEnvironment",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "summary": "Python class BuildEnvironment",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/build_env.py:NoOpBuildEnvironment",
+      "type": "class",
+      "name": "NoOpBuildEnvironment",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "summary": "Python class NoOpBuildEnvironment",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cache.py",
+      "type": "file",
+      "name": "cache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cache.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:13"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cache.py:Cache",
+      "type": "class",
+      "name": "Cache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cache.py",
+      "summary": "Python class Cache",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cache.py:SimpleWheelCache",
+      "type": "class",
+      "name": "SimpleWheelCache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cache.py",
+      "summary": "Python class SimpleWheelCache",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cache.py:EphemWheelCache",
+      "type": "class",
+      "name": "EphemWheelCache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cache.py",
+      "summary": "Python class EphemWheelCache",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cache.py:CacheEntry",
+      "type": "class",
+      "name": "CacheEntry",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cache.py",
+      "summary": "Python class CacheEntry",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cache.py:WheelCache",
+      "type": "class",
+      "name": "WheelCache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cache.py",
+      "summary": "Python class WheelCache",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/autocompletion.py",
+      "type": "file",
+      "name": "autocompletion",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/autocompletion.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/base_command.py",
+      "type": "file",
+      "name": "base_command",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/base_command.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:21"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/base_command.py:Command",
+      "type": "class",
+      "name": "Command",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/base_command.py",
+      "summary": "Python class Command",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/cmdoptions.py",
+      "type": "file",
+      "name": "cmdoptions",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/cmdoptions.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:21"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/cmdoptions.py:PipOption",
+      "type": "class",
+      "name": "PipOption",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/cmdoptions.py",
+      "summary": "Python class PipOption",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/command_context.py",
+      "type": "file",
+      "name": "command_context",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/command_context.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/command_context.py:CommandContextMixIn",
+      "type": "class",
+      "name": "CommandContextMixIn",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/command_context.py",
+      "summary": "Python class CommandContextMixIn",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/index_command.py",
+      "type": "file",
+      "name": "index_command",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/index_command.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/index_command.py:SessionCommandMixin",
+      "type": "class",
+      "name": "SessionCommandMixin",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/index_command.py",
+      "summary": "Python class SessionCommandMixin",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/index_command.py:IndexGroupCommand",
+      "type": "class",
+      "name": "IndexGroupCommand",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/index_command.py",
+      "summary": "Python class IndexGroupCommand",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/main_parser.py",
+      "type": "file",
+      "name": "main_parser",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/main_parser.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/main.py",
+      "type": "file",
+      "name": "main",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/main.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py",
+      "type": "file",
+      "name": "parser",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:14"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py:PrettyHelpFormatter",
+      "type": "class",
+      "name": "PrettyHelpFormatter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py",
+      "summary": "Python class PrettyHelpFormatter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py:UpdatingDefaultsHelpFormatter",
+      "type": "class",
+      "name": "UpdatingDefaultsHelpFormatter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py",
+      "summary": "Python class UpdatingDefaultsHelpFormatter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py:CustomOptionParser",
+      "type": "class",
+      "name": "CustomOptionParser",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py",
+      "summary": "Python class CustomOptionParser",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py:ConfigOptionParser",
+      "type": "class",
+      "name": "ConfigOptionParser",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py",
+      "summary": "Python class ConfigOptionParser",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/progress_bars.py",
+      "type": "file",
+      "name": "progress_bars",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/progress_bars.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/req_command.py",
+      "type": "file",
+      "name": "req_command",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/req_command.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:28"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/req_command.py:RequirementCommand",
+      "type": "class",
+      "name": "RequirementCommand",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/req_command.py",
+      "summary": "Python class RequirementCommand",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py",
+      "type": "file",
+      "name": "spinners",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:12"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py:SpinnerInterface",
+      "type": "class",
+      "name": "SpinnerInterface",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py",
+      "summary": "Python class SpinnerInterface",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py:InteractiveSpinner",
+      "type": "class",
+      "name": "InteractiveSpinner",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py",
+      "summary": "Python class InteractiveSpinner",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py:NonInteractiveSpinner",
+      "type": "class",
+      "name": "NonInteractiveSpinner",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py",
+      "summary": "Python class NonInteractiveSpinner",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py:RateLimiter",
+      "type": "class",
+      "name": "RateLimiter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py",
+      "summary": "Python class RateLimiter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py:_PipRichSpinner",
+      "type": "class",
+      "name": "_PipRichSpinner",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py",
+      "summary": "Python class _PipRichSpinner",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/status_codes.py",
+      "type": "file",
+      "name": "status_codes",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/cli/status_codes.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/commands/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/commands/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/commands/cache.py",
+      "type": "file",
+      "name": "cache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/commands/cache.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/commands/cache.py:CacheCommand",
+      "type": "class",
+      "name": "CacheCommand",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/commands/cache.py",
+      "summary": "Python class CacheCommand",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/commands/check.py",
+      "type": "file",
+      "name": "check",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/commands/check.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/commands/check.py:CheckCommand",
+      "type": "class",
+      "name": "CheckCommand",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/commands/check.py",
+      "summary": "Python class CheckCommand",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/commands/completion.py",
+      "type": "file",
+      "name": "completion",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/commands/completion.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/commands/completion.py:CompletionCommand",
+      "type": "class",
+      "name": "CompletionCommand",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/commands/completion.py",
+      "summary": "Python class CompletionCommand",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/commands/configuration.py",
+      "type": "file",
+      "name": "configuration",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/commands/configuration.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:11"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/commands/configuration.py:ConfigurationCommand",
+      "type": "class",
+      "name": "ConfigurationCommand",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/commands/configuration.py",
+      "summary": "Python class ConfigurationCommand",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip-26.1.2.dist-info/licenses/src/pip/_vendor/urllib3/LICENSE.txt",
+      "target": "file:venv/lib/python3.14/site-packages/pip-26.1.2.dist-info/licenses/src/pip/_vendor/urllib3/LICENSE.txt",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/__pip-runner__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/__pip-runner__.py:PipImportRedirectingFinder",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/__pip-runner__.py",
+      "target": "function:venv/lib/python3.14/site-packages/pip/__pip-runner__.py:version_str",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/build_env.py:_Prefix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/build_env.py:BuildEnvironmentInstaller",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/build_env.py:SubprocessBuildEnvironmentInstaller",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/build_env.py:InprocessBuildEnvironmentInstaller",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/build_env.py:BuildEnvironment",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/build_env.py:NoOpBuildEnvironment",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cache.py:Cache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cache.py:SimpleWheelCache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cache.py:EphemWheelCache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cache.py:CacheEntry",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cache.py:WheelCache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/base_command.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/base_command.py:Command",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/cmdoptions.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/cmdoptions.py:PipOption",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/command_context.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/command_context.py:CommandContextMixIn",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/index_command.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/index_command.py:SessionCommandMixin",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/index_command.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/index_command.py:IndexGroupCommand",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py:PrettyHelpFormatter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py:UpdatingDefaultsHelpFormatter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py:CustomOptionParser",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py:ConfigOptionParser",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/req_command.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/req_command.py:RequirementCommand",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py:SpinnerInterface",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py:InteractiveSpinner",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py:NonInteractiveSpinner",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py:RateLimiter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py:_PipRichSpinner",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/commands/cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/commands/cache.py:CacheCommand",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/commands/check.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/commands/check.py:CheckCommand",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/commands/completion.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/commands/completion.py:CompletionCommand",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/commands/configuration.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/commands/configuration.py:ConfigurationCommand",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 57,
+    "edgeCount": 33,
+    "nodeTypes": {
+      "file": 25,
+      "class": 31,
+      "function": 1
+    }
+  }
+}

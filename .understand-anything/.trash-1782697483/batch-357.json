@@ -1,0 +1,78 @@
+{
+  "batchIndex": 357,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/gl1.gpickle.bz2",
+      "type": "file",
+      "name": "gl1.gpickle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/gl1.gpickle.bz2",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/gw1.gpickle.bz2",
+      "type": "file",
+      "name": "gw1.gpickle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/gw1.gpickle.bz2",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/netgen-2.gpickle.bz2",
+      "type": "file",
+      "name": "netgen-2.gpickle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/netgen-2.gpickle.bz2",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/wlm3.gpickle.bz2",
+      "type": "file",
+      "name": "wlm3.gpickle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/wlm3.gpickle.bz2",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/gl1.gpickle.bz2",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/gl1.gpickle.bz2",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/gw1.gpickle.bz2",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/gw1.gpickle.bz2",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/netgen-2.gpickle.bz2",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/netgen-2.gpickle.bz2",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/wlm3.gpickle.bz2",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/flow/tests/wlm3.gpickle.bz2",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 4,
+    "nodeTypes": {
+      "file": 4
+    }
+  }
+}

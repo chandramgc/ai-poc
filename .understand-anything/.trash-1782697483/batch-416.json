@@ -1,0 +1,78 @@
+{
+  "batchIndex": 416,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_backends/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_backend.pyi",
+      "type": "file",
+      "name": "_backend",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_backends/_backend.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.pyi",
+      "type": "file",
+      "name": "_meson",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/meson.build.template",
+      "type": "file",
+      "name": "meson.build",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_backends/meson.build.template",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_backend.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_backend.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/_meson.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/meson.build.template",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/_backends/meson.build.template",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 4,
+    "nodeTypes": {
+      "file": 4
+    }
+  }
+}

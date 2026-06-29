@@ -1,0 +1,3786 @@
+{
+  "batchIndex": 620,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/multigraph.py",
+      "type": "file",
+      "name": "multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/multigraph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/multigraph.py:MultiGraph",
+      "type": "class",
+      "name": "MultiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/multigraph.py",
+      "summary": "Python class MultiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "type": "file",
+      "name": "reportviews",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:NodeView",
+      "type": "class",
+      "name": "NodeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class NodeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:NodeDataView",
+      "type": "class",
+      "name": "NodeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class NodeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:DiDegreeView",
+      "type": "class",
+      "name": "DiDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class DiDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:DegreeView",
+      "type": "class",
+      "name": "DegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class DegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:OutDegreeView",
+      "type": "class",
+      "name": "OutDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class OutDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:InDegreeView",
+      "type": "class",
+      "name": "InDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class InDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:MultiDegreeView",
+      "type": "class",
+      "name": "MultiDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class MultiDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:DiMultiDegreeView",
+      "type": "class",
+      "name": "DiMultiDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class DiMultiDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:InMultiDegreeView",
+      "type": "class",
+      "name": "InMultiDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class InMultiDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:OutMultiDegreeView",
+      "type": "class",
+      "name": "OutMultiDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class OutMultiDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:EdgeViewABC",
+      "type": "class",
+      "name": "EdgeViewABC",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class EdgeViewABC",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:OutEdgeDataView",
+      "type": "class",
+      "name": "OutEdgeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class OutEdgeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:EdgeDataView",
+      "type": "class",
+      "name": "EdgeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class EdgeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:InEdgeDataView",
+      "type": "class",
+      "name": "InEdgeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class InEdgeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:OutMultiEdgeDataView",
+      "type": "class",
+      "name": "OutMultiEdgeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class OutMultiEdgeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:MultiEdgeDataView",
+      "type": "class",
+      "name": "MultiEdgeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class MultiEdgeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:InMultiEdgeDataView",
+      "type": "class",
+      "name": "InMultiEdgeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class InMultiEdgeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:OutEdgeView",
+      "type": "class",
+      "name": "OutEdgeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class OutEdgeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:EdgeView",
+      "type": "class",
+      "name": "EdgeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class EdgeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:InEdgeView",
+      "type": "class",
+      "name": "InEdgeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class InEdgeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:OutMultiEdgeView",
+      "type": "class",
+      "name": "OutMultiEdgeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class OutMultiEdgeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:MultiEdgeView",
+      "type": "class",
+      "name": "MultiEdgeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class MultiEdgeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:InMultiEdgeView",
+      "type": "class",
+      "name": "InMultiEdgeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "summary": "Python class InMultiEdgeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "type": "file",
+      "name": "dispatch_interface",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:LoopbackGraph",
+      "type": "class",
+      "name": "LoopbackGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "summary": "Python class LoopbackGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:LoopbackDiGraph",
+      "type": "class",
+      "name": "LoopbackDiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "summary": "Python class LoopbackDiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:LoopbackMultiGraph",
+      "type": "class",
+      "name": "LoopbackMultiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "summary": "Python class LoopbackMultiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:LoopbackMultiDiGraph",
+      "type": "class",
+      "name": "LoopbackMultiDiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "summary": "Python class LoopbackMultiDiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:LoopbackPlanarEmbedding",
+      "type": "class",
+      "name": "LoopbackPlanarEmbedding",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "summary": "Python class LoopbackPlanarEmbedding",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:LoopbackBackendInterface",
+      "type": "class",
+      "name": "LoopbackBackendInterface",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "summary": "Python class LoopbackBackendInterface",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:convert",
+      "type": "function",
+      "name": "convert",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "summary": "Python function convert",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/historical_tests.py",
+      "type": "file",
+      "name": "historical_tests",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/historical_tests.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/historical_tests.py:HistoricalTests",
+      "type": "class",
+      "name": "HistoricalTests",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/historical_tests.py",
+      "summary": "Python class HistoricalTests",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "type": "file",
+      "name": "test_coreviews",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestAtlasView",
+      "type": "class",
+      "name": "TestAtlasView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "summary": "Python class TestAtlasView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestAdjacencyView",
+      "type": "class",
+      "name": "TestAdjacencyView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "summary": "Python class TestAdjacencyView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestMultiAdjacencyView",
+      "type": "class",
+      "name": "TestMultiAdjacencyView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "summary": "Python class TestMultiAdjacencyView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestUnionAtlas",
+      "type": "class",
+      "name": "TestUnionAtlas",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "summary": "Python class TestUnionAtlas",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestUnionAdjacency",
+      "type": "class",
+      "name": "TestUnionAdjacency",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "summary": "Python class TestUnionAdjacency",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestUnionMultiInner",
+      "type": "class",
+      "name": "TestUnionMultiInner",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "summary": "Python class TestUnionMultiInner",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestUnionMultiAdjacency",
+      "type": "class",
+      "name": "TestUnionMultiAdjacency",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "summary": "Python class TestUnionMultiAdjacency",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestFilteredGraphs",
+      "type": "class",
+      "name": "TestFilteredGraphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "summary": "Python class TestFilteredGraphs",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph_historical.py",
+      "type": "file",
+      "name": "test_digraph_historical",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph_historical.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph_historical.py:TestDiGraphHistorical",
+      "type": "class",
+      "name": "TestDiGraphHistorical",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph_historical.py",
+      "summary": "Python class TestDiGraphHistorical",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py",
+      "type": "file",
+      "name": "test_digraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py:BaseDiGraphTester",
+      "type": "class",
+      "name": "BaseDiGraphTester",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py",
+      "summary": "Python class BaseDiGraphTester",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py:BaseAttrDiGraphTester",
+      "type": "class",
+      "name": "BaseAttrDiGraphTester",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py",
+      "summary": "Python class BaseAttrDiGraphTester",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py:TestDiGraph",
+      "type": "class",
+      "name": "TestDiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py",
+      "summary": "Python class TestDiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py:TestEdgeSubgraph",
+      "type": "class",
+      "name": "TestEdgeSubgraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py",
+      "summary": "Python class TestEdgeSubgraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_filters.py",
+      "type": "file",
+      "name": "test_filters",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_filters.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_filters.py:TestFilterFactory",
+      "type": "class",
+      "name": "TestFilterFactory",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_filters.py",
+      "summary": "Python class TestFilterFactory",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "type": "file",
+      "name": "test_function",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:TestFunction",
+      "type": "class",
+      "name": "TestFunction",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python class TestFunction",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:TestCommonNeighbors",
+      "type": "class",
+      "name": "TestCommonNeighbors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python class TestCommonNeighbors",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_degree_histogram_empty",
+      "type": "function",
+      "name": "test_degree_histogram_empty",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_degree_histogram_empty",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_set_node_attributes",
+      "type": "function",
+      "name": "test_set_node_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_set_node_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_set_node_attributes_ignores_extra_nodes",
+      "type": "function",
+      "name": "test_set_node_attributes_ignores_extra_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_set_node_attributes_ignores_extra_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_set_edge_attributes",
+      "type": "function",
+      "name": "test_set_edge_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_set_edge_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_set_edge_attributes_ignores_extra_edges",
+      "type": "function",
+      "name": "test_set_edge_attributes_ignores_extra_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_set_edge_attributes_ignores_extra_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_set_edge_attributes_multi",
+      "type": "function",
+      "name": "test_set_edge_attributes_multi",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_set_edge_attributes_multi",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_set_edge_attributes_multi_ignores_extra_edges",
+      "type": "function",
+      "name": "test_set_edge_attributes_multi_ignores_extra_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_set_edge_attributes_multi_ignores_extra_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_get_node_attributes",
+      "type": "function",
+      "name": "test_get_node_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_get_node_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_get_edge_attributes",
+      "type": "function",
+      "name": "test_get_edge_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_get_edge_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_remove_node_attributes",
+      "type": "function",
+      "name": "test_remove_node_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_remove_node_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_remove_edge_attributes",
+      "type": "function",
+      "name": "test_remove_edge_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_remove_edge_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_remove_multi_edge_attributes",
+      "type": "function",
+      "name": "test_remove_multi_edge_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_remove_multi_edge_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_is_empty",
+      "type": "function",
+      "name": "test_is_empty",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_is_empty",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_selfloops",
+      "type": "function",
+      "name": "test_selfloops",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_selfloops",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_selfloop_edges_attr",
+      "type": "function",
+      "name": "test_selfloop_edges_attr",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_selfloop_edges_attr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_selfloop_edges_multi_with_data_and_keys",
+      "type": "function",
+      "name": "test_selfloop_edges_multi_with_data_and_keys",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_selfloop_edges_multi_with_data_and_keys",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_selfloops_removal",
+      "type": "function",
+      "name": "test_selfloops_removal",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_selfloops_removal",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_selfloops_removal_multi",
+      "type": "function",
+      "name": "test_selfloops_removal_multi",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_selfloops_removal_multi",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_pathweight",
+      "type": "function",
+      "name": "test_pathweight",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_pathweight",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_ispath",
+      "type": "function",
+      "name": "test_ispath",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_ispath",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_restricted_view",
+      "type": "function",
+      "name": "test_restricted_view",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_restricted_view",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_restricted_view_multi",
+      "type": "function",
+      "name": "test_restricted_view_multi",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "summary": "Python function test_restricted_view_multi",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph_historical.py",
+      "type": "file",
+      "name": "test_graph_historical",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph_historical.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph_historical.py:TestGraphHistorical",
+      "type": "class",
+      "name": "TestGraphHistorical",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph_historical.py",
+      "summary": "Python class TestGraphHistorical",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "type": "file",
+      "name": "test_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py:BaseGraphTester",
+      "type": "class",
+      "name": "BaseGraphTester",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "summary": "Python class BaseGraphTester",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py:BaseAttrGraphTester",
+      "type": "class",
+      "name": "BaseAttrGraphTester",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "summary": "Python class BaseAttrGraphTester",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py:TestGraph",
+      "type": "class",
+      "name": "TestGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "summary": "Python class TestGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py:TestEdgeSubgraph",
+      "type": "class",
+      "name": "TestEdgeSubgraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "summary": "Python class TestEdgeSubgraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py:test_degree_node_not_found_exception_message",
+      "type": "function",
+      "name": "test_degree_node_not_found_exception_message",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "summary": "Python function test_degree_node_not_found_exception_message",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py:test_graph_new_extra_args",
+      "type": "function",
+      "name": "test_graph_new_extra_args",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "summary": "Python function test_graph_new_extra_args",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "type": "file",
+      "name": "test_graphviews",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py:TestReverseView",
+      "type": "class",
+      "name": "TestReverseView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "summary": "Python class TestReverseView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py:TestMultiReverseView",
+      "type": "class",
+      "name": "TestMultiReverseView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "summary": "Python class TestMultiReverseView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py:TestToDirected",
+      "type": "class",
+      "name": "TestToDirected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "summary": "Python class TestToDirected",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py:TestToUndirected",
+      "type": "class",
+      "name": "TestToUndirected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "summary": "Python class TestToUndirected",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py:TestChainsOfViews",
+      "type": "class",
+      "name": "TestChainsOfViews",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "summary": "Python class TestChainsOfViews",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py:test_generic_multitype",
+      "type": "function",
+      "name": "test_generic_multitype",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "summary": "Python function test_generic_multitype",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "type": "file",
+      "name": "test_multidigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py:BaseMultiDiGraphTester",
+      "type": "class",
+      "name": "BaseMultiDiGraphTester",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "summary": "Python class BaseMultiDiGraphTester",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py:TestMultiDiGraph",
+      "type": "class",
+      "name": "TestMultiDiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "summary": "Python class TestMultiDiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py:TestEdgeSubgraph",
+      "type": "class",
+      "name": "TestEdgeSubgraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "summary": "Python class TestEdgeSubgraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py:CustomDictClass",
+      "type": "class",
+      "name": "CustomDictClass",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "summary": "Python class CustomDictClass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py:MultiDiGraphSubClass",
+      "type": "class",
+      "name": "MultiDiGraphSubClass",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "summary": "Python class MultiDiGraphSubClass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py:TestMultiDiGraphSubclass",
+      "type": "class",
+      "name": "TestMultiDiGraphSubclass",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "summary": "Python class TestMultiDiGraphSubclass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "type": "file",
+      "name": "test_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py:BaseMultiGraphTester",
+      "type": "class",
+      "name": "BaseMultiGraphTester",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "summary": "Python class BaseMultiGraphTester",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py:TestMultiGraph",
+      "type": "class",
+      "name": "TestMultiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "summary": "Python class TestMultiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py:TestEdgeSubgraph",
+      "type": "class",
+      "name": "TestEdgeSubgraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "summary": "Python class TestEdgeSubgraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py:CustomDictClass",
+      "type": "class",
+      "name": "CustomDictClass",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "summary": "Python class CustomDictClass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py:MultiGraphSubClass",
+      "type": "class",
+      "name": "MultiGraphSubClass",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "summary": "Python class MultiGraphSubClass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py:TestMultiGraphSubclass",
+      "type": "class",
+      "name": "TestMultiGraphSubclass",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "summary": "Python class TestMultiGraphSubclass",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "type": "file",
+      "name": "test_reportviews",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestNodeView",
+      "type": "class",
+      "name": "TestNodeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestNodeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestNodeDataView",
+      "type": "class",
+      "name": "TestNodeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestNodeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestNodeViewSetOps",
+      "type": "class",
+      "name": "TestNodeViewSetOps",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestNodeViewSetOps",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestNodeDataViewSetOps",
+      "type": "class",
+      "name": "TestNodeDataViewSetOps",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestNodeDataViewSetOps",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestNodeDataViewDefaultSetOps",
+      "type": "class",
+      "name": "TestNodeDataViewDefaultSetOps",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestNodeDataViewDefaultSetOps",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestEdgeDataView",
+      "type": "class",
+      "name": "TestEdgeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestEdgeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestOutEdgeDataView",
+      "type": "class",
+      "name": "TestOutEdgeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestOutEdgeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestInEdgeDataView",
+      "type": "class",
+      "name": "TestInEdgeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestInEdgeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestMultiEdgeDataView",
+      "type": "class",
+      "name": "TestMultiEdgeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestMultiEdgeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestOutMultiEdgeDataView",
+      "type": "class",
+      "name": "TestOutMultiEdgeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestOutMultiEdgeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestInMultiEdgeDataView",
+      "type": "class",
+      "name": "TestInMultiEdgeDataView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestInMultiEdgeDataView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestEdgeView",
+      "type": "class",
+      "name": "TestEdgeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestEdgeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestOutEdgeView",
+      "type": "class",
+      "name": "TestOutEdgeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestOutEdgeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestInEdgeView",
+      "type": "class",
+      "name": "TestInEdgeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestInEdgeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestMultiEdgeView",
+      "type": "class",
+      "name": "TestMultiEdgeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestMultiEdgeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestOutMultiEdgeView",
+      "type": "class",
+      "name": "TestOutMultiEdgeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestOutMultiEdgeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestInMultiEdgeView",
+      "type": "class",
+      "name": "TestInMultiEdgeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestInMultiEdgeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestDegreeView",
+      "type": "class",
+      "name": "TestDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestDiDegreeView",
+      "type": "class",
+      "name": "TestDiDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestDiDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestOutDegreeView",
+      "type": "class",
+      "name": "TestOutDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestOutDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestInDegreeView",
+      "type": "class",
+      "name": "TestInDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestInDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestMultiDegreeView",
+      "type": "class",
+      "name": "TestMultiDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestMultiDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestDiMultiDegreeView",
+      "type": "class",
+      "name": "TestDiMultiDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestDiMultiDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestOutMultiDegreeView",
+      "type": "class",
+      "name": "TestOutMultiDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestOutMultiDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestInMultiDegreeView",
+      "type": "class",
+      "name": "TestInMultiDegreeView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python class TestInMultiDegreeView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:test_nodedataview_unhashable",
+      "type": "function",
+      "name": "test_nodedataview_unhashable",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python function test_nodedataview_unhashable",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:test_slicing_reportviews",
+      "type": "function",
+      "name": "test_slicing_reportviews",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python function test_slicing_reportviews",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:test_cache_dict_get_set_state",
+      "type": "function",
+      "name": "test_cache_dict_get_set_state",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python function test_cache_dict_get_set_state",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:test_edge_views_inherit_from_EdgeViewABC",
+      "type": "function",
+      "name": "test_edge_views_inherit_from_EdgeViewABC",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "summary": "Python function test_edge_views_inherit_from_EdgeViewABC",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "type": "file",
+      "name": "test_special",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:TestSpecialGraph",
+      "type": "class",
+      "name": "TestSpecialGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "summary": "Python class TestSpecialGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:TestThinGraph",
+      "type": "class",
+      "name": "TestThinGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "summary": "Python class TestThinGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:TestSpecialDiGraph",
+      "type": "class",
+      "name": "TestSpecialDiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "summary": "Python class TestSpecialDiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:TestThinDiGraph",
+      "type": "class",
+      "name": "TestThinDiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "summary": "Python class TestThinDiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:TestSpecialMultiGraph",
+      "type": "class",
+      "name": "TestSpecialMultiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "summary": "Python class TestSpecialMultiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:TestSpecialMultiDiGraph",
+      "type": "class",
+      "name": "TestSpecialMultiDiGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "summary": "Python class TestSpecialMultiDiGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:test_factories",
+      "type": "function",
+      "name": "test_factories",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "summary": "Python function test_factories",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "type": "file",
+      "name": "test_subgraphviews",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py:TestSubGraphView",
+      "type": "class",
+      "name": "TestSubGraphView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "summary": "Python class TestSubGraphView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py:TestSubDiGraphView",
+      "type": "class",
+      "name": "TestSubDiGraphView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "summary": "Python class TestSubDiGraphView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py:TestMultiGraphView",
+      "type": "class",
+      "name": "TestMultiGraphView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "summary": "Python class TestMultiGraphView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py:TestMultiDiGraphView",
+      "type": "class",
+      "name": "TestMultiDiGraphView",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "summary": "Python class TestMultiDiGraphView",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py:TestInducedSubGraph",
+      "type": "class",
+      "name": "TestInducedSubGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "summary": "Python class TestInducedSubGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py:TestEdgeSubGraph",
+      "type": "class",
+      "name": "TestEdgeSubGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "summary": "Python class TestEdgeSubGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/conftest.py",
+      "type": "file",
+      "name": "conftest",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/conftest.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/conftest.py:pytest_addoption",
+      "type": "function",
+      "name": "pytest_addoption",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/conftest.py",
+      "summary": "Python function pytest_addoption",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/conftest.py:pytest_configure",
+      "type": "function",
+      "name": "pytest_configure",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/conftest.py",
+      "summary": "Python function pytest_configure",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/conftest.py:pytest_collection_modifyitems",
+      "type": "function",
+      "name": "pytest_collection_modifyitems",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/conftest.py",
+      "summary": "Python function pytest_collection_modifyitems",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/conftest.py:set_warnings",
+      "type": "function",
+      "name": "set_warnings",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/conftest.py",
+      "summary": "Python function set_warnings",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/conftest.py:add_nx",
+      "type": "function",
+      "name": "add_nx",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/conftest.py",
+      "summary": "Python function add_nx",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "type": "file",
+      "name": "convert_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:to_pandas_adjacency",
+      "type": "function",
+      "name": "to_pandas_adjacency",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "summary": "Python function to_pandas_adjacency",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:from_pandas_adjacency",
+      "type": "function",
+      "name": "from_pandas_adjacency",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "summary": "Python function from_pandas_adjacency",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:to_pandas_edgelist",
+      "type": "function",
+      "name": "to_pandas_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "summary": "Python function to_pandas_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:from_pandas_edgelist",
+      "type": "function",
+      "name": "from_pandas_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "summary": "Python function from_pandas_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:to_scipy_sparse_array",
+      "type": "function",
+      "name": "to_scipy_sparse_array",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "summary": "Python function to_scipy_sparse_array",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:from_scipy_sparse_array",
+      "type": "function",
+      "name": "from_scipy_sparse_array",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "summary": "Python function from_scipy_sparse_array",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:to_numpy_array",
+      "type": "function",
+      "name": "to_numpy_array",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "summary": "Python function to_numpy_array",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:from_numpy_array",
+      "type": "function",
+      "name": "from_numpy_array",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "summary": "Python function from_numpy_array",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/convert.py",
+      "type": "file",
+      "name": "convert",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert.py:to_networkx_graph",
+      "type": "function",
+      "name": "to_networkx_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert.py",
+      "summary": "Python function to_networkx_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert.py:to_dict_of_lists",
+      "type": "function",
+      "name": "to_dict_of_lists",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert.py",
+      "summary": "Python function to_dict_of_lists",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert.py:from_dict_of_lists",
+      "type": "function",
+      "name": "from_dict_of_lists",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert.py",
+      "summary": "Python function from_dict_of_lists",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert.py:to_dict_of_dicts",
+      "type": "function",
+      "name": "to_dict_of_dicts",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert.py",
+      "summary": "Python function to_dict_of_dicts",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert.py:from_dict_of_dicts",
+      "type": "function",
+      "name": "from_dict_of_dicts",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert.py",
+      "summary": "Python function from_dict_of_dicts",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert.py:to_edgelist",
+      "type": "function",
+      "name": "to_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert.py",
+      "summary": "Python function to_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/convert.py:from_edgelist",
+      "type": "function",
+      "name": "from_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/convert.py",
+      "summary": "Python function from_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "type": "file",
+      "name": "layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:random_layout",
+      "type": "function",
+      "name": "random_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function random_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:circular_layout",
+      "type": "function",
+      "name": "circular_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function circular_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:shell_layout",
+      "type": "function",
+      "name": "shell_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function shell_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:bipartite_layout",
+      "type": "function",
+      "name": "bipartite_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function bipartite_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:spring_layout",
+      "type": "function",
+      "name": "spring_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function spring_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:kamada_kawai_layout",
+      "type": "function",
+      "name": "kamada_kawai_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function kamada_kawai_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:spectral_layout",
+      "type": "function",
+      "name": "spectral_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function spectral_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:planar_layout",
+      "type": "function",
+      "name": "planar_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function planar_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:spiral_layout",
+      "type": "function",
+      "name": "spiral_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function spiral_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:multipartite_layout",
+      "type": "function",
+      "name": "multipartite_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function multipartite_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:arf_layout",
+      "type": "function",
+      "name": "arf_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function arf_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:forceatlas2_layout",
+      "type": "function",
+      "name": "forceatlas2_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function forceatlas2_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:rescale_layout",
+      "type": "function",
+      "name": "rescale_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function rescale_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:rescale_layout_dict",
+      "type": "function",
+      "name": "rescale_layout_dict",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function rescale_layout_dict",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:bfs_layout",
+      "type": "function",
+      "name": "bfs_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "summary": "Python function bfs_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "type": "file",
+      "name": "nx_agraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:from_agraph",
+      "type": "function",
+      "name": "from_agraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "summary": "Python function from_agraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:to_agraph",
+      "type": "function",
+      "name": "to_agraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "summary": "Python function to_agraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:write_dot",
+      "type": "function",
+      "name": "write_dot",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "summary": "Python function write_dot",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:read_dot",
+      "type": "function",
+      "name": "read_dot",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "summary": "Python function read_dot",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:graphviz_layout",
+      "type": "function",
+      "name": "graphviz_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "summary": "Python function graphviz_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:pygraphviz_layout",
+      "type": "function",
+      "name": "pygraphviz_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "summary": "Python function pygraphviz_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:view_pygraphviz",
+      "type": "function",
+      "name": "view_pygraphviz",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "summary": "Python function view_pygraphviz",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py",
+      "type": "file",
+      "name": "nx_latex",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py:to_latex_raw",
+      "type": "function",
+      "name": "to_latex_raw",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py",
+      "summary": "Python function to_latex_raw",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py:to_latex",
+      "type": "function",
+      "name": "to_latex",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py",
+      "summary": "Python function to_latex",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py:write_latex",
+      "type": "function",
+      "name": "write_latex",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py",
+      "summary": "Python function write_latex",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/multigraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/multigraph.py:MultiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:NodeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:NodeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:DiDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:DegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:OutDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:InDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:MultiDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:DiMultiDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:InMultiDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:OutMultiDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:EdgeViewABC",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:OutEdgeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:EdgeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:InEdgeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:OutMultiEdgeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:MultiEdgeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:InMultiEdgeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:OutEdgeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:EdgeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:InEdgeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:OutMultiEdgeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:MultiEdgeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/reportviews.py:InMultiEdgeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:LoopbackGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:LoopbackDiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:LoopbackMultiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:LoopbackMultiDiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:LoopbackPlanarEmbedding",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:LoopbackBackendInterface",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/dispatch_interface.py:convert",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/historical_tests.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/historical_tests.py:HistoricalTests",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestAtlasView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestAdjacencyView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestMultiAdjacencyView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestUnionAtlas",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestUnionAdjacency",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestUnionMultiInner",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestUnionMultiAdjacency",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_coreviews.py:TestFilteredGraphs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph_historical.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph_historical.py:TestDiGraphHistorical",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py:BaseDiGraphTester",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py:BaseAttrDiGraphTester",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py:TestDiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_digraph.py:TestEdgeSubgraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_filters.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_filters.py:TestFilterFactory",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:TestFunction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:TestCommonNeighbors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_degree_histogram_empty",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_set_node_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_set_node_attributes_ignores_extra_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_set_edge_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_set_edge_attributes_ignores_extra_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_set_edge_attributes_multi",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_set_edge_attributes_multi_ignores_extra_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_get_node_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_get_edge_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_remove_node_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_remove_edge_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_remove_multi_edge_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_is_empty",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_selfloops",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_selfloop_edges_attr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_selfloop_edges_multi_with_data_and_keys",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_selfloops_removal",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_selfloops_removal_multi",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_pathweight",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_ispath",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_restricted_view",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_function.py:test_restricted_view_multi",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph_historical.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph_historical.py:TestGraphHistorical",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py:BaseGraphTester",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py:BaseAttrGraphTester",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py:TestGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py:TestEdgeSubgraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py:test_degree_node_not_found_exception_message",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graph.py:test_graph_new_extra_args",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py:TestReverseView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py:TestMultiReverseView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py:TestToDirected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py:TestToUndirected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py:TestChainsOfViews",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_graphviews.py:test_generic_multitype",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py:BaseMultiDiGraphTester",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py:TestMultiDiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py:TestEdgeSubgraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py:CustomDictClass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py:MultiDiGraphSubClass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multidigraph.py:TestMultiDiGraphSubclass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py:BaseMultiGraphTester",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py:TestMultiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py:TestEdgeSubgraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py:CustomDictClass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py:MultiGraphSubClass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_multigraph.py:TestMultiGraphSubclass",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestNodeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestNodeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestNodeViewSetOps",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestNodeDataViewSetOps",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestNodeDataViewDefaultSetOps",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestEdgeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestOutEdgeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestInEdgeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestMultiEdgeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestOutMultiEdgeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestInMultiEdgeDataView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestEdgeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestOutEdgeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestInEdgeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestMultiEdgeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestOutMultiEdgeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestInMultiEdgeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestDiDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestOutDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestInDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestMultiDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestDiMultiDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestOutMultiDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:TestInMultiDegreeView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:test_nodedataview_unhashable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:test_slicing_reportviews",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:test_cache_dict_get_set_state",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_reportviews.py:test_edge_views_inherit_from_EdgeViewABC",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:TestSpecialGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:TestThinGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:TestSpecialDiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:TestThinDiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:TestSpecialMultiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:TestSpecialMultiDiGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/classes/tests/test_special.py:test_factories",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py:TestSubGraphView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py:TestSubDiGraphView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py:TestMultiGraphView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py:TestMultiDiGraphView",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py:TestInducedSubGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/classes/tests/test_subgraphviews.py:TestEdgeSubGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/conftest.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/conftest.py:pytest_addoption",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/conftest.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/conftest.py:pytest_configure",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/conftest.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/conftest.py:pytest_collection_modifyitems",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/conftest.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/conftest.py:set_warnings",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/conftest.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/conftest.py:add_nx",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:to_pandas_adjacency",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:from_pandas_adjacency",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:to_pandas_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:from_pandas_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:to_scipy_sparse_array",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:from_scipy_sparse_array",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:to_numpy_array",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert_matrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert_matrix.py:from_numpy_array",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert.py:to_networkx_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert.py:to_dict_of_lists",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert.py:from_dict_of_lists",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert.py:to_dict_of_dicts",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert.py:from_dict_of_dicts",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert.py:to_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/convert.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/convert.py:from_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:random_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:circular_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:shell_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:bipartite_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:spring_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:kamada_kawai_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:spectral_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:planar_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:spiral_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:multipartite_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:arf_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:forceatlas2_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:rescale_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:rescale_layout_dict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/layout.py:bfs_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:from_agraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:to_agraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:write_dot",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:read_dot",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:graphviz_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:pygraphviz_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_agraph.py:view_pygraphviz",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py:to_latex_raw",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py:to_latex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_latex.py:write_latex",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 206,
+    "edgeCount": 182,
+    "nodeTypes": {
+      "file": 24,
+      "class": 106,
+      "function": 76
+    }
+  }
+}

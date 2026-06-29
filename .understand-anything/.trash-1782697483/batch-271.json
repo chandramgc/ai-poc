@@ -1,0 +1,104 @@
+{
+  "batchIndex": 271,
+  "nodes": [
+    {
+      "id": "file:.specify/scripts/bash/check-prerequisites.sh",
+      "type": "file",
+      "name": "check-prerequisites",
+      "filePath": ".specify/scripts/bash/check-prerequisites.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/scripts/bash/common.sh",
+      "type": "file",
+      "name": "common",
+      "filePath": ".specify/scripts/bash/common.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/scripts/bash/create-new-feature.sh",
+      "type": "file",
+      "name": "create-new-feature",
+      "filePath": ".specify/scripts/bash/create-new-feature.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/scripts/bash/setup-plan.sh",
+      "type": "file",
+      "name": "setup-plan",
+      "filePath": ".specify/scripts/bash/setup-plan.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.specify/scripts/bash/setup-tasks.sh",
+      "type": "file",
+      "name": "setup-tasks",
+      "filePath": ".specify/scripts/bash/setup-tasks.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:.specify/scripts/bash/check-prerequisites.sh",
+      "target": "file:.specify/scripts/bash/check-prerequisites.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.specify/scripts/bash/common.sh",
+      "target": "file:.specify/scripts/bash/common.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.specify/scripts/bash/create-new-feature.sh",
+      "target": "file:.specify/scripts/bash/create-new-feature.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.specify/scripts/bash/setup-plan.sh",
+      "target": "file:.specify/scripts/bash/setup-plan.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.specify/scripts/bash/setup-tasks.sh",
+      "target": "file:.specify/scripts/bash/setup-tasks.sh",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

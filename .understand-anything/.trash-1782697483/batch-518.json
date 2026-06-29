@@ -1,0 +1,238 @@
+{
+  "batchIndex": 518,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein.pyi",
+      "type": "file",
+      "name": "DamerauLevenshtein",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming.pyi",
+      "type": "file",
+      "name": "Hamming",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel.pyi",
+      "type": "file",
+      "name": "Indel",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro.pyi",
+      "type": "file",
+      "name": "Jaro",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler.pyi",
+      "type": "file",
+      "name": "JaroWinkler",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq.pyi",
+      "type": "file",
+      "name": "LCSseq",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein.pyi",
+      "type": "file",
+      "name": "Levenshtein",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA.pyi",
+      "type": "file",
+      "name": "OSA",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Postfix.pyi",
+      "type": "file",
+      "name": "Postfix",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Postfix.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Prefix.pyi",
+      "type": "file",
+      "name": "Prefix",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/Prefix.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize.pyi",
+      "type": "file",
+      "name": "_initialize",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_cpp.cpython-314-darwin.so",
+      "type": "file",
+      "name": "_initialize_cpp.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_cpp.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/metrics_cpp.cpython-314-darwin.so",
+      "type": "file",
+      "name": "metrics_cpp.cpython-314-darwin",
+      "filePath": "venv/lib/python3.14/site-packages/rapidfuzz/distance/metrics_cpp.cpython-314-darwin.so",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/DamerauLevenshtein.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Hamming.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Indel.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Jaro.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/JaroWinkler.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/LCSseq.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Levenshtein.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/OSA.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Postfix.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Postfix.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Prefix.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/Prefix.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_cpp.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/_initialize_cpp.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/metrics_cpp.cpython-314-darwin.so",
+      "target": "file:venv/lib/python3.14/site-packages/rapidfuzz/distance/metrics_cpp.cpython-314-darwin.so",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 14,
+    "edgeCount": 14,
+    "nodeTypes": {
+      "file": 14
+    }
+  }
+}

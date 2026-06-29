@@ -1,0 +1,126 @@
+{
+  "batchIndex": 461,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/testing.pyi",
+      "type": "file",
+      "name": "testing",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/testing.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/twodim_base.pyi",
+      "type": "file",
+      "name": "twodim_base",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/twodim_base.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/type_check.pyi",
+      "type": "file",
+      "name": "type_check",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/type_check.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ufunc_config.pyi",
+      "type": "file",
+      "name": "ufunc_config",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ufunc_config.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ufunclike.pyi",
+      "type": "file",
+      "name": "ufunclike",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ufunclike.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ufuncs.pyi",
+      "type": "file",
+      "name": "ufuncs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ufuncs.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/warnings_and_errors.pyi",
+      "type": "file",
+      "name": "warnings_and_errors",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/warnings_and_errors.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/testing.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/testing.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/twodim_base.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/twodim_base.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/type_check.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/type_check.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ufunc_config.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ufunc_config.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ufunclike.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ufunclike.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ufuncs.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ufuncs.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/warnings_and_errors.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/warnings_and_errors.pyi",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 7,
+    "edgeCount": 7,
+    "nodeTypes": {
+      "file": 7
+    }
+  }
+}

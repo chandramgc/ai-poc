@@ -1,0 +1,1042 @@
+{
+  "batchIndex": 663,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/status.py",
+      "type": "file",
+      "name": "status",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/status.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/status.py:Status",
+      "type": "class",
+      "name": "Status",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/status.py",
+      "summary": "Python class Status",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py",
+      "type": "file",
+      "name": "style",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:10"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py:_Bit",
+      "type": "class",
+      "name": "_Bit",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py",
+      "summary": "Python class _Bit",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py:Style",
+      "type": "class",
+      "name": "Style",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py",
+      "summary": "Python class Style",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py:StyleStack",
+      "type": "class",
+      "name": "StyleStack",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py",
+      "summary": "Python class StyleStack",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/styled.py",
+      "type": "file",
+      "name": "styled",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/styled.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/styled.py:Styled",
+      "type": "class",
+      "name": "Styled",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/styled.py",
+      "summary": "Python class Styled",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "type": "file",
+      "name": "syntax",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:23"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py:SyntaxTheme",
+      "type": "class",
+      "name": "SyntaxTheme",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "summary": "Python class SyntaxTheme",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py:PygmentsSyntaxTheme",
+      "type": "class",
+      "name": "PygmentsSyntaxTheme",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "summary": "Python class PygmentsSyntaxTheme",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py:ANSISyntaxTheme",
+      "type": "class",
+      "name": "ANSISyntaxTheme",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "summary": "Python class ANSISyntaxTheme",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py:_SyntaxHighlightRange",
+      "type": "class",
+      "name": "_SyntaxHighlightRange",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "summary": "Python class _SyntaxHighlightRange",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py:PaddingProperty",
+      "type": "class",
+      "name": "PaddingProperty",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "summary": "Python class PaddingProperty",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py:Syntax",
+      "type": "class",
+      "name": "Syntax",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "summary": "Python class Syntax",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py",
+      "type": "file",
+      "name": "table",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:14"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py:Column",
+      "type": "class",
+      "name": "Column",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py",
+      "summary": "Python class Column",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py:Row",
+      "type": "class",
+      "name": "Row",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py",
+      "summary": "Python class Row",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py:_Cell",
+      "type": "class",
+      "name": "_Cell",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py",
+      "summary": "Python class _Cell",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py:Table",
+      "type": "class",
+      "name": "Table",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py",
+      "summary": "Python class Table",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/terminal_theme.py",
+      "type": "file",
+      "name": "terminal_theme",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/terminal_theme.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/terminal_theme.py:TerminalTheme",
+      "type": "class",
+      "name": "TerminalTheme",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/terminal_theme.py",
+      "summary": "Python class TerminalTheme",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/text.py",
+      "type": "file",
+      "name": "text",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/text.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:17"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/text.py:Span",
+      "type": "class",
+      "name": "Span",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/text.py",
+      "summary": "Python class Span",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/text.py:Text",
+      "type": "class",
+      "name": "Text",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/text.py",
+      "summary": "Python class Text",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py",
+      "type": "file",
+      "name": "theme",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py:Theme",
+      "type": "class",
+      "name": "Theme",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py",
+      "summary": "Python class Theme",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py:ThemeStackError",
+      "type": "class",
+      "name": "ThemeStackError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py",
+      "summary": "Python class ThemeStackError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py:ThemeStack",
+      "type": "class",
+      "name": "ThemeStack",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py",
+      "summary": "Python class ThemeStack",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/themes.py",
+      "type": "file",
+      "name": "themes",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/themes.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "type": "file",
+      "name": "traceback",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:24"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py:Frame",
+      "type": "class",
+      "name": "Frame",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "summary": "Python class Frame",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py:_SyntaxError",
+      "type": "class",
+      "name": "_SyntaxError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "summary": "Python class _SyntaxError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py:Stack",
+      "type": "class",
+      "name": "Stack",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "summary": "Python class Stack",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py:Trace",
+      "type": "class",
+      "name": "Trace",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "summary": "Python class Trace",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py:PathHighlighter",
+      "type": "class",
+      "name": "PathHighlighter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "summary": "Python class PathHighlighter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py:Traceback",
+      "type": "class",
+      "name": "Traceback",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "summary": "Python class Traceback",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/tree.py",
+      "type": "file",
+      "name": "tree",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/tree.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/tree.py:Tree",
+      "type": "class",
+      "name": "Tree",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/tree.py",
+      "summary": "Python class Tree",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/tree.py:Segment",
+      "type": "class",
+      "name": "Segment",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/tree.py",
+      "summary": "Python class Segment",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/__pycache__/_writer.cpython-314.pyc",
+      "type": "file",
+      "name": "_writer.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/__pycache__/_writer.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/_writer.py",
+      "type": "file",
+      "name": "_writer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/_writer.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/_writer.py:Context",
+      "type": "class",
+      "name": "Context",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/_writer.py",
+      "summary": "Python class Context",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/LICENSE",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/LICENSE",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/py.typed",
+      "type": "file",
+      "name": "py",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/py.typed",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py",
+      "type": "file",
+      "name": "_parser",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py:DEPRECATED_DEFAULT",
+      "type": "class",
+      "name": "DEPRECATED_DEFAULT",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py",
+      "summary": "Python class DEPRECATED_DEFAULT",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py:TOMLDecodeError",
+      "type": "class",
+      "name": "TOMLDecodeError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py",
+      "summary": "Python class TOMLDecodeError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py:Flags",
+      "type": "class",
+      "name": "Flags",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py",
+      "summary": "Python class Flags",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py:NestedDict",
+      "type": "class",
+      "name": "NestedDict",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py",
+      "summary": "Python class NestedDict",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py:Output",
+      "type": "class",
+      "name": "Output",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py",
+      "summary": "Python class Output",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_re.py",
+      "type": "file",
+      "name": "_re",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/_re.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_types.py",
+      "type": "file",
+      "name": "_types",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/_types.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/LICENSE",
+      "type": "file",
+      "name": "LICENSE",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/LICENSE",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/py.typed",
+      "type": "file",
+      "name": "py",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/py.typed",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/truststore/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/truststore/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/truststore/_api.py",
+      "type": "file",
+      "name": "_api",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/truststore/_api.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/truststore/_api.py:SSLContext",
+      "type": "class",
+      "name": "SSLContext",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/truststore/_api.py",
+      "summary": "Python class SSLContext",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/status.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/status.py:Status",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py:_Bit",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py:Style",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py:StyleStack",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/styled.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/styled.py:Styled",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py:SyntaxTheme",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py:PygmentsSyntaxTheme",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py:ANSISyntaxTheme",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py:_SyntaxHighlightRange",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py:PaddingProperty",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py:Syntax",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py:Column",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py:Row",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py:_Cell",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py:Table",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/terminal_theme.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/terminal_theme.py:TerminalTheme",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/text.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/text.py:Span",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/text.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/text.py:Text",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py:Theme",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py:ThemeStackError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py:ThemeStack",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py:Frame",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py:_SyntaxError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py:Stack",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py:Trace",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py:PathHighlighter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py:Traceback",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/tree.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/tree.py:Tree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/tree.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/tree.py:Segment",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/__pycache__/_writer.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/__pycache__/_writer.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/_writer.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/_writer.py:Context",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/LICENSE",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/LICENSE",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/py.typed",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/py.typed",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py:DEPRECATED_DEFAULT",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py:TOMLDecodeError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py:Flags",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py:NestedDict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py:Output",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/LICENSE",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/LICENSE",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/py.typed",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/tomli/py.typed",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/truststore/_api.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/truststore/_api.py:SSLContext",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 61,
+    "edgeCount": 42,
+    "nodeTypes": {
+      "file": 25,
+      "class": 36
+    }
+  }
+}

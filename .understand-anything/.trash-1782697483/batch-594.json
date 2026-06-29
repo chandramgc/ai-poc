@@ -1,0 +1,555 @@
+{
+  "batchIndex": 594,
+  "nodes": [
+    {
+      "id": "file:tmp/speckit-test/.git/objects/e3/b8573f9052774afd849dbe3bdc4c6912f268e3",
+      "type": "file",
+      "name": "b8573f9052774afd849dbe3bdc4c6912f268e3",
+      "filePath": "tmp/speckit-test/.git/objects/e3/b8573f9052774afd849dbe3bdc4c6912f268e3",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/ec/9e6b7ca5e6a751535d832d5f2375c6c70c6c97",
+      "type": "file",
+      "name": "9e6b7ca5e6a751535d832d5f2375c6c70c6c97",
+      "filePath": "tmp/speckit-test/.git/objects/ec/9e6b7ca5e6a751535d832d5f2375c6c70c6c97",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/ee/b3a3989126ce3a1e1103f8ecc4d33ed94de705",
+      "type": "file",
+      "name": "b3a3989126ce3a1e1103f8ecc4d33ed94de705",
+      "filePath": "tmp/speckit-test/.git/objects/ee/b3a3989126ce3a1e1103f8ecc4d33ed94de705",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/objects/fa/4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "type": "file",
+      "name": "4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "filePath": "tmp/speckit-test/.git/objects/fa/4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.git/refs/heads/master",
+      "type": "file",
+      "name": "master",
+      "filePath": "tmp/speckit-test/.git/refs/heads/master",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.github/copilot-instructions.md",
+      "type": "document",
+      "name": "copilot-instructions",
+      "filePath": "tmp/speckit-test/.github/copilot-instructions.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/extensions/.registry",
+      "type": "file",
+      "name": ".registry",
+      "filePath": "tmp/speckit-test/.specify/extensions/.registry",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/extensions/agent-context/commands/speckit.agent-context.update.md",
+      "type": "document",
+      "name": "speckit.agent-context.update",
+      "filePath": "tmp/speckit-test/.specify/extensions/agent-context/commands/speckit.agent-context.update.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Update Coding Agent Context",
+        "section:Behavior",
+        "section:Execution"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/extensions/agent-context/scripts/bash/update-agent-context.sh",
+      "type": "file",
+      "name": "update-agent-context",
+      "filePath": "tmp/speckit-test/.specify/extensions/agent-context/scripts/bash/update-agent-context.sh",
+      "summary": "Bash file",
+      "tags": [
+        "bash"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/extensions/agent-context/scripts/powershell/update-agent-context.ps1",
+      "type": "file",
+      "name": "update-agent-context",
+      "filePath": "tmp/speckit-test/.specify/extensions/agent-context/scripts/powershell/update-agent-context.ps1",
+      "summary": "Powershell file",
+      "tags": [
+        "powershell"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/integrations/copilot.manifest.json",
+      "type": "config",
+      "name": "copilot.manifest",
+      "filePath": "tmp/speckit-test/.specify/integrations/copilot.manifest.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:4"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/integrations/speckit.manifest.json",
+      "type": "config",
+      "name": "speckit.manifest",
+      "filePath": "tmp/speckit-test/.specify/integrations/speckit.manifest.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:4"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/memory/constitution.md",
+      "type": "document",
+      "name": "constitution",
+      "filePath": "tmp/speckit-test/.specify/memory/constitution.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:[PROJECT_NAME] Constitution",
+        "section:Core Principles",
+        "section:[PRINCIPLE_1_NAME]",
+        "section:[PRINCIPLE_2_NAME]",
+        "section:[PRINCIPLE_3_NAME]",
+        "section:[PRINCIPLE_4_NAME]",
+        "section:[PRINCIPLE_5_NAME]",
+        "section:[SECTION_2_NAME]",
+        "section:[SECTION_3_NAME]",
+        "section:Governance"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/workflows/speckit/workflow.yml",
+      "type": "config",
+      "name": "workflow",
+      "filePath": "tmp/speckit-test/.specify/workflows/speckit/workflow.yml",
+      "summary": "YAML configuration file",
+      "tags": [
+        "yaml",
+        "config",
+        "keys:5"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/workflows/workflow-registry.json",
+      "type": "config",
+      "name": "workflow-registry",
+      "filePath": "tmp/speckit-test/.specify/workflows/workflow-registry.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:2"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.vscode/settings.json",
+      "type": "config",
+      "name": "settings",
+      "filePath": "tmp/speckit-test/.vscode/settings.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:2"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/src/main/java/com/example/Application.java",
+      "type": "file",
+      "name": "Application",
+      "filePath": "tmp/speckit-test/src/main/java/com/example/Application.java",
+      "summary": "Java source file",
+      "tags": [
+        "java",
+        "package:com.example",
+        "annotation:SpringBootApplication",
+        "entry-point",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": "Java source file"
+    },
+    {
+      "id": "class:tmp/speckit-test/src/main/java/com/example/Application.java:Application",
+      "type": "class",
+      "name": "Application",
+      "filePath": "tmp/speckit-test/src/main/java/com/example/Application.java",
+      "summary": "Class Application",
+      "tags": [
+        "java",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:tmp/speckit-test/src/main/java/com/example/Application.java:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "tmp/speckit-test/src/main/java/com/example/Application.java",
+      "summary": "Method main returning void",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/src/main/java/com/example/HelloController.java",
+      "type": "file",
+      "name": "HelloController",
+      "filePath": "tmp/speckit-test/src/main/java/com/example/HelloController.java",
+      "summary": "Java source file",
+      "tags": [
+        "java",
+        "package:com.example",
+        "annotation:RestController",
+        "annotation:GetMapping",
+        "controller"
+      ],
+      "complexity": "moderate",
+      "languageNotes": "Java source file"
+    },
+    {
+      "id": "class:tmp/speckit-test/src/main/java/com/example/HelloController.java:HelloController",
+      "type": "class",
+      "name": "HelloController",
+      "filePath": "tmp/speckit-test/src/main/java/com/example/HelloController.java",
+      "summary": "Class HelloController",
+      "tags": [
+        "java",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:tmp/speckit-test/src/main/java/com/example/HelloController.java:hello",
+      "type": "function",
+      "name": "hello",
+      "filePath": "tmp/speckit-test/src/main/java/com/example/HelloController.java",
+      "summary": "Method hello returning String",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:tmp/speckit-test/src/main/java/com/example/HelloController.java:status",
+      "type": "function",
+      "name": "status",
+      "filePath": "tmp/speckit-test/src/main/java/com/example/HelloController.java",
+      "summary": "Method status returning String",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/src/main/resources/application.yml",
+      "type": "config",
+      "name": "application",
+      "filePath": "tmp/speckit-test/src/main/resources/application.yml",
+      "summary": "YAML configuration file",
+      "tags": [
+        "yaml",
+        "config",
+        "keys:3"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/src/test/java/com/example/ApplicationTest.java",
+      "type": "file",
+      "name": "ApplicationTest",
+      "filePath": "tmp/speckit-test/src/test/java/com/example/ApplicationTest.java",
+      "summary": "Java source file",
+      "tags": [
+        "java",
+        "package:com.example",
+        "annotation:SpringBootTest",
+        "annotation:AutoConfigureMockMvc",
+        "annotation:Test",
+        "annotation:Autowired",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": "Java source file"
+    },
+    {
+      "id": "class:tmp/speckit-test/src/test/java/com/example/ApplicationTest.java:ApplicationTest",
+      "type": "class",
+      "name": "ApplicationTest",
+      "filePath": "tmp/speckit-test/src/test/java/com/example/ApplicationTest.java",
+      "summary": "Class ApplicationTest",
+      "tags": [
+        "java",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "method:tmp/speckit-test/src/test/java/com/example/ApplicationTest.java:testHello",
+      "type": "function",
+      "name": "testHello",
+      "filePath": "tmp/speckit-test/src/test/java/com/example/ApplicationTest.java",
+      "summary": "Method testHello returning void",
+      "tags": [
+        "java",
+        "method"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-auto-java/.coding-standards/JAVA_STANDARDS.md",
+      "type": "document",
+      "name": "JAVA_STANDARDS",
+      "filePath": "tmp/test-auto-java/.coding-standards/JAVA_STANDARDS.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Java Coding Standards & Best P",
+        "section:Overview",
+        "section:Mandatory Rules (BLOCKER)",
+        "section:1. No Hard-coded Credentials (",
+        "section:2. Use SLF4J Logger, Not Syste",
+        "section:3. Always Use Try-With-Resourc",
+        "section:4. Return Optional, Not Null",
+        "section:Critical Rules",
+        "section:5. Null Safety",
+        "section:6. Never Use Raw Exceptions",
+        "code_blocks:12"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-auto-java/.config/ponytail/config.json",
+      "type": "config",
+      "name": "config",
+      "filePath": "tmp/test-auto-java/.config/ponytail/config.json",
+      "summary": "JSON configuration file",
+      "tags": [
+        "json",
+        "config",
+        "keys:3"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-auto-java/.git/info/exclude",
+      "type": "file",
+      "name": "exclude",
+      "filePath": "tmp/test-auto-java/.git/info/exclude",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-auto-java/.git/logs/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": "tmp/test-auto-java/.git/logs/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/test-auto-java/.git/logs/refs/heads/master",
+      "type": "file",
+      "name": "master",
+      "filePath": "tmp/test-auto-java/.git/logs/refs/heads/master",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:tmp/speckit-test/.git/objects/e3/b8573f9052774afd849dbe3bdc4c6912f268e3",
+      "target": "file:tmp/speckit-test/.git/objects/e3/b8573f9052774afd849dbe3bdc4c6912f268e3",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/ec/9e6b7ca5e6a751535d832d5f2375c6c70c6c97",
+      "target": "file:tmp/speckit-test/.git/objects/ec/9e6b7ca5e6a751535d832d5f2375c6c70c6c97",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/ee/b3a3989126ce3a1e1103f8ecc4d33ed94de705",
+      "target": "file:tmp/speckit-test/.git/objects/ee/b3a3989126ce3a1e1103f8ecc4d33ed94de705",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/objects/fa/4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "target": "file:tmp/speckit-test/.git/objects/fa/4eac5ae1b12d372fc1beb5e15c23795959d1ed",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.git/refs/heads/master",
+      "target": "file:tmp/speckit-test/.git/refs/heads/master",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.specify/extensions/.registry",
+      "target": "file:tmp/speckit-test/.specify/extensions/.registry",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.specify/extensions/agent-context/scripts/bash/update-agent-context.sh",
+      "target": "file:tmp/speckit-test/.specify/extensions/agent-context/scripts/bash/update-agent-context.sh",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/.specify/extensions/agent-context/scripts/powershell/update-agent-context.ps1",
+      "target": "file:tmp/speckit-test/.specify/extensions/agent-context/scripts/powershell/update-agent-context.ps1",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/src/main/java/com/example/Application.java",
+      "target": "class:tmp/speckit-test/src/main/java/com/example/Application.java:Application",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/src/main/java/com/example/Application.java",
+      "target": "method:tmp/speckit-test/src/main/java/com/example/Application.java:main",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/src/main/java/com/example/HelloController.java",
+      "target": "class:tmp/speckit-test/src/main/java/com/example/HelloController.java:HelloController",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/src/main/java/com/example/HelloController.java",
+      "target": "method:tmp/speckit-test/src/main/java/com/example/HelloController.java:hello",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/src/main/java/com/example/HelloController.java",
+      "target": "method:tmp/speckit-test/src/main/java/com/example/HelloController.java:status",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/src/test/java/com/example/ApplicationTest.java",
+      "target": "class:tmp/speckit-test/src/test/java/com/example/ApplicationTest.java:ApplicationTest",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/speckit-test/src/test/java/com/example/ApplicationTest.java",
+      "target": "method:tmp/speckit-test/src/test/java/com/example/ApplicationTest.java:testHello",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-auto-java/.git/info/exclude",
+      "target": "file:tmp/test-auto-java/.git/info/exclude",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-auto-java/.git/logs/HEAD",
+      "target": "file:tmp/test-auto-java/.git/logs/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:tmp/test-auto-java/.git/logs/refs/heads/master",
+      "target": "file:tmp/test-auto-java/.git/logs/refs/heads/master",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 32,
+    "edgeCount": 18,
+    "nodeTypes": {
+      "file": 14,
+      "document": 4,
+      "config": 7,
+      "class": 3,
+      "function": 4
+    }
+  }
+}

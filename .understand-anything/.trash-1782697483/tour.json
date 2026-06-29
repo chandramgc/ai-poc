@@ -1,0 +1,118 @@
+[
+  {
+    "order": 1,
+    "title": "Project Overview",
+    "description": "Start here to understand the project's purpose, technology stack, and how to set it up. The README provides the authoritative guide to getting started.",
+    "nodeIds": [
+      "file:README.md"
+    ],
+    "languageLesson": "Every project starts with clear documentation. The README explains what the project does, how to build it, and where to find key resources."
+  },
+  {
+    "order": 2,
+    "title": "Build Configuration & Dependencies",
+    "description": "Examine the build system and dependencies. Gradle orchestrates the build process and manages all library dependencies needed for the project to compile and run.",
+    "nodeIds": [
+      "file:build.gradle"
+    ],
+    "languageLesson": "In Gradle build files, dependencies are declared with coordinates (group:artifact:version). The plugins section configures build behavior. The 'tasks' define what happens during build, test, and deployment."
+  },
+  {
+    "order": 3,
+    "title": "Application Bootstrap & Entry Point",
+    "description": "Meet the entry point where Spring Boot bootstraps and starts the application. This class initializes the Spring context and starts the embedded HTTP server. The @SpringBootApplication annotation enables component scanning and auto-configuration.",
+    "nodeIds": [
+      "file:src/main/java/com/aipoc/AiPocApplication.java",
+      "class:src/main/java/com/aipoc/AiPocApplication.java:AiPocApplication"
+    ],
+    "languageLesson": "@SpringBootApplication is a convenience annotation combining @Configuration, @ComponentScan, and @EnableAutoConfiguration. The main() method calls SpringApplication.run() to launch the entire framework."
+  },
+  {
+    "order": 4,
+    "title": "Application Configuration",
+    "description": "Spring applications need configuration to set properties, profiles, and runtime settings. The application.yml file externalizes configuration so different environments (dev, test, production) can have different settings without code changes.",
+    "nodeIds": [
+      "file:src/main/resources/application.yml"
+    ],
+    "languageLesson": "Configuration files use YAML or properties format. Spring profiles (application-dev.yml, application-prod.yml) allow environment-specific settings. Externalized config keeps secrets out of source code."
+  },
+  {
+    "order": 5,
+    "title": "REST Controllers (HTTP Layer)",
+    "description": "Controllers handle incoming HTTP requests and return responses. They define the API endpoints and orchestrate service calls. REST controllers are the public interface to your backend services—where clients make requests.",
+    "nodeIds": [
+      "file:src/main/java/com/aipoc/controller/TimeController.java",
+      "class:src/main/java/com/aipoc/controller/TimeController.java:TimeController"
+    ],
+    "languageLesson": "@RestController marks a class as a REST endpoint handler. @GetMapping/@PostMapping define HTTP methods and paths. Controllers should be thin—they validate input, call services, and return responses. Never put business logic in controllers."
+  },
+  {
+    "order": 6,
+    "title": "Data Transfer Objects (DTOs)",
+    "description": "DTOs are simple data classes that hold request/response data. They decouple your internal domain model from what you expose via REST APIs. TimeResponse represents the data returned to clients making API calls.",
+    "nodeIds": [
+      "file:src/main/java/com/aipoc/dto/TimeResponse.java"
+    ],
+    "languageLesson": "DTOs should be immutable (use record classes or final fields). They typically don't contain business logic—just getters/setters. Keep DTOs simple to prevent accidental coupling between your API and internal domain models."
+  },
+  {
+    "order": 7,
+    "title": "Service Layer (Business Logic)",
+    "description": "Services implement business logic and are marked with @Service. They're called by controllers and coordinate the work of repositories and other services. The service layer is where your domain expertise lives—this is where the real work happens.",
+    "nodeIds": [
+      "file:src/main/java/com/aipoc/service/TimeService.java",
+      "file:src/main/java/com/aipoc/service/impl/TimeServiceImpl.java",
+      "class:src/main/java/com/aipoc/service/impl/TimeServiceImpl.java:TimeServiceImpl"
+    ],
+    "languageLesson": "Services define a contract via interfaces (TimeService) and implement it in concrete classes (TimeServiceImpl). @Service beans are auto-detected by Spring's component scanning. Inject dependencies via constructor injection for testability."
+  },
+  {
+    "order": 8,
+    "title": "Exception Handling & Centralized Error Responses",
+    "description": "GlobalExceptionHandler uses @ControllerAdvice to centralize exception handling. Instead of scattered try-catch blocks, one handler catches exceptions from all controllers and returns consistent error responses with proper HTTP status codes.",
+    "nodeIds": [
+      "file:src/main/java/com/aipoc/exception/GlobalExceptionHandler.java",
+      "class:src/main/java/com/aipoc/exception/GlobalExceptionHandler.java:GlobalExceptionHandler"
+    ],
+    "languageLesson": "@ControllerAdvice + @ExceptionHandler centralizes error handling. It catches exceptions, logs them, and returns appropriate HTTP responses. This keeps controllers clean and ensures consistent error formats across your API."
+  },
+  {
+    "order": 9,
+    "title": "Unit Tests & Mocking",
+    "description": "Unit tests verify individual components work correctly in isolation. TimeServiceImplTest tests the service layer with mocked dependencies. Good tests are fast, focused, and independent—they don't require a database or external services.",
+    "nodeIds": [
+      "file:src/test/java/com/aipoc/service/TimeServiceImplTest.java"
+    ],
+    "languageLesson": "Use @Mock to create mock objects for dependencies. Use @Test to mark test methods. Name tests descriptively: testName_givenCondition_expectedResult. Test behavior, not implementation—focus on what the code should do, not how it does it."
+  },
+  {
+    "order": 10,
+    "title": "Integration Tests (HTTP Layer)",
+    "description": "Integration tests verify controllers work correctly with their dependencies. TimeControllerTest uses @WebMvcTest to load only the web layer, mocking the service layer beneath it. These tests verify HTTP behavior: status codes, response formats, and header handling.",
+    "nodeIds": [
+      "file:src/test/java/com/aipoc/controller/TimeControllerTest.java"
+    ],
+    "languageLesson": "@WebMvcTest loads the web context only—faster than full application tests. Use MockMvc to simulate HTTP requests. Test different scenarios: happy path, error conditions, and edge cases. Verify status codes (200, 404, 500) and response content."
+  },
+  {
+    "order": 11,
+    "title": "Architecture Pattern: Layered Architecture",
+    "description": "This project follows the classic layered architecture: HTTP layer (controllers) → service layer (business logic) → repositories/external services (data/integration). Each layer has clear responsibilities. Controllers don't call repositories directly—they go through services.",
+    "nodeIds": [
+      "file:src/main/java/com/aipoc/controller/TimeController.java",
+      "file:src/main/java/com/aipoc/service/impl/TimeServiceImpl.java"
+    ],
+    "languageLesson": "Layered architecture separates concerns: HTTP handling, business logic, and data access. This makes code testable (you can mock each layer), maintainable (changes in one layer don't break others), and scalable (you can enhance one layer independently)."
+  },
+  {
+    "order": 12,
+    "title": "Dependency Injection & Spring Context",
+    "description": "Spring manages object creation and lifecycle through dependency injection. When you mark a class with @Service or @RestController, Spring creates instances and injects them where needed. This removes manual object creation and makes testing easier—you can swap implementations for tests.",
+    "nodeIds": [
+      "file:src/main/java/com/aipoc/AiPocApplication.java",
+      "file:src/main/java/com/aipoc/controller/TimeController.java",
+      "file:src/main/java/com/aipoc/service/impl/TimeServiceImpl.java"
+    ],
+    "languageLesson": "Spring's component scanning finds @Component, @Service, @Repository, @RestController classes and registers them as beans. Use constructor injection for required dependencies. The @Autowired annotation is optional on constructors. Constructor injection makes testing easier than field injection."
+  }
+]

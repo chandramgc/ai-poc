@@ -1,0 +1,94 @@
+{
+  "batchIndex": 544,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/INSTALLER",
+      "type": "file",
+      "name": "INSTALLER",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/INSTALLER",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/METADATA",
+      "type": "file",
+      "name": "METADATA",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/METADATA",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/RECORD",
+      "type": "file",
+      "name": "RECORD",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/RECORD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/WHEEL",
+      "type": "file",
+      "name": "WHEEL",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/WHEEL",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/top_level.txt",
+      "type": "file",
+      "name": "top_level",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/top_level.txt",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/INSTALLER",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/INSTALLER",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/METADATA",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/METADATA",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/RECORD",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/RECORD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/WHEEL",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/WHEEL",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/top_level.txt",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript-0.25.0.dist-info/top_level.txt",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

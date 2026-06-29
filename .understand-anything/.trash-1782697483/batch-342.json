@@ -1,0 +1,110 @@
+{
+  "batchIndex": 342,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/connectivity.cpython-314.pyc",
+      "type": "file",
+      "name": "connectivity.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/connectivity.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/correlation.cpython-314.pyc",
+      "type": "file",
+      "name": "correlation.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/correlation.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/mixing.cpython-314.pyc",
+      "type": "file",
+      "name": "mixing.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/mixing.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/neighbor_degree.cpython-314.pyc",
+      "type": "file",
+      "name": "neighbor_degree.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/neighbor_degree.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/pairs.cpython-314.pyc",
+      "type": "file",
+      "name": "pairs.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/pairs.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/connectivity.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/connectivity.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/correlation.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/correlation.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/mixing.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/mixing.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/neighbor_degree.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/neighbor_degree.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/pairs.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/assortativity/__pycache__/pairs.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 6,
+    "nodeTypes": {
+      "file": 6
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "batchIndex": 452,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/mt19937-testset-1.csv",
+      "type": "file",
+      "name": "mt19937-testset-1",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/data/mt19937-testset-1.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/mt19937-testset-2.csv",
+      "type": "file",
+      "name": "mt19937-testset-2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/data/mt19937-testset-2.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64-testset-1.csv",
+      "type": "file",
+      "name": "pcg64-testset-1",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64-testset-1.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64-testset-2.csv",
+      "type": "file",
+      "name": "pcg64-testset-2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64-testset-2.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64dxsm-testset-1.csv",
+      "type": "file",
+      "name": "pcg64dxsm-testset-1",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64dxsm-testset-1.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64dxsm-testset-2.csv",
+      "type": "file",
+      "name": "pcg64dxsm-testset-2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64dxsm-testset-2.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/philox-testset-1.csv",
+      "type": "file",
+      "name": "philox-testset-1",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/data/philox-testset-1.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/philox-testset-2.csv",
+      "type": "file",
+      "name": "philox-testset-2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/data/philox-testset-2.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/sfc64-testset-1.csv",
+      "type": "file",
+      "name": "sfc64-testset-1",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/data/sfc64-testset-1.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/sfc64-testset-2.csv",
+      "type": "file",
+      "name": "sfc64-testset-2",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/random/tests/data/sfc64-testset-2.csv",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/mt19937-testset-1.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/mt19937-testset-1.csv",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/mt19937-testset-2.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/mt19937-testset-2.csv",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64-testset-1.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64-testset-1.csv",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64-testset-2.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64-testset-2.csv",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64dxsm-testset-1.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64dxsm-testset-1.csv",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64dxsm-testset-2.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/pcg64dxsm-testset-2.csv",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/philox-testset-1.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/philox-testset-1.csv",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/philox-testset-2.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/philox-testset-2.csv",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/sfc64-testset-1.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/sfc64-testset-1.csv",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/sfc64-testset-2.csv",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/random/tests/data/sfc64-testset-2.csv",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 10,
+    "edgeCount": 10,
+    "nodeTypes": {
+      "file": 10
+    }
+  }
+}

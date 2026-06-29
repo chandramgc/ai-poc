@@ -1,0 +1,1433 @@
+{
+  "batchIndex": 607,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py",
+      "type": "file",
+      "name": "current_flow_betweenness",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py:approximate_current_flow_betweenness_centrality",
+      "type": "function",
+      "name": "approximate_current_flow_betweenness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py",
+      "summary": "Python function approximate_current_flow_betweenness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py:current_flow_betweenness_centrality",
+      "type": "function",
+      "name": "current_flow_betweenness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py",
+      "summary": "Python function current_flow_betweenness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py:edge_current_flow_betweenness_centrality",
+      "type": "function",
+      "name": "edge_current_flow_betweenness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py",
+      "summary": "Python function edge_current_flow_betweenness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_closeness.py",
+      "type": "file",
+      "name": "current_flow_closeness",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_closeness.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_closeness.py:current_flow_closeness_centrality",
+      "type": "function",
+      "name": "current_flow_closeness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_closeness.py",
+      "summary": "Python function current_flow_closeness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py",
+      "type": "file",
+      "name": "degree_alg",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py:degree_centrality",
+      "type": "function",
+      "name": "degree_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py",
+      "summary": "Python function degree_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py:in_degree_centrality",
+      "type": "function",
+      "name": "in_degree_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py",
+      "summary": "Python function in_degree_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py:out_degree_centrality",
+      "type": "function",
+      "name": "out_degree_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py",
+      "summary": "Python function out_degree_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/dispersion.py",
+      "type": "file",
+      "name": "dispersion",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/dispersion.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/dispersion.py:dispersion",
+      "type": "function",
+      "name": "dispersion",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/dispersion.py",
+      "summary": "Python function dispersion",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/eigenvector.py",
+      "type": "file",
+      "name": "eigenvector",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/eigenvector.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/eigenvector.py:eigenvector_centrality",
+      "type": "function",
+      "name": "eigenvector_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/eigenvector.py",
+      "summary": "Python function eigenvector_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/eigenvector.py:eigenvector_centrality_numpy",
+      "type": "function",
+      "name": "eigenvector_centrality_numpy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/eigenvector.py",
+      "summary": "Python function eigenvector_centrality_numpy",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py",
+      "type": "file",
+      "name": "flow_matrix",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py:InverseLaplacian",
+      "type": "class",
+      "name": "InverseLaplacian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py",
+      "summary": "Python class InverseLaplacian",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py:FullInverseLaplacian",
+      "type": "class",
+      "name": "FullInverseLaplacian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py",
+      "summary": "Python class FullInverseLaplacian",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py:SuperLUInverseLaplacian",
+      "type": "class",
+      "name": "SuperLUInverseLaplacian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py",
+      "summary": "Python class SuperLUInverseLaplacian",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py:CGInverseLaplacian",
+      "type": "class",
+      "name": "CGInverseLaplacian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py",
+      "summary": "Python class CGInverseLaplacian",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py:flow_matrix_row",
+      "type": "function",
+      "name": "flow_matrix_row",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py",
+      "summary": "Python function flow_matrix_row",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "type": "file",
+      "name": "group",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py:group_betweenness_centrality",
+      "type": "function",
+      "name": "group_betweenness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "summary": "Python function group_betweenness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py:prominent_group",
+      "type": "function",
+      "name": "prominent_group",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "summary": "Python function prominent_group",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py:group_closeness_centrality",
+      "type": "function",
+      "name": "group_closeness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "summary": "Python function group_closeness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py:group_degree_centrality",
+      "type": "function",
+      "name": "group_degree_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "summary": "Python function group_degree_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py:group_in_degree_centrality",
+      "type": "function",
+      "name": "group_in_degree_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "summary": "Python function group_in_degree_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py:group_out_degree_centrality",
+      "type": "function",
+      "name": "group_out_degree_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "summary": "Python function group_out_degree_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/harmonic.py",
+      "type": "file",
+      "name": "harmonic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/harmonic.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/harmonic.py:harmonic_centrality",
+      "type": "function",
+      "name": "harmonic_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/harmonic.py",
+      "summary": "Python function harmonic_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/katz.py",
+      "type": "file",
+      "name": "katz",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/katz.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/katz.py:katz_centrality",
+      "type": "function",
+      "name": "katz_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/katz.py",
+      "summary": "Python function katz_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/katz.py:katz_centrality_numpy",
+      "type": "function",
+      "name": "katz_centrality_numpy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/katz.py",
+      "summary": "Python function katz_centrality_numpy",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/laplacian.py",
+      "type": "file",
+      "name": "laplacian",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/laplacian.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/laplacian.py:laplacian_centrality",
+      "type": "function",
+      "name": "laplacian_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/laplacian.py",
+      "summary": "Python function laplacian_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/load.py",
+      "type": "file",
+      "name": "load",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/load.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/load.py:newman_betweenness_centrality",
+      "type": "function",
+      "name": "newman_betweenness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/load.py",
+      "summary": "Python function newman_betweenness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/load.py:edge_load_centrality",
+      "type": "function",
+      "name": "edge_load_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/load.py",
+      "summary": "Python function edge_load_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/percolation.py",
+      "type": "file",
+      "name": "percolation",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/percolation.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/percolation.py:percolation_centrality",
+      "type": "function",
+      "name": "percolation_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/percolation.py",
+      "summary": "Python function percolation_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/reaching.py",
+      "type": "file",
+      "name": "reaching",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/reaching.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/reaching.py:global_reaching_centrality",
+      "type": "function",
+      "name": "global_reaching_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/reaching.py",
+      "summary": "Python function global_reaching_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/reaching.py:local_reaching_centrality",
+      "type": "function",
+      "name": "local_reaching_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/reaching.py",
+      "summary": "Python function local_reaching_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/second_order.py",
+      "type": "file",
+      "name": "second_order",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/second_order.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/second_order.py:second_order_centrality",
+      "type": "function",
+      "name": "second_order_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/second_order.py",
+      "summary": "Python function second_order_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py",
+      "type": "file",
+      "name": "subgraph_alg",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py:subgraph_centrality_exp",
+      "type": "function",
+      "name": "subgraph_centrality_exp",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py",
+      "summary": "Python function subgraph_centrality_exp",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py:subgraph_centrality",
+      "type": "function",
+      "name": "subgraph_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py",
+      "summary": "Python function subgraph_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py:communicability_betweenness_centrality",
+      "type": "function",
+      "name": "communicability_betweenness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py",
+      "summary": "Python function communicability_betweenness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py:estrada_index",
+      "type": "function",
+      "name": "estrada_index",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py",
+      "summary": "Python function estrada_index",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/__pycache__/test_voterank.cpython-314.pyc",
+      "type": "file",
+      "name": "test_voterank.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/__pycache__/test_voterank.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py",
+      "type": "file",
+      "name": "test_betweenness_centrality_subset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py:TestSubsetBetweennessCentrality",
+      "type": "class",
+      "name": "TestSubsetBetweennessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py",
+      "summary": "Python class TestSubsetBetweennessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py:TestEdgeSubsetBetweennessCentrality",
+      "type": "class",
+      "name": "TestEdgeSubsetBetweennessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py",
+      "summary": "Python class TestEdgeSubsetBetweennessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py:test_equivalence_non_subset",
+      "type": "function",
+      "name": "test_equivalence_non_subset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py",
+      "summary": "Python function test_equivalence_non_subset",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py",
+      "type": "file",
+      "name": "test_betweenness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py:TestBetweennessCentrality",
+      "type": "class",
+      "name": "TestBetweennessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py",
+      "summary": "Python class TestBetweennessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py:TestWeightedBetweennessCentrality",
+      "type": "class",
+      "name": "TestWeightedBetweennessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py",
+      "summary": "Python class TestWeightedBetweennessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py:TestEdgeBetweennessCentrality",
+      "type": "class",
+      "name": "TestEdgeBetweennessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py",
+      "summary": "Python class TestEdgeBetweennessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py:TestWeightedEdgeBetweennessCentrality",
+      "type": "class",
+      "name": "TestWeightedEdgeBetweennessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py",
+      "summary": "Python class TestWeightedEdgeBetweennessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py:weighted_G",
+      "type": "function",
+      "name": "weighted_G",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py",
+      "summary": "Python function weighted_G",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py",
+      "type": "file",
+      "name": "test_closeness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py:TestClosenessCentrality",
+      "type": "class",
+      "name": "TestClosenessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py",
+      "summary": "Python class TestClosenessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py:TestIncrementalClosenessCentrality",
+      "type": "class",
+      "name": "TestIncrementalClosenessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py",
+      "summary": "Python class TestIncrementalClosenessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py:undirected_G",
+      "type": "function",
+      "name": "undirected_G",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py",
+      "summary": "Python function undirected_G",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality_subset.py",
+      "type": "file",
+      "name": "test_current_flow_betweenness_centrality_subset",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality_subset.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality_subset.py:TestFlowBetweennessCentrality",
+      "type": "class",
+      "name": "TestFlowBetweennessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality_subset.py",
+      "summary": "Python class TestFlowBetweennessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality_subset.py:TestEdgeFlowBetweennessCentrality",
+      "type": "class",
+      "name": "TestEdgeFlowBetweennessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality_subset.py",
+      "summary": "Python class TestEdgeFlowBetweennessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py",
+      "type": "file",
+      "name": "test_current_flow_betweenness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py:TestFlowBetweennessCentrality",
+      "type": "class",
+      "name": "TestFlowBetweennessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py",
+      "summary": "Python class TestFlowBetweennessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py:TestApproximateFlowBetweennessCentrality",
+      "type": "class",
+      "name": "TestApproximateFlowBetweennessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py",
+      "summary": "Python class TestApproximateFlowBetweennessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py:TestWeightedFlowBetweennessCentrality",
+      "type": "class",
+      "name": "TestWeightedFlowBetweennessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py",
+      "summary": "Python class TestWeightedFlowBetweennessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py:TestEdgeFlowBetweennessCentrality",
+      "type": "class",
+      "name": "TestEdgeFlowBetweennessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py",
+      "summary": "Python class TestEdgeFlowBetweennessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py:test_unconnected_graphs_betweenness_centrality",
+      "type": "function",
+      "name": "test_unconnected_graphs_betweenness_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py",
+      "summary": "Python function test_unconnected_graphs_betweenness_centrality",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_closeness.py",
+      "type": "file",
+      "name": "test_current_flow_closeness",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_closeness.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_closeness.py:TestFlowClosenessCentrality",
+      "type": "class",
+      "name": "TestFlowClosenessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_closeness.py",
+      "summary": "Python class TestFlowClosenessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_closeness.py:TestWeightedFlowClosenessCentrality",
+      "type": "class",
+      "name": "TestWeightedFlowClosenessCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_closeness.py",
+      "summary": "Python class TestWeightedFlowClosenessCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_degree_centrality.py",
+      "type": "file",
+      "name": "test_degree_centrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_degree_centrality.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_degree_centrality.py:TestDegreeCentrality",
+      "type": "class",
+      "name": "TestDegreeCentrality",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_degree_centrality.py",
+      "summary": "Python class TestDegreeCentrality",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_dispersion.py",
+      "type": "file",
+      "name": "test_dispersion",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_dispersion.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_dispersion.py:TestDispersion",
+      "type": "class",
+      "name": "TestDispersion",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_dispersion.py",
+      "summary": "Python class TestDispersion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_dispersion.py:small_ego_G",
+      "type": "function",
+      "name": "small_ego_G",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_dispersion.py",
+      "summary": "Python function small_ego_G",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py:approximate_current_flow_betweenness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py:current_flow_betweenness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_betweenness.py:edge_current_flow_betweenness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_closeness.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/current_flow_closeness.py:current_flow_closeness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py:degree_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py:in_degree_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/degree_alg.py:out_degree_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/dispersion.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/dispersion.py:dispersion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/eigenvector.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/eigenvector.py:eigenvector_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/eigenvector.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/eigenvector.py:eigenvector_centrality_numpy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py:InverseLaplacian",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py:FullInverseLaplacian",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py:SuperLUInverseLaplacian",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py:CGInverseLaplacian",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/flow_matrix.py:flow_matrix_row",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py:group_betweenness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py:prominent_group",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py:group_closeness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py:group_degree_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py:group_in_degree_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/group.py:group_out_degree_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/harmonic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/harmonic.py:harmonic_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/katz.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/katz.py:katz_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/katz.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/katz.py:katz_centrality_numpy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/laplacian.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/laplacian.py:laplacian_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/load.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/load.py:newman_betweenness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/load.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/load.py:edge_load_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/percolation.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/percolation.py:percolation_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/reaching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/reaching.py:global_reaching_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/reaching.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/reaching.py:local_reaching_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/second_order.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/second_order.py:second_order_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py:subgraph_centrality_exp",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py:subgraph_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py:communicability_betweenness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/subgraph_alg.py:estrada_index",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/__pycache__/test_voterank.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/__pycache__/test_voterank.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py:TestSubsetBetweennessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py:TestEdgeSubsetBetweennessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality_subset.py:test_equivalence_non_subset",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py:TestBetweennessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py:TestWeightedBetweennessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py:TestEdgeBetweennessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py:TestWeightedEdgeBetweennessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_betweenness_centrality.py:weighted_G",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py:TestClosenessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py:TestIncrementalClosenessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_closeness_centrality.py:undirected_G",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality_subset.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality_subset.py:TestFlowBetweennessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality_subset.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality_subset.py:TestEdgeFlowBetweennessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py:TestFlowBetweennessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py:TestApproximateFlowBetweennessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py:TestWeightedFlowBetweennessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py:TestEdgeFlowBetweennessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_betweenness_centrality.py:test_unconnected_graphs_betweenness_centrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_closeness.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_closeness.py:TestFlowClosenessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_closeness.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_current_flow_closeness.py:TestWeightedFlowClosenessCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_degree_centrality.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_degree_centrality.py:TestDegreeCentrality",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_dispersion.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_dispersion.py:TestDispersion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_dispersion.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/centrality/tests/test_dispersion.py:small_ego_G",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 82,
+    "edgeCount": 59,
+    "nodeTypes": {
+      "file": 24,
+      "function": 36,
+      "class": 22
+    }
+  }
+}

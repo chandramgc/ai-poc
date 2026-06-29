@@ -1,0 +1,94 @@
+{
+  "batchIndex": 281,
+  "nodes": [
+    {
+      "id": "file:scaffold-automation/.git/COMMIT_EDITMSG",
+      "type": "file",
+      "name": "COMMIT_EDITMSG",
+      "filePath": "scaffold-automation/.git/COMMIT_EDITMSG",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": "scaffold-automation/.git/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/config",
+      "type": "file",
+      "name": "config",
+      "filePath": "scaffold-automation/.git/config",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/description",
+      "type": "file",
+      "name": "description",
+      "filePath": "scaffold-automation/.git/description",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:scaffold-automation/.git/index",
+      "type": "file",
+      "name": "index",
+      "filePath": "scaffold-automation/.git/index",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:scaffold-automation/.git/COMMIT_EDITMSG",
+      "target": "file:scaffold-automation/.git/COMMIT_EDITMSG",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/HEAD",
+      "target": "file:scaffold-automation/.git/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/config",
+      "target": "file:scaffold-automation/.git/config",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/description",
+      "target": "file:scaffold-automation/.git/description",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scaffold-automation/.git/index",
+      "target": "file:scaffold-automation/.git/index",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

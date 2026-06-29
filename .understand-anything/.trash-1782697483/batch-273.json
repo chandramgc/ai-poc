@@ -1,0 +1,77 @@
+{
+  "batchIndex": 273,
+  "nodes": [
+    {
+      "id": "file:build/reports/checkstyle/main.html",
+      "type": "file",
+      "name": "main",
+      "filePath": "build/reports/checkstyle/main.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/checkstyle/main.xml",
+      "type": "config",
+      "name": "main",
+      "filePath": "build/reports/checkstyle/main.xml",
+      "summary": "XML configuration file",
+      "tags": [
+        "xml",
+        "config"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/checkstyle/test.html",
+      "type": "file",
+      "name": "test",
+      "filePath": "build/reports/checkstyle/test.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/checkstyle/test.xml",
+      "type": "config",
+      "name": "test",
+      "filePath": "build/reports/checkstyle/test.xml",
+      "summary": "XML configuration file",
+      "tags": [
+        "xml",
+        "config"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:build/reports/checkstyle/main.html",
+      "target": "file:build/reports/checkstyle/main.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/checkstyle/test.html",
+      "target": "file:build/reports/checkstyle/test.html",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 2,
+    "nodeTypes": {
+      "file": 2,
+      "config": 2
+    }
+  }
+}

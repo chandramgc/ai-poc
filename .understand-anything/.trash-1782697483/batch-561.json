@@ -1,0 +1,78 @@
+{
+  "batchIndex": 561,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_php/queries/highlights.scm",
+      "type": "file",
+      "name": "highlights",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_php/queries/highlights.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_php/queries/injections-text.scm",
+      "type": "file",
+      "name": "injections-text",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_php/queries/injections-text.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_php/queries/injections.scm",
+      "type": "file",
+      "name": "injections",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_php/queries/injections.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_php/queries/tags.scm",
+      "type": "file",
+      "name": "tags",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_php/queries/tags.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_php/queries/highlights.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_php/queries/highlights.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_php/queries/injections-text.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_php/queries/injections-text.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_php/queries/injections.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_php/queries/injections.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_php/queries/tags.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_php/queries/tags.scm",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 4,
+    "nodeTypes": {
+      "file": 4
+    }
+  }
+}

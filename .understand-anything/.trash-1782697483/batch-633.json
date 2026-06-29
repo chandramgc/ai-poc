@@ -1,0 +1,840 @@
+{
+  "batchIndex": 633,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.pyi",
+      "type": "file",
+      "name": "_nbit_base",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nbit.py",
+      "type": "file",
+      "name": "_nbit",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_nbit.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nested_sequence.py",
+      "type": "file",
+      "name": "_nested_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_nested_sequence.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nested_sequence.py:_NestedSequence",
+      "type": "class",
+      "name": "_NestedSequence",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_nested_sequence.py",
+      "summary": "Python class _NestedSequence",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/_scalars.py",
+      "type": "file",
+      "name": "_scalars",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_scalars.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/_shape.py",
+      "type": "file",
+      "name": "_shape",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_shape.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/_ufunc.py",
+      "type": "file",
+      "name": "_ufunc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_ufunc.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_typing/_ufunc.pyi",
+      "type": "file",
+      "name": "_ufunc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_typing/_ufunc.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_utils/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_utils/__init__.py:set_module",
+      "type": "function",
+      "name": "set_module",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/__init__.py",
+      "summary": "Python function set_module",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_utils/_conversions.py",
+      "type": "file",
+      "name": "_conversions",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_conversions.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_utils/_conversions.py:asunicode",
+      "type": "function",
+      "name": "asunicode",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_conversions.py",
+      "summary": "Python function asunicode",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_utils/_conversions.py:asbytes",
+      "type": "function",
+      "name": "asbytes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_conversions.py",
+      "summary": "Python function asbytes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "type": "file",
+      "name": "_inspect",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:ismethod",
+      "type": "function",
+      "name": "ismethod",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "summary": "Python function ismethod",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:isfunction",
+      "type": "function",
+      "name": "isfunction",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "summary": "Python function isfunction",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:iscode",
+      "type": "function",
+      "name": "iscode",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "summary": "Python function iscode",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:getargs",
+      "type": "function",
+      "name": "getargs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "summary": "Python function getargs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:getargspec",
+      "type": "function",
+      "name": "getargspec",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "summary": "Python function getargspec",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:getargvalues",
+      "type": "function",
+      "name": "getargvalues",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "summary": "Python function getargvalues",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:joinseq",
+      "type": "function",
+      "name": "joinseq",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "summary": "Python function joinseq",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:strseq",
+      "type": "function",
+      "name": "strseq",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "summary": "Python function strseq",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "type": "file",
+      "name": "_pep440",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:Infinity",
+      "type": "class",
+      "name": "Infinity",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "summary": "Python class Infinity",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:NegativeInfinity",
+      "type": "class",
+      "name": "NegativeInfinity",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "summary": "Python class NegativeInfinity",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:InvalidVersion",
+      "type": "class",
+      "name": "InvalidVersion",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "summary": "Python class InvalidVersion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:_BaseVersion",
+      "type": "class",
+      "name": "_BaseVersion",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "summary": "Python class _BaseVersion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:LegacyVersion",
+      "type": "class",
+      "name": "LegacyVersion",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "summary": "Python class LegacyVersion",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:Version",
+      "type": "class",
+      "name": "Version",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "summary": "Python class Version",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:parse",
+      "type": "function",
+      "name": "parse",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "summary": "Python function parse",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/char/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/char/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/char/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/char/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/char/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/char/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "type": "file",
+      "name": "conftest",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:pytest_configure",
+      "type": "function",
+      "name": "pytest_configure",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "summary": "Python function pytest_configure",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:pytest_addoption",
+      "type": "function",
+      "name": "pytest_addoption",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "summary": "Python function pytest_addoption",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:pytest_sessionstart",
+      "type": "function",
+      "name": "pytest_sessionstart",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "summary": "Python function pytest_sessionstart",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:pytest_terminal_summary",
+      "type": "function",
+      "name": "pytest_terminal_summary",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "summary": "Python function pytest_terminal_summary",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:pytest_itemcollected",
+      "type": "function",
+      "name": "pytest_itemcollected",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "summary": "Python function pytest_itemcollected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:check_fpu_mode",
+      "type": "function",
+      "name": "check_fpu_mode",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "summary": "Python function check_fpu_mode",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:add_np",
+      "type": "function",
+      "name": "add_np",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "summary": "Python function add_np",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/_dtype_ctypes.py",
+      "type": "file",
+      "name": "_dtype_ctypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/_dtype_ctypes.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/_dtype.py",
+      "type": "file",
+      "name": "_dtype",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/_dtype.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/_internal.py",
+      "type": "file",
+      "name": "_internal",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/_internal.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/_multiarray_umath.py",
+      "type": "file",
+      "name": "_multiarray_umath",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/_multiarray_umath.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/_utils.py",
+      "type": "file",
+      "name": "_utils",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/_utils.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/arrayprint.py",
+      "type": "file",
+      "name": "arrayprint",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/arrayprint.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/defchararray.py",
+      "type": "file",
+      "name": "defchararray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/defchararray.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/einsumfunc.py",
+      "type": "file",
+      "name": "einsumfunc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/einsumfunc.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/core/fromnumeric.py",
+      "type": "file",
+      "name": "fromnumeric",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/core/fromnumeric.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nbit_base.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_typing/_nested_sequence.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_typing/_nested_sequence.py:_NestedSequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_typing/_ufunc.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_typing/_ufunc.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/__init__.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_utils/__init__.py:set_module",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_conversions.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_utils/_conversions.py:asunicode",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_conversions.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_utils/_conversions.py:asbytes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:ismethod",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:isfunction",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:iscode",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:getargs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:getargspec",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:getargvalues",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:joinseq",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_utils/_inspect.py:strseq",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:Infinity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:NegativeInfinity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:InvalidVersion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:_BaseVersion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:LegacyVersion",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "target": "class:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:Version",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/_utils/_pep440.py:parse",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/char/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/char/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/char/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/char/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:pytest_configure",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:pytest_addoption",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:pytest_sessionstart",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:pytest_terminal_summary",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:pytest_itemcollected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:check_fpu_mode",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/conftest.py",
+      "target": "function:venv/lib/python3.14/site-packages/numpy/conftest.py:add_np",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 51,
+    "edgeCount": 30,
+    "nodeTypes": {
+      "file": 25,
+      "class": 7,
+      "function": 19
+    }
+  }
+}

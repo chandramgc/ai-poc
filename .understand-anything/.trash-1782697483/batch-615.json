@@ -1,0 +1,2253 @@
+{
+  "batchIndex": 615,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/regular.py",
+      "type": "file",
+      "name": "regular",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/regular.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/regular.py:is_regular",
+      "type": "function",
+      "name": "is_regular",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/regular.py",
+      "summary": "Python function is_regular",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/regular.py:is_k_regular",
+      "type": "function",
+      "name": "is_k_regular",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/regular.py",
+      "summary": "Python function is_k_regular",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/regular.py:k_factor",
+      "type": "function",
+      "name": "k_factor",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/regular.py",
+      "summary": "Python function k_factor",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/richclub.py",
+      "type": "file",
+      "name": "richclub",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/richclub.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/richclub.py:rich_club_coefficient",
+      "type": "function",
+      "name": "rich_club_coefficient",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/richclub.py",
+      "summary": "Python function rich_club_coefficient",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/astar.py",
+      "type": "file",
+      "name": "astar",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/astar.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/astar.py:astar_path",
+      "type": "function",
+      "name": "astar_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/astar.py",
+      "summary": "Python function astar_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/astar.py:astar_path_length",
+      "type": "function",
+      "name": "astar_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/astar.py",
+      "summary": "Python function astar_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py",
+      "type": "file",
+      "name": "dense",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py:floyd_warshall_numpy",
+      "type": "function",
+      "name": "floyd_warshall_numpy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py",
+      "summary": "Python function floyd_warshall_numpy",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py:floyd_warshall_predecessor_and_distance",
+      "type": "function",
+      "name": "floyd_warshall_predecessor_and_distance",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py",
+      "summary": "Python function floyd_warshall_predecessor_and_distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py:reconstruct_path",
+      "type": "function",
+      "name": "reconstruct_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py",
+      "summary": "Python function reconstruct_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py:floyd_warshall",
+      "type": "function",
+      "name": "floyd_warshall",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py",
+      "summary": "Python function floyd_warshall",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "type": "file",
+      "name": "generic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:has_path",
+      "type": "function",
+      "name": "has_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "summary": "Python function has_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:shortest_path",
+      "type": "function",
+      "name": "shortest_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "summary": "Python function shortest_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:shortest_path_length",
+      "type": "function",
+      "name": "shortest_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "summary": "Python function shortest_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:average_shortest_path_length",
+      "type": "function",
+      "name": "average_shortest_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "summary": "Python function average_shortest_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:all_shortest_paths",
+      "type": "function",
+      "name": "all_shortest_paths",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "summary": "Python function all_shortest_paths",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:single_source_all_shortest_paths",
+      "type": "function",
+      "name": "single_source_all_shortest_paths",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "summary": "Python function single_source_all_shortest_paths",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:all_pairs_all_shortest_paths",
+      "type": "function",
+      "name": "all_pairs_all_shortest_paths",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "summary": "Python function all_pairs_all_shortest_paths",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_astar.py",
+      "type": "file",
+      "name": "test_astar",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_astar.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_astar.py:TestAStar",
+      "type": "class",
+      "name": "TestAStar",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_astar.py",
+      "summary": "Python class TestAStar",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "type": "file",
+      "name": "test_dense_numpy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_cycle_numpy",
+      "type": "function",
+      "name": "test_cycle_numpy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "summary": "Python function test_cycle_numpy",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_weighted_numpy_three_edges",
+      "type": "function",
+      "name": "test_weighted_numpy_three_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "summary": "Python function test_weighted_numpy_three_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_weighted_numpy_two_edges",
+      "type": "function",
+      "name": "test_weighted_numpy_two_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "summary": "Python function test_weighted_numpy_two_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_weight_parameter_numpy",
+      "type": "function",
+      "name": "test_weight_parameter_numpy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "summary": "Python function test_weight_parameter_numpy",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_directed_cycle_numpy",
+      "type": "function",
+      "name": "test_directed_cycle_numpy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "summary": "Python function test_directed_cycle_numpy",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_zero_weight",
+      "type": "function",
+      "name": "test_zero_weight",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "summary": "Python function test_zero_weight",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_nodelist",
+      "type": "function",
+      "name": "test_nodelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "summary": "Python function test_nodelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense.py",
+      "type": "file",
+      "name": "test_dense",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense.py:TestFloyd",
+      "type": "class",
+      "name": "TestFloyd",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense.py",
+      "summary": "Python class TestFloyd",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py",
+      "type": "file",
+      "name": "test_generic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py:TestGenericPath",
+      "type": "class",
+      "name": "TestGenericPath",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py",
+      "summary": "Python class TestGenericPath",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py:TestAverageShortestPathLength",
+      "type": "class",
+      "name": "TestAverageShortestPathLength",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py",
+      "summary": "Python class TestAverageShortestPathLength",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py:TestAverageShortestPathLengthNumpy",
+      "type": "class",
+      "name": "TestAverageShortestPathLengthNumpy",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py",
+      "summary": "Python class TestAverageShortestPathLengthNumpy",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py:validate_grid_path",
+      "type": "function",
+      "name": "validate_grid_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py",
+      "summary": "Python function validate_grid_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_unweighted.py",
+      "type": "file",
+      "name": "test_unweighted",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_unweighted.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_unweighted.py:TestUnweightedPath",
+      "type": "class",
+      "name": "TestUnweightedPath",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_unweighted.py",
+      "summary": "Python class TestUnweightedPath",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_unweighted.py:validate_grid_path",
+      "type": "function",
+      "name": "validate_grid_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_unweighted.py",
+      "summary": "Python function validate_grid_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "type": "file",
+      "name": "test_weighted",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:WeightedTestBase",
+      "type": "class",
+      "name": "WeightedTestBase",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "summary": "Python class WeightedTestBase",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:TestWeightedPath",
+      "type": "class",
+      "name": "TestWeightedPath",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "summary": "Python class TestWeightedPath",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:TestDijkstraPathLength",
+      "type": "class",
+      "name": "TestDijkstraPathLength",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "summary": "Python class TestDijkstraPathLength",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:TestMultiSourceDijkstra",
+      "type": "class",
+      "name": "TestMultiSourceDijkstra",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "summary": "Python class TestMultiSourceDijkstra",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:TestBellmanFordAndGoldbergRadzik",
+      "type": "class",
+      "name": "TestBellmanFordAndGoldbergRadzik",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "summary": "Python class TestBellmanFordAndGoldbergRadzik",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:TestJohnsonAlgorithm",
+      "type": "class",
+      "name": "TestJohnsonAlgorithm",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "summary": "Python class TestJohnsonAlgorithm",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:validate_path",
+      "type": "function",
+      "name": "validate_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "summary": "Python function validate_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:validate_length_path",
+      "type": "function",
+      "name": "validate_length_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "summary": "Python function validate_length_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "type": "file",
+      "name": "unweighted",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:single_source_shortest_path_length",
+      "type": "function",
+      "name": "single_source_shortest_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "summary": "Python function single_source_shortest_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:single_target_shortest_path_length",
+      "type": "function",
+      "name": "single_target_shortest_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "summary": "Python function single_target_shortest_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:all_pairs_shortest_path_length",
+      "type": "function",
+      "name": "all_pairs_shortest_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "summary": "Python function all_pairs_shortest_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:bidirectional_shortest_path",
+      "type": "function",
+      "name": "bidirectional_shortest_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "summary": "Python function bidirectional_shortest_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:single_source_shortest_path",
+      "type": "function",
+      "name": "single_source_shortest_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "summary": "Python function single_source_shortest_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:single_target_shortest_path",
+      "type": "function",
+      "name": "single_target_shortest_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "summary": "Python function single_target_shortest_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:all_pairs_shortest_path",
+      "type": "function",
+      "name": "all_pairs_shortest_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "summary": "Python function all_pairs_shortest_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:predecessor",
+      "type": "function",
+      "name": "predecessor",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "summary": "Python function predecessor",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "type": "file",
+      "name": "weighted",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:dijkstra_path",
+      "type": "function",
+      "name": "dijkstra_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function dijkstra_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:dijkstra_path_length",
+      "type": "function",
+      "name": "dijkstra_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function dijkstra_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:single_source_dijkstra_path",
+      "type": "function",
+      "name": "single_source_dijkstra_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function single_source_dijkstra_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:single_source_dijkstra_path_length",
+      "type": "function",
+      "name": "single_source_dijkstra_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function single_source_dijkstra_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:single_source_dijkstra",
+      "type": "function",
+      "name": "single_source_dijkstra",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function single_source_dijkstra",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:multi_source_dijkstra_path",
+      "type": "function",
+      "name": "multi_source_dijkstra_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function multi_source_dijkstra_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:multi_source_dijkstra_path_length",
+      "type": "function",
+      "name": "multi_source_dijkstra_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function multi_source_dijkstra_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:multi_source_dijkstra",
+      "type": "function",
+      "name": "multi_source_dijkstra",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function multi_source_dijkstra",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:dijkstra_predecessor_and_distance",
+      "type": "function",
+      "name": "dijkstra_predecessor_and_distance",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function dijkstra_predecessor_and_distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:all_pairs_dijkstra",
+      "type": "function",
+      "name": "all_pairs_dijkstra",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function all_pairs_dijkstra",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:all_pairs_dijkstra_path_length",
+      "type": "function",
+      "name": "all_pairs_dijkstra_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function all_pairs_dijkstra_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:all_pairs_dijkstra_path",
+      "type": "function",
+      "name": "all_pairs_dijkstra_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function all_pairs_dijkstra_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:bellman_ford_predecessor_and_distance",
+      "type": "function",
+      "name": "bellman_ford_predecessor_and_distance",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function bellman_ford_predecessor_and_distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:bellman_ford_path",
+      "type": "function",
+      "name": "bellman_ford_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function bellman_ford_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:bellman_ford_path_length",
+      "type": "function",
+      "name": "bellman_ford_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function bellman_ford_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:single_source_bellman_ford_path",
+      "type": "function",
+      "name": "single_source_bellman_ford_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function single_source_bellman_ford_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:single_source_bellman_ford_path_length",
+      "type": "function",
+      "name": "single_source_bellman_ford_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function single_source_bellman_ford_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:single_source_bellman_ford",
+      "type": "function",
+      "name": "single_source_bellman_ford",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function single_source_bellman_ford",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:all_pairs_bellman_ford_path_length",
+      "type": "function",
+      "name": "all_pairs_bellman_ford_path_length",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function all_pairs_bellman_ford_path_length",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:all_pairs_bellman_ford_path",
+      "type": "function",
+      "name": "all_pairs_bellman_ford_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function all_pairs_bellman_ford_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:goldberg_radzik",
+      "type": "function",
+      "name": "goldberg_radzik",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function goldberg_radzik",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:negative_edge_cycle",
+      "type": "function",
+      "name": "negative_edge_cycle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function negative_edge_cycle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:find_negative_cycle",
+      "type": "function",
+      "name": "find_negative_cycle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function find_negative_cycle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:bidirectional_dijkstra",
+      "type": "function",
+      "name": "bidirectional_dijkstra",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function bidirectional_dijkstra",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:johnson",
+      "type": "function",
+      "name": "johnson",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "summary": "Python function johnson",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "type": "file",
+      "name": "similarity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:graph_edit_distance",
+      "type": "function",
+      "name": "graph_edit_distance",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "summary": "Python function graph_edit_distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:optimal_edit_paths",
+      "type": "function",
+      "name": "optimal_edit_paths",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "summary": "Python function optimal_edit_paths",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:optimize_graph_edit_distance",
+      "type": "function",
+      "name": "optimize_graph_edit_distance",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "summary": "Python function optimize_graph_edit_distance",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:optimize_edit_paths",
+      "type": "function",
+      "name": "optimize_edit_paths",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "summary": "Python function optimize_edit_paths",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:simrank_similarity",
+      "type": "function",
+      "name": "simrank_similarity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "summary": "Python function simrank_similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:panther_similarity",
+      "type": "function",
+      "name": "panther_similarity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "summary": "Python function panther_similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:panther_vector_similarity",
+      "type": "function",
+      "name": "panther_vector_similarity",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "summary": "Python function panther_vector_similarity",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:generate_random_paths",
+      "type": "function",
+      "name": "generate_random_paths",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "summary": "Python function generate_random_paths",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py",
+      "type": "file",
+      "name": "simple_paths",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py:PathBuffer",
+      "type": "class",
+      "name": "PathBuffer",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py",
+      "summary": "Python class PathBuffer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py:is_simple_path",
+      "type": "function",
+      "name": "is_simple_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py",
+      "summary": "Python function is_simple_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py:all_simple_paths",
+      "type": "function",
+      "name": "all_simple_paths",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py",
+      "summary": "Python function all_simple_paths",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py:all_simple_edge_paths",
+      "type": "function",
+      "name": "all_simple_edge_paths",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py",
+      "summary": "Python function all_simple_edge_paths",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py:shortest_simple_paths",
+      "type": "function",
+      "name": "shortest_simple_paths",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py",
+      "summary": "Python function shortest_simple_paths",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py",
+      "type": "file",
+      "name": "smallworld",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py:random_reference",
+      "type": "function",
+      "name": "random_reference",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py",
+      "summary": "Python function random_reference",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py:lattice_reference",
+      "type": "function",
+      "name": "lattice_reference",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py",
+      "summary": "Python function lattice_reference",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py:sigma",
+      "type": "function",
+      "name": "sigma",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py",
+      "summary": "Python function sigma",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py:omega",
+      "type": "function",
+      "name": "omega",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py",
+      "summary": "Python function omega",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/smetric.py",
+      "type": "file",
+      "name": "smetric",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/smetric.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/smetric.py:s_metric",
+      "type": "function",
+      "name": "s_metric",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/smetric.py",
+      "summary": "Python function s_metric",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/sparsifiers.py",
+      "type": "file",
+      "name": "sparsifiers",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/sparsifiers.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/sparsifiers.py:spanner",
+      "type": "function",
+      "name": "spanner",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/sparsifiers.py",
+      "summary": "Python function spanner",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py",
+      "type": "file",
+      "name": "structuralholes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py:mutual_weight",
+      "type": "function",
+      "name": "mutual_weight",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py",
+      "summary": "Python function mutual_weight",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py:normalized_mutual_weight",
+      "type": "function",
+      "name": "normalized_mutual_weight",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py",
+      "summary": "Python function normalized_mutual_weight",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py:effective_size",
+      "type": "function",
+      "name": "effective_size",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py",
+      "summary": "Python function effective_size",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py:constraint",
+      "type": "function",
+      "name": "constraint",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py",
+      "summary": "Python function constraint",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py:local_constraint",
+      "type": "function",
+      "name": "local_constraint",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py",
+      "summary": "Python function local_constraint",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/summarization.py",
+      "type": "file",
+      "name": "summarization",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/summarization.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/summarization.py:dedensify",
+      "type": "function",
+      "name": "dedensify",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/summarization.py",
+      "summary": "Python function dedensify",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/swap.py",
+      "type": "file",
+      "name": "swap",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/swap.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/swap.py:directed_edge_swap",
+      "type": "function",
+      "name": "directed_edge_swap",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/swap.py",
+      "summary": "Python function directed_edge_swap",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/swap.py:double_edge_swap",
+      "type": "function",
+      "name": "double_edge_swap",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/swap.py",
+      "summary": "Python function double_edge_swap",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/swap.py:connected_double_edge_swap",
+      "type": "function",
+      "name": "connected_double_edge_swap",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/swap.py",
+      "summary": "Python function connected_double_edge_swap",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_asteroidal.py",
+      "type": "file",
+      "name": "test_asteroidal",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_asteroidal.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_asteroidal.py:test_is_at_free",
+      "type": "function",
+      "name": "test_is_at_free",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_asteroidal.py",
+      "summary": "Python function test_is_at_free",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/regular.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/regular.py:is_regular",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/regular.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/regular.py:is_k_regular",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/regular.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/regular.py:k_factor",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/richclub.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/richclub.py:rich_club_coefficient",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/astar.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/astar.py:astar_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/astar.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/astar.py:astar_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py:floyd_warshall_numpy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py:floyd_warshall_predecessor_and_distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py:reconstruct_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/dense.py:floyd_warshall",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:has_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:shortest_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:shortest_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:average_shortest_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:all_shortest_paths",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:single_source_all_shortest_paths",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/generic.py:all_pairs_all_shortest_paths",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_astar.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_astar.py:TestAStar",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_cycle_numpy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_weighted_numpy_three_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_weighted_numpy_two_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_weight_parameter_numpy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_directed_cycle_numpy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_zero_weight",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense_numpy.py:test_nodelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_dense.py:TestFloyd",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py:TestGenericPath",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py:TestAverageShortestPathLength",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py:TestAverageShortestPathLengthNumpy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_generic.py:validate_grid_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_unweighted.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_unweighted.py:TestUnweightedPath",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_unweighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_unweighted.py:validate_grid_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:WeightedTestBase",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:TestWeightedPath",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:TestDijkstraPathLength",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:TestMultiSourceDijkstra",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:TestBellmanFordAndGoldbergRadzik",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:TestJohnsonAlgorithm",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:validate_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/tests/test_weighted.py:validate_length_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:single_source_shortest_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:single_target_shortest_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:all_pairs_shortest_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:bidirectional_shortest_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:single_source_shortest_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:single_target_shortest_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:all_pairs_shortest_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/unweighted.py:predecessor",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:dijkstra_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:dijkstra_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:single_source_dijkstra_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:single_source_dijkstra_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:single_source_dijkstra",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:multi_source_dijkstra_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:multi_source_dijkstra_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:multi_source_dijkstra",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:dijkstra_predecessor_and_distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:all_pairs_dijkstra",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:all_pairs_dijkstra_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:all_pairs_dijkstra_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:bellman_ford_predecessor_and_distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:bellman_ford_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:bellman_ford_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:single_source_bellman_ford_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:single_source_bellman_ford_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:single_source_bellman_ford",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:all_pairs_bellman_ford_path_length",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:all_pairs_bellman_ford_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:goldberg_radzik",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:negative_edge_cycle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:find_negative_cycle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:bidirectional_dijkstra",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/shortest_paths/weighted.py:johnson",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:graph_edit_distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:optimal_edit_paths",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:optimize_graph_edit_distance",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:optimize_edit_paths",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:simrank_similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:panther_similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:panther_vector_similarity",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/similarity.py:generate_random_paths",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py:PathBuffer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py:is_simple_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py:all_simple_paths",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py:all_simple_edge_paths",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/simple_paths.py:shortest_simple_paths",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py:random_reference",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py:lattice_reference",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py:sigma",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/smallworld.py:omega",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/smetric.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/smetric.py:s_metric",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/sparsifiers.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/sparsifiers.py:spanner",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py:mutual_weight",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py:normalized_mutual_weight",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py:effective_size",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py:constraint",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/structuralholes.py:local_constraint",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/summarization.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/summarization.py:dedensify",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/swap.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/swap.py:directed_edge_swap",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/swap.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/swap.py:double_edge_swap",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/swap.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/swap.py:connected_double_edge_swap",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_asteroidal.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/algorithms/tests/test_asteroidal.py:test_is_at_free",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 125,
+    "edgeCount": 102,
+    "nodeTypes": {
+      "file": 23,
+      "function": 89,
+      "class": 13
+    }
+  }
+}

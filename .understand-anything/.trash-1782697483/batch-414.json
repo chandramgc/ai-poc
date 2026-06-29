@@ -1,0 +1,302 @@
+{
+  "batchIndex": 414,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/__init__.pyi",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/__init__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/__version__.pyi",
+      "type": "file",
+      "name": "__version__",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/__version__.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/_isocbind.pyi",
+      "type": "file",
+      "name": "_isocbind",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_isocbind.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.pyi",
+      "type": "file",
+      "name": "_src_pyf",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.pyi",
+      "type": "file",
+      "name": "auxfuncs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.pyi",
+      "type": "file",
+      "name": "capi_maps",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.pyi",
+      "type": "file",
+      "name": "cb_rules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.pyi",
+      "type": "file",
+      "name": "cfuncs",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/common_rules.pyi",
+      "type": "file",
+      "name": "common_rules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/common_rules.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.pyi",
+      "type": "file",
+      "name": "crackfortran",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/diagnose.pyi",
+      "type": "file",
+      "name": "diagnose",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/diagnose.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.pyi",
+      "type": "file",
+      "name": "f2py2e",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.pyi",
+      "type": "file",
+      "name": "f90mod_rules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.pyi",
+      "type": "file",
+      "name": "func2subr",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/func2subr.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/rules.pyi",
+      "type": "file",
+      "name": "rules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/rules.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/setup.cfg",
+      "type": "file",
+      "name": "setup",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/setup.cfg",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.pyi",
+      "type": "file",
+      "name": "symbolic",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/symbolic.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/f2py/use_rules.pyi",
+      "type": "file",
+      "name": "use_rules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/f2py/use_rules.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/__init__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/__init__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/__version__.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/__version__.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_isocbind.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/_isocbind.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/_src_pyf.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/auxfuncs.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/capi_maps.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/cb_rules.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/cfuncs.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/common_rules.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/common_rules.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/crackfortran.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/diagnose.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/diagnose.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/f2py2e.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/f90mod_rules.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/func2subr.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/rules.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/rules.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/setup.cfg",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/setup.cfg",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/symbolic.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/f2py/use_rules.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/f2py/use_rules.pyi",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 18,
+    "edgeCount": 18,
+    "nodeTypes": {
+      "file": 18
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "batchIndex": 388,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/tests/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_all_random_functions.cpython-314.pyc",
+      "type": "file",
+      "name": "test_all_random_functions.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_all_random_functions.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert.cpython-314.pyc",
+      "type": "file",
+      "name": "test_convert.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert_numpy.cpython-314.pyc",
+      "type": "file",
+      "name": "test_convert_numpy.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert_numpy.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert_pandas.cpython-314.pyc",
+      "type": "file",
+      "name": "test_convert_pandas.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert_pandas.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert_scipy.cpython-314.pyc",
+      "type": "file",
+      "name": "test_convert_scipy.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert_scipy.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_exceptions.cpython-314.pyc",
+      "type": "file",
+      "name": "test_exceptions.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_exceptions.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_import.cpython-314.pyc",
+      "type": "file",
+      "name": "test_import.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_import.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_lazy_imports.cpython-314.pyc",
+      "type": "file",
+      "name": "test_lazy_imports.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_lazy_imports.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_relabel.cpython-314.pyc",
+      "type": "file",
+      "name": "test_relabel.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_relabel.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_removed_functions_exception_messages.cpython-314.pyc",
+      "type": "file",
+      "name": "test_removed_functions_exception_messages.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_removed_functions_exception_messages.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_all_random_functions.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_all_random_functions.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert_numpy.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert_numpy.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert_pandas.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert_pandas.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert_scipy.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_convert_scipy.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_exceptions.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_exceptions.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_import.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_import.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_lazy_imports.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_lazy_imports.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_relabel.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_relabel.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_removed_functions_exception_messages.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/networkx/tests/__pycache__/test_removed_functions_exception_messages.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 11,
+    "edgeCount": 11,
+    "nodeTypes": {
+      "file": 11
+    }
+  }
+}

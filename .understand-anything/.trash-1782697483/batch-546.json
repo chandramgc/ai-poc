@@ -1,0 +1,110 @@
+{
+  "batchIndex": 546,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/highlights-jsx.scm",
+      "type": "file",
+      "name": "highlights-jsx",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/highlights-jsx.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/highlights-params.scm",
+      "type": "file",
+      "name": "highlights-params",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/highlights-params.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/highlights.scm",
+      "type": "file",
+      "name": "highlights",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/highlights.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/injections.scm",
+      "type": "file",
+      "name": "injections",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/injections.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/locals.scm",
+      "type": "file",
+      "name": "locals",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/locals.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/tags.scm",
+      "type": "file",
+      "name": "tags",
+      "filePath": "venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/tags.scm",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/highlights-jsx.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/highlights-jsx.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/highlights-params.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/highlights-params.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/highlights.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/highlights.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/injections.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/injections.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/locals.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/locals.scm",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/tags.scm",
+      "target": "file:venv/lib/python3.14/site-packages/tree_sitter_javascript/queries/tags.scm",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 6,
+    "nodeTypes": {
+      "file": 6
+    }
+  }
+}

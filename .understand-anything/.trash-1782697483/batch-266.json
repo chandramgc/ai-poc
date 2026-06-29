@@ -1,0 +1,190 @@
+{
+  "batchIndex": 266,
+  "nodes": [
+    {
+      "id": "file:.git/refs/remotes/origin/HEAD",
+      "type": "file",
+      "name": "HEAD",
+      "filePath": ".git/refs/remotes/origin/HEAD",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/refs/remotes/origin/f-ai-specs-java",
+      "type": "file",
+      "name": "f-ai-specs-java",
+      "filePath": ".git/refs/remotes/origin/f-ai-specs-java",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/refs/remotes/origin/f-ai-specs-python",
+      "type": "file",
+      "name": "f-ai-specs-python",
+      "filePath": ".git/refs/remotes/origin/f-ai-specs-python",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/refs/remotes/origin/f-backup",
+      "type": "file",
+      "name": "f-backup",
+      "filePath": ".git/refs/remotes/origin/f-backup",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/refs/remotes/origin/f-huggingface-model",
+      "type": "file",
+      "name": "f-huggingface-model",
+      "filePath": ".git/refs/remotes/origin/f-huggingface-model",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/refs/remotes/origin/f-infra",
+      "type": "file",
+      "name": "f-infra",
+      "filePath": ".git/refs/remotes/origin/f-infra",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/refs/remotes/origin/f-mcp-agent",
+      "type": "file",
+      "name": "f-mcp-agent",
+      "filePath": ".git/refs/remotes/origin/f-mcp-agent",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/refs/remotes/origin/f-relationship-finder",
+      "type": "file",
+      "name": "f-relationship-finder",
+      "filePath": ".git/refs/remotes/origin/f-relationship-finder",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/refs/remotes/origin/f-sample-web-app",
+      "type": "file",
+      "name": "f-sample-web-app",
+      "filePath": ".git/refs/remotes/origin/f-sample-web-app",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/refs/remotes/origin/f-webscraper",
+      "type": "file",
+      "name": "f-webscraper",
+      "filePath": ".git/refs/remotes/origin/f-webscraper",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/refs/remotes/origin/main",
+      "type": "file",
+      "name": "main",
+      "filePath": ".git/refs/remotes/origin/main",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:.git/refs/remotes/origin/HEAD",
+      "target": "file:.git/refs/remotes/origin/HEAD",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/refs/remotes/origin/f-ai-specs-java",
+      "target": "file:.git/refs/remotes/origin/f-ai-specs-java",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/refs/remotes/origin/f-ai-specs-python",
+      "target": "file:.git/refs/remotes/origin/f-ai-specs-python",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/refs/remotes/origin/f-backup",
+      "target": "file:.git/refs/remotes/origin/f-backup",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/refs/remotes/origin/f-huggingface-model",
+      "target": "file:.git/refs/remotes/origin/f-huggingface-model",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/refs/remotes/origin/f-infra",
+      "target": "file:.git/refs/remotes/origin/f-infra",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/refs/remotes/origin/f-mcp-agent",
+      "target": "file:.git/refs/remotes/origin/f-mcp-agent",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/refs/remotes/origin/f-relationship-finder",
+      "target": "file:.git/refs/remotes/origin/f-relationship-finder",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/refs/remotes/origin/f-sample-web-app",
+      "target": "file:.git/refs/remotes/origin/f-sample-web-app",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/refs/remotes/origin/f-webscraper",
+      "target": "file:.git/refs/remotes/origin/f-webscraper",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/refs/remotes/origin/main",
+      "target": "file:.git/refs/remotes/origin/main",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 11,
+    "edgeCount": 11,
+    "nodeTypes": {
+      "file": 11
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "batchIndex": 492,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/compat.cpython-314.pyc",
+      "type": "file",
+      "name": "compat.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/compat.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/resources.cpython-314.pyc",
+      "type": "file",
+      "name": "resources.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/resources.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/scripts.cpython-314.pyc",
+      "type": "file",
+      "name": "scripts.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/scripts.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/util.cpython-314.pyc",
+      "type": "file",
+      "name": "util.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/util.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/compat.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/compat.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/resources.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/resources.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/scripts.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/scripts.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/util.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_vendor/distlib/__pycache__/util.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

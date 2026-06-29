@@ -1,0 +1,334 @@
+{
+  "batchIndex": 460,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/lib_utils.pyi",
+      "type": "file",
+      "name": "lib_utils",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/lib_utils.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/lib_version.pyi",
+      "type": "file",
+      "name": "lib_version",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/lib_version.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/linalg.pyi",
+      "type": "file",
+      "name": "linalg",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/linalg.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ma.pyi",
+      "type": "file",
+      "name": "ma",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ma.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/memmap.pyi",
+      "type": "file",
+      "name": "memmap",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/memmap.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/modules.pyi",
+      "type": "file",
+      "name": "modules",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/modules.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/multiarray.pyi",
+      "type": "file",
+      "name": "multiarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/multiarray.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ndarray.pyi",
+      "type": "file",
+      "name": "ndarray",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ndarray.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ndarray_misc.pyi",
+      "type": "file",
+      "name": "ndarray_misc",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ndarray_misc.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/nditer.pyi",
+      "type": "file",
+      "name": "nditer",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/nditer.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/nested_sequence.pyi",
+      "type": "file",
+      "name": "nested_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/nested_sequence.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/npyio.pyi",
+      "type": "file",
+      "name": "npyio",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/npyio.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/numerictypes.pyi",
+      "type": "file",
+      "name": "numerictypes",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/numerictypes.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/random.pyi",
+      "type": "file",
+      "name": "random",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/random.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/rec.pyi",
+      "type": "file",
+      "name": "rec",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/rec.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/scalars.pyi",
+      "type": "file",
+      "name": "scalars",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/scalars.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/shape.pyi",
+      "type": "file",
+      "name": "shape",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/shape.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/shape_base.pyi",
+      "type": "file",
+      "name": "shape_base",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/shape_base.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/stride_tricks.pyi",
+      "type": "file",
+      "name": "stride_tricks",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/stride_tricks.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/strings.pyi",
+      "type": "file",
+      "name": "strings",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/strings.pyi",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/lib_utils.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/lib_utils.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/lib_version.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/lib_version.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/linalg.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/linalg.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ma.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ma.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/memmap.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/memmap.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/modules.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/modules.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/multiarray.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/multiarray.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ndarray.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ndarray.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ndarray_misc.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/ndarray_misc.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/nditer.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/nditer.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/nested_sequence.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/nested_sequence.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/npyio.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/npyio.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/numerictypes.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/numerictypes.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/random.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/random.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/rec.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/rec.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/scalars.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/scalars.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/shape.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/shape.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/shape_base.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/shape_base.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/stride_tricks.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/stride_tricks.pyi",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/strings.pyi",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/typing/tests/data/fail/strings.pyi",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 20,
+    "edgeCount": 20,
+    "nodeTypes": {
+      "file": 20
+    }
+  }
+}

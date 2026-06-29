@@ -1,0 +1,62 @@
+{
+  "batchIndex": 264,
+  "nodes": [
+    {
+      "id": "file:.git/objects/pack/pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264.idx",
+      "type": "file",
+      "name": "pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264",
+      "filePath": ".git/objects/pack/pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264.idx",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/pack/pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264.pack",
+      "type": "file",
+      "name": "pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264",
+      "filePath": ".git/objects/pack/pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264.pack",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:.git/objects/pack/pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264.rev",
+      "type": "file",
+      "name": "pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264",
+      "filePath": ".git/objects/pack/pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264.rev",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:.git/objects/pack/pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264.idx",
+      "target": "file:.git/objects/pack/pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264.idx",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/pack/pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264.pack",
+      "target": "file:.git/objects/pack/pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264.pack",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:.git/objects/pack/pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264.rev",
+      "target": "file:.git/objects/pack/pack-8b69196c8a7ff7ce4505e1518f3bc270dd638264.rev",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 3,
+    "edgeCount": 3,
+    "nodeTypes": {
+      "file": 3
+    }
+  }
+}

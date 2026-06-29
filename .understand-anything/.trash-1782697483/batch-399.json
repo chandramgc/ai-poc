@@ -1,0 +1,94 @@
+{
+  "batchIndex": 399,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/npy_no_deprecated_api.h",
+      "type": "file",
+      "name": "npy_no_deprecated_api",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/include/numpy/npy_no_deprecated_api.h",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/npy_os.h",
+      "type": "file",
+      "name": "npy_os",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/include/numpy/npy_os.h",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/numpyconfig.h",
+      "type": "file",
+      "name": "numpyconfig",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/include/numpy/numpyconfig.h",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/ufuncobject.h",
+      "type": "file",
+      "name": "ufuncobject",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/include/numpy/ufuncobject.h",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/utils.h",
+      "type": "file",
+      "name": "utils",
+      "filePath": "venv/lib/python3.14/site-packages/numpy/_core/include/numpy/utils.h",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/npy_no_deprecated_api.h",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/npy_no_deprecated_api.h",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/npy_os.h",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/npy_os.h",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/numpyconfig.h",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/numpyconfig.h",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/ufuncobject.h",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/ufuncobject.h",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/utils.h",
+      "target": "file:venv/lib/python3.14/site-packages/numpy/_core/include/numpy/utils.h",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 5,
+    "edgeCount": 5,
+    "nodeTypes": {
+      "file": 5
+    }
+  }
+}

@@ -1,0 +1,1441 @@
+{
+  "batchIndex": 661,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py",
+      "type": "file",
+      "name": "_win32_console",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py:LegacyWindowsError",
+      "type": "class",
+      "name": "LegacyWindowsError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py",
+      "summary": "Python class LegacyWindowsError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py:WindowsCoordinates",
+      "type": "class",
+      "name": "WindowsCoordinates",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py",
+      "summary": "Python class WindowsCoordinates",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py:CONSOLE_SCREEN_BUFFER_INFO",
+      "type": "class",
+      "name": "CONSOLE_SCREEN_BUFFER_INFO",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py",
+      "summary": "Python class CONSOLE_SCREEN_BUFFER_INFO",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py:CONSOLE_CURSOR_INFO",
+      "type": "class",
+      "name": "CONSOLE_CURSOR_INFO",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py",
+      "summary": "Python class CONSOLE_CURSOR_INFO",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py:LegacyWindowsTerm",
+      "type": "class",
+      "name": "LegacyWindowsTerm",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py",
+      "summary": "Python class LegacyWindowsTerm",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_windows_renderer.py",
+      "type": "file",
+      "name": "_windows_renderer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_windows_renderer.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_windows.py",
+      "type": "file",
+      "name": "_windows",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_windows.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_windows.py:WindowsConsoleFeatures",
+      "type": "class",
+      "name": "WindowsConsoleFeatures",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_windows.py",
+      "summary": "Python class WindowsConsoleFeatures",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_wrap.py",
+      "type": "file",
+      "name": "_wrap",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_wrap.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/abc.py",
+      "type": "file",
+      "name": "abc",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/abc.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/abc.py:RichRenderable",
+      "type": "class",
+      "name": "RichRenderable",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/abc.py",
+      "summary": "Python class RichRenderable",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/align.py",
+      "type": "file",
+      "name": "align",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/align.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/align.py:Align",
+      "type": "class",
+      "name": "Align",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/align.py",
+      "summary": "Python class Align",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/align.py:VerticalCenter",
+      "type": "class",
+      "name": "VerticalCenter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/align.py",
+      "summary": "Python class VerticalCenter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/ansi.py",
+      "type": "file",
+      "name": "ansi",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/ansi.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/ansi.py:_AnsiToken",
+      "type": "class",
+      "name": "_AnsiToken",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/ansi.py",
+      "summary": "Python class _AnsiToken",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/ansi.py:AnsiDecoder",
+      "type": "class",
+      "name": "AnsiDecoder",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/ansi.py",
+      "summary": "Python class AnsiDecoder",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/bar.py",
+      "type": "file",
+      "name": "bar",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/bar.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/bar.py:Bar",
+      "type": "class",
+      "name": "Bar",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/bar.py",
+      "summary": "Python class Bar",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/box.py",
+      "type": "file",
+      "name": "box",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/box.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/box.py:Box",
+      "type": "class",
+      "name": "Box",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/box.py",
+      "summary": "Python class Box",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/cells.py",
+      "type": "file",
+      "name": "cells",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/cells.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/color_triplet.py",
+      "type": "file",
+      "name": "color_triplet",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/color_triplet.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/color_triplet.py:ColorTriplet",
+      "type": "class",
+      "name": "ColorTriplet",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/color_triplet.py",
+      "summary": "Python class ColorTriplet",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py",
+      "type": "file",
+      "name": "color",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py:ColorSystem",
+      "type": "class",
+      "name": "ColorSystem",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py",
+      "summary": "Python class ColorSystem",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py:ColorType",
+      "type": "class",
+      "name": "ColorType",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py",
+      "summary": "Python class ColorType",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py:ColorParseError",
+      "type": "class",
+      "name": "ColorParseError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py",
+      "summary": "Python class ColorParseError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py:Color",
+      "type": "class",
+      "name": "Color",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py",
+      "summary": "Python class Color",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/columns.py",
+      "type": "file",
+      "name": "columns",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/columns.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:12"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/columns.py:Columns",
+      "type": "class",
+      "name": "Columns",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/columns.py",
+      "summary": "Python class Columns",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "type": "file",
+      "name": "console",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:40"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:NoChange",
+      "type": "class",
+      "name": "NoChange",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class NoChange",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ConsoleDimensions",
+      "type": "class",
+      "name": "ConsoleDimensions",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class ConsoleDimensions",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ConsoleOptions",
+      "type": "class",
+      "name": "ConsoleOptions",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class ConsoleOptions",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:RichCast",
+      "type": "class",
+      "name": "RichCast",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class RichCast",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ConsoleRenderable",
+      "type": "class",
+      "name": "ConsoleRenderable",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class ConsoleRenderable",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:CaptureError",
+      "type": "class",
+      "name": "CaptureError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class CaptureError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:NewLine",
+      "type": "class",
+      "name": "NewLine",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class NewLine",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ScreenUpdate",
+      "type": "class",
+      "name": "ScreenUpdate",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class ScreenUpdate",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:Capture",
+      "type": "class",
+      "name": "Capture",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class Capture",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ThemeContext",
+      "type": "class",
+      "name": "ThemeContext",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class ThemeContext",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:PagerContext",
+      "type": "class",
+      "name": "PagerContext",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class PagerContext",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ScreenContext",
+      "type": "class",
+      "name": "ScreenContext",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class ScreenContext",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:Group",
+      "type": "class",
+      "name": "Group",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class Group",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ConsoleThreadLocals",
+      "type": "class",
+      "name": "ConsoleThreadLocals",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class ConsoleThreadLocals",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:RenderHook",
+      "type": "class",
+      "name": "RenderHook",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class RenderHook",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:Console",
+      "type": "class",
+      "name": "Console",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "summary": "Python class Console",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/constrain.py",
+      "type": "file",
+      "name": "constrain",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/constrain.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/constrain.py:Constrain",
+      "type": "class",
+      "name": "Constrain",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/constrain.py",
+      "summary": "Python class Constrain",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/containers.py",
+      "type": "file",
+      "name": "containers",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/containers.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/containers.py:Renderables",
+      "type": "class",
+      "name": "Renderables",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/containers.py",
+      "summary": "Python class Renderables",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/containers.py:Lines",
+      "type": "class",
+      "name": "Lines",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/containers.py",
+      "summary": "Python class Lines",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/control.py",
+      "type": "file",
+      "name": "control",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/control.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/control.py:Control",
+      "type": "class",
+      "name": "Control",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/control.py",
+      "summary": "Python class Control",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/default_styles.py",
+      "type": "file",
+      "name": "default_styles",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/default_styles.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/diagnose.py",
+      "type": "file",
+      "name": "diagnose",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/diagnose.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/emoji.py",
+      "type": "file",
+      "name": "emoji",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/emoji.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/emoji.py:NoEmoji",
+      "type": "class",
+      "name": "NoEmoji",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/emoji.py",
+      "summary": "Python class NoEmoji",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/emoji.py:Emoji",
+      "type": "class",
+      "name": "Emoji",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/emoji.py",
+      "summary": "Python class Emoji",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "type": "file",
+      "name": "errors",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:ConsoleError",
+      "type": "class",
+      "name": "ConsoleError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "summary": "Python class ConsoleError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:StyleError",
+      "type": "class",
+      "name": "StyleError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "summary": "Python class StyleError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:StyleSyntaxError",
+      "type": "class",
+      "name": "StyleSyntaxError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "summary": "Python class StyleSyntaxError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:MissingStyle",
+      "type": "class",
+      "name": "MissingStyle",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "summary": "Python class MissingStyle",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:StyleStackError",
+      "type": "class",
+      "name": "StyleStackError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "summary": "Python class StyleStackError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:NotRenderableError",
+      "type": "class",
+      "name": "NotRenderableError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "summary": "Python class NotRenderableError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:MarkupError",
+      "type": "class",
+      "name": "MarkupError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "summary": "Python class MarkupError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:LiveError",
+      "type": "class",
+      "name": "LiveError",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "summary": "Python class LiveError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:NoAltScreen",
+      "type": "class",
+      "name": "NoAltScreen",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "summary": "Python class NoAltScreen",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/file_proxy.py",
+      "type": "file",
+      "name": "file_proxy",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/file_proxy.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/file_proxy.py:FileProxy",
+      "type": "class",
+      "name": "FileProxy",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/file_proxy.py",
+      "summary": "Python class FileProxy",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/filesize.py",
+      "type": "file",
+      "name": "filesize",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/filesize.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "type": "file",
+      "name": "highlighter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py:Highlighter",
+      "type": "class",
+      "name": "Highlighter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "summary": "Python class Highlighter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py:NullHighlighter",
+      "type": "class",
+      "name": "NullHighlighter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "summary": "Python class NullHighlighter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py:RegexHighlighter",
+      "type": "class",
+      "name": "RegexHighlighter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "summary": "Python class RegexHighlighter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py:ReprHighlighter",
+      "type": "class",
+      "name": "ReprHighlighter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "summary": "Python class ReprHighlighter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py:JSONHighlighter",
+      "type": "class",
+      "name": "JSONHighlighter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "summary": "Python class JSONHighlighter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py:ISO8601Highlighter",
+      "type": "class",
+      "name": "ISO8601Highlighter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "summary": "Python class ISO8601Highlighter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/json.py",
+      "type": "file",
+      "name": "json",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/json.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/json.py:JSON",
+      "type": "class",
+      "name": "JSON",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_vendor/rich/json.py",
+      "summary": "Python class JSON",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py:LegacyWindowsError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py:WindowsCoordinates",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py:CONSOLE_SCREEN_BUFFER_INFO",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py:CONSOLE_CURSOR_INFO",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py:LegacyWindowsTerm",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/_windows.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/_windows.py:WindowsConsoleFeatures",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/abc.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/abc.py:RichRenderable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/align.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/align.py:Align",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/align.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/align.py:VerticalCenter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/ansi.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/ansi.py:_AnsiToken",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/ansi.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/ansi.py:AnsiDecoder",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/bar.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/bar.py:Bar",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/box.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/box.py:Box",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/color_triplet.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/color_triplet.py:ColorTriplet",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py:ColorSystem",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py:ColorType",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py:ColorParseError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py:Color",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/columns.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/columns.py:Columns",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:NoChange",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ConsoleDimensions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ConsoleOptions",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:RichCast",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ConsoleRenderable",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:CaptureError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:NewLine",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ScreenUpdate",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:Capture",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ThemeContext",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:PagerContext",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ScreenContext",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:Group",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:ConsoleThreadLocals",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:RenderHook",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py:Console",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/constrain.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/constrain.py:Constrain",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/containers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/containers.py:Renderables",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/containers.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/containers.py:Lines",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/control.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/control.py:Control",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/emoji.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/emoji.py:NoEmoji",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/emoji.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/emoji.py:Emoji",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:ConsoleError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:StyleError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:StyleSyntaxError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:MissingStyle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:StyleStackError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:NotRenderableError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:MarkupError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:LiveError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py:NoAltScreen",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/file_proxy.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/file_proxy.py:FileProxy",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py:Highlighter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py:NullHighlighter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py:RegexHighlighter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py:ReprHighlighter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py:JSONHighlighter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py:ISO8601Highlighter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_vendor/rich/json.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_vendor/rich/json.py:JSON",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 83,
+    "edgeCount": 58,
+    "nodeTypes": {
+      "file": 25,
+      "class": 58
+    }
+  }
+}

@@ -1,0 +1,4545 @@
+{
+  "batchIndex": 621,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "type": "file",
+      "name": "nx_pydot",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py:write_dot",
+      "type": "function",
+      "name": "write_dot",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "summary": "Python function write_dot",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py:read_dot",
+      "type": "function",
+      "name": "read_dot",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "summary": "Python function read_dot",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py:from_pydot",
+      "type": "function",
+      "name": "from_pydot",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "summary": "Python function from_pydot",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py:to_pydot",
+      "type": "function",
+      "name": "to_pydot",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "summary": "Python function to_pydot",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py:graphviz_layout",
+      "type": "function",
+      "name": "graphviz_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "summary": "Python function graphviz_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py:pydot_layout",
+      "type": "function",
+      "name": "pydot_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "summary": "Python function pydot_layout",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "type": "file",
+      "name": "nx_pylab",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:CurvedArrowTextBase",
+      "type": "class",
+      "name": "CurvedArrowTextBase",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python class CurvedArrowTextBase",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:FancyArrowFactory",
+      "type": "class",
+      "name": "FancyArrowFactory",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python class FancyArrowFactory",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:apply_matplotlib_colors",
+      "type": "function",
+      "name": "apply_matplotlib_colors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function apply_matplotlib_colors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:display",
+      "type": "function",
+      "name": "display",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function display",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw",
+      "type": "function",
+      "name": "draw",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_networkx",
+      "type": "function",
+      "name": "draw_networkx",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_networkx",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_networkx_nodes",
+      "type": "function",
+      "name": "draw_networkx_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_networkx_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_networkx_edges",
+      "type": "function",
+      "name": "draw_networkx_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_networkx_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_networkx_labels",
+      "type": "function",
+      "name": "draw_networkx_labels",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_networkx_labels",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_networkx_edge_labels",
+      "type": "function",
+      "name": "draw_networkx_edge_labels",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_networkx_edge_labels",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_bipartite",
+      "type": "function",
+      "name": "draw_bipartite",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_bipartite",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_circular",
+      "type": "function",
+      "name": "draw_circular",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_circular",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_kamada_kawai",
+      "type": "function",
+      "name": "draw_kamada_kawai",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_kamada_kawai",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_random",
+      "type": "function",
+      "name": "draw_random",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_random",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_spectral",
+      "type": "function",
+      "name": "draw_spectral",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_spectral",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_spring",
+      "type": "function",
+      "name": "draw_spring",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_spring",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_shell",
+      "type": "function",
+      "name": "draw_shell",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_shell",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_planar",
+      "type": "function",
+      "name": "draw_planar",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_planar",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_forceatlas2",
+      "type": "function",
+      "name": "draw_forceatlas2",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function draw_forceatlas2",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:apply_alpha",
+      "type": "function",
+      "name": "apply_alpha",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "summary": "Python function apply_alpha",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_agraph.py",
+      "type": "file",
+      "name": "test_agraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_agraph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_agraph.py:TestAGraph",
+      "type": "class",
+      "name": "TestAGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_agraph.py",
+      "summary": "Python class TestAGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "type": "file",
+      "name": "test_image_comparison_pylab_mpl",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py:test_display_house_with_colors",
+      "type": "function",
+      "name": "test_display_house_with_colors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "summary": "Python function test_display_house_with_colors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py:test_display_labels_and_colors",
+      "type": "function",
+      "name": "test_display_labels_and_colors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "summary": "Python function test_display_labels_and_colors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py:test_display_complex",
+      "type": "function",
+      "name": "test_display_complex",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "summary": "Python function test_display_complex",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py:test_display_shortest_path",
+      "type": "function",
+      "name": "test_display_shortest_path",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "summary": "Python function test_display_shortest_path",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py:test_display_empty_graph",
+      "type": "function",
+      "name": "test_display_empty_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "summary": "Python function test_display_empty_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py:test_house_with_colors",
+      "type": "function",
+      "name": "test_house_with_colors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "summary": "Python function test_house_with_colors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "type": "file",
+      "name": "test_latex",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py:test_tikz_attributes",
+      "type": "function",
+      "name": "test_tikz_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "summary": "Python function test_tikz_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py:test_basic_multiple_graphs",
+      "type": "function",
+      "name": "test_basic_multiple_graphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "summary": "Python function test_basic_multiple_graphs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py:test_basic_tikz",
+      "type": "function",
+      "name": "test_basic_tikz",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "summary": "Python function test_basic_tikz",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py:test_exception_pos_single_graph",
+      "type": "function",
+      "name": "test_exception_pos_single_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "summary": "Python function test_exception_pos_single_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py:test_exception_multiple_graphs",
+      "type": "function",
+      "name": "test_exception_multiple_graphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "summary": "Python function test_exception_multiple_graphs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py:test_exception_multigraph",
+      "type": "function",
+      "name": "test_exception_multigraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "summary": "Python function test_exception_multigraph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "type": "file",
+      "name": "test_layout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:TestLayout",
+      "type": "class",
+      "name": "TestLayout",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "summary": "Python class TestLayout",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_multipartite_layout_nonnumeric_partition_labels",
+      "type": "function",
+      "name": "test_multipartite_layout_nonnumeric_partition_labels",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "summary": "Python function test_multipartite_layout_nonnumeric_partition_labels",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_multipartite_layout_layer_order",
+      "type": "function",
+      "name": "test_multipartite_layout_layer_order",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "summary": "Python function test_multipartite_layout_layer_order",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_bfs_layout_complete_graph",
+      "type": "function",
+      "name": "test_bfs_layout_complete_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "summary": "Python function test_bfs_layout_complete_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_bfs_layout_barbell",
+      "type": "function",
+      "name": "test_bfs_layout_barbell",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "summary": "Python function test_bfs_layout_barbell",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_bfs_layout_disconnected",
+      "type": "function",
+      "name": "test_bfs_layout_disconnected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "summary": "Python function test_bfs_layout_disconnected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_bipartite_layout_default_nodes_raises_non_bipartite_input",
+      "type": "function",
+      "name": "test_bipartite_layout_default_nodes_raises_non_bipartite_input",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "summary": "Python function test_bipartite_layout_default_nodes_raises_non_bipartite_input",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_bipartite_layout_default_nodes",
+      "type": "function",
+      "name": "test_bipartite_layout_default_nodes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "summary": "Python function test_bipartite_layout_default_nodes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_layouts_negative_dim",
+      "type": "function",
+      "name": "test_layouts_negative_dim",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "summary": "Python function test_layouts_negative_dim",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_spring_layout_graph_size_heuristic",
+      "type": "function",
+      "name": "test_spring_layout_graph_size_heuristic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "summary": "Python function test_spring_layout_graph_size_heuristic",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py",
+      "type": "file",
+      "name": "test_pydot",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py:TestPydot",
+      "type": "class",
+      "name": "TestPydot",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py",
+      "summary": "Python class TestPydot",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py:test_pydot_issue_7581",
+      "type": "function",
+      "name": "test_pydot_issue_7581",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py",
+      "summary": "Python function test_pydot_issue_7581",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py:test_hashable_pydot",
+      "type": "function",
+      "name": "test_hashable_pydot",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py",
+      "summary": "Python function test_hashable_pydot",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py:test_pydot_numerical_name",
+      "type": "function",
+      "name": "test_pydot_numerical_name",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py",
+      "summary": "Python function test_pydot_numerical_name",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "type": "file",
+      "name": "test_pylab",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_arg_handling_node_color",
+      "type": "function",
+      "name": "test_display_arg_handling_node_color",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_arg_handling_node_color",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_arg_handling_node_alpha",
+      "type": "function",
+      "name": "test_display_arg_handling_node_alpha",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_arg_handling_node_alpha",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_node_position",
+      "type": "function",
+      "name": "test_display_node_position",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_node_position",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_line_collection",
+      "type": "function",
+      "name": "test_display_line_collection",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_line_collection",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_single_color",
+      "type": "function",
+      "name": "test_display_edge_single_color",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_edge_single_color",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_multiple_colors",
+      "type": "function",
+      "name": "test_display_edge_multiple_colors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_edge_multiple_colors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_position",
+      "type": "function",
+      "name": "test_display_edge_position",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_edge_position",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_position_function",
+      "type": "function",
+      "name": "test_display_position_function",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_position_function",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_colormaps",
+      "type": "function",
+      "name": "test_display_edge_colormaps",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_edge_colormaps",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_node_colormaps",
+      "type": "function",
+      "name": "test_display_node_colormaps",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_node_colormaps",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_width",
+      "type": "function",
+      "name": "test_display_edge_width",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_edge_width",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_style",
+      "type": "function",
+      "name": "test_display_edge_style",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_edge_style",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_node_labels",
+      "type": "function",
+      "name": "test_display_node_labels",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_node_labels",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_labels",
+      "type": "function",
+      "name": "test_display_edge_labels",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_edge_labels",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_multigraph_non_integer_keys",
+      "type": "function",
+      "name": "test_display_multigraph_non_integer_keys",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_multigraph_non_integer_keys",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_raises_for_bad_arg",
+      "type": "function",
+      "name": "test_display_raises_for_bad_arg",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_raises_for_bad_arg",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_arrow_size",
+      "type": "function",
+      "name": "test_display_arrow_size",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_arrow_size",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_mismatched_edge_position",
+      "type": "function",
+      "name": "test_display_mismatched_edge_position",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_mismatched_edge_position",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_margins",
+      "type": "function",
+      "name": "test_display_edge_margins",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_edge_margins",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_hide_ticks",
+      "type": "function",
+      "name": "test_display_hide_ticks",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_hide_ticks",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_self_loop",
+      "type": "function",
+      "name": "test_display_self_loop",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_self_loop",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_remove_pos_attr",
+      "type": "function",
+      "name": "test_display_remove_pos_attr",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_display_remove_pos_attr",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:subplots",
+      "type": "function",
+      "name": "subplots",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function subplots",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw",
+      "type": "function",
+      "name": "test_draw",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_shell_nlist",
+      "type": "function",
+      "name": "test_draw_shell_nlist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_shell_nlist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_bipartite",
+      "type": "function",
+      "name": "test_draw_bipartite",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_bipartite",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_colormap",
+      "type": "function",
+      "name": "test_edge_colormap",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_edge_colormap",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_edge_labels",
+      "type": "function",
+      "name": "test_draw_networkx_edge_labels",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_networkx_edge_labels",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_arrows",
+      "type": "function",
+      "name": "test_arrows",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_arrows",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_single_edge_color_undirected",
+      "type": "function",
+      "name": "test_single_edge_color_undirected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_single_edge_color_undirected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_single_edge_color_directed",
+      "type": "function",
+      "name": "test_single_edge_color_directed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_single_edge_color_directed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_color_tuple_interpretation",
+      "type": "function",
+      "name": "test_edge_color_tuple_interpretation",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_edge_color_tuple_interpretation",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_fewer_edge_colors_than_num_edges_directed",
+      "type": "function",
+      "name": "test_fewer_edge_colors_than_num_edges_directed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_fewer_edge_colors_than_num_edges_directed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_more_edge_colors_than_num_edges_directed",
+      "type": "function",
+      "name": "test_more_edge_colors_than_num_edges_directed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_more_edge_colors_than_num_edges_directed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_color_string_with_global_alpha_undirected",
+      "type": "function",
+      "name": "test_edge_color_string_with_global_alpha_undirected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_edge_color_string_with_global_alpha_undirected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_color_string_with_global_alpha_directed",
+      "type": "function",
+      "name": "test_edge_color_string_with_global_alpha_directed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_edge_color_string_with_global_alpha_directed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_width_default_value",
+      "type": "function",
+      "name": "test_edge_width_default_value",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_edge_width_default_value",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_width_single_value_undirected",
+      "type": "function",
+      "name": "test_edge_width_single_value_undirected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_edge_width_single_value_undirected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_width_single_value_directed",
+      "type": "function",
+      "name": "test_edge_width_single_value_directed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_edge_width_single_value_directed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_width_sequence",
+      "type": "function",
+      "name": "test_edge_width_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_edge_width_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_color_with_edge_vmin_vmax",
+      "type": "function",
+      "name": "test_edge_color_with_edge_vmin_vmax",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_edge_color_with_edge_vmin_vmax",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_directed_edges_linestyle_default",
+      "type": "function",
+      "name": "test_directed_edges_linestyle_default",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_directed_edges_linestyle_default",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_directed_edges_linestyle_single_value",
+      "type": "function",
+      "name": "test_directed_edges_linestyle_single_value",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_directed_edges_linestyle_single_value",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_directed_edges_linestyle_sequence",
+      "type": "function",
+      "name": "test_directed_edges_linestyle_sequence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_directed_edges_linestyle_sequence",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_return_types",
+      "type": "function",
+      "name": "test_return_types",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_return_types",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_labels_and_colors",
+      "type": "function",
+      "name": "test_labels_and_colors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_labels_and_colors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_axes",
+      "type": "function",
+      "name": "test_axes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_axes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_empty_graph",
+      "type": "function",
+      "name": "test_empty_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_empty_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_empty_nodes_return_values",
+      "type": "function",
+      "name": "test_draw_empty_nodes_return_values",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_empty_nodes_return_values",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_multigraph_edgelist_tuples",
+      "type": "function",
+      "name": "test_multigraph_edgelist_tuples",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_multigraph_edgelist_tuples",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_alpha_iter",
+      "type": "function",
+      "name": "test_alpha_iter",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_alpha_iter",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_multiple_node_shapes",
+      "type": "function",
+      "name": "test_multiple_node_shapes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_multiple_node_shapes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_individualized_font_attributes",
+      "type": "function",
+      "name": "test_individualized_font_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_individualized_font_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_individualized_edge_attributes",
+      "type": "function",
+      "name": "test_individualized_edge_attributes",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_individualized_edge_attributes",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_error_invalid_kwds",
+      "type": "function",
+      "name": "test_error_invalid_kwds",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_error_invalid_kwds",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_arrowsize_incorrect_size",
+      "type": "function",
+      "name": "test_draw_networkx_arrowsize_incorrect_size",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_networkx_arrowsize_incorrect_size",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_edges_arrowsize",
+      "type": "function",
+      "name": "test_draw_edges_arrowsize",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_edges_arrowsize",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_edges_arrowstyle",
+      "type": "function",
+      "name": "test_draw_edges_arrowstyle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_edges_arrowstyle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_np_edgelist",
+      "type": "function",
+      "name": "test_np_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_np_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_nodes_missing_node_from_position",
+      "type": "function",
+      "name": "test_draw_nodes_missing_node_from_position",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_nodes_missing_node_from_position",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_nodes_node_shape_list_with_scalar_color",
+      "type": "function",
+      "name": "test_draw_networkx_nodes_node_shape_list_with_scalar_color",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_networkx_nodes_node_shape_list_with_scalar_color",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_edges_min_source_target_margins",
+      "type": "function",
+      "name": "test_draw_edges_min_source_target_margins",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_edges_min_source_target_margins",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_edges_min_source_target_margins_individual",
+      "type": "function",
+      "name": "test_draw_edges_min_source_target_margins_individual",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_edges_min_source_target_margins_individual",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_nonzero_selfloop_with_single_node",
+      "type": "function",
+      "name": "test_nonzero_selfloop_with_single_node",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_nonzero_selfloop_with_single_node",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_nonzero_selfloop_with_single_edge_in_edgelist",
+      "type": "function",
+      "name": "test_nonzero_selfloop_with_single_edge_in_edgelist",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_nonzero_selfloop_with_single_edge_in_edgelist",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_apply_alpha",
+      "type": "function",
+      "name": "test_apply_alpha",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_apply_alpha",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_edges_toggling_with_arrows_kwarg",
+      "type": "function",
+      "name": "test_draw_edges_toggling_with_arrows_kwarg",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_edges_toggling_with_arrows_kwarg",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_arrows_default_undirected",
+      "type": "function",
+      "name": "test_draw_networkx_arrows_default_undirected",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_networkx_arrows_default_undirected",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_arrows_default_directed",
+      "type": "function",
+      "name": "test_draw_networkx_arrows_default_directed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_networkx_arrows_default_directed",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edgelist_kwarg_not_ignored",
+      "type": "function",
+      "name": "test_edgelist_kwarg_not_ignored",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_edgelist_kwarg_not_ignored",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_edges_multiedge_connectionstyle",
+      "type": "function",
+      "name": "test_draw_networkx_edges_multiedge_connectionstyle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_networkx_edges_multiedge_connectionstyle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_edge_labels_multiedge_connectionstyle",
+      "type": "function",
+      "name": "test_draw_networkx_edge_labels_multiedge_connectionstyle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_networkx_edge_labels_multiedge_connectionstyle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_edge_label_multiedge",
+      "type": "function",
+      "name": "test_draw_networkx_edge_label_multiedge",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_networkx_edge_label_multiedge",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_edge_label_empty_dict",
+      "type": "function",
+      "name": "test_draw_networkx_edge_label_empty_dict",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_networkx_edge_label_empty_dict",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_edges_undirected_selfloop_colors",
+      "type": "function",
+      "name": "test_draw_networkx_edges_undirected_selfloop_colors",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_draw_networkx_edges_undirected_selfloop_colors",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_user_warnings_for_unused_edge_drawing_kwargs",
+      "type": "function",
+      "name": "test_user_warnings_for_unused_edge_drawing_kwargs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_user_warnings_for_unused_edge_drawing_kwargs",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_no_warning_on_default_draw_arrowstyle",
+      "type": "function",
+      "name": "test_no_warning_on_default_draw_arrowstyle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_no_warning_on_default_draw_arrowstyle",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_hide_ticks",
+      "type": "function",
+      "name": "test_hide_ticks",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_hide_ticks",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_label_all_connectionstyles",
+      "type": "function",
+      "name": "test_edge_label_all_connectionstyles",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_edge_label_all_connectionstyles",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_label_label_pos",
+      "type": "function",
+      "name": "test_edge_label_label_pos",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "summary": "Python function test_edge_label_label_pos",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "type": "file",
+      "name": "exception",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXException",
+      "type": "class",
+      "name": "NetworkXException",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class NetworkXException",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXError",
+      "type": "class",
+      "name": "NetworkXError",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class NetworkXError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXPointlessConcept",
+      "type": "class",
+      "name": "NetworkXPointlessConcept",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class NetworkXPointlessConcept",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXAlgorithmError",
+      "type": "class",
+      "name": "NetworkXAlgorithmError",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class NetworkXAlgorithmError",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXUnfeasible",
+      "type": "class",
+      "name": "NetworkXUnfeasible",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class NetworkXUnfeasible",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXNoPath",
+      "type": "class",
+      "name": "NetworkXNoPath",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class NetworkXNoPath",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXNoCycle",
+      "type": "class",
+      "name": "NetworkXNoCycle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class NetworkXNoCycle",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:HasACycle",
+      "type": "class",
+      "name": "HasACycle",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class HasACycle",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXUnbounded",
+      "type": "class",
+      "name": "NetworkXUnbounded",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class NetworkXUnbounded",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXNotImplemented",
+      "type": "class",
+      "name": "NetworkXNotImplemented",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class NetworkXNotImplemented",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NodeNotFound",
+      "type": "class",
+      "name": "NodeNotFound",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class NodeNotFound",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:AmbiguousSolution",
+      "type": "class",
+      "name": "AmbiguousSolution",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class AmbiguousSolution",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:ExceededMaxIterations",
+      "type": "class",
+      "name": "ExceededMaxIterations",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class ExceededMaxIterations",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/exception.py:PowerIterationFailedConvergence",
+      "type": "class",
+      "name": "PowerIterationFailedConvergence",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/exception.py",
+      "summary": "Python class PowerIterationFailedConvergence",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:29"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/atlas.py",
+      "type": "file",
+      "name": "atlas",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/atlas.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/atlas.py:graph_atlas",
+      "type": "function",
+      "name": "graph_atlas",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/atlas.py",
+      "summary": "Python function graph_atlas",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/atlas.py:graph_atlas_g",
+      "type": "function",
+      "name": "graph_atlas_g",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/atlas.py",
+      "summary": "Python function graph_atlas_g",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "type": "file",
+      "name": "classic",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:full_rary_tree",
+      "type": "function",
+      "name": "full_rary_tree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function full_rary_tree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:kneser_graph",
+      "type": "function",
+      "name": "kneser_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function kneser_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:balanced_tree",
+      "type": "function",
+      "name": "balanced_tree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function balanced_tree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:barbell_graph",
+      "type": "function",
+      "name": "barbell_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function barbell_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:binomial_tree",
+      "type": "function",
+      "name": "binomial_tree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function binomial_tree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:complete_graph",
+      "type": "function",
+      "name": "complete_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function complete_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:circular_ladder_graph",
+      "type": "function",
+      "name": "circular_ladder_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function circular_ladder_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:circulant_graph",
+      "type": "function",
+      "name": "circulant_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function circulant_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:cycle_graph",
+      "type": "function",
+      "name": "cycle_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function cycle_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:dorogovtsev_goltsev_mendes_graph",
+      "type": "function",
+      "name": "dorogovtsev_goltsev_mendes_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function dorogovtsev_goltsev_mendes_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:empty_graph",
+      "type": "function",
+      "name": "empty_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function empty_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:ladder_graph",
+      "type": "function",
+      "name": "ladder_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function ladder_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:lollipop_graph",
+      "type": "function",
+      "name": "lollipop_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function lollipop_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:null_graph",
+      "type": "function",
+      "name": "null_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function null_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:path_graph",
+      "type": "function",
+      "name": "path_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function path_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:star_graph",
+      "type": "function",
+      "name": "star_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function star_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:tadpole_graph",
+      "type": "function",
+      "name": "tadpole_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function tadpole_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:trivial_graph",
+      "type": "function",
+      "name": "trivial_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function trivial_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:turan_graph",
+      "type": "function",
+      "name": "turan_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function turan_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:wheel_graph",
+      "type": "function",
+      "name": "wheel_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function wheel_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:complete_multipartite_graph",
+      "type": "function",
+      "name": "complete_multipartite_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "summary": "Python function complete_multipartite_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/cographs.py",
+      "type": "file",
+      "name": "cographs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/cographs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/cographs.py:random_cograph",
+      "type": "function",
+      "name": "random_cograph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/cographs.py",
+      "summary": "Python function random_cograph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "type": "file",
+      "name": "community",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:caveman_graph",
+      "type": "function",
+      "name": "caveman_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "summary": "Python function caveman_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:connected_caveman_graph",
+      "type": "function",
+      "name": "connected_caveman_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "summary": "Python function connected_caveman_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:relaxed_caveman_graph",
+      "type": "function",
+      "name": "relaxed_caveman_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "summary": "Python function relaxed_caveman_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:random_partition_graph",
+      "type": "function",
+      "name": "random_partition_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "summary": "Python function random_partition_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:planted_partition_graph",
+      "type": "function",
+      "name": "planted_partition_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "summary": "Python function planted_partition_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:gaussian_random_partition_graph",
+      "type": "function",
+      "name": "gaussian_random_partition_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "summary": "Python function gaussian_random_partition_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:ring_of_cliques",
+      "type": "function",
+      "name": "ring_of_cliques",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "summary": "Python function ring_of_cliques",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:windmill_graph",
+      "type": "function",
+      "name": "windmill_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "summary": "Python function windmill_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:stochastic_block_model",
+      "type": "function",
+      "name": "stochastic_block_model",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "summary": "Python function stochastic_block_model",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:LFR_benchmark_graph",
+      "type": "function",
+      "name": "LFR_benchmark_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "summary": "Python function LFR_benchmark_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "type": "file",
+      "name": "degree_seq",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:DegreeSequenceRandomGraph",
+      "type": "class",
+      "name": "DegreeSequenceRandomGraph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "summary": "Python class DegreeSequenceRandomGraph",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:configuration_model",
+      "type": "function",
+      "name": "configuration_model",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "summary": "Python function configuration_model",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:directed_configuration_model",
+      "type": "function",
+      "name": "directed_configuration_model",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "summary": "Python function directed_configuration_model",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:expected_degree_graph",
+      "type": "function",
+      "name": "expected_degree_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "summary": "Python function expected_degree_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:havel_hakimi_graph",
+      "type": "function",
+      "name": "havel_hakimi_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "summary": "Python function havel_hakimi_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:directed_havel_hakimi_graph",
+      "type": "function",
+      "name": "directed_havel_hakimi_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "summary": "Python function directed_havel_hakimi_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:degree_sequence_tree",
+      "type": "function",
+      "name": "degree_sequence_tree",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "summary": "Python function degree_sequence_tree",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:random_degree_sequence_graph",
+      "type": "function",
+      "name": "random_degree_sequence_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "summary": "Python function random_degree_sequence_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "type": "file",
+      "name": "directed",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/directed.py:gn_graph",
+      "type": "function",
+      "name": "gn_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "summary": "Python function gn_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/directed.py:gnr_graph",
+      "type": "function",
+      "name": "gnr_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "summary": "Python function gnr_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/directed.py:gnc_graph",
+      "type": "function",
+      "name": "gnc_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "summary": "Python function gnc_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/directed.py:scale_free_graph",
+      "type": "function",
+      "name": "scale_free_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "summary": "Python function scale_free_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/directed.py:random_uniform_k_out_graph",
+      "type": "function",
+      "name": "random_uniform_k_out_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "summary": "Python function random_uniform_k_out_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/directed.py:random_k_out_graph",
+      "type": "function",
+      "name": "random_k_out_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "summary": "Python function random_k_out_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/duplication.py",
+      "type": "file",
+      "name": "duplication",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/duplication.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/duplication.py:partial_duplication_graph",
+      "type": "function",
+      "name": "partial_duplication_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/duplication.py",
+      "summary": "Python function partial_duplication_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/duplication.py:duplication_divergence_graph",
+      "type": "function",
+      "name": "duplication_divergence_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/duplication.py",
+      "summary": "Python function duplication_divergence_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/ego.py",
+      "type": "file",
+      "name": "ego",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/ego.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/ego.py:ego_graph",
+      "type": "function",
+      "name": "ego_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/ego.py",
+      "summary": "Python function ego_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "type": "file",
+      "name": "expanders",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:1"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:margulis_gabber_galil_graph",
+      "type": "function",
+      "name": "margulis_gabber_galil_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "summary": "Python function margulis_gabber_galil_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:chordal_cycle_graph",
+      "type": "function",
+      "name": "chordal_cycle_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "summary": "Python function chordal_cycle_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:paley_graph",
+      "type": "function",
+      "name": "paley_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "summary": "Python function paley_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:maybe_regular_expander_graph",
+      "type": "function",
+      "name": "maybe_regular_expander_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "summary": "Python function maybe_regular_expander_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:maybe_regular_expander",
+      "type": "function",
+      "name": "maybe_regular_expander",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "summary": "Python function maybe_regular_expander",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:is_regular_expander",
+      "type": "function",
+      "name": "is_regular_expander",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "summary": "Python function is_regular_expander",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:random_regular_expander_graph",
+      "type": "function",
+      "name": "random_regular_expander_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "summary": "Python function random_regular_expander_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "type": "file",
+      "name": "geometric",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:5"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:geometric_edges",
+      "type": "function",
+      "name": "geometric_edges",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "summary": "Python function geometric_edges",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:random_geometric_graph",
+      "type": "function",
+      "name": "random_geometric_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "summary": "Python function random_geometric_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:soft_random_geometric_graph",
+      "type": "function",
+      "name": "soft_random_geometric_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "summary": "Python function soft_random_geometric_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:geographical_threshold_graph",
+      "type": "function",
+      "name": "geographical_threshold_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "summary": "Python function geographical_threshold_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:navigable_small_world_graph",
+      "type": "function",
+      "name": "navigable_small_world_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "summary": "Python function navigable_small_world_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:thresholded_random_geometric_graph",
+      "type": "function",
+      "name": "thresholded_random_geometric_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "summary": "Python function thresholded_random_geometric_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:geometric_soft_configuration_graph",
+      "type": "function",
+      "name": "geometric_soft_configuration_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "summary": "Python function geometric_soft_configuration_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/harary_graph.py",
+      "type": "file",
+      "name": "harary_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/harary_graph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/harary_graph.py:hnm_harary_graph",
+      "type": "function",
+      "name": "hnm_harary_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/harary_graph.py",
+      "summary": "Python function hnm_harary_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/harary_graph.py:hkn_harary_graph",
+      "type": "function",
+      "name": "hkn_harary_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/harary_graph.py",
+      "summary": "Python function hkn_harary_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py",
+      "type": "file",
+      "name": "internet_as_graphs",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py:AS_graph_generator",
+      "type": "class",
+      "name": "AS_graph_generator",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py",
+      "summary": "Python class AS_graph_generator",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py:uniform_int_from_avg",
+      "type": "function",
+      "name": "uniform_int_from_avg",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py",
+      "summary": "Python function uniform_int_from_avg",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py:choose_pref_attach",
+      "type": "function",
+      "name": "choose_pref_attach",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py",
+      "summary": "Python function choose_pref_attach",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py:random_internet_as_graph",
+      "type": "function",
+      "name": "random_internet_as_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py",
+      "summary": "Python function random_internet_as_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/intersection.py",
+      "type": "file",
+      "name": "intersection",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/intersection.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/intersection.py:uniform_random_intersection_graph",
+      "type": "function",
+      "name": "uniform_random_intersection_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/intersection.py",
+      "summary": "Python function uniform_random_intersection_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/intersection.py:k_random_intersection_graph",
+      "type": "function",
+      "name": "k_random_intersection_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/intersection.py",
+      "summary": "Python function k_random_intersection_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/intersection.py:general_random_intersection_graph",
+      "type": "function",
+      "name": "general_random_intersection_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/intersection.py",
+      "summary": "Python function general_random_intersection_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/networkx/generators/interval_graph.py",
+      "type": "file",
+      "name": "interval_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/interval_graph.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:2"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "function:venv/lib/python3.14/site-packages/networkx/generators/interval_graph.py:interval_graph",
+      "type": "function",
+      "name": "interval_graph",
+      "filePath": "venv/lib/python3.14/site-packages/networkx/generators/interval_graph.py",
+      "summary": "Python function interval_graph",
+      "tags": [
+        "python",
+        "function"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py:write_dot",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py:read_dot",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py:from_pydot",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py:to_pydot",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py:graphviz_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pydot.py:pydot_layout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:CurvedArrowTextBase",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:FancyArrowFactory",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:apply_matplotlib_colors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:display",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_networkx",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_networkx_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_networkx_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_networkx_labels",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_networkx_edge_labels",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_bipartite",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_circular",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_kamada_kawai",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_random",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_spectral",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_spring",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_shell",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_planar",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:draw_forceatlas2",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/nx_pylab.py:apply_alpha",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_agraph.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_agraph.py:TestAGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py:test_display_house_with_colors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py:test_display_labels_and_colors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py:test_display_complex",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py:test_display_shortest_path",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py:test_display_empty_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_image_comparison_pylab_mpl.py:test_house_with_colors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py:test_tikz_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py:test_basic_multiple_graphs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py:test_basic_tikz",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py:test_exception_pos_single_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py:test_exception_multiple_graphs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_latex.py:test_exception_multigraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:TestLayout",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_multipartite_layout_nonnumeric_partition_labels",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_multipartite_layout_layer_order",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_bfs_layout_complete_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_bfs_layout_barbell",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_bfs_layout_disconnected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_bipartite_layout_default_nodes_raises_non_bipartite_input",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_bipartite_layout_default_nodes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_layouts_negative_dim",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_layout.py:test_spring_layout_graph_size_heuristic",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py:TestPydot",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py:test_pydot_issue_7581",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py:test_hashable_pydot",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pydot.py:test_pydot_numerical_name",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_arg_handling_node_color",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_arg_handling_node_alpha",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_node_position",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_line_collection",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_single_color",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_multiple_colors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_position",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_position_function",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_colormaps",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_node_colormaps",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_width",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_style",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_node_labels",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_labels",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_multigraph_non_integer_keys",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_raises_for_bad_arg",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_arrow_size",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_mismatched_edge_position",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_edge_margins",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_hide_ticks",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_self_loop",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_display_remove_pos_attr",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:subplots",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_shell_nlist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_bipartite",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_colormap",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_edge_labels",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_arrows",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_single_edge_color_undirected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_single_edge_color_directed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_color_tuple_interpretation",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_fewer_edge_colors_than_num_edges_directed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_more_edge_colors_than_num_edges_directed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_color_string_with_global_alpha_undirected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_color_string_with_global_alpha_directed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_width_default_value",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_width_single_value_undirected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_width_single_value_directed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_width_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_color_with_edge_vmin_vmax",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_directed_edges_linestyle_default",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_directed_edges_linestyle_single_value",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_directed_edges_linestyle_sequence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_return_types",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_labels_and_colors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_axes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_empty_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_empty_nodes_return_values",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_multigraph_edgelist_tuples",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_alpha_iter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_multiple_node_shapes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_individualized_font_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_individualized_edge_attributes",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_error_invalid_kwds",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_arrowsize_incorrect_size",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_edges_arrowsize",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_edges_arrowstyle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_np_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_nodes_missing_node_from_position",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_nodes_node_shape_list_with_scalar_color",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_edges_min_source_target_margins",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_edges_min_source_target_margins_individual",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_nonzero_selfloop_with_single_node",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_nonzero_selfloop_with_single_edge_in_edgelist",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_apply_alpha",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_edges_toggling_with_arrows_kwarg",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_arrows_default_undirected",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_arrows_default_directed",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edgelist_kwarg_not_ignored",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_edges_multiedge_connectionstyle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_edge_labels_multiedge_connectionstyle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_edge_label_multiedge",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_edge_label_empty_dict",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_draw_networkx_edges_undirected_selfloop_colors",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_user_warnings_for_unused_edge_drawing_kwargs",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_no_warning_on_default_draw_arrowstyle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_hide_ticks",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_label_all_connectionstyles",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/drawing/tests/test_pylab.py:test_edge_label_label_pos",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXException",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXPointlessConcept",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXAlgorithmError",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXUnfeasible",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXNoPath",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXNoCycle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:HasACycle",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXUnbounded",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NetworkXNotImplemented",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:NodeNotFound",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:AmbiguousSolution",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:ExceededMaxIterations",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/exception.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/exception.py:PowerIterationFailedConvergence",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/atlas.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/atlas.py:graph_atlas",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/atlas.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/atlas.py:graph_atlas_g",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:full_rary_tree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:kneser_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:balanced_tree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:barbell_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:binomial_tree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:complete_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:circular_ladder_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:circulant_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:cycle_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:dorogovtsev_goltsev_mendes_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:empty_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:ladder_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:lollipop_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:null_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:path_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:star_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:tadpole_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:trivial_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:turan_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:wheel_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/classic.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/classic.py:complete_multipartite_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/cographs.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/cographs.py:random_cograph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:caveman_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:connected_caveman_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:relaxed_caveman_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:random_partition_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:planted_partition_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:gaussian_random_partition_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:ring_of_cliques",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:windmill_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:stochastic_block_model",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/community.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/community.py:LFR_benchmark_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:DegreeSequenceRandomGraph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:configuration_model",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:directed_configuration_model",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:expected_degree_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:havel_hakimi_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:directed_havel_hakimi_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:degree_sequence_tree",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/degree_seq.py:random_degree_sequence_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/directed.py:gn_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/directed.py:gnr_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/directed.py:gnc_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/directed.py:scale_free_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/directed.py:random_uniform_k_out_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/directed.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/directed.py:random_k_out_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/duplication.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/duplication.py:partial_duplication_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/duplication.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/duplication.py:duplication_divergence_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/ego.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/ego.py:ego_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:margulis_gabber_galil_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:chordal_cycle_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:paley_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:maybe_regular_expander_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:maybe_regular_expander",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:is_regular_expander",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/expanders.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/expanders.py:random_regular_expander_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:geometric_edges",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:random_geometric_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:soft_random_geometric_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:geographical_threshold_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:navigable_small_world_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:thresholded_random_geometric_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/geometric.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/geometric.py:geometric_soft_configuration_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/harary_graph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/harary_graph.py:hnm_harary_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/harary_graph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/harary_graph.py:hkn_harary_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py",
+      "target": "class:venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py:AS_graph_generator",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py:uniform_int_from_avg",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py:choose_pref_attach",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/internet_as_graphs.py:random_internet_as_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/intersection.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/intersection.py:uniform_random_intersection_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/intersection.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/intersection.py:k_random_intersection_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/intersection.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/intersection.py:general_random_intersection_graph",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/networkx/generators/interval_graph.py",
+      "target": "function:venv/lib/python3.14/site-packages/networkx/generators/interval_graph.py:interval_graph",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 246,
+    "edgeCount": 222,
+    "nodeTypes": {
+      "file": 24,
+      "function": 201,
+      "class": 21
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "batchIndex": 300,
+  "nodes": [
+    {
+      "id": "file:tmp/speckit-test/.specify/extensions/agent-context/README.md",
+      "type": "document",
+      "name": "README",
+      "filePath": "tmp/speckit-test/.specify/extensions/agent-context/README.md",
+      "summary": "Markdown documentation",
+      "tags": [
+        "markdown",
+        "documentation",
+        "section:Coding Agent Context Extension",
+        "section:Why an extension?",
+        "section:Commands",
+        "section:Configuration",
+        "section:Path to the coding agent conte",
+        "section:Optional list of coding agent ",
+        "section:When non-empty, this takes pre",
+        "section:Delimiters for the managed Spe",
+        "section:Requirements",
+        "section:or target the specific interpr",
+        "code_blocks:3"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/extensions/agent-context/agent-context-config.yml",
+      "type": "config",
+      "name": "agent-context-config",
+      "filePath": "tmp/speckit-test/.specify/extensions/agent-context/agent-context-config.yml",
+      "summary": "YAML configuration file",
+      "tags": [
+        "yaml",
+        "config",
+        "keys:3"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:tmp/speckit-test/.specify/extensions/agent-context/extension.yml",
+      "type": "config",
+      "name": "extension",
+      "filePath": "tmp/speckit-test/.specify/extensions/agent-context/extension.yml",
+      "summary": "YAML configuration file",
+      "tags": [
+        "yaml",
+        "config",
+        "keys:6"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [],
+  "statistics": {
+    "nodeCount": 3,
+    "edgeCount": 0,
+    "nodeTypes": {
+      "document": 1,
+      "config": 2
+    }
+  }
+}

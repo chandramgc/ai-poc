@@ -1,0 +1,945 @@
+{
+  "batchIndex": 651,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/models/wheel.py",
+      "type": "file",
+      "name": "wheel",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/wheel.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/models/wheel.py:Wheel",
+      "type": "class",
+      "name": "Wheel",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/models/wheel.py",
+      "summary": "Python class Wheel",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/network/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "type": "file",
+      "name": "auth",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:15"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py:Credentials",
+      "type": "class",
+      "name": "Credentials",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "summary": "Python class Credentials",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py:KeyRingBaseProvider",
+      "type": "class",
+      "name": "KeyRingBaseProvider",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "summary": "Python class KeyRingBaseProvider",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py:KeyRingNullProvider",
+      "type": "class",
+      "name": "KeyRingNullProvider",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "summary": "Python class KeyRingNullProvider",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py:KeyRingPythonProvider",
+      "type": "class",
+      "name": "KeyRingPythonProvider",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "summary": "Python class KeyRingPythonProvider",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py:KeyRingCliProvider",
+      "type": "class",
+      "name": "KeyRingCliProvider",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "summary": "Python class KeyRingCliProvider",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py:MultiDomainBasicAuth",
+      "type": "class",
+      "name": "MultiDomainBasicAuth",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "summary": "Python class MultiDomainBasicAuth",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/network/cache.py",
+      "type": "file",
+      "name": "cache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/cache.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:11"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/cache.py:SafeFileCache",
+      "type": "class",
+      "name": "SafeFileCache",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/cache.py",
+      "summary": "Python class SafeFileCache",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/network/download.py",
+      "type": "file",
+      "name": "download",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/download.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:19"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/download.py:_FileDownload",
+      "type": "class",
+      "name": "_FileDownload",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/download.py",
+      "summary": "Python class _FileDownload",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/download.py:Downloader",
+      "type": "class",
+      "name": "Downloader",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/download.py",
+      "summary": "Python class Downloader",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/network/lazy_wheel.py",
+      "type": "file",
+      "name": "lazy_wheel",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/lazy_wheel.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:12"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/lazy_wheel.py:HTTPRangeRequestUnsupported",
+      "type": "class",
+      "name": "HTTPRangeRequestUnsupported",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/lazy_wheel.py",
+      "summary": "Python class HTTPRangeRequestUnsupported",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/lazy_wheel.py:LazyZipOverHTTP",
+      "type": "class",
+      "name": "LazyZipOverHTTP",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/lazy_wheel.py",
+      "summary": "Python class LazyZipOverHTTP",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "type": "file",
+      "name": "session",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:27"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:LocalFSAdapter",
+      "type": "class",
+      "name": "LocalFSAdapter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "summary": "Python class LocalFSAdapter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:_SSLContextAdapterMixin",
+      "type": "class",
+      "name": "_SSLContextAdapterMixin",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "summary": "Python class _SSLContextAdapterMixin",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:HTTPAdapter",
+      "type": "class",
+      "name": "HTTPAdapter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "summary": "Python class HTTPAdapter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:CacheControlAdapter",
+      "type": "class",
+      "name": "CacheControlAdapter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "summary": "Python class CacheControlAdapter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:InsecureHTTPAdapter",
+      "type": "class",
+      "name": "InsecureHTTPAdapter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "summary": "Python class InsecureHTTPAdapter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:InsecureCacheControlAdapter",
+      "type": "class",
+      "name": "InsecureCacheControlAdapter",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "summary": "Python class InsecureCacheControlAdapter",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:PipSession",
+      "type": "class",
+      "name": "PipSession",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "summary": "Python class PipSession",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/network/utils.py",
+      "type": "file",
+      "name": "utils",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/utils.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:3"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/network/xmlrpc.py",
+      "type": "file",
+      "name": "xmlrpc",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/xmlrpc.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/network/xmlrpc.py:PipXmlrpcTransport",
+      "type": "class",
+      "name": "PipXmlrpcTransport",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/network/xmlrpc.py",
+      "summary": "Python class PipXmlrpcTransport",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/build_tracker.py",
+      "type": "file",
+      "name": "build_tracker",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/build_tracker.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:7"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/build/build_tracker.py:TrackerId",
+      "type": "class",
+      "name": "TrackerId",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/build_tracker.py",
+      "summary": "Python class TrackerId",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/build/build_tracker.py:BuildTracker",
+      "type": "class",
+      "name": "BuildTracker",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/build_tracker.py",
+      "summary": "Python class BuildTracker",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/metadata_editable.py",
+      "type": "file",
+      "name": "metadata_editable",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/metadata_editable.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/metadata.py",
+      "type": "file",
+      "name": "metadata",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/metadata.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:6"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/wheel_editable.py",
+      "type": "file",
+      "name": "wheel_editable",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/wheel_editable.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/wheel.py",
+      "type": "file",
+      "name": "wheel",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/wheel.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:4"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/check.py",
+      "type": "file",
+      "name": "check",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/check.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:15"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/check.py:PackageDetails",
+      "type": "class",
+      "name": "PackageDetails",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/check.py",
+      "summary": "Python class PackageDetails",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/freeze.py",
+      "type": "file",
+      "name": "freeze",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/freeze.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:13"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/freeze.py:_EditableInfo",
+      "type": "class",
+      "name": "_EditableInfo",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/freeze.py",
+      "summary": "Python class _EditableInfo",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/freeze.py:FrozenRequirement",
+      "type": "class",
+      "name": "FrozenRequirement",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/freeze.py",
+      "summary": "Python class FrozenRequirement",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/install/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/install/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/install/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/install/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/install/__pycache__/wheel.cpython-314.pyc",
+      "type": "file",
+      "name": "wheel.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/install/__pycache__/wheel.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py",
+      "type": "file",
+      "name": "wheel",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:25"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py:File",
+      "type": "class",
+      "name": "File",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py",
+      "summary": "Python class File",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py:ZipBackedFile",
+      "type": "class",
+      "name": "ZipBackedFile",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py",
+      "summary": "Python class ZipBackedFile",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py:ScriptFile",
+      "type": "class",
+      "name": "ScriptFile",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py",
+      "summary": "Python class ScriptFile",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py:MissingCallableSuffix",
+      "type": "class",
+      "name": "MissingCallableSuffix",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py",
+      "summary": "Python class MissingCallableSuffix",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py:PipScriptMaker",
+      "type": "class",
+      "name": "PipScriptMaker",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py",
+      "summary": "Python class PipScriptMaker",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/prepare.py",
+      "type": "file",
+      "name": "prepare",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/prepare.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:30"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/prepare.py:File",
+      "type": "class",
+      "name": "File",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/prepare.py",
+      "summary": "Python class File",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/prepare.py:RequirementPreparer",
+      "type": "class",
+      "name": "RequirementPreparer",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/prepare.py",
+      "summary": "Python class RequirementPreparer",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/pyproject.py",
+      "type": "file",
+      "name": "pyproject",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/pyproject.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:8"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__init__.py",
+      "type": "file",
+      "name": "__init__",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/__init__.py",
+      "summary": "Python source file",
+      "tags": [
+        "python",
+        "imports:9"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    },
+    {
+      "id": "class:venv/lib/python3.14/site-packages/pip/_internal/req/__init__.py:InstallationResult",
+      "type": "class",
+      "name": "InstallationResult",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/req/__init__.py",
+      "summary": "Python class InstallationResult",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "complexity": "moderate",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/models/wheel.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/models/wheel.py:Wheel",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py:Credentials",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py:KeyRingBaseProvider",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py:KeyRingNullProvider",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py:KeyRingPythonProvider",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py:KeyRingCliProvider",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/auth.py:MultiDomainBasicAuth",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/cache.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/cache.py:SafeFileCache",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/download.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/download.py:_FileDownload",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/download.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/download.py:Downloader",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/lazy_wheel.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/lazy_wheel.py:HTTPRangeRequestUnsupported",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/lazy_wheel.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/lazy_wheel.py:LazyZipOverHTTP",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:LocalFSAdapter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:_SSLContextAdapterMixin",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:HTTPAdapter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:CacheControlAdapter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:InsecureHTTPAdapter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:InsecureCacheControlAdapter",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/session.py:PipSession",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/network/xmlrpc.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/network/xmlrpc.py:PipXmlrpcTransport",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/build_tracker.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/build/build_tracker.py:TrackerId",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/build_tracker.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/build/build_tracker.py:BuildTracker",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/check.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/check.py:PackageDetails",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/freeze.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/freeze.py:_EditableInfo",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/freeze.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/freeze.py:FrozenRequirement",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/install/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/install/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/install/__pycache__/wheel.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/install/__pycache__/wheel.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py:File",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py:ZipBackedFile",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py:ScriptFile",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py:MissingCallableSuffix",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py:PipScriptMaker",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/prepare.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/prepare.py:File",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/prepare.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/operations/prepare.py:RequirementPreparer",
+      "type": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/req/__init__.py",
+      "target": "class:venv/lib/python3.14/site-packages/pip/_internal/req/__init__.py:InstallationResult",
+      "type": "contains",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 56,
+    "edgeCount": 35,
+    "nodeTypes": {
+      "file": 23,
+      "class": 33
+    }
+  }
+}

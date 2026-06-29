@@ -1,0 +1,78 @@
+{
+  "batchIndex": 477,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/_compat.cpython-314.pyc",
+      "type": "file",
+      "name": "_compat.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/_compat.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/_dists.cpython-314.pyc",
+      "type": "file",
+      "name": "_dists.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/_dists.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/_envs.cpython-314.pyc",
+      "type": "file",
+      "name": "_envs.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/_envs.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/_compat.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/_compat.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/_dists.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/_dists.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/_envs.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__pycache__/_envs.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 4,
+    "nodeTypes": {
+      "file": 4
+    }
+  }
+}

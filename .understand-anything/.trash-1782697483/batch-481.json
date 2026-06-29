@@ -1,0 +1,110 @@
+{
+  "batchIndex": 481,
+  "nodes": [
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/__init__.cpython-314.pyc",
+      "type": "file",
+      "name": "__init__.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/__init__.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/build_tracker.cpython-314.pyc",
+      "type": "file",
+      "name": "build_tracker.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/build_tracker.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/metadata.cpython-314.pyc",
+      "type": "file",
+      "name": "metadata.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/metadata.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/metadata_editable.cpython-314.pyc",
+      "type": "file",
+      "name": "metadata_editable.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/metadata_editable.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/wheel.cpython-314.pyc",
+      "type": "file",
+      "name": "wheel.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/wheel.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/wheel_editable.cpython-314.pyc",
+      "type": "file",
+      "name": "wheel_editable.cpython-314",
+      "filePath": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/wheel_editable.cpython-314.pyc",
+      "summary": "Unknown file",
+      "tags": [],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/__init__.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/__init__.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/build_tracker.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/build_tracker.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/metadata.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/metadata.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/metadata_editable.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/metadata_editable.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/wheel.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/wheel.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/wheel_editable.cpython-314.pyc",
+      "target": "file:venv/lib/python3.14/site-packages/pip/_internal/operations/build/__pycache__/wheel_editable.cpython-314.pyc",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 6,
+    "edgeCount": 6,
+    "nodeTypes": {
+      "file": 6
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "batchIndex": 279,
+  "nodes": [
+    {
+      "id": "file:build/reports/tests/test/classes/com.aipoc.controller.OrderControllerTest.html",
+      "type": "file",
+      "name": "com.aipoc.controller.OrderControllerTest",
+      "filePath": "build/reports/tests/test/classes/com.aipoc.controller.OrderControllerTest.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/tests/test/classes/com.aipoc.controller.TimeControllerTest.html",
+      "type": "file",
+      "name": "com.aipoc.controller.TimeControllerTest",
+      "filePath": "build/reports/tests/test/classes/com.aipoc.controller.TimeControllerTest.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/tests/test/classes/com.aipoc.service.OrderServiceImplTest.html",
+      "type": "file",
+      "name": "com.aipoc.service.OrderServiceImplTest",
+      "filePath": "build/reports/tests/test/classes/com.aipoc.service.OrderServiceImplTest.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    },
+    {
+      "id": "file:build/reports/tests/test/classes/com.aipoc.service.TimeServiceImplTest.html",
+      "type": "file",
+      "name": "com.aipoc.service.TimeServiceImplTest",
+      "filePath": "build/reports/tests/test/classes/com.aipoc.service.TimeServiceImplTest.html",
+      "summary": "Html file",
+      "tags": [
+        "html"
+      ],
+      "complexity": "simple",
+      "languageNotes": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:build/reports/tests/test/classes/com.aipoc.controller.OrderControllerTest.html",
+      "target": "file:build/reports/tests/test/classes/com.aipoc.controller.OrderControllerTest.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/tests/test/classes/com.aipoc.controller.TimeControllerTest.html",
+      "target": "file:build/reports/tests/test/classes/com.aipoc.controller.TimeControllerTest.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/tests/test/classes/com.aipoc.service.OrderServiceImplTest.html",
+      "target": "file:build/reports/tests/test/classes/com.aipoc.service.OrderServiceImplTest.html",
+      "type": "self",
+      "weight": 1.0
+    },
+    {
+      "source": "file:build/reports/tests/test/classes/com.aipoc.service.TimeServiceImplTest.html",
+      "target": "file:build/reports/tests/test/classes/com.aipoc.service.TimeServiceImplTest.html",
+      "type": "self",
+      "weight": 1.0
+    }
+  ],
+  "statistics": {
+    "nodeCount": 4,
+    "edgeCount": 4,
+    "nodeTypes": {
+      "file": 4
+    }
+  }
+}
