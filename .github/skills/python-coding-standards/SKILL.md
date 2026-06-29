@@ -18,6 +18,10 @@ To write compliant Python code, consult these dedicated reference files:
 
 - 🎨 **[PEP 8 Style Rules](references/python-pep8-rules.md):** Complete formatting rules covering class naming, camelCase vs snake_case, indentation spacing, import layouts, and docstrings.
 - ⚡ **[Python Single-Line Coding Examples](references/python-oneliners.md):** Practical code templates and guide checklists for writing expression-based single-line Python blocks (list/dict comprehensions, lambdas, conditional expressions, ternary operators, zip/map/filter, and generators).
+- 🔐 **[Security & Bandit Rules](references/python-security-bandit.md):** Bandit SAST rules, input sanitization, Pydantic validation, and secure coding patterns for Python applications.
+- 🧪 **[Testing Patterns](references/python-testing-patterns.md):** pytest best practices, fixtures, parametrize, mocking, coverage configuration, and test organization.
+- 📡 **[Observability & Monitoring](references/python-observability.md):** structlog configuration, OpenTelemetry Python SDK patterns, and metric instrumentation.
+- 🚀 **[Modern Python Features (3.10+)](references/python-modern-features.md):** Structural pattern matching, ExceptionGroups, type parameter syntax, and modern typing patterns.
 
 ---
 

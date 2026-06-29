@@ -7,8 +7,12 @@ This project uses three major automation frameworks:
 Commands available in your AI agent:
 - `/speckit.constitution` - Define project principles
 - `/speckit.specify` - Write feature specifications
+- `/speckit.clarify` - Identify gaps and ambiguities in specifications
 - `/speckit.plan` - Create implementation plans
 - `/speckit.tasks` - Generate actionable tasks
+- `/speckit.checklist` - Generate quality validation checklist
+- `/speckit.converge` - Converge multiple specifications
+- `/speckit.taskstoissues` - Convert tasks to trackable issues
 - `/speckit.implement` - Execute implementation
 - `/speckit.analyze` - Check artifact consistency
 
@@ -55,9 +59,31 @@ Reference: https://github.com/safishamsi/graphify
 4. **Review** → Use Ponytail-review for quality checks
 5. **Analyze** → Use Spec Kit analyze for consistency
 
+## Coding Standards
+
+### Security
+- OWASP Top 10 compliance mandatory for all features
+- Dependency vulnerability scanning on every PR
+- No hardcoded secrets (environment variables or vault only)
+
+### Observability
+- OpenTelemetry instrumentation required for all services
+- Structured logging with correlation IDs (no raw stdout/stderr)
+- SLI/SLO definitions required in feature specs
+
+### Accessibility
+- WCAG 2.2 Level AA compliance for all user-facing features
+- Keyboard navigation and screen reader support required
+
+### Git Standards
+- Conventional Commits: `feat|fix|refactor|chore|docs|test(scope): description`
+- Feature branches < 3 days; trunk-based development
+
 ## Key Files
 
 - `.specify/` - Spec Kit project files
 - `.graphifyignore` - Files excluded from knowledge graph
-- `automation/` - Helper scripts for all tools
+- `automation/` - Helper scripts for all tools (if configured)
 - `Makefile` - Quick automation commands
+- `docs/decisions/` - Architecture Decision Records (ADRs)
+- `.github/skills/` - Coding standards skills (Java, Python)

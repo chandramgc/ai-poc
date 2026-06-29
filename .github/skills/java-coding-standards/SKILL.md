@@ -20,6 +20,9 @@ To write compliant Java code, consult these dedicated reference files:
 - ⚙️ **[Spring Boot Examples & Layering](references/spring-boot-examples.md):** Architecture guides and clean templates (constructor DI, thin controllers, exception advice, WebMvc slice tests).
 - ☕ **[Effective Java (Bloch) Rules](references/effective-java-rules.md):** Best practices checklist adapted from Joshua Bloch's *Effective Java*.
 - 📋 **[General Java Best Practices](references/java-best-practices.md):** Everyday cheat-sheet covering null safety, collections, stream processing, and secure variables.
+- 🔐 **[Security & OWASP Rules](references/java-security-owasp.md):** OWASP Top 10 Java-specific rules, SAST/DAST tool integration, and secure coding patterns.
+- 📡 **[Observability & Monitoring Patterns](references/java-observability.md):** Spring Boot Actuator, Micrometer metrics, and OpenTelemetry distributed tracing patterns.
+- 🚀 **[Modern Java Features (21+)](references/java-modern-features.md):** Records, sealed classes, pattern matching, virtual threads, and structured concurrency patterns.
 
 ---
 

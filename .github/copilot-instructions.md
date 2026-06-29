@@ -52,4 +52,29 @@ shell commands, and other important information, read the current plan
   - Write docstrings according to PEP 257 guidelines.
   - Emphasize single-line programming constructs where appropriate (e.g. list/dict comprehensions, lambda expressions, ternary operators, generator expressions, and unpacked assignments) as referenced in `python-oneliners.md`.
 
+## 8. Security Standards (OWASP)
+- OWASP Top 10 and API Security Top 10 serve as mandatory checklists.
+- Threat modeling is required for features handling user data or authentication.
+- All dependencies must be scanned for CVEs.
+- SLSA Level 2+ provenance and SBOM generation required for production.
+- Load and enforce security rules from respective language skill references.
 
+## 9. Observability Standards (OpenTelemetry)
+- OpenTelemetry is the mandatory instrumentation framework.
+- All services must emit: distributed traces, metrics, and structured logs.
+- SLIs/SLOs must be defined in every service specification.
+- No raw `print()` or `System.out` — use structured logging only.
+
+## 10. Accessibility Standards (WCAG 2.2)
+- All user-facing features must meet WCAG 2.2 Level AA.
+- Keyboard navigation, screen reader support, and color contrast (4.5:1) are non-negotiable.
+- Use semantic HTML and ARIA attributes correctly.
+
+## 11. Git Workflow Standards
+- Follow Conventional Commits: `feat|fix|refactor|chore|docs|test(scope): description`
+- Feature branches must be short-lived (< 3 days).
+- Use feature flags to decouple deployment from release.
+
+## 12. Architecture Decision Records
+- Significant architectural decisions must be documented as ADRs in `docs/decisions/`.
+- Use the MADR template. ADRs are append-only — never edit, supersede instead.

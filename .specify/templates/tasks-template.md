@@ -1,252 +1,122 @@
----
-
-description: "Task list template for feature implementation"
----
-
 # Tasks: [FEATURE NAME]
 
-**Input**: Design documents from `/specs/YYYY/Month/[###-feature-name]/`
-
-**Prerequisites**: plan.md (required), spec.md (required for user stories), research.md, data-model.md, contracts/
-
-**Tests**: The examples below include test tasks. Tests are OPTIONAL - only include them if explicitly requested in the feature specification.
-
-**Organization**: Tasks are grouped by user story to enable independent implementation and testing of each story.
-
-## Format: `[ID] [P?] [Story] Description`
-
-- **[P]**: Can run in parallel (different files, no dependencies)
-- **[Story]**: Which user story this task belongs to (e.g., US1, US2, US3)
-- Include exact file paths in descriptions
-
-## Path Conventions
-
-- **Single project**: `src/`, `tests/` at repository root
-- **Web app**: `backend/src/`, `frontend/src/`
-- **Mobile**: `api/src/`, `ios/src/` or `android/src/`
-- Paths shown below assume single project - adjust based on plan.md structure
-
-<!--
-  ============================================================================
-  IMPORTANT: The tasks below are SAMPLE TASKS for illustration purposes only.
-
-  The /speckit.tasks command MUST replace these with actual tasks based on:
-  - User stories from spec.md (with their priorities P1, P2, P3...)
-  - Feature requirements from plan.md
-  - Entities from data-model.md
-  - Endpoints from contracts/
-
-  Tasks MUST be organized by user story so each story can be:
-  - Implemented independently
-  - Tested independently
-  - Delivered as an MVP increment
-
-  DO NOT keep these sample tasks in the generated tasks.md file.
-  ============================================================================
--->
-
-## Phase 1: Setup (Shared Infrastructure)
-
-**Purpose**: Project initialization and basic structure
-
-- [ ] T001 Create project structure per implementation plan
-- [ ] T002 Initialize [language] project with [framework] dependencies
-- [ ] T003 [P] Configure linting and formatting tools
+**Jira ID**: `[JIRA_KEY]` | **Branch**: `[JIRA_KEY]-[feature-name]` | **Spec**: [link to spec.md] | **Plan**: [link to plan.md]
 
 ---
 
-## Phase 2: Foundational (Blocking Prerequisites)
+## Task Format
 
-**Purpose**: Core infrastructure that MUST be complete before ANY user story can be implemented
+All tasks must follow this format:
+`- [ ] [ID] [S|M|L] [P?] [Story] Description`
+- **[ID]**: Unique identifier (e.g. `T001`).
+- **[S|M|L]**: Task sizing — **S** = < 1 hour, **M** = 1–4 hours, **L** = 4+ hours.
+- **[P]**: Marks tasks that can execute in parallel (no files conflict, no dependencies).
+- **[Story]**: Story mapping reference (e.g. `[US1]`).
+- **Description**: Detailed description containing exact file paths.
 
-**⚠️ CRITICAL**: No user story work can begin until this phase is complete
+---
 
-Examples of foundational tasks (adjust based on your project):
+## Phase 1: Setup & Environment (Shared Infrastructure)
 
-- [ ] T004 Setup database schema and migrations framework
-- [ ] T005 [P] Implement authentication/authorization framework
-- [ ] T006 [P] Setup API routing and middleware structure
-- [ ] T007 Create base models/entities that all stories depend on
-- [ ] T008 Configure error handling and logging infrastructure
-- [ ] T009 Setup environment configuration management
+**Purpose**: Initialize layout, properties, and load dependencies.
 
-**Checkpoint**: Foundation ready - user story implementation can now begin in parallel
+- [ ] **T001** Configure project directories according to the directory tree defined in `plan.md`.
+- [ ] **T002** Import dependencies and update configuration files (e.g. `build.gradle` or `requirements.txt`).
+- [ ] **T003** **[P]** Configure project linting, formatting, checkstyle, and SonarQube verification options.
+
+---
+
+## Phase 2: Foundational Layer (Blocking Prerequisites)
+
+**Purpose**: Core infrastructure that must exist before user stories can be implemented.
+
+> [!WARNING]
+> No user story implementation or testing tasks can begin until this foundational phase is fully completed.
+
+- [ ] **T004** Initialize database schemas, tables, and setup migration scripts (e.g. Liquibase / Flyway / raw SQL).
+- [ ] **T005** **[P]** Configure global configuration files (e.g. `application.yml` or `.env` templates).
+- [ ] **T006** **[P]** Implement custom exceptions and the global ControllerAdvice error handler.
+- [ ] **T007** Implement baseline models and abstract/interface classes that downstream stories inherit.
+
+---
+
+## Phase 2.5: Security Hardening
+
+**Purpose**: Implement security controls identified in the threat model.
+
+- [ ] **T-SEC-001** **[S]** **[P]** Implement input validation constraints on all DTOs.
+- [ ] **T-SEC-002** **[M]** **[P]** Configure authentication and authorization rules.
+- [ ] **T-SEC-003** **[S]** **[P]** Verify parameterized queries for all database operations.
+- [ ] **T-SEC-004** **[S]** Run dependency vulnerability scan and resolve findings.
 
 ---
 
 ## Phase 3: User Story 1 - [Title] (Priority: P1) 🎯 MVP
 
-**Goal**: [Brief description of what this story delivers]
+**Goal**: [Summary of user story capability]
 
-**Independent Test**: [How to verify this story works on its own]
+**Independent Test**: [Command/Run instruction to verify this story in isolation]
 
-### Tests for User Story 1 (OPTIONAL - only if tests requested) ⚠️
+### ⚠️ Test-Driven Development (TDD) Checkpoint
+> [!IMPORTANT]
+> Write the validation slice tests first. Verify they fail locally before writing any business logic.
 
-> **NOTE: Write these tests FIRST, ensure they FAIL before implementation**
+- [ ] **T008** **[P]** **[US1]** Implement slice tests (e.g. MockMvc web tests or unit tests) and verify they fail.
+- [ ] **T009** **[P]** **[US1]** Implement integration tests (full flow) and verify they fail.
 
-- [ ] T010 [P] [US1] Contract test for [endpoint] in tests/contract/test_[name].py
-- [ ] T011 [P] [US1] Integration test for [user journey] in tests/integration/test_[name].py
+### Implementation Tasks
+- [ ] **T010** **[P]** **[US1]** Create database repositories and mapping interfaces.
+- [ ] **T011** **[P]** **[US1]** Create input DTO validation constraints and output models.
+- [ ] **T012** **[US1]** Implement service logic interfaces and service class implementations.
+- [ ] **T013** **[US1]** Implement REST API controller mappings and link service handlers.
+- [ ] **T014** **[US1]** Integrate SLF4J parameterized logging and exceptions mapping.
 
-### Implementation for User Story 1
-
-- [ ] T012 [P] [US1] Create [Entity1] model in src/models/[entity1].py
-- [ ] T013 [P] [US1] Create [Entity2] model in src/models/[entity2].py
-- [ ] T014 [US1] Implement [Service] in src/services/[service].py (depends on T012, T013)
-- [ ] T015 [US1] Implement [endpoint/feature] in src/[location]/[file].py
-- [ ] T016 [US1] Add validation and error handling
-- [ ] T017 [US1] Add logging for user story 1 operations
-
-**Checkpoint**: At this point, User Story 1 should be fully functional and testable independently
+**Story Verification Checkpoint:** Run story tests. Ensure they pass successfully.
 
 ---
 
 ## Phase 4: User Story 2 - [Title] (Priority: P2)
 
-**Goal**: [Brief description of what this story delivers]
+**Goal**: [Summary of user story capability]
 
-**Independent Test**: [How to verify this story works on its own]
+**Independent Test**: [Command/Run instruction to verify this story in isolation]
 
-### Tests for User Story 2 (OPTIONAL - only if tests requested) ⚠️
+### ⚠️ Test-Driven Development (TDD) Checkpoint
+- [ ] **T015** **[P]** **[US2]** Implement slice tests and verify they fail.
+- [ ] **T016** **[P]** **[US2]** Implement integration tests and verify they fail.
 
-- [ ] T018 [P] [US2] Contract test for [endpoint] in tests/contract/test_[name].py
-- [ ] T019 [P] [US2] Integration test for [user journey] in tests/integration/test_[name].py
+### Implementation Tasks
+- [ ] **T017** **[P]** **[US2]** Create DTO constraints and database mapping repositories.
+- [ ] **T018** **[US2]** Implement service logic and integrate with User Story 1 entities.
+- [ ] **T019** **[US2]** Implement REST controller mappings.
 
-### Implementation for User Story 2
-
-- [ ] T020 [P] [US2] Create [Entity] model in src/models/[entity].py
-- [ ] T021 [US2] Implement [Service] in src/services/[service].py
-- [ ] T022 [US2] Implement [endpoint/feature] in src/[location]/[file].py
-- [ ] T023 [US2] Integrate with User Story 1 components (if needed)
-
-**Checkpoint**: At this point, User Stories 1 AND 2 should both work independently
+**Story Verification Checkpoint:** Run story tests. Ensure they pass successfully.
 
 ---
 
-## Phase 5: User Story 3 - [Title] (Priority: P3)
+## Phase 4.5: Observability Instrumentation
 
-**Goal**: [Brief description of what this story delivers]
+**Purpose**: Instrument traces, metrics, and structured logging.
 
-**Independent Test**: [How to verify this story works on its own]
-
-### Tests for User Story 3 (OPTIONAL - only if tests requested) ⚠️
-
-- [ ] T024 [P] [US3] Contract test for [endpoint] in tests/contract/test_[name].py
-- [ ] T025 [P] [US3] Integration test for [user journey] in tests/integration/test_[name].py
-
-### Implementation for User Story 3
-
-- [ ] T026 [P] [US3] Create [Entity] model in src/models/[entity].py
-- [ ] T027 [US3] Implement [Service] in src/services/[service].py
-- [ ] T028 [US3] Implement [endpoint/feature] in src/[location]/[file].py
-
-**Checkpoint**: All user stories should now be independently functional
+- [ ] **T-OBS-001** **[M]** **[P]** Add OpenTelemetry trace spans to service layer methods.
+- [ ] **T-OBS-002** **[S]** **[P]** Add custom metrics (counters, histograms) for business operations.
+- [ ] **T-OBS-003** **[S]** **[P]** Configure structured logging with correlation IDs.
+- [ ] **T-OBS-004** **[M]** Create or update monitoring dashboard.
 
 ---
 
-[Add more user story phases as needed, following the same pattern]
+## Phase 5: Polish, Compliance & Verification
 
----
+**Purpose**: Cross-cutting requirements, documentation updates, and final verification.
 
-## Phase N: Polish & Cross-Cutting Concerns
-
-**Purpose**: Improvements that affect multiple user stories
-
-- [ ] TXXX [P] Documentation updates in docs/
-- [ ] TXXX Code cleanup and refactoring
-- [ ] TXXX Performance optimization across all stories
-- [ ] TXXX [P] Additional unit tests (if requested) in tests/unit/
-- [ ] TXXX Security hardening
-- [ ] TXXX Run quickstart.md validation
-
----
-
-## Dependencies & Execution Order
-
-### Phase Dependencies
-
-- **Setup (Phase 1)**: No dependencies - can start immediately
-- **Foundational (Phase 2)**: Depends on Setup completion - BLOCKS all user stories
-- **User Stories (Phase 3+)**: All depend on Foundational phase completion
-  - User stories can then proceed in parallel (if staffed)
-  - Or sequentially in priority order (P1 → P2 → P3)
-- **Polish (Final Phase)**: Depends on all desired user stories being complete
-
-### User Story Dependencies
-
-- **User Story 1 (P1)**: Can start after Foundational (Phase 2) - No dependencies on other stories
-- **User Story 2 (P2)**: Can start after Foundational (Phase 2) - May integrate with US1 but should be independently testable
-- **User Story 3 (P3)**: Can start after Foundational (Phase 2) - May integrate with US1/US2 but should be independently testable
-
-### Within Each User Story
-
-- Tests (if included) MUST be written and FAIL before implementation
-- Models before services
-- Services before endpoints
-- Core implementation before integration
-- Story complete before moving to next priority
-
-### Parallel Opportunities
-
-- All Setup tasks marked [P] can run in parallel
-- All Foundational tasks marked [P] can run in parallel (within Phase 2)
-- Once Foundational phase completes, all user stories can start in parallel (if team capacity allows)
-- All tests for a user story marked [P] can run in parallel
-- Models within a story marked [P] can run in parallel
-- Different user stories can be worked on in parallel by different team members
-
----
-
-## Parallel Example: User Story 1
-
-```bash
-# Launch all tests for User Story 1 together (if tests requested):
-Task: "Contract test for [endpoint] in tests/contract/test_[name].py"
-Task: "Integration test for [user journey] in tests/integration/test_[name].py"
-
-# Launch all models for User Story 1 together:
-Task: "Create [Entity1] model in src/models/[entity1].py"
-Task: "Create [Entity2] model in src/models/[entity2].py"
-```
-
----
-
-## Implementation Strategy
-
-### MVP First (User Story 1 Only)
-
-1. Complete Phase 1: Setup
-2. Complete Phase 2: Foundational (CRITICAL - blocks all stories)
-3. Complete Phase 3: User Story 1
-4. **STOP and VALIDATE**: Test User Story 1 independently
-5. Deploy/demo if ready
-
-### Incremental Delivery
-
-1. Complete Setup + Foundational → Foundation ready
-2. Add User Story 1 → Test independently → Deploy/Demo (MVP!)
-3. Add User Story 2 → Test independently → Deploy/Demo
-4. Add User Story 3 → Test independently → Deploy/Demo
-5. Each story adds value without breaking previous stories
-
-### Parallel Team Strategy
-
-With multiple developers:
-
-1. Team completes Setup + Foundational together
-2. Once Foundational is done:
-   - Developer A: User Story 1
-   - Developer B: User Story 2
-   - Developer C: User Story 3
-3. Stories complete and integrate independently
-
----
-
-## Notes
-
-- [P] tasks = different files, no dependencies
-- [Story] label maps task to specific user story for traceability
-- Each user story should be independently completable and testable
-- Verify tests fail before implementing
-- Commit after each task or logical group
-- Stop at any checkpoint to validate story independently
-- Avoid: vague tasks, same file conflicts, cross-story dependencies that break independence
+- [ ] **T020** **[P]** Run full test suite validation (`./gradlew clean test` or `pytest`) to ensure no regressions.
+- [ ] **T021** Run SonarQube quality checks to verify 0 Blocker and 0 Critical issues.
+- [ ] **T022** Verify zero circular package dependencies.
+- [ ] **T023** **[P]** Fulfill setup documentation files and update project `README.md`.
+- [ ] **T024** Run the quickstart verification guide scenarios to prove end-to-end functionality.
+- [ ] **T-DOC-001** **[S]** **[P]** Update API documentation (OpenAPI spec).
+- [ ] **T-DOC-002** **[S]** **[P]** Create or update Architecture Decision Records.
+- [ ] **T-FLAG-001** **[S]** Configure feature flag for progressive rollout.
+- [ ] **T-FLAG-002** **[S]** Document feature flag cleanup timeline.
+- [ ] **T-ROLL-001** **[M]** Verify rollback procedure works correctly.
+- [ ] **T-E2E-001** **[M]** Run end-to-end acceptance tests (separate from unit tests).

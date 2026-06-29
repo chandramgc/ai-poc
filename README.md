@@ -107,7 +107,8 @@ cd automation/graphify
 ```
 .
 ├── src/                    # Source code
-├── docs/                   # Documentation
+├── docs/
+│   └── decisions/          # Architecture Decision Records (ADRs)
 ├── tests/                  # Test suites
 ├── automation/
 │   ├── sdd/               # Spec Kit helpers
@@ -115,7 +116,6 @@ cd automation/graphify
 │   └── graphify/          # Graphify automation
 ├── .specify/              # Spec Kit config
 ├── .graphifyignore        # Graphify ignore rules
-├── .agents/               # AI agent configs
 └── AGENTS.md              # Agent instructions
 ```
 
@@ -125,11 +125,17 @@ cd automation/graphify
 
 1. **Write Specifications** - Use `/speckit.specify` to define what you want to build
    - Specs are auto-organized: `specs/YYYY/MonthName/`
-2. **Create Plan** - Use `/speckit.plan` for technical implementation
-3. **Generate Tasks** - Use `/speckit.tasks` for actionable steps
-4. **Query Graph** - Use `graphify query` to understand your codebase
-5. **Implement** - Use `/speckit.implement` with ponytail lazy principles
-6. **Review** - Use `/ponytail-review` for code quality feedback
+2. **Clarify Gaps** - Use `/speckit.clarify` to identify missing details or ambiguities
+3. **Review Spec** - Human review gate to ensure alignment
+4. **Create Plan** - Use `/speckit.plan` for technical implementation design
+5. **Review Plan** - Human review gate for architectural approval
+6. **Quality Checklist** - Use `/speckit.checklist` to generate verification items
+7. **Generate Tasks** - Use `/speckit.tasks` for actionable implementation steps
+8. **Review Tasks** - Human review gate before beginning implementation
+9. **Analyze Consistency** - Use `/speckit.analyze` to verify artifact consistency
+10. **Implement** - Use `/speckit.implement` with ponytail lazy principles
+11. **Query Graph** - Use `graphify query` to understand your codebase
+12. **Review** - Use `/ponytail-review` for code quality feedback
 
 ### Spec Organization
 
@@ -170,6 +176,8 @@ This structure enables:
 - **Python**: 3.10+ (3.12+ recommended)
 - **Package Manager**: `uv` (recommended) or `pip`
 - **Git**: For version control and hooks
+- **SonarQube**: Self-hosted for quality gate validation
+- **OpenTelemetry**: For observability instrumentation
 
 ### Install uv (recommended)
 ```bash
@@ -191,9 +199,11 @@ This project structure is provided as-is. Individual tools maintain their own li
 
 When contributing to this project:
 1. Follow Spec-Driven Development principles
-2. Run Ponytail review: `/ponytail-review`
-3. Update knowledge graph: `./automation/graphify/run-graphify.sh update`
-4. Keep README and specs synchronized
+2. Follow Conventional Commits format (`feat|fix|refactor|chore|docs|test(scope): description`)
+3. Document architectural decisions as ADRs in `docs/decisions/`
+4. Run Ponytail review: `/ponytail-review`
+5. Update knowledge graph: `./automation/graphify/run-graphify.sh update`
+6. Keep README and specs synchronized
 
 ---
 
@@ -206,5 +216,5 @@ For issues with specific tools:
 
 ---
 
-**Generated**: [TIMESTAMP]
-**Script Version**: 1.0
+**Generated**: 2026-06-29 07:22:00
+**Script Version**: 2.0

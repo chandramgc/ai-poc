@@ -1,113 +1,170 @@
 # Implementation Plan: [FEATURE]
 
-**Branch**: `[###-feature-name]` | **Date**: [DATE] | **Spec**: [link]
+**Jira ID**: `[JIRA_KEY]` | **Branch**: `[JIRA_KEY]-[feature-name]` | **Date**: [DATE] | **Spec**: [link to spec.md]
 
-**Input**: Feature specification from `/specs/[###-feature-name]/spec.md`
+---
 
-**Note**: This template is filled in by the `/speckit.plan` command. See `.specify/templates/plan-template.md` for the execution workflow.
+## 1. Summary & Architectural Approach
 
-## Summary
+### Summary
+[Extract primary requirement and functional boundaries from feature spec]
 
-[Extract from feature spec: primary requirement + technical approach from research]
+### Architectural & Design Decisions
+[Describe the chosen design, patterns, and trade-offs made. E.g., why custom wrappers or specific database structures were chosen]
 
-## Technical Context
+| Decision Point | Chosen Approach | Rationale | Alternatives Considered & Rejected |
+|:---|:---|:---|:---|
+| **Storage / DB** | [e.g. JPA Entity mapping] | [why it fits] | [e.g. JDBC templates - rejected for development speed] |
+| **Logic Layer** | [e.g. Service Interface + Impl] | [why it fits] | [direct controller calls - rejected for layering violation] |
 
-<!--
-  ACTION REQUIRED: Replace the content in this section with the technical details
-  for the project. The structure here is presented in advisory capacity to guide
-  the iteration process.
--->
+---
 
-**Language/Version**: [e.g., Python 3.11, Swift 5.9, Rust 1.75 or NEEDS CLARIFICATION]
+## 2. Technical Context
 
-**Primary Dependencies**: [e.g., FastAPI, UIKit, LLVM or NEEDS CLARIFICATION]
+- **Language & Runtime:** [e.g., Java 17 / OpenJDK]
+- **Primary Dependencies:** [e.g., Spring Boot Starter Web, JPA, Lombok]
+- **Storage/DB Engine:** [e.g., PostgreSQL / H2 in-memory for tests]
+- **Testing Slices:** [e.g., JUnit 5, Mockito, MockMvc]
+- **Performance Targets:** [e.g., API response &le; 200ms p95]
+- **Resource Constraints:** [e.g., zero package-level circular dependencies]
 
-**Storage**: [if applicable, e.g., PostgreSQL, CoreData, files or N/A]
+---
 
-**Testing**: [e.g., pytest, XCTest, cargo test or NEEDS CLARIFICATION]
+## 3. Constitution Gate Compliance
 
-**Target Platform**: [e.g., Linux server, iOS 15+, WASM or NEEDS CLARIFICATION]
+*GATE: Must pass before Phase 0 research. Re-verify post-design.*
 
-**Project Type**: [e.g., library/cli/web-service/mobile-app/compiler/desktop-app or NEEDS CLARIFICATION]
+| Governance Gate | Status | Justification / Notes |
+|:---|:---|:---|
+| **Spec-Driven Validation** | [PASS / FAIL] | [Spec exists and is approved] |
+| **Jira Requirement** | [PASS / FAIL] | [Jira ID linked in folder prefix] |
+| **Chronological Directory** | [PASS / FAIL] | [Created under specs/YYYY/Month/] |
+| **Simplicity Guard (Ponytail)** | [PASS / FAIL] | [Followed laziness ladder] |
+| **Java/Python Quality Rules** | [PASS / FAIL] | [Compliance with respective skill sets verified] |
+| **Security-First** | [PASS / FAIL] | [OWASP compliance verified] |
+| **Observability Standards** | [PASS / FAIL] | [OTel instrumentation planned] |
+| **API-First Design** | [PASS / FAIL] | [OpenAPI spec created] |
+| **Accessibility Compliance** | [PASS / FAIL] | [WCAG AA requirements identified] |
+| **Data Privacy** | [PASS / FAIL] | [PII impact assessed] |
+| **AI Code Guardrails** | [PASS / FAIL] | [AI-generated code review planned] |
+| **Git Workflow** | [PASS / FAIL] | [Conventional Commits configured] |
+| **IaC Governance** | [PASS / FAIL] | [Infrastructure changes via code] |
+| **Dependency Management** | [PASS / FAIL] | [CVE scan passed] |
 
-**Performance Goals**: [domain-specific, e.g., 1000 req/s, 10k lines/sec, 60 fps or NEEDS CLARIFICATION]
+---
 
-**Constraints**: [domain-specific, e.g., <200ms p95, <100MB memory, offline-capable or NEEDS CLARIFICATION]
+## 4. Project Directory Tree
 
-**Scale/Scope**: [domain-specific, e.g., 10k users, 1M LOC, 50 screens or NEEDS CLARIFICATION]
-
-## Constitution Check
-
-*GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
-
-[Gates determined based on constitution file]
-
-## Project Structure
-
-### Documentation (this feature)
-
+### Documentation Artifacts (this feature)
 ```text
-specs/YYYY/Month/[###-feature]/
-├── plan.md              # This file (/speckit.plan command output)
-├── research.md          # Phase 0 output (/speckit.plan command)
-├── data-model.md        # Phase 1 output (/speckit.plan command)
-├── quickstart.md        # Phase 1 output (/speckit.plan command)
-├── contracts/           # Phase 1 output (/speckit.plan command)
-└── tasks.md             # Phase 2 output (/speckit.tasks command - NOT created by /speckit.plan)
+specs/YYYY/Month/[JIRA_KEY]-[feature-name]/
+├── plan.md              # This file (tech design and layout)
+├── research.md          # Phase 0: research, options, and findings
+├── data-model.md        # Phase 1: database entities and schemas
+├── quickstart.md        # Phase 1: verification and runs guide
+├── contracts/           # Phase 1: REST API definitions / endpoints
+└── tasks.md             # Phase 2: executable implementation checklists
 ```
 
-### Source Code (repository root)
-<!--
-  ACTION REQUIRED: Replace the placeholder tree below with the concrete layout
-  for this feature. Delete unused options and expand the chosen structure with
-  real paths (e.g., apps/admin, packages/something). The delivered plan must
-  not include Option labels.
--->
-
+### Source Code Structures (repository paths)
 ```text
-# [REMOVE IF UNUSED] Option 1: Single project (DEFAULT)
 src/
-├── models/
-├── services/
-├── cli/
-└── lib/
-
+├── models/             # Entity schemas / DTOs
+├── services/           # Service Interfaces + Implementations
+├── controllers/        # REST APIs / controllers
+└── exceptions/         # Exception Advice handlers
 tests/
-├── contract/
-├── integration/
-└── unit/
-
-# [REMOVE IF UNUSED] Option 2: Web application (when "frontend" + "backend" detected)
-backend/
-├── src/
-│   ├── models/
-│   ├── services/
-│   └── api/
-└── tests/
-
-frontend/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   └── services/
-└── tests/
-
-# [REMOVE IF UNUSED] Option 3: Mobile + API (when "iOS/Android" detected)
-api/
-└── [same as backend above]
-
-ios/ or android/
-└── [platform-specific structure: feature modules, UI flows, platform tests]
+├── unit/               # Unit tests (Mockito-based)
+├── integration/        # Full context tests (@SpringBootTest)
+└── contract/           # API slice validation tests (@WebMvcTest)
 ```
 
-**Structure Decision**: [Document the selected structure and reference the real
-directories captured above]
+---
 
-## Complexity Tracking
+## 5. Complexity Justification Tracker
 
-> **Fill ONLY if Constitution Check has violations that must be justified**
+> **Fill ONLY if Constitution Gate check has violations that must be justified (e.g. bypassing a rule)**
 
-| Violation | Why Needed | Simpler Alternative Rejected Because |
-|-----------|------------|-------------------------------------|
-| [e.g., 4th project] | [current need] | [why 3 projects insufficient] |
-| [e.g., Repository pattern] | [specific problem] | [why direct DB access insufficient] |
+| Rule Violation | Reason for Exception | Simpler Alternative Evaluated & Rejected | Approval Status |
+|:---|:---|:---|:---|
+| [Rule ID, e.g. S112] | [why needed] | [why standard exceptions are insufficient] | [Pending Review] |
+
+---
+
+## 6. Architecture Decision Records
+
+| ADR ID | Title | Status | Link |
+|:---|:---|:---|:---|
+| **ADR-001** | [e.g., "Use PostgreSQL over MongoDB for transactional data"] | [Accepted / Proposed / Superseded] | [link to ADR document] |
+| **ADR-002** | [e.g., "Adopt event-driven architecture for order processing"] | [Accepted / Proposed / Superseded] | [link to ADR document] |
+| **ADR-003** | [e.g., "Select OpenTelemetry for observability instrumentation"] | [Accepted / Proposed / Superseded] | [link to ADR document] |
+
+---
+
+## 7. Observability Plan
+
+- **Traces to Emit:**
+  - [Operation name] → [Span description, e.g., "HTTP request → service method → DB query"]
+  - [Operation name] → [Span description]
+- **Metrics to Collect:**
+  - Counters: [e.g., `requests.total`, `errors.total`, `orders.created`]
+  - Histograms: [e.g., `request.duration.ms`, `db.query.duration.ms`]
+- **Dashboards Required:**
+  - [e.g., "Service Health Dashboard: request rate, error rate, latency percentiles"]
+  - [e.g., "Business Metrics Dashboard: orders per minute, revenue throughput"]
+- **Alerting Rules:**
+  - [e.g., "Error rate > 1% for 5 minutes → PagerDuty P2"]
+  - [e.g., "p95 latency > 500ms for 10 minutes → Slack #engineering"]
+
+---
+
+## 8. Security Review
+
+- **OWASP Top 10 Applicable Items:**
+  - [e.g., A01:2021 – Broken Access Control: [describe applicability]]
+  - [e.g., A03:2021 – Injection: [describe applicability]]
+  - [e.g., A07:2021 – Identification and Authentication Failures: [describe applicability]]
+- **Attack Surface Assessment:**
+  - [e.g., "New REST endpoints exposed: POST /api/orders, GET /api/orders/{id}"]
+  - [e.g., "File upload endpoint accepts user-provided content"]
+- **Authentication/Authorization Changes:**
+  - [e.g., "New RBAC role: ORDER_MANAGER with permissions to approve/reject orders"]
+- **Input Validation Requirements:**
+  - [e.g., "All request DTOs validated via Jakarta Bean Validation annotations"]
+  - [e.g., "File uploads limited to 5MB, allowed types: PDF, PNG, JPEG"]
+
+---
+
+## 9. Rollback & Migration Plan
+
+- **Database Migration Strategy:**
+  - [e.g., "Expand-contract pattern: add nullable column → backfill → enforce NOT NULL"]
+  - [e.g., "Migration scripts managed via Flyway, versioned as V202X.XX.XX"]
+- **Rollback Procedure:**
+  - [e.g., "Revert to previous deployment via CI/CD rollback; disable feature flag"]
+  - [e.g., "Database: run corresponding undo migration script"]
+- **Feature Flag Configuration:**
+  - [e.g., "Flag: `enable-new-checkout` — boolean — default OFF"]
+  - [e.g., "Rollout: internal → 10% beta → 50% → 100%"]
+- **Zero-Downtime Deployment Approach:**
+  - [e.g., "Blue-green deployment with health check validation before traffic switch"]
+
+---
+
+## 10. Dependency Impact Analysis
+
+| Dependency | Version | License | Known CVEs | Justification |
+|:---|:---|:---|:---|:---|
+| [e.g., spring-boot-starter-web] | [e.g., 3.2.1] | [e.g., Apache 2.0] | [e.g., None] | [e.g., Core web framework] |
+| [e.g., jackson-databind] | [e.g., 2.16.0] | [e.g., Apache 2.0] | [e.g., CVE-XXXX-XXXX (mitigated)] | [e.g., JSON serialization] |
+| [e.g., opentelemetry-sdk] | [e.g., 1.32.0] | [e.g., Apache 2.0] | [e.g., None] | [e.g., Observability instrumentation] |
+
+---
+
+## 11. API Contract Reference (if applicable)
+
+- **OpenAPI Spec Location:** [e.g., `docs/api/openapi.yaml` or URL to hosted spec]
+- **Breaking Changes from Previous Version:**
+  - [e.g., "Removed `GET /api/v1/orders` — replaced by `GET /api/v2/orders` with pagination"]
+  - [e.g., "Changed `status` field from string to enum in response body"]
+- **Contract Test Location:** [e.g., `tests/contract/` or link to Pact broker]
